@@ -1,0 +1,15 @@
+{
+  "name": "morning-digest",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Evidence-Based Sports Medicine Morning Digest",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Morning Digest — Evidence-Based Sports Medicine</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #F5F2EB;
+      --gold: #D4A017;
+      --gold-light: #FDF6E3;
+      --text: #1A1A1A;
+      --card: #FFFFFF;
+      --header-bg: #1A1A1A;
+      --muted: #6B6B6B;
+      --border: #E0DAD0;
+      --blue: #2563EB;
+      --green: #16A34A;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Noto Sans JP', Georgia, serif;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    .top-bar {
+      background: var(--header-bg);
+      color: #FFFFFF;
+      padding: 8px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: Georgia, serif;
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .top-bar .service-name { font-weight: 400; opacity: 0.85; }
+    .top-bar .clock { opacity: 0.7; }
+
+    /* ── Title Area ── */
+    .title-area {
+      background: var(--bg);
+      padding: 32px 24px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+    .title-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .title-left h1 {
+      font-family: Georgia, serif;
+      font-size: clamp(28px, 5vw, 48px);
+      font-weight: 400;
+      letter-spacing: 0.06em;
+      color: var(--text);
+      line-height: 1.1;
+    }
+    .title-left .subtitle {
+      font-family: Georgia, serif;
+      font-size: 12px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-top: 4px;
+    }
+    .title-left .issue-date {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 8px;
+      letter-spacing: 0.05em;
+    }
+    .archive-btn {
+      display: inline-block;
+      padding: 10px 20px;
+      border: 1.5px solid var(--gold);
+      color: var(--gold);
+      font-size: 11px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      font-family: Georgia, serif;
+      text-decoration: none;
+      cursor: pointer;
+      background: transparent;
+      transition: background 0.2s, color 0.2s;
+      white-space: nowrap;
+    }
+    .archive-btn:hover { background: var(--gold); color: #FFF; }
+
+    /* ── Tab Nav ── */
+    .tab-nav {
+      background: var(--bg);
+      border-bottom: 2px solid var(--border);
+      padding: 0 24px;
+      overflow-x: auto;
+      white-space: nowrap;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+    .tab-nav::-webkit-scrollbar { display: none; }
+    .tab-nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: inline-flex;
+      gap: 0;
+    }
+    .tab-btn {
+      display: inline-block;
+      padding: 14px 22px;
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      font-family: Georgia, serif;
+      cursor: pointer;
+      border: none;
+      background: transparent;
+      color: var(--muted);
+      border-bottom: 2px solid transparent;
+      margin-bottom: -2px;
+      transition: color 0.2s, border-color 0.2s;
+      white-space: nowrap;
+      min-height: 44px;
+    }
+    .tab-btn:hover { color: var(--text); }
+    .tab-btn.active { color: var(--text); border-bottom-color: var(--gold); font-weight: 500; }
+
+    /* ── Content Area ── */
+    .content-area {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 24px 60px;
+    }
+
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
+    /* ── Section Header ── */
+    .section-header { margin-bottom: 28px; }
+    .section-header h2 {
+      font-family: Georgia, serif;
+      font-size: 24px;
+      font-weight: 400;
+      letter-spacing: 0.04em;
+      color: var(--text);
+    }
+    .section-header .section-sub {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+    .section-divider {
+      height: 1px;
+      background: linear-gradient(90deg, var(--gold), transparent);
+      margin-top: 12px;
+    }
+
+    /* ── Research Cards ── */
+    .research-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    .research-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      padding: 24px;
+      transition: box-shadow 0.2s;
+    }
+    .research-card:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
+
+    .card-category {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+    .cat-dot {
+      width: 8px; height: 8px;
+      background: var(--gold);
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .cat-label {
+      font-family: Georgia, serif;
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .card-title {
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 1.45;
+      margin-bottom: 14px;
+      color: var(--text);
+    }
+
+    .card-source-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .source-label {
+      font-family: Georgia, serif;
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .source-name { color: var(--text); font-weight: 500; }
+    .read-link {
+      font-family: Georgia, serif;
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gold);
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .read-link:hover { text-decoration: underline; }
+
+    .abstract-section { margin-bottom: 16px; }
+    .abstract-label {
+      font-family: Georgia, serif;
+      font-size: 9px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+    .abstract-text { font-size: 13px; line-height: 1.7; color: var(--text); }
+
+    .insight-block {
+      border-left: 4px solid var(--gold);
+      background: var(--gold-light);
+      padding: 12px 14px;
+    }
+    .insight-label {
+      font-family: Georgia, serif;
+      font-size: 9px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 6px;
+    }
+    .insight-text { font-size: 13px; line-height: 1.65; color: var(--text); }
+
+    /* ── News List ── */
+    .news-list { display: flex; flex-direction: column; gap: 14px; }
+    .news-item {
+      background: var(--card);
+      border: 1px solid var(--border);
+      padding: 18px 22px;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 16px;
+      align-items: start;
+      transition: box-shadow 0.2s;
+    }
+    .news-item:hover { box-shadow: 0 3px 16px rgba(0,0,0,0.07); }
+
+    .news-num {
+      font-family: Georgia, serif;
+      font-size: 20px;
+      font-weight: 400;
+      color: var(--gold);
+      min-width: 32px;
+      line-height: 1.2;
+      padding-top: 2px;
+    }
+    .news-body {}
+    .news-meta {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 8px;
+      flex-wrap: wrap;
+    }
+    .tag {
+      display: inline-block;
+      padding: 2px 8px;
+      font-family: Georgia, serif;
+      font-size: 9px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      border: 1px solid var(--border);
+      color: var(--muted);
+    }
+    .tag.region {
+      border-color: var(--blue);
+      color: var(--blue);
+    }
+    .news-source-link {
+      font-family: Georgia, serif;
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gold);
+      text-decoration: none;
+      margin-left: auto;
+    }
+    .news-source-link:hover { text-decoration: underline; }
+    .news-source-name {
+      font-family: Georgia, serif;
+      font-size: 10px;
+      color: var(--muted);
+    }
+    .news-date {
+      font-family: Georgia, serif;
+      font-size: 10px;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+    .news-title {
+      font-size: 15px;
+      font-weight: 700;
+      line-height: 1.45;
+      margin-bottom: 8px;
+    }
+    .news-summary { font-size: 13px; line-height: 1.7; color: #444; }
+
+    /* ── Top 20 ── */
+    .top20-list { display: flex; flex-direction: column; gap: 12px; }
+    .top20-item {
+      background: var(--card);
+      border: 1px solid var(--border);
+      padding: 18px 22px;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 16px;
+      align-items: start;
+      transition: box-shadow 0.2s;
+    }
+    .top20-item:hover { box-shadow: 0 3px 16px rgba(0,0,0,0.07); }
+    .rank-badge {
+      font-family: Georgia, serif;
+      font-size: 22px;
+      color: var(--gold);
+      min-width: 36px;
+      text-align: center;
+      padding-top: 2px;
+    }
+    .top20-body {}
+    .top20-badges {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 8px;
+    }
+    .origin-badge {
+      display: inline-block;
+      padding: 2px 10px;
+      font-family: Georgia, serif;
+      font-size: 9px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+    .origin-badge.research { background: var(--gold); color: #FFF; }
+    .origin-badge.japan { background: var(--blue); color: #FFF; }
+    .origin-badge.global { background: var(--green); color: #FFF; }
+    .cat-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      font-family: Georgia, serif;
+      font-size: 9px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      border: 1px solid var(--border);
+      color: var(--muted);
+    }
+    .top20-title {
+      font-size: 15px;
+      font-weight: 700;
+      line-height: 1.45;
+      margin-bottom: 8px;
+    }
+    .top20-summary { font-size: 13px; line-height: 1.7; color: #444; }
+    .top20-footer {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 10px;
+    }
+    .source-link {
+      font-family: Georgia, serif;
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gold);
+      text-decoration: none;
+    }
+    .source-link:hover { text-decoration: underline; }
+
+    /* ── Loading / Error ── */
+    .loading {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--muted);
+      font-family: Georgia, serif;
+      font-size: 14px;
+      letter-spacing: 0.1em;
+    }
+    .error-msg {
+      background: #FFF3F3;
+      border: 1px solid #FFAAAA;
+      padding: 16px 20px;
+      border-radius: 2px;
+      color: #AA0000;
+      font-size: 13px;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 1023px) {
+      .research-grid { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 767px) {
+      .top-bar .clock { display: none; }
+      .title-area { padding: 20px 16px 16px; }
+      .content-area { padding: 20px 16px 48px; }
+      .tab-nav { padding: 0 16px; }
+      .research-grid { grid-template-columns: 1fr; }
+      .title-left h1 { font-size: 28px; }
+      .news-item, .top20-item { padding: 14px 16px; }
+      .section-header h2 { font-size: 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Top Bar -->
+<div class="top-bar">
+  <span class="service-name">Scientific &amp; Clinical Update Service</span>
+  <span class="clock" id="clock"></span>
+</div>
+
+<!-- Title Area -->
+<div class="title-area">
+  <div class="title-inner">
+    <div class="title-left">
+      <div class="subtitle">Evidence-Based Sports Medicine</div>
+      <h1>Morning Digest</h1>
+      <div class="issue-date" id="issue-date">Loading…</div>
+    </div>
+    <button class="archive-btn" onclick="alert('Archive feature coming soon.')">Update Archive →</button>
+  </div>
+</div>
+
+<!-- Tab Nav -->
+<nav class="tab-nav">
+  <div class="tab-nav-inner">
+    <button class="tab-btn active" data-tab="research">Latest Research</button>
+    <button class="tab-btn" data-tab="japan">Japan News</button>
+    <button class="tab-btn" data-tab="global">Global News</button>
+    <button class="tab-btn" data-tab="weekly">Weekly TOP20</button>
+    <button class="tab-btn" data-tab="monthly">Monthly TOP20</button>
+  </div>
+</nav>
+
+<!-- Content -->
+<main class="content-area">
+  <div class="loading" id="loading">Loading digest…</div>
+
+  <!-- Research -->
+  <div class="tab-panel active" id="tab-research">
+    <div class="section-header">
+      <h2>Research Updates</h2>
+      <p class="section-sub">アスレティックトレーニング・運動科学・スポーツ医学の最新エビデンス</p>
+      <div class="section-divider"></div>
+    </div>
+    <div class="research-grid" id="research-grid">
+      <div class="loading">Loading…</div>
+    </div>
+  </div>
+
+  <!-- Japan News -->
+  <div class="tab-panel" id="tab-japan">
+    <div class="section-header">
+      <h2>Domestic Briefing</h2>
+      <p class="section-sub">日本国内の重要時事トピック</p>
+      <div class="section-divider"></div>
+    </div>
+    <div class="news-list" id="japan-list">
+      <div class="loading">Loading…</div>
+    </div>
+  </div>
+
+  <!-- Global News -->
+  <div class="tab-panel" id="tab-global">
+    <div class="section-header">
+      <h2>Global Briefing</h2>
+      <p class="section-sub">世界の重要時事トピック</p>
+      <div class="section-divider"></div>
+    </div>
+    <div class="news-list" id="global-list">
+      <div class="loading">Loading…</div>
+    </div>
+  </div>
+
+  <!-- Weekly TOP20 -->
+  <div class="tab-panel" id="tab-weekly">
+    <div class="section-header">
+      <h2>Weekly Highlights</h2>
+      <p class="section-sub">今週のインパクト上位20件</p>
+      <div class="section-divider"></div>
+    </div>
+    <div class="top20-list" id="weekly-list">
+      <div class="loading">Loading…</div>
+    </div>
+  </div>
+
+  <!-- Monthly TOP20 -->
+  <div class="tab-panel" id="tab-monthly">
+    <div class="section-header">
+      <h2>Monthly Highlights</h2>
+      <p class="section-sub">今月のインパクト上位20件</p>
+      <div class="section-divider"></div>
+    </div>
+    <div class="top20-list" id="monthly-list">
+      <div class="loading">Loading…</div>
+    </div>
+  </div>
+</main>
+
+<script src="./data/digest.js"></script>
+<script>
+  // ── Format date ──
+  function formatDate(str) {
+    if (!str) return '';
+    const d = new Date(str);
+    if (isNaN(d)) return '';
+    return d.toLocaleString('ja-JP', {
+      timeZone: 'Asia/Tokyo',
+      year: 'numeric', month: '2-digit', day: '2-digit',
+      hour: '2-digit', minute: '2-digit',
+    });
+  }
+
+  // ── Clock ──
+  function updateClock() {
+    const now = new Date();
+    const jst = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+    const h = String(jst.getHours()).padStart(2, '0');
+    const m = String(jst.getMinutes()).padStart(2, '0');
+    const s = String(jst.getSeconds()).padStart(2, '0');
+    document.getElementById('clock').textContent = `${h}:${m}:${s} JST`;
+  }
+  updateClock();
+  setInterval(updateClock, 1000);
+
+  // ── Tab switching ──
+  const tabs = document.querySelectorAll('.tab-btn');
+  const panels = document.querySelectorAll('.tab-panel');
+  tabs.forEach(btn => {
+    btn.addEventListener('click', () => {
+      tabs.forEach(b => b.classList.remove('active'));
+      panels.forEach(p => p.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+    });
+  });
+
+  // ── Escape HTML ──
+  function esc(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  // ── Render: Research ──
+  function renderResearch(items) {
+    const grid = document.getElementById('research-grid');
+    if (!items || items.length === 0) {
+      grid.innerHTML = '<div class="loading">No research data available.</div>';
+      return;
+    }
+    grid.innerHTML = items.map(item => `
+      <div class="research-card">
+        <div class="card-category">
+          <span class="cat-dot"></span>
+          <span class="cat-label">${esc(item.category)}</span>
+        </div>
+        <div class="card-title">${esc(item.title)}</div>
+        <div class="card-source-row">
+          <span class="source-label">SOURCE: <span class="source-name">${esc(item.source)}</span></span>
+          <a class="read-link" href="${esc(item.url)}" target="_blank" rel="noopener">Read Full Paper →</a>
+        </div>
+        <div class="abstract-section">
+          <div class="abstract-label">Abstract Analysis</div>
+          <div class="abstract-text">${esc(item.abstract)}</div>
+        </div>
+        <div class="insight-block">
+          <div class="insight-label">Insight for Practice</div>
+          <div class="insight-text">${esc(item.insight)}</div>
+        </div>
+      </div>
+    `).join('');
+  }
+
+  // ── Render: News ──
+  function renderNews(id, items, showRegion) {
+    const list = document.getElementById(id + '-list');
+    if (!items || items.length === 0) {
+      list.innerHTML = '<div class="loading">No news data available.</div>';
+      return;
+    }
+    list.innerHTML = items.map((item, i) => {
+      const num = String(i + 1).padStart(2, '0');
+      const regionTag = showRegion && item.region
+        ? `<span class="tag region">${esc(item.region)}</span>`
+        : '';
+      return `
+        <div class="news-item">
+          <div class="news-num">${num}</div>
+          <div class="news-body">
+            <div class="news-meta">
+              <span class="tag">${esc(item.category)}</span>
+              ${regionTag}
+              <span class="news-source-name">${esc(item.source)}</span>
+              ${item.published_at ? `<span class="news-date">${formatDate(item.published_at)}</span>` : ''}
+              <a class="news-source-link" href="${esc(item.url)}" target="_blank" rel="noopener">View Source →</a>
+            </div>
+            <div class="news-title">${esc(item.title)}</div>
+            <div class="news-summary">${esc(item.summary)}</div>
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  // ── Render: TOP20 ──
+  function renderTop20(id, items) {
+    const list = document.getElementById(id + '-list');
+    if (!items || items.length === 0) {
+      list.innerHTML = '<div class="loading">No data available.</div>';
+      return;
+    }
+    const badgeClass = {
+      'latest_research': 'research',
+      'japan_news': 'japan',
+      'global_news': 'global'
+    };
+    const badgeLabel = {
+      'latest_research': 'Research',
+      'japan_news': 'Japan',
+      'global_news': 'Global'
+    };
+    list.innerHTML = items.map(item => {
+      const cls = badgeClass[item.origin_tab] || 'research';
+      const lbl = badgeLabel[item.origin_tab] || item.origin_tab;
+      return `
+        <div class="top20-item">
+          <div class="rank-badge">${String(item.rank).padStart(2, '0')}</div>
+          <div class="top20-body">
+            <div class="top20-badges">
+              <span class="origin-badge ${cls}">${esc(lbl)}</span>
+              <span class="cat-badge">${esc(item.category)}</span>
+            </div>
+            <div class="top20-title">${esc(item.title)}</div>
+            <div class="top20-summary">${esc(item.summary)}</div>
+            <div class="top20-footer">
+              <a class="source-link" href="${esc(item.url)}" target="_blank" rel="noopener">Source →</a>
+            </div>
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  // ── Load digest data ──
+  function applyDigest(data) {
+    const loadingEl = document.getElementById('loading');
+    loadingEl.style.display = 'none';
+
+    const dateEl = document.getElementById('issue-date');
+    dateEl.textContent = `Issue Date: ${data.issue_date}  |  Generated: ${
+      data.generated_at
+        ? new Date(data.generated_at).toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' })
+        : '—'
+    }`;
+
+    renderResearch(data.latest_research);
+    renderNews('japan', data.japan_news, false);
+    renderNews('global', data.global_news, true);
+    renderTop20('weekly', data.weekly_top20);
+    renderTop20('monthly', data.monthly_top20);
+  }
+
+  function loadDigest() {
+    const loadingEl = document.getElementById('loading');
+
+    // data/digest.js sets window.DIGEST_DATA via <script src>
+    if (window.DIGEST_DATA) {
+      applyDigest(window.DIGEST_DATA);
+      return;
+    }
+
+    // Fallback: fetch JSON (works on GitHub Pages / HTTP servers)
+    fetch('./data/digest.json')
+      .then(res => { if (!res.ok) throw new Error(`HTTP ${res.status}`); return res.json(); })
+      .then(data => applyDigest(data))
+      .catch(err => {
+        loadingEl.innerHTML = `<div class="error-msg">Failed to load digest: ${esc(err.message)}</div>`;
+      });
+  }
+
+  loadDigest();
+</script>
+</body>
+</html>
