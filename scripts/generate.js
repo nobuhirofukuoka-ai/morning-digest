@@ -7,7 +7,6 @@
 import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { GoogleGenerativeAI } from '@google/generative-ai';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT      = join(__dirname, '..');
@@ -111,10 +110,22 @@ const JAPAN_CATEGORIES  = ['政治','経済','社会','国際','テクノロジ�
 const GLOBAL_CATEGORIES = ['Politics','Economy','Technology','Health','Climate','Conflict','Science','Culture','Sports','Energy'];
 const GLOBAL_REGIONS    = ['US','Europe','Asia','Middle East','Africa','Latin America','Global'];
 
-async function generateWithGemini(rawFeeds) {
-  const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-  const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash-latest' });
+async function callGemini(modelName, prompt) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${process.env.GEMINI_API_KEY}`;
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] }),
+  });
+  const data = await res.json();
+  if (!res.ok) {
+    const msg = data?.error?.message || JSON.stringify(data);
+    throw new Error(`[${res.status}] ${msg}`);
+  }
+  return data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+}
 
+async function generateWithGemini(rawFeeds) {
   const today = new Date().toLocaleDateString('ja-JP', {
     timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit',
   });
@@ -195,11 +206,31 @@ JSONのみで返答（コードブロック・マークダウン不要）：
   }
 `;
 
-  console.log('Calling Gemini API…');
-  const result = await model.generateContent(prompt);
-  const text   = result.response.text().trim()
-    .replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '').trim();
+  const models = [
+    'gemini-2.5-flash',
+    'gemini-2.5-flash-lite',
+    'gemini-2.0-flash-lite',
+    'gemini-2.0-flash',
+    'gemini-flash-latest',
+  ];
 
+  let text = '';
+  let lastErr;
+  for (const m of models) {
+    try {
+      console.log(`Calling Gemini API with ${m}…`);
+      text = await callGemini(m, prompt);
+      console.log(`✓ ${m} succeeded`);
+      break;
+    } catch (e) {
+      console.warn(`  ⚠ ${m}: ${e.message}`);
+      lastErr = e;
+    }
+  }
+  if (!text) throw lastErr || new Error('All Gemini models failed');
+
+  text = text.trim()
+    .replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '').trim();
   return JSON.parse(text);
 }
 
