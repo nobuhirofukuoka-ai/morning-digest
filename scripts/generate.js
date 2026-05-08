@@ -113,7 +113,7 @@ const GLOBAL_REGIONS    = ['US','Europe','Asia','Middle East','Africa','Latin Am
 
 async function generateWithGemini(rawFeeds) {
   const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-  const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
+  const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
 
   const today = new Date().toLocaleDateString('ja-JP', {
     timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit',
