@@ -1,55 +1,55 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/05/11",
-  "generated_at": "2026-05-10T21:38:13.327Z",
+  "issue_date": "2026/05/12",
+  "generated_at": "2026-05-11T21:57:17.575Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性におけるACL（前十字靭帯）損傷の予防法",
+      "title": "女性におけるACL損傷の予防方法",
       "source": "Mass General Brigham",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RwSXhDT3Z2NTZEWVh3MVFuU3pkOVYxZ1pqQ21fbV94Y01uYTRrUFhjLWhVeUY2MERxdFVRT2U3QjE2YUwxbjBSblZGNHc1bG9FWWJyUmxJV3B2dG9KM2s5WUp4VTVVVFUzWlZuNHRTTExxa1hJRlp5LU9IaS04bC1iTE9qNWVpM0V1d2doZVJ4NzZ0ME5Nb1BaR0V4NmNtQmJ6OGo1OVE4NGg3UzhqeTA3TEI?oc=5",
-      "abstract": "女性アスリートは特定の要因によりACL損傷のリスクが高いとされています。本記事では、適切なウォーミングアップ、筋力トレーニング、コーディネーショントレーニング、そして着地動作の改善に焦点を当てた予防プログラムの重要性を強調しています。これにより、損傷リスクを効果的に低減できる可能性が示唆されました。",
-      "insight": "女性アスリート指導者は、特に下肢のバイオメカニクスと筋力バランスに注目した専門的な予防プログラムを導入し、適切な着地技術や方向転換動作を習得させるべきです。",
+      "abstract": "本記事は、女性アスリートが前十字靭帯（ACL）損傷のリスクが高い理由を分析し、予防のための具体的な戦略を提示しています。特に、適切なトレーニング、バイオメカニクスの改善、筋力バランスの向上に焦点を当てています。",
+      "insight": "女性アスリートのACL予防プログラム導入時には、身体的特性を考慮した個別の指導と、ジャンプ着地などの動作修正トレーニングを重視すべきです。",
       "published_at": "2026-04-17T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "火曜トピックス：ランニングバイオメカニクスの基礎",
+      "title": "火曜日のトピック：ランニングのバイオメカニクスの基礎",
       "source": "MileSplit United States",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5",
-      "abstract": "本記事は、効率的で怪我のないランニングのためのバイオメカニクスの基本原則を解説しています。接地時間、歩幅、ピッチ、そして体幹の安定性などがランニングフォームに与える影響について触れ、基本的な力学的要素の理解がパフォーマンス向上と怪我予防に繋がることを示唆しています。",
-      "insight": "ランナーは自身のランニングフォームをビデオ分析などで客観的に評価し、接地時の衝撃吸収や推進力向上のための体幹強化、適切なピッチ（歩数）維持などを意識したトレーニングを取り入れるべきです。",
+      "abstract": "ランニング時の身体動作におけるバイオメカニクスの基本原理を解説し、効率的なランニングフォームと怪我の予防の関連性について説明しています。足の着地、体幹の安定性、腕の振りなどの要素がパフォーマンスに与える影響が議論されています。",
+      "insight": "ランナーのパフォーマンス向上と怪我予防のためには、個々のランニングフォームを分析し、バイオメカニクスに基づいた動作指導や筋力トレーニングを取り入れることが効果的です。",
       "published_at": "2026-03-24T07:00:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、シェア、2034年までの予測",
+      "title": "人工腱・靭帯市場規模、シェア、予測、2034年",
       "source": "Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5",
-      "abstract": "この市場調査レポートは、スポーツ医学分野における人工腱・靭帯市場の成長予測について分析しています。スポーツ外傷の増加、高齢化社会における需要、技術革新が市場拡大の主要因であり、2034年までに大きな成長が見込まれると報告されています。",
-      "insight": "スポーツ医療従事者やリハビリテーション専門家は、将来的に人工腱・靭帯を用いた治療法が普及する可能性を念頭に置き、患者への説明や術後リハビリテーションのプロトコル開発に備える必要があります。",
+      "abstract": "本レポートは、人工腱および靭帯市場の現在の規模、成長トレンド、そして2034年までの予測を分析しています。スポーツ医学分野における革新的な治療法の需要増加が市場拡大を牽引していると述べています。",
+      "insight": "将来的に人工腱・靭帯を用いた治療が増加する可能性があり、スポーツ傷害のリハビリテーションや早期復帰戦略において、これらの最新医療技術の動向を注視する必要があるでしょう。",
       "published_at": "2026-04-06T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "プロから高校生アスリートまで、怪我からの回復は肉体面と同様に精神面も重要",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN2FfaU1kWmY3ZVptdGpvSm1GNUM0SG5TR2g0Y2JoM0R0RWhiZEhrY3JpY05GUFFpLUFuVndreUtheHEySFBXQXZaZnRqdDhqUTVnc3VmTUhsQnQ1MmtzeU9CdjJka3NmQUNyQXhxOWNrTUpXNWQ2ZW9pMDVKNThNNTUzaUxWMWNDaGowQU1HdUc3YVhiOUZoZlpNR3BCWENQZ2V1NXFiMA?oc=5",
-      "abstract": "アスリートの怪我からの回復過程において、身体的なリハビリテーションだけでなく、心理的な側面も極めて重要であることが強調されています。特に、モチベーションの維持、不安や恐怖の克服、競技復帰への自信の構築が成功的なリハビリテーションに不可欠であると分析されています。",
-      "insight": "リハビリテーションプログラムには、身体機能の回復に加え、心理カウンセリングやメンタルトレーニングを積極的に組み込み、アスリートが精神的なサポートを受けながら競技復帰できるよう支援すべきです。",
-      "published_at": "2026-03-21T07:00:00.000Z"
+      "title": "Valley Health Systemがアスリートの競技復帰を支援する「Return to Sportプログラム」を開始",
+      "source": "Rehabilitation",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0lvcTNSU0pZMFdfRjZsVURoQ3l4d0tZT21mSUFMWURrNDhKczAzTWQ3cHloMTFuRXFBX0RvYlNVYURTYWwycFhKSmZXR2plRDV2MFJ5c0lUWUE3d0NVVHRhM2pzaDQ0RHUtSWtQUkN1Yk1KWEloOGY5VFBQZWktSjFvc2NDV0dveURZaEdOc0EyaVdPNGRBZ1RFaEtvMEcydlh6Tm5VMmJQYVZBd0hUWGNJVXIxZ1MzbExnRHZLM3VlT2VnWWFHOGtVNWJvQQ?oc=5",
+      "abstract": "Valley Health Systemがアスリートの安全かつ効果的な競技復帰を目的とした新しいプログラムを立ち上げました。このプログラムは、怪我からの回復だけでなく、精神的な側面もサポートし、再負傷のリスクを最小限に抑えることを目指しています。",
+      "insight": "競技復帰プログラムを設計する際は、身体機能の回復だけでなく、心理的準備状態も評価し、専門家チームによる多角的なサポート体制を構築することが重要です。",
+      "published_at": "2026-05-11T14:18:31.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
+      "title": "アスリートの疼痛管理における西洋医学鍼治療の技術：系統的レビューとメタアナリシス",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
-      "abstract": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理において西洋医学的鍼治療技術が有効であるかを評価しました。複数の研究を分析した結果、筋骨格系疼痛の緩和において、従来の治療法と併用することで効果が期待できることが示唆されました。",
-      "insight": "スポーツドクターや理学療法士は、疼痛管理の選択肢として西洋医学的鍼治療を検討し、アスリートの個別症状に応じて専門家と連携しながら治療計画に含めることで、痛みの早期軽減と競技復帰を支援できます。",
+      "abstract": "本研究は、アスリートの疼痛管理に西洋医学鍼治療が有効であるかを評価するため、過去の研究を系統的にレビューし、メタアナリシスを行いました。結果として、特定の筋骨格系疼痛に対して鍼治療が痛みの軽減に寄与する可能性が示唆されました。",
+      "insight": "スポーツ現場での疼痛管理において、西洋医学鍼治療を補完的な治療オプションとして検討する価値があります。特に、慢性的な筋骨格系疼痛を抱えるアスリートへの適用が期待されます。",
       "published_at": "2026-02-03T18:00:13.000Z"
     },
     {
@@ -57,129 +57,129 @@ window.DIGEST_DATA = {
       "category": "Nutrition / Supplements / Recovery",
       "title": "トランス男性アスリートのパフォーマンス向上サプリメントと戦略",
       "source": "Portal CNJ",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGUwcTg0blQ2MzljSzJRYjN1RHk3NWdoTHVObXR3RGVlVjdDb1NFbk9ORGdZN0ZVSlJ0S0FuT19NYjotNElEbF94M1RHSGtkQnNQM3pQR2pCSDJvenpSUjRlTlRucDRORTVUMHlPbW9zLVdVdXFRSEdjQUdpT0FwelpLVUNBQU1SSkRfeV9nY0N2QklDQ2lYbUxuakQ2VjlOOUI4TlhsMHJfVFc4R2JUcmRSam90RDgzeklKTm50WWpNYlc1Wm9ib1lURUE0TExIZWlWX3Y4dWUyb1dBWS1MMlM2MFhYNUdjSU11YXo5S0d3ekRMcmRrYkNyWm0xM1dsblJSREVBUGlVTm1O?oc=5",
-      "abstract": "この研究は、トランス男性アスリートがパフォーマンスを向上させるために利用するサプリメントや戦略に焦点を当てています。ホルモン療法の影響や、それに応じた栄養補助食品の選択、トレーニング計画の調整など、特定のニーズに対応するためのアプローチが議論されています。",
-      "insight": "栄養士やコーチは、トランス男性アスリートの生理学的特性と法的規制を理解し、個別のニーズに基づいた安全で効果的な栄養戦略とトレーニングプランを提供することで、公正かつ健康的なパフォーマンス向上をサポートすべきです。",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGUwcTg0blQ2MzljSzJRYjN1RHk3NWdoTHVObXR3RGVlVjdDb1NFbk9ORGdZN0ZVSlJ0S0FuT19NYmotNElEbF94M1RHSGtkQnNQM3pQR2pCSDJvenpSUjRlTlRucDRORTVUMHlPbW9zLVdVdXFRSEdjQUdpT0FwelpLVUNBQU1SSkRfeV9nY0N2QklDQ2lYbUxuakQ2VjlOOUI4TlhsMHJfVFc4R2JUcmRSam90RDgzeklKTm50WWpNYlc1Wm9ib1lURUE0TExIZWlWX3Y4dWUyb1dBWS1MMlM2MFhYNUdjSU11YXo5S0d3ekRMcmRrYkNyWm0xM1dsblJSREVBUGlVTm1O?oc=5",
+      "abstract": "本記事は、トランス男性アスリートがパフォーマンスを向上させるために使用するサプリメントや戦略について考察しています。ホルモン療法の影響や、それに応じた栄養摂取・トレーニングの調整の重要性が論じられています。",
+      "insight": "トランスジェンダーアスリートに対するサポートでは、個々の生理学的特性や医療介入を深く理解し、それに基づいたオーダーメイドの栄養・サプリメント戦略を提供することが必須です。",
       "published_at": "2026-05-09T21:02:22.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子供に運動をさせる方法",
+      "title": "子どもたちに運動をさせる方法",
       "source": "Cleveland Clinic Health Essentials",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYkdPR0ZNV2NVZ1B4QV9PX0tpQmpsMDNwNFlFTWpCaTJqbWg1SnlKX053WnFPbjd6U2NibmJzbDRmU3F5V1BVNkphcjNrTnlpaXZzSmlKbFUxNFBrQ3d0b0V3?oc=5",
-      "abstract": "子供たちの健康的な成長と発達には運動が不可欠であり、本記事では子供たちが楽しく運動習慣を身につけるための具体的な方法を提案しています。遊びを通じた身体活動の奨励、親の模範、安全な環境作りなどが、子供の運動習慣形成に重要であると述べられています。",
-      "insight": "保護者や教育者は、子供が自ら楽しめるような多様な運動機会を提供し、運動を遊びの一環として捉えさせることで、幼少期からの活動的なライフスタイルを促進し、将来の健康的な基盤を築く手助けをすべきです。",
+      "abstract": "本記事は、子どもたちが積極的に運動に取り組むための効果的な方法について解説しています。運動を楽しい活動として提示し、家族や友人との関わりを通じて身体活動を促進することの重要性を強調しています。",
+      "insight": "子どもの運動習慣を形成するには、強制ではなく、遊びの要素を取り入れた楽しい環境を提供し、保護者も積極的に参加することで、長期的な身体活動の定着を促すことができます。",
       "published_at": "2026-01-08T08:00:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "論説：アスリートのリカバリーを最適化する：リカバリー戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "title": "論説：アスリートの回復を最適化する：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
       "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5",
-      "abstract": "本論説は、アスリートのパフォーマンス向上と怪我予防において、リカバリー戦略と十分な睡眠が果たす役割の重要性を強調しています。特に、質の高い睡眠は身体的・精神的回復を促進し、最適な競技能力の発揮に不可欠であることが複数の研究から示されています。",
-      "insight": "アスリートはトレーニングと同等に睡眠とリカバリーを重視し、個別化された睡眠スケジュールやリラクゼーション技術を導入すべきです。コーチやチームスタッフは、アスリートが質の高い睡眠を確保できるよう環境整備や教育を行うことが求められます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVwdkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5",
+      "abstract": "スポーツパフォーマンスを最大化するための回復戦略と睡眠の重要性に関する論説です。十分な睡眠と適切な回復方法は、身体的疲労の軽減だけでなく、精神的な準備にも不可欠であると指摘しています。",
+      "insight": "アスリートのトレーニング計画には、質の高い睡眠と個別化された回復戦略を組み込むべきです。これは、疲労回復だけでなく、集中力や意思決定能力といった精神的パフォーマンスの向上にも直結します。",
       "published_at": "2026-04-08T10:40:51.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "社会",
+      "category": "政治",
       "source": "読売新聞",
-      "title": "磐越道バス事故、現場に「手当」と書かれた３万３０００円入り封筒・運転者の名字記載…北越高校はレンタカー手配依頼を改めて否定",
-      "summary": "磐越道のバス事故現場で、「手当」と書かれ運転者の名字が記載された現金3万3000円入りの封筒が見つかりました。バスを運行した北越高校は、この封筒についてレンタカー手配依頼との関連を改めて否定しており、事故の背景に関する新たな情報として注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UjhJOE1jNmVPMEI4V3JnaTA0anR6Rkg5SUR3VjVtSTYxTHpENmFRYVhXTW43Tl9ZNktWRDJ5dGdsMElXcWpZN2xEWnUtZnBoS3RNejFKX2RhdFgtUGxhc0tmUE1Idw?oc=5",
-      "published_at": "2026-05-10T13:43:00.000Z"
+      "title": "トランプ氏、習氏と台湾への武器売却を議論意向…自身が大統領なら台湾有事ないと主張",
+      "summary": "トランプ前米大統領が、もし大統領に再選されれば習近平国家主席と台湾への武器売却について議論する意向を表明しました。同時に、自身が大統領であれば台湾有事は発生しないとの考えを示しています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sZ3o1RTl6QmZ4WWtWRTUtNU1IT21uSWRzZlVRTmlkSmF6ZlFLSEs2cnBkVjNLSkVQVHB0ZzhEWDRmWE9pX0xYREoxMlJnQzF0aUhrcV9kcjJLb2UxNWNFUW13?oc=5",
+      "published_at": "2026-05-11T19:11:00.000Z"
     },
     {
       "id": "j002",
-      "category": "国際",
-      "source": "日本経済新聞",
-      "title": "イラン、米国への回答をパキスタンに送付 国営通信報道",
-      "summary": "イラン国営通信は、イランが米国への回答をパキスタン経由で送付したと報じました。これは両国間の緊張緩和に向けた外交努力の一環と見られ、今後の国際情勢に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVU3lxTFBibm5OcDdsVHdRNTI1VlVDQWtzeG8wZFBBazV6N0NTakhxT1BkSGxvVmJNME5udGhsLVAzc21od013LWd1UlFKOFBSYmNXVkhxQU5haHNzdHF6Ry1heFZ2T21zNlRrYXRNN0NKaw?oc=5",
-      "published_at": "2026-05-10T20:20:23.000Z"
+      "category": "社会",
+      "source": "Yahoo!ニュース",
+      "title": "【磐越道バス事故】運行会社「蒲原鉄道」前社長が告白「北越高校はウソを言っています」（文春オンライン）",
+      "summary": "磐越道でのバス事故を巡り、運行会社「蒲原鉄道」の前社長が、事故の原因に関する北越高校側の説明に対し、「ウソを言っている」と告白しました。事故の詳細や責任の所在について、新たな情報が浮上しています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQ2RxTXFfOFdTdnRjUjc5WmtfS09MSllMSW4zNElxbFNFcUlFRWVoQ2NDc2hpeURZRzlQYndjZFV2SVVPSHFrTHpfUlZCazRyejhIWkFtQ3l4NFhLcEpwdWlRcWRrcEFRcGYxT0xvYjNQUzdJMmV6NDZRV0tiVVU?oc=5",
+      "published_at": "2026-05-11T09:42:16.000Z"
     },
     {
       "id": "j003",
-      "category": "環境・気候",
-      "source": "tenki.jp",
-      "title": "明日11日も汗ばむ陽気の所多いが、関東甲信はにわか雨に注意　沖縄は大雨のおそれ(気象予報士 堂本　幸代 2026年05月10日)",
-      "summary": "明日11日も全国的に汗ばむ陽気となる地域が多い見込みです。特に、関東甲信地方ではにわか雨に注意が必要であり、沖縄地方では大雨のおそれがあると気象予報士の堂本幸代氏が発表しました。最新の気象情報に留意し、外出時には傘などの準備が推奨されます。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVU3lxTE9ObFpRMzBLVWdRTTdSVmhjdUlMbGV0UDY2dEdXQldBSUJuU2RPN29hQ2VoVmdjYy1yelZDVWNTQURGcWNJaFhnN2doNjJ3M0pFS0FteHpOTnN3dDBDS0xvSzRCYlFXNUJSX21YOFJpeWvSAXZBVV95cUxPZGY1ak9xVk1HZ25mQ0tSTWVGR01CX1k0dDZEY19RWjlYN1VURER4NW1tZENQaHFrLU95T3RtNXM0LU9vLTdlaEMzTjdXYW92RWtNYVFHeEhnc3BkVktuNWVlWmlGWTNBNHFKT3l3SUQ1UTg2QkRR?oc=5",
-      "published_at": "2026-05-10T09:24:29.000Z"
+      "category": "国際",
+      "source": "Reuters",
+      "title": "イランの戦争終結案は「正当かつ寛大」、外務省報道官が主張",
+      "summary": "イランの外務省報道官は、同国が提示した戦争終結案について「正当かつ寛大」であると主張しました。これは中東地域の緊張緩和に向けたイランの外交的姿勢を示すものと見られます。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmo1a0JlVjVFdllFVUFMRV8yTFBuSUVtcHZvM1QxNDVlR0JQbUE0eGYyNUdjS0tLME1QZ25jb0pmcXdqVHNCZ1hRSEhPb1ZuWkJ6VlVCYmdTam9TOFFONGRmTDdVNDVDZmlBVmtlbHA1UkkyU0xVTHVfNUFkcTE0c2JXVG9DRUVO?oc=5",
+      "published_at": "2026-05-11T09:44:48.000Z"
     },
     {
       "id": "j004",
-      "category": "社会",
-      "source": "産経ニュース",
-      "title": "足が不自由な妻を介護、81歳男が76歳妻を殺害容疑逮捕 福島、2人暮らし自ら110番",
-      "summary": "福島県で、足が不自由な76歳の妻を介護していた81歳の夫が、妻を殺害した容疑で逮捕されました。夫は自ら110番通報しており、高齢者夫婦の介護を巡る悲劇として、社会的な課題が浮き彫りになっています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFUW3lxTFBraUFSMFBGRVVhNXJKV3A3WUNHMjZkSWhUYkRhMlBHSENWZEl3b0VXVDF1Q2xQdnpjVTc1QlVPNDc2YlVPZC1ZMWlnYWh6a2w1QWRIN2ZUZzFZY2J5MWtKSUIwSGp0aFVGelQyYWZCVE1YX3VoZVE?oc=5",
-      "published_at": "2026-05-10T11:28:31.000Z"
+      "category": "医療・健康",
+      "source": "BBC",
+      "title": "ハンタウイルス集団感染の船から帰国のフランス人とアメリカ人に症状",
+      "summary": "ハンタウイルスが集団感染した船から帰国したフランス人とアメリカ人の中に、新たな症状を訴える者が確認されました。感染拡大の可能性について、各国の保健当局が警戒を強めています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuX1VuSjhackhmNnRRU0Q4czhCcjYwLTF6VW5HMnV2RVN3Ny1LZDIySDl2Rmg5aDAyQjBqQVY2eHBNcDlMakhITVlZZjlMQ1FSRzlZQ0hrc3pRRWpzSkk40gFkQVVfeXFMTzJaY2hvWjFzWlBSR056R3NERUh4dEJQUVMtVzhEMmRELUhzV0FyV1E0SGdROXp1RzdMajNWOElxa19NSk5GOFVQQldMRFd3TlQyY3RMMmdzeUE2Z3lldGt4TTFsSw?oc=5",
+      "published_at": "2026-05-11T08:50:51.000Z"
     },
     {
       "id": "j005",
-      "category": "政治",
-      "source": "産経ニュース",
-      "title": "英「反移民」新興右派政党、2議席→1453議席で最多議席確定 イングランド地方議会選",
-      "summary": "イングランド地方議会選において、英国の「反移民」を掲げる新興右派政党が、これまでの2議席から1453議席へと大きく躍進し、最多議席を獲得したことが確定しました。これは英国政治における新たな潮流を示唆しており、今後の国政に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMidkFUW3lxTE9WNF9ocnNwSkladWFSanZPRWpRSk1kdDRDMHdDNVpNUnIwcmNwY194VDNha25ILU9PTkQtSmxrNTMxajIydWFjTnF2dDlEOW1PVEhkcmc4dDcydmpaM2tFZ3pMWVlCU0ZSRXdMVUpwSjl0a2tkS1E?oc=5",
-      "published_at": "2026-05-10T13:03:49.000Z"
+      "category": "教育",
+      "source": "読売新聞",
+      "title": "林真理子理事長「軽い気持ちで引き受けたが、まったく甘かった」「人事の失敗を認めたことで学部長らの表情が変わった」",
+      "summary": "林真理子理事長が、理事長職を引き受けた当初の「軽い気持ち」が「まったく甘かった」と反省の弁を述べました。人事の失敗を認めたことで、学部長らの反応に変化が見られたとのことです。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrS1UxWVJWZU5Pb21fWEJLWnQ5MzZxZGZoSG5Mdmp6VnFQUExnRFpvdDM2dnlVVGlyTWhtalMweEZQWURwQksxUi1FUjNXT3kwTGlsTXNaMjM3Wjk4a3MxaFliaXAxX19fWExGUTFPQTFRQ00?oc=5",
+      "published_at": "2026-05-11T20:00:00.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
-      "category": "Politics",
+      "category": "Conflict",
       "region": "Middle East",
-      "source": "CNN",
-      "title": "ライブ速報：トランプ氏、米国の和平提案に対するイランの回答を「全く受け入れられない」と発言",
-      "summary": "ドナルド・トランプ氏が、米国の和平提案に対するイランの回答を「全く受け入れられない」と述べたとCNNが報じました。この発言は、中東地域の緊張を高める可能性があり、両国間の外交関係にさらなる複雑さをもたらすと見られています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVU3lxTFB3WTROMDc2RXVfTHRKZ2dSS0hxd091Ujk1TkppaERnZ3U3d3ZNMWZFRXR6aHFibGwydjdXY3FxWnpXOVJEdGozZFBUTkkta1VHYlpLZ0EtWHFYZkozeFg0R2s4bVNCd3dKbGxpeg?oc=5",
-      "published_at": "2026-05-10T20:33:00.000Z"
+      "source": "The New York Times",
+      "title": "イラン戦争ライブ更新：トランプ氏、「停戦は危篤状態」と発言",
+      "summary": "イラン紛争の最新情報として、トランプ前米大統領が現在の停戦交渉を「生命維持装置状態にある」と表現し、その危うさを指摘しました。中東情勢の緊迫が続いています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWHNfdjVuNEI0dW5XU0ZtbjIy0EFwTjFlYzhVTjU1amdvT1dnbDNvQkZicWMyTi1YdkNibmtZZlBwVk5KV1ZHdXV1N3RZRTA2NlExdUZMc0ZRWUxCbjlfTXQtbXJNamo4azh0Y1lHZC1zaG0wNVE?oc=5",
+      "published_at": "2026-05-11T21:34:39.000Z"
     },
     {
       "id": "g002",
-      "category": "Politics",
+      "category": "Economy",
       "region": "US",
-      "source": "The New York Times",
-      "title": "バージニア州の選挙区再編地図が却下され、民主党は必死の対応策を模索",
-      "summary": "バージニア州の選挙区再編地図が却下されたことを受け、民主党は新たな対応策を必死に模索しています。この決定は、同州の政治バランスに大きな影響を与える可能性があり、今後の選挙戦略に深刻な課題を突きつけるものと見られています。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMWJzdTFyQ1B2dmhOSHRLSW5UQkcyVTBQTXJCcXYtUm1LZWNhUG1ZTDA2QnJ0UTBuaS1zTG94eWlDekY1bHJjTUhCU3huSGJ3aWNVUVFhUmFaWXFmb25YMFZyRlBOUVVEMDRUYXVnS1BlWVc5Zk85ZU9LbmFGRUhCQnFZeTlmUl9yeWlfY3UyUlFLYlNrT3c?oc=5",
-      "published_at": "2026-05-10T15:58:05.000Z"
+      "source": "NBC News",
+      "title": "連邦ガソリン税はトランプ氏の廃止リストに。データが示す、廃止した場合の節約額。",
+      "summary": "連邦ガソリン税がトランプ氏の廃止対象リストに含まれており、もし廃止されれば消費者がどれだけの金額を節約できるかを示すデータが公表されました。これは経済政策論争の一部となるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnY2aUxkQmpDS0JISEFnUmFxWGJMUWZ0NXQ1YjlCWXc1TnRQUEFHZF92U1JMR3Q1R0ZfT2FWSG5CWGFVYWZBZUl2aXh1MjU1cHByVnlINk9mWUxGSkk1UHdscDFKM3hTM0J2LVgxcXB0bTZIV3hFZFo1eG9ZUzhfZUhMTUxNV2dkcXhtSURmak04T0FERUQxbDVWLTYtN2JxZ1hieg?oc=5",
+      "published_at": "2026-05-11T18:25:06.000Z"
     },
     {
       "id": "g003",
       "category": "Politics",
-      "region": "Europe",
-      "source": "NPR",
-      "title": "キア・スターマー党首の政党が英国地方選挙で大敗。次に何が起こるか",
-      "summary": "英国の地方選挙でキア・スターマー党首率いる政党が大敗しました。この結果は、今後の英国政治の方向性に大きな影響を与える可能性があり、党内でのリーダーシップや政策の見直しが議論されることになると予想されています。",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkdWVVdKWGpXd2Q3Zmk0Qk1IQTlOS0pDRmlramJ0cmNzaHMyR2dmdTB0VHR0YUhhZVJKNEZRNnZIaUlOY0V4NEpfdkM2UzZISVg0dlI4dVp2UTcteWxzVUJWQ2VYU3EwRkFmSE5Sekc2OUtITFlzVWJ3dE5SWWxDeFJrUzQyNUdKMktLNXAyYmFVTEdx?oc=5",
-      "published_at": "2026-05-10T12:27:36.000Z"
+      "region": "US",
+      "source": "AP News",
+      "title": "最高裁が広く使用されている中絶薬への女性のアクセスを一時的に拡大",
+      "summary": "米国最高裁判所は、広く使用されている中絶薬への女性のアクセスを一時的に拡大する判断を下しました。この決定は、リプロダクティブヘルスに関する国家的な議論に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbklvSDVVUlZlUDJxejNpbEtvSGpRQldISHFjZXQ2Tm9DdjBxNEV2X05oeGdLSlBTQ1VjU0F6bGs3LWdRUmgwaFVKZENxdC1jWmRVSko5M0xOMWpBMUFwUk1HbUxQVWJtdGJVcVZqUjZBU0FMdm9Hd3VZVGdpYllfcXpIVDI5R0RYclJMd0RqNkhGdjRhVkhSS2RleExCTXRNZ1RLNjFFa2JqZDBxZ3dSXw?oc=5",
+      "published_at": "2026-05-11T19:51:00.000Z"
     },
     {
       "id": "g004",
       "category": "Politics",
-      "region": "US",
-      "source": "The New York Times",
-      "title": "民主党の不安がカリフォルニア州の予備選挙規則変更につながる可能性",
-      "summary": "民主党内で高まる不安が、カリフォルニア州の予備選挙規則の変更につながる可能性があります。州内の政治力学や選挙結果への影響が懸念されており、党勢回復に向けた動きとして注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbW5ya0lnQWdYS1l2QnNadWNRMG1TMzJwTFcwXzNwSGt0MjBuQjZRR2NjMXJFOU1qMG5FNnpiRkJVbU1TdEZIdThqUHFBNW1vek1rZ05EdHdyOFFDZk91b09nUFFTX2hDSEtIM2FvcVEyS1hudVZuU2VIbFJKaS1XRE1aQW1DMlRaRlVUbg?oc=5",
-      "published_at": "2026-05-10T19:09:51.000Z"
+      "region": "Europe",
+      "source": "CNBC",
+      "title": "英国首相スターマー氏、金利上昇の中、リーダーシップ挑戦で政治的存続を巡る戦い",
+      "summary": "英国のスターマー首相は、金利上昇の経済的背景の中でリーダーシップへの挑戦に直面しており、政治的存続をかけた厳しい戦いを繰り広げています。与党内の動向が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYi1xRjVMZDI1WHYxWGVfS28tcS1KZklKZlpkQkotX3ZCSnJZZmk2MUVVZDVLalZGaHlFZ2NMdGtZR3VsWWNfYXlFOHNZVXpKT2NiYzRVRlh1R0VhWHlSdUlYNDhNX29ud1ExX2xoU0lubkREUm5NVWZjdnNUYjZONjltZ09qb25QU19YR1dIcXVzRjZnZko5bG5SZ250VmNwTVHSAacBQVVfeXFMUFBkWTdqSERIRWw1WDN6RF9VTnZXQkVORkx6WXN4SnRjSmZtdWJDVTlJY202LWFjb0J1cmVkWU9xcmstamx3VmYtSnNjX3VwdHZuclVtQlVhZzQyOW1RbDZiMXY2dGpqVllTeW9Ua1JEbEh4ekg5Z0pPSDh0RFpYcWlaS2laeWllNUxyOEZsYmpuYnl3b2RFS0tkNmNsSHFvWmdXR05mNVU?oc=5",
+      "published_at": "2026-05-11T08:42:04.000Z"
     },
     {
       "id": "g005",
-      "category": "Culture",
-      "region": "Global",
-      "source": "Yahoo News Canada",
-      "title": "観光客が絶滅危惧のアザラシを襲撃、「私は金持ちだ」と叫び逮捕される",
-      "summary": "ビーチで絶滅危惧種のアザラシを襲撃していた観光客が、周囲の人々が止めるのを無視して「私は金持ちだ」と叫び、その後拘束されました。この事件は野生動物保護に対する意識の欠如と、観光客のマナー問題として報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMic0FUW3lxTFBSWVJmbkNjVHJYZDljNzRpUy1mZ2RlWUprd3pESzFlcE1XOTdFeFpmbzVSVVg5cFN4UVZlYTU4amxOSU0zR2Vubi13TjRaSmF0RVM2c1h1TmIzVGRMR0otaWRfbkExaG1sLU9IdzFkckFHa1k?oc=5",
-      "published_at": "2026-05-10T15:34:18.000Z"
+      "category": "Politics",
+      "region": "US",
+      "source": "CNN",
+      "title": "バージニア州の民主党が新下院選挙区地図の使用許可を米最高裁に要請",
+      "summary": "バージニア州の民主党は、新しい下院選挙区地図の使用許可を米最高裁判所に要請しました。これは州内の政治的バランスに影響を与える可能性のある重要な法的争点です。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0dwbkpwX29aRmxIa3R6d0hSNG1GTDFodnNlRUlQWndhVVZpTlplQVVfLWxOV05PVmQ0dUF3cHNqRE9BQmlSamJEZjZFa3QzS0JSajBaRW9HcUs5b1F2WVhRdU4ydWFkOTk5ODEyX01QdG5EYkRqVjJ5MlFTc2tGeW5ZYURQQQ?oc=5",
+      "published_at": "2026-05-11T20:13:13.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,40 +187,40 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性におけるACL（前十字靭帯）損傷の予防法",
-      "summary": "女性アスリートは特定の要因によりACL損傷のリスクが高いとされています。本記事では、適切なウォーミングアップ、筋力トレーニング、コーディネーショントレーニング、そして着地動作の改善に焦点を当てた予防プログラムの重要性を強調しています。これにより、損傷リスクを効果的に低減できる可能性が示唆されました。",
+      "title": "女性におけるACL損傷の予防方法",
+      "summary": "本記事は、女性アスリートが前十字靭帯（ACL）損傷のリスクが高い理由を分析し、予防のための具体的な戦略を提示しています。特に、適切なトレーニング、バイオメカニクスの改善、筋力バランスの向上に焦点を当てています。",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RwSXhDT3Z2NTZEWVh3MVFuU3pkOVYxZ1pqQ21fbV94Y01uYTRrUFhjLWhVeUY2MERxdFVRT2U3QjE2YUwxbjBSblZGNHc1bG9FWWJyUmxJV3B2dG9KM2s5WUp4VTVVVFUzWlZuNHRTTExxa1hJRlp5LU9IaS04bC1iTE9qNWVpM0V1d2doZVJ4NzZ0ME5Nb1BaR0V4NmNtQmJ6OGo1OVE4NGg3UzhqeTA3TEI?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "火曜トピックス：ランニングバイオメカニクスの基礎",
-      "summary": "本記事は、効率的で怪我のないランニングのためのバイオメカニクスの基本原則を解説しています。接地時間、歩幅、ピッチ、そして体幹の安定性などがランニングフォームに与える影響について触れ、基本的な力学的要素の理解がパフォーマンス向上と怪我予防に繋がることを示唆しています。",
+      "title": "火曜日のトピック：ランニングのバイオメカニクスの基礎",
+      "summary": "ランニング時の身体動作におけるバイオメカニクスの基本原理を解説し、効率的なランニングフォームと怪我の予防の関連性について説明しています。足の着地、体幹の安定性、腕の振りなどの要素がパフォーマンスに与える影響が議論されています。",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、シェア、2034年までの予測",
-      "summary": "この市場調査レポートは、スポーツ医学分野における人工腱・靭帯市場の成長予測について分析しています。スポーツ外傷の増加、高齢化社会における需要、技術革新が市場拡大の主要因であり、2034年までに大きな成長が見込まれると報告されています。",
+      "title": "人工腱・靭帯市場規模、シェア、予測、2034年",
+      "summary": "本レポートは、人工腱および靭帯市場の現在の規模、成長トレンド、そして2034年までの予測を分析しています。スポーツ医学分野における革新的な治療法の需要増加が市場拡大を牽引していると述べています。",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "プロから高校生アスリートまで、怪我からの回復は肉体面と同様に精神面も重要",
-      "summary": "アスリートの怪我からの回復過程において、身体的なリハビリテーションだけでなく、心理的な側面も極めて重要であることが強調されています。特に、モチベーションの維持、不安や恐怖の克服、競技復帰への自信の構築が成功的なリハビリテーションに不可欠であると分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN2FfaU1kWmY3ZVptdGpvSm1GNUM0SG5TR2g0Y2JoM0R0RWhiZEhrY3JpY05GUFFpLUFuVndreUtheHEySFBXQXZaZnRqdDhqUTVnc3VmTUhsQnQ1MmtzeU9CdjJka3NmQUNyQXhxOWNrTUpXNWQ2ZW9pMDVKNThNNTUzaUxWMWNDaGowQU1HdUc3YVhiOUZoZlpNR3BCWENQZ2V1NXFiMA?oc=5"
+      "title": "Valley Health Systemがアスリートの競技復帰を支援する「Return to Sportプログラム」を開始",
+      "summary": "Valley Health Systemがアスリートの安全かつ効果的な競技復帰を目的とした新しいプログラムを立ち上げました。このプログラムは、怪我からの回復だけでなく、精神的な側面もサポートし、再負傷のリスクを最小限に抑えることを目指しています。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0lvcTNSU0pZMFdfRjZsVURoQ3l4d0tZT21mSUFMWURrNDhKczAzTWQ3cHloMTFuRXFBX0RvYlNVYURTYWwycFhKSmZXR2plRDV2MFJ5c0lUWUE3d0NVVHRhM2pzaDQ0RHUtSWtQUkN1Yk1KWEloOGY5VFBQZWktSjFvc2NDV0dveURZaEdOc0EyaVdPNGRBZ1RFaEtvMEcydlh6Tm5VMmJQYVZBd0hUWGNJVXIxZ1MzbExnRHZLM3VlT2VnWWFHOGtVNWJvQQ?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理において西洋医学的鍼治療技術が有効であるかを評価しました。複数の研究を分析した結果、筋骨格系疼痛の緩和において、従来の治療法と併用することで効果が期待できることが示唆されました。",
+      "title": "アスリートの疼痛管理における西洋医学鍼治療の技術：系統的レビューとメタアナリシス",
+      "summary": "本研究は、アスリートの疼痛管理に西洋医学鍼治療が有効であるかを評価するため、過去の研究を系統的にレビューし、メタアナリシスを行いました。結果として、特定の筋骨格系疼痛に対して鍼治療が痛みの軽減に寄与する可能性が示唆されました。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
@@ -228,119 +228,119 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
       "title": "トランス男性アスリートのパフォーマンス向上サプリメントと戦略",
-      "summary": "この研究は、トランス男性アスリートがパフォーマンスを向上させるために利用するサプリメントや戦略に焦点を当てています。ホルモン療法の影響や、それに応じた栄養補助食品の選択、トレーニング計画の調整など、特定のニーズに対応するためのアプローチが議論されています。",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGUwcTg0blQ2MzljSzJRYjN1RHk3NWdoTHVObXR3RGVlVjdDb1NFbk9ORGdZN0ZVSlJ0S0FuT19NYjotNElEbF94M1RHSGtkQnNQM3pQR2pCSDJvenpSUjRlTlRucDRORTVUMHlPbW9zLVdVdXFRSEdjQUdpT0FwelpLVUNBQU1SSkRfeV9nY0N2QklDQ2lYbUxuakQ2VjlOOUI4TlhsMHJfVFc4R2JUcmRSam90RDgzeklKTm50WWpNYlc1Wm9ib1lURUE0TExIZWlWX3Y4dWUyb1dBWS1MMlM2MFhYNUdjSU11YXo5S0d3ekRMcmRrYkNyWm0xM1dsblJSREVBUGlVTm1O?oc=5"
+      "summary": "本記事は、トランス男性アスリートがパフォーマンスを向上させるために使用するサプリメントや戦略について考察しています。ホルモン療法の影響や、それに応じた栄養摂取・トレーニングの調整の重要性が論じられています。",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGUwcTg0blQ2MzljSzJRYjN1RHk3NWdoTHVObXR3RGVlVjdDb1NFbk9ORGdZN0ZVSlJ0S0FuT19NYmotNElEbF94M1RHSGtkQnNQM3pQR2pCSDJvenpSUjRlTlRucDRORTVUMHlPbW9zLVdVdXFRSEdjQUdpT0FwelpLVUNBQU1SSkRfeV9nY0N2QklDQ2lYbUxuakQ2VjlOOUI4TlhsMHJfVFc4R2JUcmRSam90RDgzeklKTm50WWpNYlc1Wm9ib1lURUE0TExIZWlWX3Y4dWUyb1dBWS1MMlM2MFhYNUdjSU11YXo5S0d3ekRMcmRrYkNyWm0xM1dsblJSREVBUGlVTm1O?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子供に運動をさせる方法",
-      "summary": "子供たちの健康的な成長と発達には運動が不可欠であり、本記事では子供たちが楽しく運動習慣を身につけるための具体的な方法を提案しています。遊びを通じた身体活動の奨励、親の模範、安全な環境作りなどが、子供の運動習慣形成に重要であると述べられています。",
+      "title": "子どもたちに運動をさせる方法",
+      "summary": "本記事は、子どもたちが積極的に運動に取り組むための効果的な方法について解説しています。運動を楽しい活動として提示し、家族や友人との関わりを通じて身体活動を促進することの重要性を強調しています。",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYkdPR0ZNV2NVZ1B4QV9PX0tpQmpsMDNwNFlFTWpCaTJqbWg1SnlKX053WnFPbjd6U2NibmJzbDRmU3F5V1BVNkphcjNrTnlpaXZzSmlKbFUxNFBrQ3d0b0V3?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "論説：アスリートのリカバリーを最適化する：リカバリー戦略と睡眠がスポーツパフォーマンスに与える影響",
-      "summary": "本論説は、アスリートのパフォーマンス向上と怪我予防において、リカバリー戦略と十分な睡眠が果たす役割の重要性を強調しています。特に、質の高い睡眠は身体的・精神的回復を促進し、最適な競技能力の発揮に不可欠であることが複数の研究から示されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
+      "title": "論説：アスリートの回復を最適化する：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "summary": "スポーツパフォーマンスを最大化するための回復戦略と睡眠の重要性に関する論説です。十分な睡眠と適切な回復方法は、身体的疲労の軽減だけでなく、精神的な準備にも不可欠であると指摘しています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVwdkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "磐越道バス事故、現場に「手当」と書かれた３万３０００円入り封筒・運転者の名字記載…北越高校はレンタカー手配依頼を改めて否定",
-      "summary": "磐越道のバス事故現場で、「手当」と書かれ運転者の名字が記載された現金3万3000円入りの封筒が見つかりました。バスを運行した北越高校は、この封筒についてレンタカー手配依頼との関連を改めて否定しており、事故の背景に関する新たな情報として注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UjhJOE1jNmVPMEI4V3JnaTA0anR6Rkg5SUR3VjVtSTYxTHpENmFRYVhXTW43Tl9ZNktWRDJ5dGdsMElXcWpZN2xEWnUtZnBoS3RNejFKX2RhdFgtUGxhc0tmUE1Idw?oc=5"
+      "category": "政治",
+      "title": "トランプ氏、習氏と台湾への武器売却を議論意向…自身が大統領なら台湾有事ないと主張",
+      "summary": "トランプ前米大統領が、もし大統領に再選されれば習近平国家主席と台湾への武器売却について議論する意向を表明しました。同時に、自身が大統領であれば台湾有事は発生しないとの考えを示しています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sZ3o1RTl6QmZ4WWtWRTUtNU1IT21uSWRzZlVRTmlkSmF6ZlFLSEs2cnBkVjNLSkVQVHB0ZzhEWDRmWE9pX0xYREoxMlJnQzF0aUhrcV9kcjJLb2UxNWNFUW13?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "イラン、米国への回答をパキスタンに送付 国営通信報道",
-      "summary": "イラン国営通信は、イランが米国への回答をパキスタン経由で送付したと報じました。これは両国間の緊張緩和に向けた外交努力の一環と見られ、今後の国際情勢に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVU3lxTFBibm5OcDdsVHdRNTI1VlVDQWtzeG8wZFBBazV6N0NTakhxT1BkSGxvVmJNME5udGhsLVAzc21od013LWd1UlFKOFBSYmNXVkhxQU5haHNzdHF6Ry1heFZ2T21zNlRrYXRNN0NKaw?oc=5"
+      "category": "社会",
+      "title": "【磐越道バス事故】運行会社「蒲原鉄道」前社長が告白「北越高校はウソを言っています」（文春オンライン）",
+      "summary": "磐越道でのバス事故を巡り、運行会社「蒲原鉄道」の前社長が、事故の原因に関する北越高校側の説明に対し、「ウソを言っている」と告白しました。事故の詳細や責任の所在について、新たな情報が浮上しています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQ2RxTXFfOFdTdnRjUjc5WmtfS09MSllMSW4zNElxbFNFcUlFRWVoQ2NDc2hpeURZRzlQYndjZFV2SVVPSHFrTHpfUlZCazRyejhIWkFtQ3l4NFhLcEpwdWlRcWRrcEFRcGYxT0xvYjNQUzdJMmV6NDZRV0tiVVU?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "明日11日も汗ばむ陽気の所多いが、関東甲信はにわか雨に注意　沖縄は大雨のおそれ(気象予報士 堂本　幸代 2026年05月10日)",
-      "summary": "明日11日も全国的に汗ばむ陽気となる地域が多い見込みです。特に、関東甲信地方ではにわか雨に注意が必要であり、沖縄地方では大雨のおそれがあると気象予報士の堂本幸代氏が発表しました。最新の気象情報に留意し、外出時には傘などの準備が推奨されます。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVU3lxTE9ObFpRMzBLVWdRTTdSVmhjdUlMbGV0UDY2dEdXQldBSUJuU2RPN29hQ2VoVmdjYy1yelZDVWNTQURGcWNJaFhnN2doNjJ3M0pFS0FteHpOTnN3dDBDS0xvSzRCYlFXNUJSX21YOFJpeWvSAXZBVV95cUxPZGY1ak9xVk1HZ25mQ0tSTWVGR01CX1k0dDZEY19RWjlYN1VURER4NW1tZENQaHFrLU95T3RtNXM0LU9vLTdlaEMzTjdXYW92RWtNYVFHeEhnc3BkVktuNWVlWmlGWTNBNHFKT3l3SUQ1UTg2QkRR?oc=5"
+      "category": "国際",
+      "title": "イランの戦争終結案は「正当かつ寛大」、外務省報道官が主張",
+      "summary": "イランの外務省報道官は、同国が提示した戦争終結案について「正当かつ寛大」であると主張しました。これは中東地域の緊張緩和に向けたイランの外交的姿勢を示すものと見られます。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmo1a0JlVjVFdllFVUFMRV8yTFBuSUVtcHZvM1QxNDVlR0JQbUE0eGYyNUdjS0tLME1QZ25jb0pmcXdqVHNCZ1hRSEhPb1ZuWkJ6VlVCYmdTam9TOFFONGRmTDdVNDVDZmlBVmtlbHA1UkkyU0xVTHVfNUFkcTE0c2JXVG9DRUVO?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "足が不自由な妻を介護、81歳男が76歳妻を殺害容疑逮捕 福島、2人暮らし自ら110番",
-      "summary": "福島県で、足が不自由な76歳の妻を介護していた81歳の夫が、妻を殺害した容疑で逮捕されました。夫は自ら110番通報しており、高齢者夫婦の介護を巡る悲劇として、社会的な課題が浮き彫りになっています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFUW3lxTFBraUFSMFBGRVVhNXJKV3A3WUNHMjZkSWhUYkRhMlBHSENWZEl3b0VXVDF1Q2xQdnpjVTc1QlVPNDc2YlVPZC1ZMWlnYWh6a2w1QWRIN2ZUZzFZY2J5MWtKSUIwSGp0aFVGelQyYWZCVE1YX3VoZVE?oc=5"
+      "category": "医療・健康",
+      "title": "ハンタウイルス集団感染の船から帰国のフランス人とアメリカ人に症状",
+      "summary": "ハンタウイルスが集団感染した船から帰国したフランス人とアメリカ人の中に、新たな症状を訴える者が確認されました。感染拡大の可能性について、各国の保健当局が警戒を強めています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuX1VuSjhackhmNnRRU0Q4czhCcjYwLTF6VW5HMnV2RVN3Ny1LZDIySDl2Rmg5aDAyQjBqQVY2eHBNcDlMakhITVlZZjlMQ1FSRzlZQ0hrc3pRRWpzSkk40gFkQVVfeXFMTzJaY2hvWjFzWlBSR056R3NERUh4dEJQUVMtVzhEMmRELUhzV0FyV1E0SGdROXp1RzdMajNWOElxa19NSk5GOFVQQldMRFd3TlQyY3RMMmdzeUE2Z3lldGt4TTFsSw?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "英「反移民」新興右派政党、2議席→1453議席で最多議席確定 イングランド地方議会選",
-      "summary": "イングランド地方議会選において、英国の「反移民」を掲げる新興右派政党が、これまでの2議席から1453議席へと大きく躍進し、最多議席を獲得したことが確定しました。これは英国政治における新たな潮流を示唆しており、今後の国政に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMidkFUW3lxTE9WNF9ocnNwSkladWFSanZPRWpRSk1kdDRDMHdDNVpNUnIwcmNwY194VDNha25ILU9PTkQtSmxrNTMxajIydWFjTnF2dDlEOW1PVEhkcmc4dDcydmpaM2tFZ3pMWVlCU0ZSRXdMVUpwSjl0a2tkS1E?oc=5"
+      "category": "教育",
+      "title": "林真理子理事長「軽い気持ちで引き受けたが、まったく甘かった」「人事の失敗を認めたことで学部長らの表情が変わった」",
+      "summary": "林真理子理事長が、理事長職を引き受けた当初の「軽い気持ち」が「まったく甘かった」と反省の弁を述べました。人事の失敗を認めたことで、学部長らの反応に変化が見られたとのことです。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrS1UxWVJWZU5Pb21fWEJLWnQ5MzZxZGZoSG5Mdmp6VnFQUExnRFpvdDM2dnlVVGlyTWhtalMweEZQWURwQksxUi1FUjNXT3kwTGlsTXNaMjM3Wjk4a3MxaFliaXAxX19fWExGUTFPQTFRQ00?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ライブ速報：トランプ氏、米国の和平提案に対するイランの回答を「全く受け入れられない」と発言",
-      "summary": "ドナルド・トランプ氏が、米国の和平提案に対するイランの回答を「全く受け入れられない」と述べたとCNNが報じました。この発言は、中東地域の緊張を高める可能性があり、両国間の外交関係にさらなる複雑さをもたらすと見られています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVU3lxTFB3WTROMDc2RXVfTHRKZ2dSS0hxd091Ujk1TkppaERnZ3U3d3ZNMWZFRXR6aHFibGwydjdXY3FxWnpXOVJEdGozZFBUTkkta1VHYlpLZ0EtWHFYZkozeFg0R2s4bVNCd3dKbGxpeg?oc=5"
+      "category": "Conflict",
+      "title": "イラン戦争ライブ更新：トランプ氏、「停戦は危篤状態」と発言",
+      "summary": "イラン紛争の最新情報として、トランプ前米大統領が現在の停戦交渉を「生命維持装置状態にある」と表現し、その危うさを指摘しました。中東情勢の緊迫が続いています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWHNfdjVuNEI0dW5XU0ZtbjIy0EFwTjFlYzhVTjU1amdvT1dnbDNvQkZicWMyTi1YdkNibmtZZlBwVk5KV1ZHdXV1N3RZRTA2NlExdUZMc0ZRWUxCbjlfTXQtbXJNamo4azh0Y1lHZC1zaG0wNVE?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "バージニア州の選挙区再編地図が却下され、民主党は必死の対応策を模索",
-      "summary": "バージニア州の選挙区再編地図が却下されたことを受け、民主党は新たな対応策を必死に模索しています。この決定は、同州の政治バランスに大きな影響を与える可能性があり、今後の選挙戦略に深刻な課題を突きつけるものと見られています。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMWJzdTFyQ1B2dmhOSHRLSW5UQkcyVTBQTXJCcXYtUm1LZWNhUG1ZTDA2QnJ0UTBuaS1zTG94eWlDekY1bHJjTUhCU3huSGJ3aWNVUVFhUmFaWXFmb25YMFZyRlBOUVVEMDRUYXVnS1BlWVc5Zk85ZU9LbmFGRUhCQnFZeTlmUl9yeWlfY3UyUlFLYlNrT3c?oc=5"
+      "category": "Economy",
+      "title": "連邦ガソリン税はトランプ氏の廃止リストに。データが示す、廃止した場合の節約額。",
+      "summary": "連邦ガソリン税がトランプ氏の廃止対象リストに含まれており、もし廃止されれば消費者がどれだけの金額を節約できるかを示すデータが公表されました。これは経済政策論争の一部となるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnY2aUxkQmpDS0JISEFnUmFxWGJMUWZ0NXQ1YjlCWXc1TnRQUEFHZF92U1JMR3Q1R0ZfT2FWSG5CWGFVYWZBZUl2aXh1MjU1cHByVnlINk9mWUxGSkk1UHdscDFKM3hTM0J2LVgxcXB0bTZIV3hFZFo1eG9ZUzhfZUhMTUxNV2dkcXhtSURmak04T0FERUQxbDVWLTYtN2JxZ1hieg?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "キア・スターマー党首の政党が英国地方選挙で大敗。次に何が起こるか",
-      "summary": "英国の地方選挙でキア・スターマー党首率いる政党が大敗しました。この結果は、今後の英国政治の方向性に大きな影響を与える可能性があり、党内でのリーダーシップや政策の見直しが議論されることになると予想されています。",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkdWVVdKWGpXd2Q3Zmk0Qk1IQTlOS0pDRmlramJ0cmNzaHMyR2dmdTB0VHR0YUhhZVJKNEZRNnZIaUlOY0V4NEpfdkM2UzZISVg0dlI4dVp2UTcteWxzVUJWQ2VYU3EwRkFmSE5Sekc2OUtITFlzVWJ3dE5SWWxDeFJrUzQyNUdKMktLNXAyYmFVTEdx?oc=5"
+      "title": "最高裁が広く使用されている中絶薬への女性のアクセスを一時的に拡大",
+      "summary": "米国最高裁判所は、広く使用されている中絶薬への女性のアクセスを一時的に拡大する判断を下しました。この決定は、リプロダクティブヘルスに関する国家的な議論に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbklvSDVVUlZlUDJxejNpbEtvSGpRQldISHFjZXQ2Tm9DdjBxNEV2X05oeGdLSlBTQ1VjU0F6bGs3LWdRUmgwaFVKZENxdC1jWmRVSko5M0xOMWpBMUFwUk1HbUxQVWJtdGJVcVZqUjZBU0FMdm9Hd3VZVGdpYllfcXpIVDI5R0RYclJMd0RqNkhGdjRhVkhSS2RleExCTXRNZ1RLNjFFa2JqZDBxZ3dSXw?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "民主党の不安がカリフォルニア州の予備選挙規則変更につながる可能性",
-      "summary": "民主党内で高まる不安が、カリフォルニア州の予備選挙規則の変更につながる可能性があります。州内の政治力学や選挙結果への影響が懸念されており、党勢回復に向けた動きとして注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbW5ya0lnQWdYS1l2QnNadWNRMG1TMzJwTFcwXzNwSGt0MjBuQjZRR2NjMXJFOU1qMG5FNnpiRkJVbU1TdEZIdThqUHFBNW1vek1rZ05EdHdyOFFDZk91b09nUFFTX2hDSEtIM2FvcVEyS1hudVZuU2VIbFJKaS1XRE1aQW1DMlRaRlVUbg?oc=5"
+      "title": "英国首相スターマー氏、金利上昇の中、リーダーシップ挑戦で政治的存続を巡る戦い",
+      "summary": "英国のスターマー首相は、金利上昇の経済的背景の中でリーダーシップへの挑戦に直面しており、政治的存続をかけた厳しい戦いを繰り広げています。与党内の動向が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYi1xRjVMZDI1WHYxWGVfS28tcS1KZklKZlpkQkotX3ZCSnJZZmk2MUVVZDVLalZGaHlFZ2NMdGtZR3VsWWNfYXlFOHNZVXpKT2NiYzRVRlh1R0VhWHlSdUlYNDhNX29ud1ExX2xoU0lubkREUm5NVWZjdnNUYjZONjltZ09qb25QU19YR1dIcXVzRjZnZko5bG5SZ250VmNwTVHSAacBQVVfeXFMUFBkWTdqSERIRWw1WDN6RF9VTnZXQkVORkx6WXN4SnRjSmZtdWJDVTlJY202LWFjb0J1cmVkWU9xcmstamx3VmYtSnNjX3VwdHZuclVtQlVhZzQyOW1RbDZiMXY2dGpqVllTeW9Ua1JEbEh4ekg5Z0pPSDh0RFpYcWlaS2laeWllNUxyOEZsYmpuYnl3b2RFS0tkNmNsSHFvWmdXR05mNVU?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "観光客が絶滅危惧のアザラシを襲撃、「私は金持ちだ」と叫び逮捕される",
-      "summary": "ビーチで絶滅危惧種のアザラシを襲撃していた観光客が、周囲の人々が止めるのを無視して「私は金持ちだ」と叫び、その後拘束されました。この事件は野生動物保護に対する意識の欠如と、観光客のマナー問題として報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMic0FUW3lxTFBSWVJmbkNjVHJYZDljNzRpUy1mZ2RlWUprd3pESzFlcE1XOTdFeFpmbzVSVVg5cFN4UVZlYTU4amxOSU0zR2Vubi13TjRaSmF0RVM2c1h1TmIzVGRMR0otaWRfbkExaG1sLU9IdzFkckFHa1k?oc=5"
+      "category": "Politics",
+      "title": "バージニア州の民主党が新下院選挙区地図の使用許可を米最高裁に要請",
+      "summary": "バージニア州の民主党は、新しい下院選挙区地図の使用許可を米最高裁判所に要請しました。これは州内の政治的バランスに影響を与える可能性のある重要な法的争点です。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0dwbkpwX29aRmxIa3R6d0hSNG1GTDFodnNlRUlQWndhVVZpTlplQVVfLWxOV05PVmQ0dUF3cHNqRE9BQmlSamJEZjZFa3QzS0JSajBaRW9HcUs5b1F2WVhRdU4ydWFkOTk5ODEyX01QdG5EYkRqVjJ5MlFTc2tGeW5ZYURQQQ?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性のACL損傷を予防する方法",
-      "summary": "女性アスリートにおけるACL（前十字靭帯）損傷の予防策に関する記事です。女性は男性に比べてACL損傷のリスクが高い傾向にあり、その要因として生体力学的差異やホルモンが挙げられます。効果的な予防プログラムには、筋力トレーニング、プライオメトリクス、神経筋コントロールの改善などが含まれます。",
+      "title": "女性におけるACL（前十字靭帯）損傷の予防法",
+      "summary": "女性アスリートは特定の要因によりACL損傷のリスクが高いとされています。本記事では、適切なウォーミングアップ、筋力トレーニング、コーディネーショントレーニング、そして着地動作の改善に焦点を当てた予防プログラムの重要性を強調しています。これにより、損傷リスクを効果的に低減できる可能性が示唆されました。",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RwSXhDT3Z2NTZEWVh3MVFuU3pkOVYxZ1pqQ21fbV94Y01uYTRrUFhjLWhVeUY2MERxdFVRT2U3QjE2YUwxbjBSblZGNHc1bG9FWWJyUmxJV3B2dG9KM2s5WUp4VTVVVFUzWlZuNHRTTExxa1hJRlp5LU9IaS04bC1iTE9qNWVpM0V1d2doZVJ4NzZ0ME5Nb1BaR0V4NmNtQmJ6OGo1OVE4NGg3UzhqeTA3TEI?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "火曜トピック：ランニングバイオメカニクスの基礎",
-      "summary": "ランニングバイオメカニクスの基本的な概念とその重要性について解説しています。正しいフォームや体の動きが、パフォーマンス向上と怪我予防にいかに影響するかを学ぶことができます。効率的なランニングを実現するための主要な要素が紹介されています。",
+      "title": "火曜トピックス：ランニングバイオメカニクスの基礎",
+      "summary": "本記事は、効率的で怪我のないランニングのためのバイオメカニクスの基本原則を解説しています。接地時間、歩幅、ピッチ、そして体幹の安定性などがランニングフォームに与える影響について触れ、基本的な力学的要素の理解がパフォーマンス向上と怪我予防に繋がることを示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
     }
   ],
@@ -349,40 +349,40 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性におけるACL（前十字靭帯）損傷の予防法",
-      "summary": "女性アスリートは特定の要因によりACL損傷のリスクが高いとされています。本記事では、適切なウォーミングアップ、筋力トレーニング、コーディネーショントレーニング、そして着地動作の改善に焦点を当てた予防プログラムの重要性を強調しています。これにより、損傷リスクを効果的に低減できる可能性が示唆されました。",
+      "title": "女性におけるACL損傷の予防方法",
+      "summary": "本記事は、女性アスリートが前十字靭帯（ACL）損傷のリスクが高い理由を分析し、予防のための具体的な戦略を提示しています。特に、適切なトレーニング、バイオメカニクスの改善、筋力バランスの向上に焦点を当てています。",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RwSXhDT3Z2NTZEWVh3MVFuU3pkOVYxZ1pqQ21fbV94Y01uYTRrUFhjLWhVeUY2MERxdFVRT2U3QjE2YUwxbjBSblZGNHc1bG9FWWJyUmxJV3B2dG9KM2s5WUp4VTVVVFUzWlZuNHRTTExxa1hJRlp5LU9IaS04bC1iTE9qNWVpM0V1d2doZVJ4NzZ0ME5Nb1BaR0V4NmNtQmJ6OGo1OVE4NGg3UzhqeTA3TEI?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "火曜トピックス：ランニングバイオメカニクスの基礎",
-      "summary": "本記事は、効率的で怪我のないランニングのためのバイオメカニクスの基本原則を解説しています。接地時間、歩幅、ピッチ、そして体幹の安定性などがランニングフォームに与える影響について触れ、基本的な力学的要素の理解がパフォーマンス向上と怪我予防に繋がることを示唆しています。",
+      "title": "火曜日のトピック：ランニングのバイオメカニクスの基礎",
+      "summary": "ランニング時の身体動作におけるバイオメカニクスの基本原理を解説し、効率的なランニングフォームと怪我の予防の関連性について説明しています。足の着地、体幹の安定性、腕の振りなどの要素がパフォーマンスに与える影響が議論されています。",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、シェア、2034年までの予測",
-      "summary": "この市場調査レポートは、スポーツ医学分野における人工腱・靭帯市場の成長予測について分析しています。スポーツ外傷の増加、高齢化社会における需要、技術革新が市場拡大の主要因であり、2034年までに大きな成長が見込まれると報告されています。",
+      "title": "人工腱・靭帯市場規模、シェア、予測、2034年",
+      "summary": "本レポートは、人工腱および靭帯市場の現在の規模、成長トレンド、そして2034年までの予測を分析しています。スポーツ医学分野における革新的な治療法の需要増加が市場拡大を牽引していると述べています。",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "プロから高校生アスリートまで、怪我からの回復は肉体面と同様に精神面も重要",
-      "summary": "アスリートの怪我からの回復過程において、身体的なリハビリテーションだけでなく、心理的な側面も極めて重要であることが強調されています。特に、モチベーションの維持、不安や恐怖の克服、競技復帰への自信の構築が成功的なリハビリテーションに不可欠であると分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN2FfaU1kWmY3ZVptdGpvSm1GNUM0SG5TR2g0Y2JoM0R0RWhiZEhrY3JpY05GUFFpLUFuVndreUtheHEySFBXQXZaZnRqdDhqUTVnc3VmTUhsQnQ1MmtzeU9CdjJka3NmQUNyQXhxOWNrTUpXNWQ2ZW9pMDVKNThNNTUzaUxWMWNDaGowQU1HdUc3YVhiOUZoZlpNR3BCWENQZ2V1NXFiMA?oc=5"
+      "title": "Valley Health Systemがアスリートの競技復帰を支援する「Return to Sportプログラム」を開始",
+      "summary": "Valley Health Systemがアスリートの安全かつ効果的な競技復帰を目的とした新しいプログラムを立ち上げました。このプログラムは、怪我からの回復だけでなく、精神的な側面もサポートし、再負傷のリスクを最小限に抑えることを目指しています。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0lvcTNSU0pZMFdfRjZsVURoQ3l4d0tZT21mSUFMWURrNDhKczAzTWQ3cHloMTFuRXFBX0RvYlNVYURTYWwycFhKSmZXR2plRDV2MFJ5c0lUWUE3d0NVVHRhM2pzaDQ0RHUtSWtQUkN1Yk1KWEloOGY5VFBQZWktSjFvc2NDV0dveURZaEdOc0EyaVdPNGRBZ1RFaEtvMEcydlh6Tm5VMmJQYVZBd0hUWGNJVXIxZ1MzbExnRHZLM3VlT2VnWWFHOGtVNWJvQQ?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理において西洋医学的鍼治療技術が有効であるかを評価しました。複数の研究を分析した結果、筋骨格系疼痛の緩和において、従来の治療法と併用することで効果が期待できることが示唆されました。",
+      "title": "アスリートの疼痛管理における西洋医学鍼治療の技術：系統的レビューとメタアナリシス",
+      "summary": "本研究は、アスリートの疼痛管理に西洋医学鍼治療が有効であるかを評価するため、過去の研究を系統的にレビューし、メタアナリシスを行いました。結果として、特定の筋骨格系疼痛に対して鍼治療が痛みの軽減に寄与する可能性が示唆されました。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
@@ -390,119 +390,119 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
       "title": "トランス男性アスリートのパフォーマンス向上サプリメントと戦略",
-      "summary": "この研究は、トランス男性アスリートがパフォーマンスを向上させるために利用するサプリメントや戦略に焦点を当てています。ホルモン療法の影響や、それに応じた栄養補助食品の選択、トレーニング計画の調整など、特定のニーズに対応するためのアプローチが議論されています。",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGUwcTg0blQ2MzljSzJRYjN1RHk3NWdoTHVObXR3RGVlVjdDb1NFbk9ORGdZN0ZVSlJ0S0FuT19NYjotNElEbF94M1RHSGtkQnNQM3pQR2pCSDJvenpSUjRlTlRucDRORTVUMHlPbW9zLVdVdXFRSEdjQUdpT0FwelpLVUNBQU1SSkRfeV9nY0N2QklDQ2lYbUxuakQ2VjlOOUI4TlhsMHJfVFc4R2JUcmRSam90RDgzeklKTm50WWpNYlc1Wm9ib1lURUE0TExIZWlWX3Y4dWUyb1dBWS1MMlM2MFhYNUdjSU11YXo5S0d3ekRMcmRrYkNyWm0xM1dsblJSREVBUGlVTm1O?oc=5"
+      "summary": "本記事は、トランス男性アスリートがパフォーマンスを向上させるために使用するサプリメントや戦略について考察しています。ホルモン療法の影響や、それに応じた栄養摂取・トレーニングの調整の重要性が論じられています。",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdGUwcTg0blQ2MzljSzJRYjN1RHk3NWdoTHVObXR3RGVlVjdDb1NFbk9ORGdZN0ZVSlJ0S0FuT19NYmotNElEbF94M1RHSGtkQnNQM3pQR2pCSDJvenpSUjRlTlRucDRORTVUMHlPbW9zLVdVdXFRSEdjQUdpT0FwelpLVUNBQU1SSkRfeV9nY0N2QklDQ2lYbUxuakQ2VjlOOUI4TlhsMHJfVFc4R2JUcmRSam90RDgzeklKTm50WWpNYlc1Wm9ib1lURUE0TExIZWlWX3Y4dWUyb1dBWS1MMlM2MFhYNUdjSU11YXo5S0d3ekRMcmRrYkNyWm0xM1dsblJSREVBUGlVTm1O?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子供に運動をさせる方法",
-      "summary": "子供たちの健康的な成長と発達には運動が不可欠であり、本記事では子供たちが楽しく運動習慣を身につけるための具体的な方法を提案しています。遊びを通じた身体活動の奨励、親の模範、安全な環境作りなどが、子供の運動習慣形成に重要であると述べられています。",
+      "title": "子どもたちに運動をさせる方法",
+      "summary": "本記事は、子どもたちが積極的に運動に取り組むための効果的な方法について解説しています。運動を楽しい活動として提示し、家族や友人との関わりを通じて身体活動を促進することの重要性を強調しています。",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYkdPR0ZNV2NVZ1B4QV9PX0tpQmpsMDNwNFlFTWpCaTJqbWg1SnlKX053WnFPbjd6U2NibmJzbDRmU3F5V1BVNkphcjNrTnlpaXZzSmlKbFUxNFBrQ3d0b0V3?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "論説：アスリートのリカバリーを最適化する：リカバリー戦略と睡眠がスポーツパフォーマンスに与える影響",
-      "summary": "本論説は、アスリートのパフォーマンス向上と怪我予防において、リカバリー戦略と十分な睡眠が果たす役割の重要性を強調しています。特に、質の高い睡眠は身体的・精神的回復を促進し、最適な競技能力の発揮に不可欠であることが複数の研究から示されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
+      "title": "論説：アスリートの回復を最適化する：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "summary": "スポーツパフォーマンスを最大化するための回復戦略と睡眠の重要性に関する論説です。十分な睡眠と適切な回復方法は、身体的疲労の軽減だけでなく、精神的な準備にも不可欠であると指摘しています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVwdkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "磐越道バス事故、現場に「手当」と書かれた３万３０００円入り封筒・運転者の名字記載…北越高校はレンタカー手配依頼を改めて否定",
-      "summary": "磐越道のバス事故現場で、「手当」と書かれ運転者の名字が記載された現金3万3000円入りの封筒が見つかりました。バスを運行した北越高校は、この封筒についてレンタカー手配依頼との関連を改めて否定しており、事故の背景に関する新たな情報として注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0UjhJOE1jNmVPMEI4V3JnaTA0anR6Rkg5SUR3VjVtSTYxTHpENmFRYVhXTW43Tl9ZNktWRDJ5dGdsMElXcWpZN2xEWnUtZnBoS3RNejFKX2RhdFgtUGxhc0tmUE1Idw?oc=5"
+      "category": "政治",
+      "title": "トランプ氏、習氏と台湾への武器売却を議論意向…自身が大統領なら台湾有事ないと主張",
+      "summary": "トランプ前米大統領が、もし大統領に再選されれば習近平国家主席と台湾への武器売却について議論する意向を表明しました。同時に、自身が大統領であれば台湾有事は発生しないとの考えを示しています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sZ3o1RTl6QmZ4WWtWRTUtNU1IT21uSWRzZlVRTmlkSmF6ZlFLSEs2cnBkVjNLSkVQVHB0ZzhEWDRmWE9pX0xYREoxMlJnQzF0aUhrcV9kcjJLb2UxNWNFUW13?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "イラン、米国への回答をパキスタンに送付 国営通信報道",
-      "summary": "イラン国営通信は、イランが米国への回答をパキスタン経由で送付したと報じました。これは両国間の緊張緩和に向けた外交努力の一環と見られ、今後の国際情勢に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVU3lxTFBibm5OcDdsVHdRNTI1VlVDQWtzeG8wZFBBazV6N0NTakhxT1BkSGxvVmJNME5udGhsLVAzc21od013LWd1UlFKOFBSYmNXVkhxQU5haHNzdHF6Ry1heFZ2T21zNlRrYXRNN0NKaw?oc=5"
+      "category": "社会",
+      "title": "【磐越道バス事故】運行会社「蒲原鉄道」前社長が告白「北越高校はウソを言っています」（文春オンライン）",
+      "summary": "磐越道でのバス事故を巡り、運行会社「蒲原鉄道」の前社長が、事故の原因に関する北越高校側の説明に対し、「ウソを言っている」と告白しました。事故の詳細や責任の所在について、新たな情報が浮上しています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQ2RxTXFfOFdTdnRjUjc5WmtfS09MSllMSW4zNElxbFNFcUlFRWVoQ2NDc2hpeURZRzlQYndjZFV2SVVPSHFrTHpfUlZCazRyejhIWkFtQ3l4NFhLcEpwdWlRcWRrcEFRcGYxT0xvYjNQUzdJMmV6NDZRV0tiVVU?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "明日11日も汗ばむ陽気の所多いが、関東甲信はにわか雨に注意　沖縄は大雨のおそれ(気象予報士 堂本　幸代 2026年05月10日)",
-      "summary": "明日11日も全国的に汗ばむ陽気となる地域が多い見込みです。特に、関東甲信地方ではにわか雨に注意が必要であり、沖縄地方では大雨のおそれがあると気象予報士の堂本幸代氏が発表しました。最新の気象情報に留意し、外出時には傘などの準備が推奨されます。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVU3lxTE9ObFpRMzBLVWdRTTdSVmhjdUlMbGV0UDY2dEdXQldBSUJuU2RPN29hQ2VoVmdjYy1yelZDVWNTQURGcWNJaFhnN2doNjJ3M0pFS0FteHpOTnN3dDBDS0xvSzRCYlFXNUJSX21YOFJpeWvSAXZBVV95cUxPZGY1ak9xVk1HZ25mQ0tSTWVGR01CX1k0dDZEY19RWjlYN1VURER4NW1tZENQaHFrLU95T3RtNXM0LU9vLTdlaEMzTjdXYW92RWtNYVFHeEhnc3BkVktuNWVlWmlGWTNBNHFKT3l3SUQ1UTg2QkRR?oc=5"
+      "category": "国際",
+      "title": "イランの戦争終結案は「正当かつ寛大」、外務省報道官が主張",
+      "summary": "イランの外務省報道官は、同国が提示した戦争終結案について「正当かつ寛大」であると主張しました。これは中東地域の緊張緩和に向けたイランの外交的姿勢を示すものと見られます。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmo1a0JlVjVFdllFVUFMRV8yTFBuSUVtcHZvM1QxNDVlR0JQbUE0eGYyNUdjS0tLME1QZ25jb0pmcXdqVHNCZ1hRSEhPb1ZuWkJ6VlVCYmdTam9TOFFONGRmTDdVNDVDZmlBVmtlbHA1UkkyU0xVTHVfNUFkcTE0c2JXVG9DRUVO?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "足が不自由な妻を介護、81歳男が76歳妻を殺害容疑逮捕 福島、2人暮らし自ら110番",
-      "summary": "福島県で、足が不自由な76歳の妻を介護していた81歳の夫が、妻を殺害した容疑で逮捕されました。夫は自ら110番通報しており、高齢者夫婦の介護を巡る悲劇として、社会的な課題が浮き彫りになっています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFUW3lxTFBraUFSMFBGRVVhNXJKV3A3WUNHMjZkSWhUYkRhMlBHSENWZEl3b0VXVDF1Q2xQdnpjVTc1QlVPNDc2YlVPZC1ZMWlnYWh6a2w1QWRIN2ZUZzFZY2J5MWtKSUIwSGp0aFVGelQyYWZCVE1YX3VoZVE?oc=5"
+      "category": "医療・健康",
+      "title": "ハンタウイルス集団感染の船から帰国のフランス人とアメリカ人に症状",
+      "summary": "ハンタウイルスが集団感染した船から帰国したフランス人とアメリカ人の中に、新たな症状を訴える者が確認されました。感染拡大の可能性について、各国の保健当局が警戒を強めています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuX1VuSjhackhmNnRRU0Q4czhCcjYwLTF6VW5HMnV2RVN3Ny1LZDIySDl2Rmg5aDAyQjBqQVY2eHBNcDlMakhITVlZZjlMQ1FSRzlZQ0hrc3pRRWpzSkk40gFkQVVfeXFMTzJaY2hvWjFzWlBSR056R3NERUh4dEJQUVMtVzhEMmRELUhzV0FyV1E0SGdROXp1RzdMajNWOElxa19NSk5GOFVQQldMRFd3TlQyY3RMMmdzeUE2Z3lldGt4TTFsSw?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "英「反移民」新興右派政党、2議席→1453議席で最多議席確定 イングランド地方議会選",
-      "summary": "イングランド地方議会選において、英国の「反移民」を掲げる新興右派政党が、これまでの2議席から1453議席へと大きく躍進し、最多議席を獲得したことが確定しました。これは英国政治における新たな潮流を示唆しており、今後の国政に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMidkFUW3lxTE9WNF9ocnNwSkladWFSanZPRWpRSk1kdDRDMHdDNVpNUnIwcmNwY194VDNha25ILU9PTkQtSmxrNTMxajIydWFjTnF2dDlEOW1PVEhkcmc4dDcydmpaM2tFZ3pMWVlCU0ZSRXdMVUpwSjl0a2tkS1E?oc=5"
+      "category": "教育",
+      "title": "林真理子理事長「軽い気持ちで引き受けたが、まったく甘かった」「人事の失敗を認めたことで学部長らの表情が変わった」",
+      "summary": "林真理子理事長が、理事長職を引き受けた当初の「軽い気持ち」が「まったく甘かった」と反省の弁を述べました。人事の失敗を認めたことで、学部長らの反応に変化が見られたとのことです。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrS1UxWVJWZU5Pb21fWEJLWnQ5MzZxZGZoSG5Mdmp6VnFQUExnRFpvdDM2dnlVVGlyTWhtalMweEZQWURwQksxUi1FUjNXT3kwTGlsTXNaMjM3Wjk4a3MxaFliaXAxX19fWExGUTFPQTFRQ00?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ライブ速報：トランプ氏、米国の和平提案に対するイランの回答を「全く受け入れられない」と発言",
-      "summary": "ドナルド・トランプ氏が、米国の和平提案に対するイランの回答を「全く受け入れられない」と述べたとCNNが報じました。この発言は、中東地域の緊張を高める可能性があり、両国間の外交関係にさらなる複雑さをもたらすと見られています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVU3lxTFB3WTROMDc2RXVfTHRKZ2dSS0hxd091Ujk1TkppaERnZ3U3d3ZNMWZFRXR6aHFibGwydjdXY3FxWnpXOVJEdGozZFBUTkkta1VHYlpLZ0EtWHFYZkozeFg0R2s4bVNCd3dKbGxpeg?oc=5"
+      "category": "Conflict",
+      "title": "イラン戦争ライブ更新：トランプ氏、「停戦は危篤状態」と発言",
+      "summary": "イラン紛争の最新情報として、トランプ前米大統領が現在の停戦交渉を「生命維持装置状態にある」と表現し、その危うさを指摘しました。中東情勢の緊迫が続いています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWHNfdjVuNEI0dW5XU0ZtbjIy0EFwTjFlYzhVTjU1amdvT1dnbDNvQkZicWMyTi1YdkNibmtZZlBwVk5KV1ZHdXV1N3RZRTA2NlExdUZMc0ZRWUxCbjlfTXQtbXJNamo4azh0Y1lHZC1zaG0wNVE?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "バージニア州の選挙区再編地図が却下され、民主党は必死の対応策を模索",
-      "summary": "バージニア州の選挙区再編地図が却下されたことを受け、民主党は新たな対応策を必死に模索しています。この決定は、同州の政治バランスに大きな影響を与える可能性があり、今後の選挙戦略に深刻な課題を突きつけるものと見られています。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMWJzdTFyQ1B2dmhOSHRLSW5UQkcyVTBQTXJCcXYtUm1LZWNhUG1ZTDA2QnJ0UTBuaS1zTG94eWlDekY1bHJjTUhCU3huSGJ3aWNVUVFhUmFaWXFmb25YMFZyRlBOUVVEMDRUYXVnS1BlWVc5Zk85ZU9LbmFGRUhCQnFZeTlmUl9yeWlfY3UyUlFLYlNrT3c?oc=5"
+      "category": "Economy",
+      "title": "連邦ガソリン税はトランプ氏の廃止リストに。データが示す、廃止した場合の節約額。",
+      "summary": "連邦ガソリン税がトランプ氏の廃止対象リストに含まれており、もし廃止されれば消費者がどれだけの金額を節約できるかを示すデータが公表されました。これは経済政策論争の一部となるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnY2aUxkQmpDS0JISEFnUmFxWGJMUWZ0NXQ1YjlCWXc1TnRQUEFHZF92U1JMR3Q1R0ZfT2FWSG5CWGFVYWZBZUl2aXh1MjU1cHByVnlINk9mWUxGSkk1UHdscDFKM3hTM0J2LVgxcXB0bTZIV3hFZFo1eG9ZUzhfZUhMTUxNV2dkcXhtSURmak04T0FERUQxbDVWLTYtN2JxZ1hieg?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "キア・スターマー党首の政党が英国地方選挙で大敗。次に何が起こるか",
-      "summary": "英国の地方選挙でキア・スターマー党首率いる政党が大敗しました。この結果は、今後の英国政治の方向性に大きな影響を与える可能性があり、党内でのリーダーシップや政策の見直しが議論されることになると予想されています。",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkdWVVdKWGpXd2Q3Zmk0Qk1IQTlOS0pDRmlramJ0cmNzaHMyR2dmdTB0VHR0YUhhZVJKNEZRNnZIaUlOY0V4NEpfdkM2UzZISVg0dlI4dVp2UTcteWxzVUJWQ2VYU3EwRkFmSE5Sekc2OUtITFlzVWJ3dE5SWWxDeFJrUzQyNUdKMktLNXAyYmFVTEdx?oc=5"
+      "title": "最高裁が広く使用されている中絶薬への女性のアクセスを一時的に拡大",
+      "summary": "米国最高裁判所は、広く使用されている中絶薬への女性のアクセスを一時的に拡大する判断を下しました。この決定は、リプロダクティブヘルスに関する国家的な議論に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbklvSDVVUlZlUDJxejNpbEtvSGpRQldISHFjZXQ2Tm9DdjBxNEV2X05oeGdLSlBTQ1VjU0F6bGs3LWdRUmgwaFVKZENxdC1jWmRVSko5M0xOMWpBMUFwUk1HbUxQVWJtdGJVcVZqUjZBU0FMdm9Hd3VZVGdpYllfcXpIVDI5R0RYclJMd0RqNkhGdjRhVkhSS2RleExCTXRNZ1RLNjFFa2JqZDBxZ3dSXw?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "民主党の不安がカリフォルニア州の予備選挙規則変更につながる可能性",
-      "summary": "民主党内で高まる不安が、カリフォルニア州の予備選挙規則の変更につながる可能性があります。州内の政治力学や選挙結果への影響が懸念されており、党勢回復に向けた動きとして注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbW5ya0lnQWdYS1l2QnNadWNRMG1TMzJwTFcwXzNwSGt0MjBuQjZRR2NjMXJFOU1qMG5FNnpiRkJVbU1TdEZIdThqUHFBNW1vek1rZ05EdHdyOFFDZk91b09nUFFTX2hDSEtIM2FvcVEyS1hudVZuU2VIbFJKaS1XRE1aQW1DMlRaRlVUbg?oc=5"
+      "title": "英国首相スターマー氏、金利上昇の中、リーダーシップ挑戦で政治的存続を巡る戦い",
+      "summary": "英国のスターマー首相は、金利上昇の経済的背景の中でリーダーシップへの挑戦に直面しており、政治的存続をかけた厳しい戦いを繰り広げています。与党内の動向が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYi1xRjVMZDI1WHYxWGVfS28tcS1KZklKZlpkQkotX3ZCSnJZZmk2MUVVZDVLalZGaHlFZ2NMdGtZR3VsWWNfYXlFOHNZVXpKT2NiYzRVRlh1R0VhWHlSdUlYNDhNX29ud1ExX2xoU0lubkREUm5NVWZjdnNUYjZONjltZ09qb25QU19YR1dIcXVzRjZnZko5bG5SZ250VmNwTVHSAacBQVVfeXFMUFBkWTdqSERIRWw1WDN6RF9VTnZXQkVORkx6WXN4SnRjSmZtdWJDVTlJY202LWFjb0J1cmVkWU9xcmstamx3VmYtSnNjX3VwdHZuclVtQlVhZzQyOW1RbDZiMXY2dGpqVllTeW9Ua1JEbEh4ekg5Z0pPSDh0RFpYcWlaS2laeWllNUxyOEZsYmpuYnl3b2RFS0tkNmNsSHFvWmdXR05mNVU?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "観光客が絶滅危惧のアザラシを襲撃、「私は金持ちだ」と叫び逮捕される",
-      "summary": "ビーチで絶滅危惧種のアザラシを襲撃していた観光客が、周囲の人々が止めるのを無視して「私は金持ちだ」と叫び、その後拘束されました。この事件は野生動物保護に対する意識の欠如と、観光客のマナー問題として報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMic0FUW3lxTFBSWVJmbkNjVHJYZDljNzRpUy1mZ2RlWUprd3pESzFlcE1XOTdFeFpmbzVSVVg5cFN4UVZlYTU4amxOSU0zR2Vubi13TjRaSmF0RVM2c1h1TmIzVGRMR0otaWRfbkExaG1sLU9IdzFkckFHa1k?oc=5"
+      "category": "Politics",
+      "title": "バージニア州の民主党が新下院選挙区地図の使用許可を米最高裁に要請",
+      "summary": "バージニア州の民主党は、新しい下院選挙区地図の使用許可を米最高裁判所に要請しました。これは州内の政治的バランスに影響を与える可能性のある重要な法的争点です。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0dwbkpwX29aRmxIa3R6d0hSNG1GTDFodnNlRUlQWndhVVZpTlplQVVfLWxOV05PVmQ0dUF3cHNqRE9BQmlSamJEZjZFa3QzS0JSajBaRW9HcUs5b1F2WVhRdU4ydWFkOTk5ODEyX01QdG5EYkRqVjJ5MlFTc2tGeW5ZYURQQQ?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性のACL損傷を予防する方法",
-      "summary": "女性アスリートにおけるACL（前十字靭帯）損傷の予防策に関する記事です。女性は男性に比べてACL損傷のリスクが高い傾向にあり、その要因として生体力学的差異やホルモンが挙げられます。効果的な予防プログラムには、筋力トレーニング、プライオメトリクス、神経筋コントロールの改善などが含まれます。",
+      "title": "女性におけるACL（前十字靭帯）損傷の予防法",
+      "summary": "女性アスリートは特定の要因によりACL損傷のリスクが高いとされています。本記事では、適切なウォーミングアップ、筋力トレーニング、コーディネーショントレーニング、そして着地動作の改善に焦点を当てた予防プログラムの重要性を強調しています。これにより、損傷リスクを効果的に低減できる可能性が示唆されました。",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RwSXhDT3Z2NTZEWVh3MVFuU3pkOVYxZ1pqQ21fbV94Y01uYTRrUFhjLWhVeUY2MERxdFVRT2U3QjE2YUwxbjBSblZGNHc1bG9FWWJyUmxJV3B2dG9KM2s5WUp4VTVVVFUzWlZuNHRTTExxa1hJRlp5LU9IaS04bC1iTE9qNWVpM0V1d2doZVJ4NzZ0ME5Nb1BaR0V4NmNtQmJ6OGo1OVE4NGg3UzhqeTA3TEI?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "火曜トピック：ランニングバイオメカニクスの基礎",
-      "summary": "ランニングバイオメカニクスの基本的な概念とその重要性について解説しています。正しいフォームや体の動きが、パフォーマンス向上と怪我予防にいかに影響するかを学ぶことができます。効率的なランニングを実現するための主要な要素が紹介されています。",
+      "title": "火曜トピックス：ランニングバイオメカニクスの基礎",
+      "summary": "本記事は、効率的で怪我のないランニングのためのバイオメカニクスの基本原則を解説しています。接地時間、歩幅、ピッチ、そして体幹の安定性などがランニングフォームに与える影響について触れ、基本的な力学的要素の理解がパフォーマンス向上と怪我予防に繋がることを示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
     }
   ]
