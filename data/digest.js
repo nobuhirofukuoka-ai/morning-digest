@@ -1,185 +1,185 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/05/23",
-  "generated_at": "2026-05-22T21:57:58.217Z",
+  "issue_date": "2026/05/24",
+  "generated_at": "2026-05-23T21:43:39.418Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツにおけるACL損傷の増加とその原因",
+      "title": "女子スポーツでACL損傷が増加している理由",
       "source": "ESPN – WRUF",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5",
-      "abstract": "女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加しており、その背景には生物学的要因（例: 膝の構造や筋力バランスの違い）や、若年層でのスポーツ専門化の傾向などが挙げられる。特に成長期の女子アスリートはACL損傷のリスクが高いことが指摘されている。",
-      "insight": "女子アスリートのACL損傷予防には、性差を考慮したトレーニングプログラムの導入が不可欠。特に、ジャンプ着地や方向転換動作の改善に焦点を当てた神経筋トレーニングが効果的である。",
+      "abstract": "近年、女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が上昇しており、特に女子は男子に比べてACL損傷のリスクが高いことが指摘されています。この増加には、解剖学的構造の違い、ホルモンの影響、トレーニング方法の偏り、スポーツへの早期専門化など複数の要因が関連していると考えられています。",
+      "insight": "女子アスリートのACL損傷予防には、性差を考慮した適切なウォームアップ、筋力トレーニング、コーディネーション能力向上プログラムが不可欠です。コーチや保護者は、怪我のリスクを減らすための包括的なトレーニングと教育に注力すべきです。",
       "published_at": "2026-05-12T14:48:02.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "ラップクロージャー型シューレーシングシステムが長時間のランニング中の快適性、安定性、下肢筋活動に及ぼす影響",
+      "title": "運動誘発性疲労の多角的評価：高強度ランニングにおける心肺機能、神経筋、生体力学的プロファイリングの統合",
       "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmVSNmgyRGRFaVBKaW1tTUYzalhpd3pnblhHbllreUUzQzhLaTJrc0E0NXBPbnh3THRSalVtdjlSeTNacGVDUnpOckN5MXFyeGZyUjFzMzdVNkRlYjR2cGlibkpDN1VxSTgwaW9VQ29TeGRKQ3RGTi1meUNHdElkemthOXVrR1dhTVh0N25uTGRWMDZ5ekQzeEE3ZGUwVUpmeDdSWQ?oc=5",
-      "abstract": "この研究では、ラップクロージャー型シューレーシングシステムが、長時間のランニングにおけるシューズの快適性、足の固定安定性、および下肢の筋肉活動にどのような影響を与えるかを調査した。従来のレーシングシステムと比較し、特定の条件下で快適性と安定性の向上が見られた。",
-      "insight": "ランニングシューズのレーシングシステムは、長距離ランナーのパフォーマンスと疲労軽減に影響を与える可能性がある。特に、足の固定安定性を高めることで、下肢への負担を軽減し、怪我のリスクを低減する新たなシューズ設計のヒントとなる。",
-      "published_at": "2026-02-26T13:02:51.000Z"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVHWmdqRjNUTGk1YlU3UHBnZzNUNnE5NFd2aVJVdlRRb0Vmek9OMmZDM2l3VjJ3dTlBNGNzUnBmZ1VvWGFMUlVQb1FydjNtRlRPMXVMNDQ2ZVpOSm1hQTRWUDl6UHJabEpkSFhveVZ4cERCajhXdTZ6Umd4SmxCbmJTZzJBQlBhRWpndjUyNXNuRDNtU3RUeUZyNHJNcVRFQUJTSw?oc=5",
+      "abstract": "高強度ランニングにおける運動誘発性疲労を評価するため、心肺機能、神経筋機能、そして生体力学的側面を統合した多角的なアプローチが検討されました。この研究は、疲労が身体の複数のシステムに及ぼす影響を包括的に捉えることで、アスリートのパフォーマンス低下や怪我のリスクをより正確に予測できる可能性を示唆しています。",
+      "insight": "アスリートの疲労管理には、単一の指標だけでなく、心拍数、筋活動、ランニングフォームの変化など、複数の生理学的・生体力学的データを組み合わせた評価が有効です。これにより、個々のアスリートに最適化されたリカバリー戦略やトレーニング負荷調整が可能になります。",
+      "published_at": "2026-03-10T20:40:59.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "Smith+Nephew社がIntegrity Orthopaedics社の買収を完了、肩関節修復のポートフォリオを強化",
-      "source": "Orthopedics This Week",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNnpRM0xVUFNhaTcxUUJlMFN6UXYxQjh5aGdjVzlXZVk4R0pXbnF2cjhtc195bFRoeWl5YWt6VkNhZktGQUNjTGFUdi02TDJmU2tJZHVWc1htSjRjMkRXQ3RCNk9OdTNTUUFoV1hKUXk4dUdJYXVSZnM1UTM4S3dkUW53a1gtUlNoWGE4bnY2dWhmd2tNeV9ib0hwMnRRd3dJelBBc184V3hmSmhCdTNlUUtyOUVKWW83UXg2TTh2akp4a3lfdTNLamF2Tl9pOUxORVVWUXFXbWI?oc=5",
-      "abstract": "医療技術企業Smith+NephewがIntegrity Orthopaedicsの買収を完了し、肩関節修復分野における製品ポートフォリオを大幅に拡充した。この買収により、同社は肩関節治療市場での競争力を高め、幅広いソリューションを提供できるようになる。",
-      "insight": "肩関節疾患を持つアスリートや患者にとって、診断からリハビリテーションまで一貫した革新的な治療選択肢が増える可能性を示唆。より効果的な手術手技やデバイスの開発が期待される。",
-      "published_at": "2026-01-23T08:00:00.000Z"
+      "title": "MUCL損傷を負ったアスリートの競技復帰",
+      "source": "Mayo Clinic",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5",
+      "abstract": "肘の内側側副靭帯（MUCL）損傷は、特に投球競技のアスリートにとって深刻な怪我であり、その回復と競技復帰は複雑な課題を伴います。本記事では、MUCL損傷のアスリートが安全かつ効果的にスポーツへ復帰するための治療法、リハビリテーションプロトコル、および予防戦略について詳しく解説しています。",
+      "insight": "投球系アスリートのMUCL損傷からの競技復帰には、段階的なリハビリと専門的な評価が不可欠です。医師、理学療法士、コーチが連携し、個々の状態に応じたプログラムを構築することで、再発リスクを最小限に抑え、長期的なキャリアをサポートできます。",
+      "published_at": "2025-12-02T08:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "リハビリからパフォーマンス向上へ：リカバリーへの新しいアプローチ",
+      "title": "リハビリからパフォーマンスへ：回復への新たなアプローチ",
       "source": "The Chaffee County Times",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0NVN2gyNzJ6Nm9yU2xFd0F4Y0xzZ0lUdE9NU1JUTlJKa1VmbHlOUTVxSzFKVm93NXJPajU5VXVBZU9kNm5LRXY2Ti00M3owNzQ1TkVVUGl0b1pXeEZIMnNselU1eDNfT3kwUEJTRGIySWFxR29WVTNoMnZfY2VVN3BiTXVBS3JvaFBxRzZWN0hTN05HWFdCSlFnZ0hkS1JLM0pHQUFyalg0cFdDRGVxM3VoUmlaOXpxQ3ljSUNYeU04VFBLRmczSw?oc=5",
-      "abstract": "従来の傷害からの回復に焦点を当てたリハビリテーションから、アスリートが最高のパフォーマンスを発揮できるよう支援する「パフォーマンス回復」への移行が提唱されている。この新しいアプローチは、単なる機能回復に留まらず、心理的側面や特定のスポーツ動作への適応も重視する。",
-      "insight": "運動指導者や理学療法士は、アスリートのリハビリテーションにおいて、競技復帰だけでなく、競技レベルの維持・向上を目指した包括的なプログラムを導入すべきである。早期からのメンタルサポートや段階的なトレーニング負荷管理が鍵となる。",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0NVN2gyNzJ6Nm9yU2xFd0F4Y0xzZ0lUdE9NU1JUTlJKa1VmbHlOUTVxS0FKVm93NXJPajU5VXVBZU9kNm5LRXY2Ti00M3owNzQ1TkVVUGl0b1pXeEZIMnNselU1eDNfT3kwUEJTRGIySWFxR29WVTNoMnZfY2VVN3BiTXVBS3JvaFBxRzZWN0hTN05HWFdCSlFnZ0hkS1JLM0pHQUFyalg0cFdDRGVxM3VoUmlaOXpxQ3ljSUNYeU04VFBLRmczSw?oc=5",
+      "abstract": "近年のスポーツ医療では、怪我からの回復を単なる機能回復に留めず、アスリートが最高のパフォーマンスを発揮できる状態まで引き上げることを目指す「リハビリからパフォーマンスへ」という新たなアプローチが注目されています。このアプローチでは、怪我前の能力を超えるようなトレーニングや、メンタル面へのサポートも重要視されます。",
+      "insight": "従来のリハビリを超え、アスリートの個別のニーズに合わせたパフォーマンス向上を視野に入れた包括的なプログラムが求められます。怪我の治療だけでなく、その後の強化トレーニングやメンタルケアまでを一貫してサポートすることで、より迅速かつ安全な競技復帰とパフォーマンス向上が期待できます。",
       "published_at": "2026-05-18T21:03:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女性サッカー選手における再発性肩関節後方脱臼による疼痛管理への鍼灸補助療法の症例報告",
+      "title": "女子サッカー選手における再発性肩関節後方脱臼による疼痛管理のための補助的な鍼治療と灸：症例報告",
       "source": "Cureus",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
-      "abstract": "再発性の肩関節後方脱臼に悩む女性サッカー選手に対し、標準治療に加え鍼灸治療を補助的に行ったところ、疼痛の有意な軽減と機能改善が見られた症例が報告された。鍼灸がスポーツ傷害の疼痛管理に有効な選択肢となり得る可能性を示唆している。",
-      "insight": "スポーツ医学の現場において、慢性的な疼痛や再発性傷害に苦しむアスリートに対し、鍼灸治療を補完的なアプローチとして検討する価値がある。特に薬物治療に抵抗がある場合や、回復促進の一環として有望である。",
+      "abstract": "本症例報告では、再発性の肩関節後方脱臼に苦しむ女子サッカー選手に対し、従来の治療に加えて鍼治療と灸を補助的に適用した結果が示されています。この統合的アプローチは、選手の疼痛管理と機能改善に有効であった可能性があり、代替医療のスポーツ傷害治療における潜在的な役割を示唆しています。",
+      "insight": "スポーツ選手の慢性的な疼痛や再発性の怪我に対し、鍼治療や灸のような東洋医学的手法が補助療法として有効な場合があります。特に、西洋医学的アプローチで改善が見られないケースにおいて、疼痛緩和や自然治癒力の促進に寄与する可能性があり、選択肢の一つとして検討する価値があります。",
       "published_at": "2026-03-18T07:00:00.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "わずかな数のクレアチンサプリメントのみが効果的：あなたはどれを選んでいますか？",
+      "title": "わずかなクレアチンサプリメントだけが価値がある。あなたはどれを摂取していますか？",
       "source": "Men's Health",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53TzBmN0tfVXFnM1dJbDljemlfOW9XdUZEREQ1UGVfVm9jUFVlMllPaFZtaTFQdFdwbzJhcUZXRjNyMnEyTVpnZFFaMmJBOVZ4TWZkamdxeExUQldkY2s3Mm9hQzFST29jQzg0STRUYk9sMDF6RktZVEhRSkdTUQ?oc=5",
-      "abstract": "市場には数多くのクレアチンサプリメントが出回っているが、実際に効果が科学的に裏付けられ、コストパフォーマンスに優れた製品は限られているという。記事は、アスリートやトレーニーが信頼できるクレアチン製品を選ぶための基準と推奨事項を提供している。",
-      "insight": "クレアチンはパフォーマンス向上に有効なサプリメントだが、品質が重要。アスリートは、第三者機関による認証や純度、吸収効率などを考慮し、エビデンスに基づいた製品選択を心掛けるべきである。",
+      "abstract": "クレアチンは運動パフォーマンス向上と筋肉増強に広く利用されるサプリメントですが、市場には多種多様な製品が存在し、その品質と有効性は様々です。この記事では、科学的根拠に基づき、本当に効果が期待でき、費用対効果の高いクレアチンサプリメントを選び出すためのポイントと、避けるべき製品について解説しています。",
+      "insight": "アスリートや運動愛好家がクレアチンサプリメントを選ぶ際には、品質、純度、吸収率、そして臨床試験によって裏付けられた製品を優先すべきです。効果を最大限に引き出し、無駄な出費を避けるために、情報に基づいた選択が重要です。",
       "published_at": "2026-04-17T07:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "若年アスリートのスポーツ傷害を防ぐ方法 - Cedars-Sinai",
-      "source": "Youth Sports",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVh0c1NlbHBvSGV6NEFCN3dydFU2LW42VUMyQ1dtWEtINHgzcllVY3N4a0lkM0JRaWpkeUVXWTlIWHRtYlNITkZ2bWNja29ZVE9SQVk2LXBXRWQyN01USUFhNmVid0pJNDRLZl9JLUFTLV9JWkxBZlNfMDFaOWNKa2NnYnJGUEtPWTlIM1FDOTNIOXdPTXh5dFNaNWs4OF9QSnhkVlE5Zld3cEVBdnFjVVlKWQ?oc=5",
-      "abstract": "若年アスリートにおけるスポーツ傷害の予防には、適切なウォームアップとクールダウン、十分な休息、バランスの取れた栄養摂取が重要である。また、特定のスポーツに特化しすぎる「早期専門化」を避け、多様な運動経験を積むことが推奨されている。",
-      "insight": "青少年期のスポーツ指導者は、怪我の予防のために、練習計画に適切な休息期間を設け、特定の競技に偏らず多様な運動能力を育むプログラムを取り入れるべきである。保護者も子供の身体的・精神的健康に配慮し、過度な負荷を避けることが肝要。",
-      "published_at": "2026-01-30T08:00:00.000Z"
+      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
+      "source": "Johns Hopkins Medicine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMW94UXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
+      "abstract": "学生アスリートは、学業とスポーツの両立、成績へのプレッシャー、怪我、人間関係など、様々な要因からメンタルヘルス上の課題に直面しやすいことが知られています。本記事では、保護者やコーチが学生アスリートのメンタルヘルスをサポートするための具体的なヒントと戦略を提供しています。",
+      "insight": "学生アスリートのメンタルヘルスサポートは、パフォーマンス向上だけでなく、彼らの健やかな成長に不可欠です。保護者やコーチは、オープンなコミュニケーションを促し、ストレスの兆候に気づき、必要に応じて専門家のサポートにつなげる役割を果たすべきです。",
+      "published_at": "2026-05-05T15:36:18.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "プレッシャー下のリーダーシップ：エリートスポーツにおけるコーチの睡眠、意思決定、チーム機能",
+      "title": "プレッシャー下のリーダーシップ：エリートスポーツにおけるコーチの睡眠、意思決定、およびチーム機能",
       "source": "Psychiatric Times",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQlA3Y0phdUhqUng0Z0pkYUx6eExrdkt3LWNjalBPbEoyNkItcmxEamR6WGRBb2pwVGlEUGhLaXZaZ2JkaDBLalZhcFhnRmh2amdJMl9oU0p2LXZBTjNJSG0xR2tUdUhiNGF6NWZFZVYyLW9TZHp0aU5UVEFRUWwyQXVqZnVHbTV0QlVyeDZnenhtWVdfVlFQODZBSVp2M2NZXzVfaXVCZUYyM3lpekFSRDE5S0FFenQzQVNnNzVoYU5obXlmSEE?oc=5",
-      "abstract": "エリートスポーツの環境下において、コーチの睡眠の質が、プレッシャーの高い状況での意思決定能力や、結果としてチーム全体の機能に大きな影響を与えることが示唆されている。不十分な睡眠は認知機能の低下を招き、パフォーマンスに悪影響を及ぼす可能性がある。",
-      "insight": "コーチ自身の睡眠管理は、アスリートのパフォーマンス向上だけでなく、チーム運営全体の成功に直結する。コーチもまた、十分な休息とリカバリーを優先し、自身の健康を維持することが、効果的なリーダーシップを発揮する上で不可欠である。",
+      "abstract": "エリートスポーツの現場では、コーチは常に高いプレッシャーと厳しいスケジュールの中で意思決定を求められます。この研究は、コーチの睡眠の質が、彼らの意思決定能力、チームマネジメント、そして最終的なチームの機能にどのように影響するかを分析しています。不十分な睡眠は、パフォーマンス低下や人間関係の悪化につながる可能性が示唆されました。",
+      "insight": "コーチの質の高い睡眠は、アスリートのパフォーマンス向上と同様に、チーム全体の成功に不可欠な要素です。チーム運営者は、コーチが十分な休息を取れるような環境を整備し、彼らのメンタルヘルスをサポートすることで、より効果的なリーダーシップとチーム機能の維持を図るべきです。",
       "published_at": "2026-03-30T07:00:00.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "教育",
-      "source": "産経ニュース",
-      "title": "同志社国際高の平和学習、ヘリ基地反対協の活動と密接な関わり 文科省が認定 是正求める",
-      "summary": "同志社国際高校の平和学習において、沖縄のヘリ基地反対運動団体との密接な関わりが文部科学省によって認定され、是正が求められた。特定の政治的立場に偏る教育内容ではないかという点が問題視されている。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoaHNhd1BnUm9mZG1paXNjclphYkZIdG5XZEp3a1hfa0tMeUZXYkJTWU1naDhnYUQyemNhejF5TjMwbHZIVkpVbEU5OWhVQ1MwY0Z6QldXeUNXVzJHbkV1S05nOGZiazI5MXdQSmZIRzZVNFNrZmc?oc=5",
-      "published_at": "2026-05-22T13:00:00.000Z"
+      "category": "国際",
+      "source": "日本経済新聞",
+      "title": "米イラン、停戦60日延長で合意に近づく FT報道",
+      "summary": "米国とイランが停戦の60日間延長で合意に近づいているとフィナンシャル・タイムズが報じました。中東地域の緊張緩和に向けた動きとして注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hLVRaZnhFV3YzbFMyb3BJQnpxSUVWTUh0aUNqdFRCdlZIczhXblkwSEFwMzRDbkhra3hJUTFkVS0zNGdOM3BDdlp6LUFzRmJNX1hVZ3c2V3R3RzlRR2s4OEJYUEJ2bXhvSEdOMA?oc=5",
+      "published_at": "2026-05-23T15:45:29.000Z"
     },
     {
       "id": "j002",
-      "category": "社会",
-      "source": "Yahoo!ニュース",
-      "title": "栃木・強盗殺人》「バイクで来て朝方までうるさく…注意したらツバを吐かれ」指示役タトゥー夫とつながっていた16歳少年の素顔…遺族は「同じような苦しみを味わってほしい」（集英社オンライン",
-      "summary": "栃木県で発生した強盗殺人事件で、指示役の男と関わっていたとされる16歳少年の素顔が報じられた。近隣住民からは騒音トラブルの指摘があり、被害者遺族は少年への厳しい処罰を求めている。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2VnFicjZycEVYamd1a0diXzA1bmNEdDk0M0hCTWdMMThuVk9rek5sOGx1Q1F5a0FDY2dSSXgzdDdfSkswWTZCc2RtYmVGWU15MVNoNGUzUDZGV0pZTDhtX2hrUW5nQUFiWTlwbERPNTJtbUNzN01ZcWQxTDZneGc?oc=5",
-      "published_at": "2026-05-22T10:39:15.000Z"
+      "category": "政治",
+      "source": "読売新聞",
+      "title": "高市首相、中国炭鉱ガス爆発事故に「大変心を痛めている」…ＳＮＳに日本語・中国語・英語で",
+      "summary": "高市首相は、中国で発生した炭鉱ガス爆発事故に対し、自身のSNSで日本語、中国語、英語の3カ国語で哀悼の意と見舞いの言葉を表明しました。国際社会との連携を意識した対応と見られます。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WZk1wSm9mdjJvaFIwRmZLTHdnTzFRWTNrOFRSMjJYZ2R1WlNzQnZlWDNpSWVJMEhUOHN3cXZwOWRSV1hMMTM4SlFpTU9nTFVSTk05cFY2b1czOG9ESzRtNnlQek8xUQ?oc=5",
+      "published_at": "2026-05-23T14:02:00.000Z"
     },
     {
       "id": "j003",
-      "category": "社会",
-      "source": "読売新聞",
-      "title": "帰還困難区域をパトロールせずに計２４０万円の手当を不当受給、福島県警が３９人処分…読書やテレビ視聴",
-      "summary": "福島県警の警察官39人が、東京電力福島第一原発事故の帰還困難区域でのパトロールを怠り、手当計240万円を不当に受給していたことが判明し、処分された。勤務中に読書やテレビ視聴をしていたという。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adHBEUTl6VmNjeU9adVoxTmZfVWJ1NmVQUDNISWsyN2l0M3pXX1Zsci1jQUU5OWJWVFNpZVpUNnp4MV9DdEJVY1NYM2hydzBoNzM1TFVHbnlrczc5Q1RZVi03QUxhZw?oc=5",
-      "published_at": "2026-05-22T13:50:00.000Z"
+      "category": "政治",
+      "source": "FNNプライムオンライン",
+      "title": "赤沢経産大臣が中国閣僚と「立ち話」 台湾有事発言後初の接触 レアアース輸出是正求める",
+      "summary": "赤沢経産大臣が、台湾有事に関する発言後初めて中国閣僚と「立ち話」を行いました。会談では、レアアース輸出に関する是正を求めるなど、両国間の経済問題について意見交換が行われた模様です。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GUzNraWpkMEpKNXNTcVlaVGh2WEdGS3ZRX3pZa1J4WEdXemhUTFZBT0hFampZc1RoR3BjanZXa1h3VzJNeGNwV1c4cklDdw?oc=5",
+      "published_at": "2026-05-23T09:03:00.000Z"
     },
     {
       "id": "j004",
-      "category": "社会",
-      "source": "日本経済新聞",
-      "title": "フェンタニル密輸「日本が経由地」 米麻薬取締局高官が認める",
-      "summary": "米麻薬取締局（DEA）の高官が、合成麻薬フェンタニルの密輸において、日本が経由地となっている可能性を認めた。日本における薬物乱用問題や国際的な麻薬対策の強化が課題として浮上している。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MZlRVX05ybmczcDRfc2tZOHJUU2psN1Yya1hPbW1UNkV2Q3NQNGRDd0VabldrQ2JkOHU5TVQyQ0lwWTdsUmx6RDFtby1BUnZodnF1ZkFRQnY0bGZEWlhweHBBN2FabHhHenJCSw?oc=5",
-      "published_at": "2026-05-22T09:30:15.000Z"
+      "category": "国際",
+      "source": "毎日新聞",
+      "title": "草案は「まるで核保有国が作った文書」 「失敗」続くNPT会議",
+      "summary": "核兵器不拡散条約（NPT）の会議が難航し、草案が「まるで核保有国が作った文書のようだ」と非難されています。核軍縮に向けた国際社会の取り組みの難しさが浮き彫りになっています。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjdk9zaU5uRTNMclRDUEVSMnBEYVBuLTRLcWJ2aVdkYjZDQm05SXZZVjVlakg4d2FiTElMbXNIc0FTeUlnZnJGQml1Q2N6NktyTFM1ekQ5UHI2VFNobXFPYUVxQ2VGcUhT?oc=5",
+      "published_at": "2026-05-23T11:42:03.000Z"
     },
     {
       "id": "j005",
-      "category": "環境・気候",
-      "source": "ウェザーニュース",
-      "title": "今日5月23日(土)の天気予報 関東以西は曇りや雨の所が多い 北日本はお出かけ日和",
-      "summary": "5月23日(土)の天気予報によると、関東から西の地域では曇りや雨のところが多くなると予想されている。一方、北日本では晴れ間が広がり、お出かけに適した天気となる見込みだ。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pcWhPajJwdW10NC1IdXJFeFB4WG8tZjZlb2wxSmZFRXJHREdpZWMzdEREUTVxWm5CZDM4VFhEdDlVb3dnakxIMllSdXZGUU5DTVlkUQ?oc=5",
-      "published_at": "2026-05-22T20:17:00.000Z"
+      "category": "国際",
+      "source": "読売新聞",
+      "title": "米中首脳会談で習主席が高市首相を名指し非難、トランプ氏は擁護…緊張長期化の見方広がる",
+      "summary": "米中首脳会談において、中国の習主席が高市首相を名指しで非難する一方、トランプ氏は高市首相を擁護する異例の展開となりました。これにより、米中間の緊張関係とそれに伴う国際情勢の複雑化が長期化するとの見方が広がっています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oa0tjTjRJVmVQTU0zVnhhUUJUUzExVWZBZlY2bW43VVBwQXZkbHJDYnhaMTBVcHpIT3d5VjNOdDJhX1l3VDRSWTVCMlI4b2hJdnFJQUNzRm94SUh0SXJWeHlZRmtqdw?oc=5",
+      "published_at": "2026-05-23T20:00:00.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
-      "category": "Politics",
-      "region": "US",
-      "source": "The Guardian",
-      "title": "タルシ・ギャバードが国家情報長官を辞任、トランプ氏がアーロン・ルーカスを国家情報長官代行に指名 – 米国政治ライブ",
-      "summary": "タルシ・ギャバード国家情報長官が辞任し、トランプ大統領はアーロン・ルーカス氏を国家情報長官代行に指名した。この人事は米国の情報機関トップの交代となり、今後の外交・安全保障政策に影響を与える可能性がある。",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGUwQmFRa3JMSnFsY1lhRW9HVkxtWHZydWVNbHdhOUItT1lRVVAzdGUwdUxQejl2Vl96VDVLVEl1ZkhORS1GRWk5dUFxeS1fT2dqUEpOeFBvbFNBalMyMHR3dTF6RGtlZlJOTlA5SzJOVDc2WGFIMkFPaFc2dUdKZ1l1MUp6TjlsRUlCMkFXR0xkeno5N3FpQVBaX25IbjlSUHRVUGVXa2ZsTldtQWZUZWJ6T3pzaFIt?oc=5",
-      "published_at": "2026-05-22T20:24:19.000Z"
+      "category": "Conflict",
+      "region": "Middle East",
+      "source": "BBC",
+      "title": "イラン、米国との合意に「かなり近づいている」とトランプ氏が発言",
+      "summary": "トランプ氏は、イランが米国との合意形成に「かなり近づいている」と発言しました。これは、両国間の緊張緩和に向けた進展を示唆する可能性があり、国際社会の注目を集めています。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BeXpHWk9FU1RfRHJIMGFNQ2tacWNvM2dCanhJNVlxODFJWWtrWS1aLTc2UVJKc1dGdC1HRC1fbTlQNnNBYWZYRnZJM0JTYUFXLXhYc0FEeWNCZw?oc=5",
+      "published_at": "2026-05-23T19:37:28.000Z"
     },
     {
       "id": "g002",
-      "category": "Politics",
+      "category": "Social",
       "region": "US",
-      "source": "The Washington Post",
-      "title": "新規則により、ほとんどのグリーンカード申請者は米国外からの申請が必須に",
-      "summary": "米国政府は新たな規則を発表し、ほとんどの永住権（グリーンカード）申請者に対し、米国外からの申請を義務付けた。この変更は、米国の移民政策に大きな影響を与え、申請手続きの複雑化が懸念される。",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmxRNkpfZnh2Y0h4R1Q3YVMxRXFtWlFHdjFRUHc2QzdGa2hyeVJpSFNSalo0bXA3U3VLbmsyMW5hUnZacllkaFNaZ0M4S0JOLWdIanZSbUdIS3JYT0JwTWFlS3g1cFNRbVpZczlXZDY1LTZfd3N0dDUxMUx1NWJWMEJVS1A1NDc1T1lmTEp1WHNGR1R3TWpIZDJVVXdUQzVvZ29xWlp4dWd4Z2JHVFpUVXozQU55X0k?oc=5",
-      "published_at": "2026-05-22T19:04:26.000Z"
+      "source": "ABC7 Los Angeles",
+      "title": "ライブアップデート：オレンジ郡で有害化学物質が漏洩中のタンクが「流出または爆発する」と当局が発表",
+      "summary": "米国オレンジ郡で有害化学物質を積んだタンクから漏洩が発生しており、当局はタンクが「流出または爆発する可能性が高い」と警告しました。住民の安全確保のため、緊急対応が続けられています。",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV0VpTXBmZUhNbENkWFIyb0JwS3NDU2xxcWpqdTFzTk0xQjJtQW1ER0pYM05XZ2xoUEZQMDNKUGZDT1E2YUFSZkxyWkU1UlhVNnBlSXpiekNCNEl0cG9Ib19BNGRrSTBtR0E4b2R4NVRQMklVOUFZUWIxREQwMHVYZGlnY0ZhLXNIa0xnUVlTZWtDVEQtRF85WDZ0UmRmcHpMaUJBa2M0V0Fhel9mTGFNZWJHV3JaNnVRckVkaXVNS1RXaE9BaXpaODdGMkZPVkdTeHRNeTZaOEJhaXhiQXNkRA?oc=5",
+      "published_at": "2026-05-23T19:53:00.000Z"
     },
     {
       "id": "g003",
       "category": "Politics",
       "region": "US",
-      "source": "NBC News",
-      "title": "裁判官が人身売買事件でキルマー・アブレゴ・ガルシアに対する刑事告訴を棄却",
-      "summary": "裁判官が、人身売買事件で被告キルマー・アブレゴ・ガルシアに対する刑事告訴を棄却した。この決定は、人身売買事件の司法プロセスにおける複雑さと、証拠収集の難しさを示唆している。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUW9zdUhiX3BuWVF5UUJOY3VFcUt2LWFRUUhzZ3lnVXk1WFhFQW5sZUZpRkV6ZURyYmlubjNBU0c5d2wwR09UV1JyQlpDaVRxT0x0ZmVvX3RsQzJzWXRqTWluSDNHSlNkZXdvWVRPV2FBVERRRjNicFhyWWR4bmZOdDVSbmIzbnhKRVhrLXZyTG8yWWRLT1RvWXJBdzBuOVo1NHhrczNZMGhlb0dScnZjSTJONA?oc=5",
-      "published_at": "2026-05-22T20:27:08.000Z"
+      "source": "The Washington Post",
+      "title": "共和党がトランプ氏に挫折をもたらし、Capitol Hillで厳しい一週間",
+      "summary": "ドナルド・トランプ氏は、Capitol Hillで共和党議員らから複数の挫折を受け、厳しい一週間を過ごしました。これは、彼の政治的影響力に変化が生じている可能性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDluYzF1NjdzU1BYT2g2b0NSazQ4eE9JNW5FYW5paXZkWEo5YzI4cnBRSVFlNk9kdHZUNUs5aEgyeGM5c3dJVnpMVmx4cDNrUlN6VU15ZldOaEE5ZGJGMTE3SGhzMHFzc1R4UG5CTmR1R0hZUVQyTnE3SlpwQlVMQXNhWW1ldlRjbEljQ0VNZjFKRlhobk5UV0stbm5sbEc5RnFrZ0xMQ013cE0yM1pTLQ?oc=5",
+      "published_at": "2026-05-23T16:00:00.000Z"
     },
     {
       "id": "g004",
-      "category": "Culture",
+      "category": "Politics",
       "region": "US",
-      "source": "The New York Times",
-      "title": "ドナルド・トランプ・ジュニアとベッティーナ・アンダーソンがウェストパームビーチで結婚",
-      "summary": "ドナルド・トランプ元大統領の息子であるドナルド・トランプ・ジュニア氏とベッティーナ・アンダーソン氏が、フロリダ州ウェストパームビーチで結婚式を挙げた。著名な政治家一族の結婚として注目を集めている。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVJrMjhNMTB1YWhWb3E5Qk1CWXlJUXh0bTZKOGlSOXMwVDR6MHFxaFU4YzBYanZPRDJrdHVFOUYtcE5mRENKT0x1WlRTQjdmcjA0cGxjbFJ4ZUhrclJsTGJDQ052STJKOUVDN0djQjBCbjhiQVRqTnVpNjhtYUxsWUg2Z2NYSzU2T3A5Yi1mMlBGTFZzSDFiUWJ4al9DSy1CSzcySw?oc=5",
-      "published_at": "2026-05-22T19:17:49.000Z"
+      "source": "NPR",
+      "title": "トランプ政権、米国の外国人に国外での永住権申請を強制へ",
+      "summary": "トランプ政権は、米国内に滞在する外国人に国外で永住権（グリーンカード）を申請することを義務付ける新たな政策を打ち出しました。これは移民政策の大きな転換となり、多くの外国人に影響を与える見込みです。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDBDZDIxLV9DQzExaWp5T3RDYXhNeXBBNldTMVFNTEJuRm1fdlNHUkJ4bU9lZUlWdUljb0NYd19jbUZmUEs0WFN6cWIwUFNIYlBNZXhFNExyODlnckFQS0hrME5XSjNqbklhS080ajFEOWhWR0tVM0FyaHVqejk2MUVPTkl0MFI4NzFr?oc=5",
+      "published_at": "2026-05-23T05:11:23.000Z"
     },
     {
       "id": "g005",
-      "category": "Climate",
+      "category": "Politics",
       "region": "US",
-      "source": "ABC7 Los Angeles",
-      "title": "ガーデングローブでタンクから有毒化学物質が流出し、避難命令が発令",
-      "summary": "カリフォルニア州ガーデングローブでタンクから有毒化学物質が流出し、周辺住民に避難命令が出された。当局は流出源の特定と封じ込め作業を急いでおり、健康被害や環境への影響が懸念されている。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmRBazZLVEFlUnEybktwS1dQZmQ4eWhKQkQtUGhYSUdaeS04aHdqSXRMU2dFYW9XQWQwZG96bHVHaVRLYzdLYlh4b3Zsb2pFUHRMNUZ4Tk8zeEJEZ2htbW5sLXpnMHVGVUNDc1gzYko4UkF5TkVNM2tmV0RNLVhyRE5Fc09MZmFRNkxSMTFHMTMxQ2k2Z1djTVhWNGhRRnR50gGmAUFVX3lxTE9ScUQtcUl1elJtOHlsYnREUkVNM0o5RXRUZU1LWlhmekpJNzdNdmF3SXphRW04RmtIWjF0UG5rMm5FaDFJdFpFcjZXZFg3UWxob1JxUFlRaGJnYVlFb0piUjluNTFub0xtdE9Tdm9aa0FXRE40M0Rwc1E0X1lPUFhUcHJsVnZuRjBhSjBKZURLSVVxbFdZMC1YMXl1amwyUXJ3VzdjdkE?oc=5",
-      "published_at": "2026-05-22T15:11:44.000Z"
+      "source": "The Washington Post",
+      "title": "トランプ氏の18億ドルの支払い基金、その実際の仕組みは公開義務なし",
+      "summary": "ドナルド・トランプ氏が関与する18億ドルの支払い基金について、その実際の運用方法が公開される義務がないことが報じられました。資金の透明性に関する懸念が浮上しています。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYklFT29rVDR4b2NENklrRXI5amduNVctSUE0M1dxOXJKUjhQZjFnNGJ1NllLUGhlZTBrZzExVW1wbXI0OHIyUU96T2ZwLXJ6VkpMUEFCb0Z0NDdZbkZpVGZqLWdhYkJoOGVHNDZwSGVRRGZXRjZwbEt3MTZiNnp3QV9TM3ppZmplaGlIYjA2cm4wS19aNEMtLWtmdEJYY1hacmRWWWUzbDdtYlBZMjdiJmlmQQ?oc=5",
+      "published_at": "2026-05-23T16:00:00.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,161 +187,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツにおけるACL損傷の増加とその原因",
-      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加しており、その背景には生物学的要因（例: 膝の構造や筋力バランスの違い）や、若年層でのスポーツ専門化の傾向などが挙げられる。特に成長期の女子アスリートはACL損傷のリスクが高いことが指摘されている。",
+      "title": "女子スポーツでACL損傷が増加している理由",
+      "summary": "近年、女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が上昇しており、特に女子は男子に比べてACL損傷のリスクが高いことが指摘されています。この増加には、解剖学的構造の違い、ホルモンの影響、トレーニング方法の偏り、スポーツへの早期専門化など複数の要因が関連していると考えられています。",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "ラップクロージャー型シューレーシングシステムが長時間のランニング中の快適性、安定性、下肢筋活動に及ぼす影響",
-      "summary": "この研究では、ラップクロージャー型シューレーシングシステムが、長時間のランニングにおけるシューズの快適性、足の固定安定性、および下肢の筋肉活動にどのような影響を与えるかを調査した。従来のレーシングシステムと比較し、特定の条件下で快適性と安定性の向上が見られた。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmVSNmgyRGRFaVBKaW1tTUYzalhpd3pnblhHbllreUUzQzhLaTJrc0E0NXBPbnh3THRSalVtdjlSeTNacGVDUnpOckN5MXFyeGZyUjFzMzdVNkRlYjR2cGlibkpDN1VxSTgwaW9VQ29TeGRKQ3RGTi1meUNHdElkemthOXVrR1dhTVh0N25uTGRWMDZ5ekQzeEE3ZGUwVUpmeDdSWQ?oc=5"
+      "title": "運動誘発性疲労の多角的評価：高強度ランニングにおける心肺機能、神経筋、生体力学的プロファイリングの統合",
+      "summary": "高強度ランニングにおける運動誘発性疲労を評価するため、心肺機能、神経筋機能、そして生体力学的側面を統合した多角的なアプローチが検討されました。この研究は、疲労が身体の複数のシステムに及ぼす影響を包括的に捉えることで、アスリートのパフォーマンス低下や怪我のリスクをより正確に予測できる可能性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVHWmdqRjNUTGk1YlU3UHBnZzNUNnE5NFd2aVJVdlRRb0Vmek9OMmZDM2l3VjJ3dTlBNGNzUnBmZ1VvWGFMUlVQb1FydjNtRlRPMXVMNDQ2ZVpOSm1hQTRWUDl6UHJabEpkSFhveVZ4cERCajhXdTZ6Umd4SmxCbmJTZzJBQlBhRWpndjUyNXNuRDNtU3RUeUZyNHJNcVRFQUJTSw?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "Smith+Nephew社がIntegrity Orthopaedics社の買収を完了、肩関節修復のポートフォリオを強化",
-      "summary": "医療技術企業Smith+NephewがIntegrity Orthopaedicsの買収を完了し、肩関節修復分野における製品ポートフォリオを大幅に拡充した。この買収により、同社は肩関節治療市場での競争力を高め、幅広いソリューションを提供できるようになる。",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNnpRM0xVUFNhaTcxUUJlMFN6UXYxQjh5aGdjVzlXZVk4R0pXbnF2cjhtc195bFRoeWl5YWt6VkNhZktGQUNjTGFUdi02TDJmU2tJZHVWc1htSjRjMkRXQ3RCNk9OdTNTUUFoV1hKUXk4dUdJYXVSZnM1UTM4S3dkUW53a1gtUlNoWGE4bnY2dWhmd2tNeV9ib0hwMnRRd3dJelBBc184V3hmSmhCdTNlUUtyOUVKWW83UXg2TTh2akp4a3lfdTNLamF2Tl9pOUxORVVWUXFXbWI?oc=5"
+      "title": "MUCL損傷を負ったアスリートの競技復帰",
+      "summary": "肘の内側側副靭帯（MUCL）損傷は、特に投球競技のアスリートにとって深刻な怪我であり、その回復と競技復帰は複雑な課題を伴います。本記事では、MUCL損傷のアスリートが安全かつ効果的にスポーツへ復帰するための治療法、リハビリテーションプロトコル、および予防戦略について詳しく解説しています。",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "リハビリからパフォーマンス向上へ：リカバリーへの新しいアプローチ",
-      "summary": "従来の傷害からの回復に焦点を当てたリハビリテーションから、アスリートが最高のパフォーマンスを発揮できるよう支援する「パフォーマンス回復」への移行が提唱されている。この新しいアプローチは、単なる機能回復に留まらず、心理的側面や特定のスポーツ動作への適応も重視する。",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0NVN2gyNzJ6Nm9yU2xFd0F4Y0xzZ0lUdE9NU1JUTlJKa1VmbHlOUTVxSzFKVm93NXJPajU5VXVBZU9kNm5LRXY2Ti00M3owNzQ1TkVVUGl0b1pXeEZIMnNselU1eDNfT3kwUEJTRGIySWFxR29WVTNoMnZfY2VVN3BiTXVBS3JvaFBxRzZWN0hTN05HWFdCSlFnZ0hkS1JLM0pHQUFyalg0cFdDRGVxM3VoUmlaOXpxQ3ljSUNYeU04VFBLRmczSw?oc=5"
+      "title": "リハビリからパフォーマンスへ：回復への新たなアプローチ",
+      "summary": "近年のスポーツ医療では、怪我からの回復を単なる機能回復に留めず、アスリートが最高のパフォーマンスを発揮できる状態まで引き上げることを目指す「リハビリからパフォーマンスへ」という新たなアプローチが注目されています。このアプローチでは、怪我前の能力を超えるようなトレーニングや、メンタル面へのサポートも重要視されます。",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0NVN2gyNzJ6Nm9yU2xFd0F4Y0xzZ0lUdE9NU1JUTlJKa1VmbHlOUTVxS0FKVm93NXJPajU5VXVBZU9kNm5LRXY2Ti00M3owNzQ1TkVVUGl0b1pXeEZIMnNselU1eDNfT3kwUEJTRGIySWFxR29WVTNoMnZfY2VVN3BiTXVBS3JvaFBxRzZWN0hTN05HWFdCSlFnZ0hkS1JLM0pHQUFyalg0cFdDRGVxM3VoUmlaOXpxQ3ljSUNYeU04VFBLRmczSw?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女性サッカー選手における再発性肩関節後方脱臼による疼痛管理への鍼灸補助療法の症例報告",
-      "summary": "再発性の肩関節後方脱臼に悩む女性サッカー選手に対し、標準治療に加え鍼灸治療を補助的に行ったところ、疼痛の有意な軽減と機能改善が見られた症例が報告された。鍼灸がスポーツ傷害の疼痛管理に有効な選択肢となり得る可能性を示唆している。",
+      "title": "女子サッカー選手における再発性肩関節後方脱臼による疼痛管理のための補助的な鍼治療と灸：症例報告",
+      "summary": "本症例報告では、再発性の肩関節後方脱臼に苦しむ女子サッカー選手に対し、従来の治療に加えて鍼治療と灸を補助的に適用した結果が示されています。この統合的アプローチは、選手の疼痛管理と機能改善に有効であった可能性があり、代替医療のスポーツ傷害治療における潜在的な役割を示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "わずかな数のクレアチンサプリメントのみが効果的：あなたはどれを選んでいますか？",
-      "summary": "市場には数多くのクレアチンサプリメントが出回っているが、実際に効果が科学的に裏付けられ、コストパフォーマンスに優れた製品は限られているという。記事は、アスリートやトレーニーが信頼できるクレアチン製品を選ぶための基準と推奨事項を提供している。",
+      "title": "わずかなクレアチンサプリメントだけが価値がある。あなたはどれを摂取していますか？",
+      "summary": "クレアチンは運動パフォーマンス向上と筋肉増強に広く利用されるサプリメントですが、市場には多種多様な製品が存在し、その品質と有効性は様々です。この記事では、科学的根拠に基づき、本当に効果が期待でき、費用対効果の高いクレアチンサプリメントを選び出すためのポイントと、避けるべき製品について解説しています。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53TzBmN0tfVXFnM1dJbDljemlfOW9XdUZEREQ1UGVfVm9jUFVlMllPaFZtaTFQdFdwbzJhcUZXRjNyMnEyTVpnZFFaMmJBOVZ4TWZkamdxeExUQldkY2s3Mm9hQzFST29jQzg0STRUYk9sMDF6RktZVEhRSkdTUQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "若年アスリートのスポーツ傷害を防ぐ方法 - Cedars-Sinai",
-      "summary": "若年アスリートにおけるスポーツ傷害の予防には、適切なウォームアップとクールダウン、十分な休息、バランスの取れた栄養摂取が重要である。また、特定のスポーツに特化しすぎる「早期専門化」を避け、多様な運動経験を積むことが推奨されている。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVh0c1NlbHBvSGV6NEFCN3dydFU2LW42VUMyQ1dtWEtINHgzcllVY3N4a0lkM0JRaWpkeUVXWTlIWHRtYlNITkZ2bWNja29ZVE9SQVk2LXBXRWQyN01USUFhNmVid0pJNDRLZl9JLUFTLV9JWkxBZlNfMDFaOWNKa2NnYnJGUEtPWTlIM1FDOTNIOXdPTXh5dFNaNWs4OF9QSnhkVlE5Zld3cEVBdnFjVVlKWQ?oc=5"
+      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
+      "summary": "学生アスリートは、学業とスポーツの両立、成績へのプレッシャー、怪我、人間関係など、様々な要因からメンタルヘルス上の課題に直面しやすいことが知られています。本記事では、保護者やコーチが学生アスリートのメンタルヘルスをサポートするための具体的なヒントと戦略を提供しています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMW94UXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "プレッシャー下のリーダーシップ：エリートスポーツにおけるコーチの睡眠、意思決定、チーム機能",
-      "summary": "エリートスポーツの環境下において、コーチの睡眠の質が、プレッシャーの高い状況での意思決定能力や、結果としてチーム全体の機能に大きな影響を与えることが示唆されている。不十分な睡眠は認知機能の低下を招き、パフォーマンスに悪影響を及ぼす可能性がある。",
+      "title": "プレッシャー下のリーダーシップ：エリートスポーツにおけるコーチの睡眠、意思決定、およびチーム機能",
+      "summary": "エリートスポーツの現場では、コーチは常に高いプレッシャーと厳しいスケジュールの中で意思決定を求められます。この研究は、コーチの睡眠の質が、彼らの意思決定能力、チームマネジメント、そして最終的なチームの機能にどのように影響するかを分析しています。不十分な睡眠は、パフォーマンス低下や人間関係の悪化につながる可能性が示唆されました。",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQlA3Y0phdUhqUng0Z0pkYUx6eExrdkt3LWNjalBPbEoyNkItcmxEamR6WGRBb2pwVGlEUGhLaXZaZ2JkaDBLalZhcFhnRmh2amdJMl9oU0p2LXZBTjNJSG0xR2tUdUhiNGF6NWZFZVYyLW9TZHp0aU5UVEFRUWwyQXVqZnVHbTV0QlVyeDZnenhtWVdfVlFQODZBSVp2M2NZXzVfaXVCZUYyM3lpekFSRDE5S0FFenQzQVNnNzVoYU5obXlmSEE?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "教育",
-      "title": "同志社国際高の平和学習、ヘリ基地反対協の活動と密接な関わり 文科省が認定 是正求める",
-      "summary": "同志社国際高校の平和学習において、沖縄のヘリ基地反対運動団体との密接な関わりが文部科学省によって認定され、是正が求められた。特定の政治的立場に偏る教育内容ではないかという点が問題視されている。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoaHNhd1BnUm9mZG1paXNjclphYkZIdG5XZEp3a1hfa0tMeUZXYkJTWU1naDhnYUQyemNhejF5TjMwbHZIVkpVbEU5OWhVQ1MwY0Z6QldXeUNXVzJHbkV1S05nOGZiazI5MXdQSmZIRzZVNFNrZmc?oc=5"
+      "category": "国際",
+      "title": "米イラン、停戦60日延長で合意に近づく FT報道",
+      "summary": "米国とイランが停戦の60日間延長で合意に近づいているとフィナンシャル・タイムズが報じました。中東地域の緊張緩和に向けた動きとして注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hLVRaZnhFV3YzbFMyb3BJQnpxSUVWTUh0aUNqdFRCdlZIczhXblkwSEFwMzRDbkhra3hJUTFkVS0zNGdOM3BDdlp6LUFzRmJNX1hVZ3c2V3R3RzlRR2s4OEJYUEJ2bXhvSEdOMA?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "栃木・強盗殺人》「バイクで来て朝方までうるさく…注意したらツバを吐かれ」指示役タトゥー夫とつながっていた16歳少年の素顔…遺族は「同じような苦しみを味わってほしい」（集英社オンライン",
-      "summary": "栃木県で発生した強盗殺人事件で、指示役の男と関わっていたとされる16歳少年の素顔が報じられた。近隣住民からは騒音トラブルの指摘があり、被害者遺族は少年への厳しい処罰を求めている。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2VnFicjZycEVYamd1a0diXzA1bmNEdDk0M0hCTWdMMThuVk9rek5sOGx1Q1F5a0FDY2dSSXgzdDdfSkswWTZCc2RtYmVGWU15MVNoNGUzUDZGV0pZTDhtX2hrUW5nQUFiWTlwbERPNTJtbUNzN01ZcWQxTDZneGc?oc=5"
+      "category": "政治",
+      "title": "高市首相、中国炭鉱ガス爆発事故に「大変心を痛めている」…ＳＮＳに日本語・中国語・英語で",
+      "summary": "高市首相は、中国で発生した炭鉱ガス爆発事故に対し、自身のSNSで日本語、中国語、英語の3カ国語で哀悼の意と見舞いの言葉を表明しました。国際社会との連携を意識した対応と見られます。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WZk1wSm9mdjJvaFIwRmZLTHdnTzFRWTNrOFRSMjJYZ2R1WlNzQnZlWDNpSWVJMEhUOHN3cXZwOWRSV1hMMTM4SlFpTU9nTFVSTk05cFY2b1czOG9ESzRtNnlQek8xUQ?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "帰還困難区域をパトロールせずに計２４０万円の手当を不当受給、福島県警が３９人処分…読書やテレビ視聴",
-      "summary": "福島県警の警察官39人が、東京電力福島第一原発事故の帰還困難区域でのパトロールを怠り、手当計240万円を不当に受給していたことが判明し、処分された。勤務中に読書やテレビ視聴をしていたという。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adHBEUTl6VmNjeU9adVoxTmZfVWJ1NmVQUDNISWsyN2l0M3pXX1Zsci1jQUU5OWJWVFNpZVpUNnp4MV9DdEJVY1NYM2hydzBoNzM1TFVHbnlrczc5Q1RZVi03QUxhZw?oc=5"
+      "category": "政治",
+      "title": "赤沢経産大臣が中国閣僚と「立ち話」 台湾有事発言後初の接触 レアアース輸出是正求める",
+      "summary": "赤沢経産大臣が、台湾有事に関する発言後初めて中国閣僚と「立ち話」を行いました。会談では、レアアース輸出に関する是正を求めるなど、両国間の経済問題について意見交換が行われた模様です。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GUzNraWpkMEpKNXNTcVlaVGh2WEdGS3ZRX3pZa1J4WEdXemhUTFZBT0hFampZc1RoR3BjanZXa1h3VzJNeGNwV1c4cklDdw?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "フェンタニル密輸「日本が経由地」 米麻薬取締局高官が認める",
-      "summary": "米麻薬取締局（DEA）の高官が、合成麻薬フェンタニルの密輸において、日本が経由地となっている可能性を認めた。日本における薬物乱用問題や国際的な麻薬対策の強化が課題として浮上している。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MZlRVX05ybmczcDRfc2tZOHJUU2psN1Yya1hPbW1UNkV2Q3NQNGRDd0VabldrQ2JkOHU5TVQyQ0lwWTdsUmx6RDFtby1BUnZodnF1ZkFRQnY0bGZEWlhweHBBN2FabHhHenJCSw?oc=5"
+      "category": "国際",
+      "title": "草案は「まるで核保有国が作った文書」 「失敗」続くNPT会議",
+      "summary": "核兵器不拡散条約（NPT）の会議が難航し、草案が「まるで核保有国が作った文書のようだ」と非難されています。核軍縮に向けた国際社会の取り組みの難しさが浮き彫りになっています。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjdk9zaU5uRTNMclRDUEVSMnBEYVBuLTRLcWJ2aVdkYjZDQm05SXZZVjVlakg4d2FiTElMbXNIc0FTeUlnZnJGQml1Q2N6NktyTFM1ekQ5UHI2VFNobXFPYUVxQ2VGcUhT?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "今日5月23日(土)の天気予報 関東以西は曇りや雨の所が多い 北日本はお出かけ日和",
-      "summary": "5月23日(土)の天気予報によると、関東から西の地域では曇りや雨のところが多くなると予想されている。一方、北日本では晴れ間が広がり、お出かけに適した天気となる見込みだ。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pcWhPajJwdW10NC1IdXJFeFB4WG8tZjZlb2wxSmZFRXJHREdpZWMzdEREUTVxWm5CZDM4VFhEdDlVb3dnakxIMllSdXZGUU5DTVlkUQ?oc=5"
+      "category": "国際",
+      "title": "米中首脳会談で習主席が高市首相を名指し非難、トランプ氏は擁護…緊張長期化の見方広がる",
+      "summary": "米中首脳会談において、中国の習主席が高市首相を名指しで非難する一方、トランプ氏は高市首相を擁護する異例の展開となりました。これにより、米中間の緊張関係とそれに伴う国際情勢の複雑化が長期化するとの見方が広がっています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oa0tjTjRJVmVQTU0zVnhhUUJUUzExVWZBZlY2bW43VVBwQXZkbHJDYnhaMTBVcHpIT3d5VjNOdDJhX1l3VDRSWTVCMlI4b2hJdnFJQUNzRm94SUh0SXJWeHlZRmtqdw?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "タルシ・ギャバードが国家情報長官を辞任、トランプ氏がアーロン・ルーカスを国家情報長官代行に指名 – 米国政治ライブ",
-      "summary": "タルシ・ギャバード国家情報長官が辞任し、トランプ大統領はアーロン・ルーカス氏を国家情報長官代行に指名した。この人事は米国の情報機関トップの交代となり、今後の外交・安全保障政策に影響を与える可能性がある。",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGUwQmFRa3JMSnFsY1lhRW9HVkxtWHZydWVNbHdhOUItT1lRVVAzdGUwdUxQejl2Vl96VDVLVEl1ZkhORS1GRWk5dUFxeS1fT2dqUEpOeFBvbFNBalMyMHR3dTF6RGtlZlJOTlA5SzJOVDc2WGFIMkFPaFc2dUdKZ1l1MUp6TjlsRUlCMkFXR0xkeno5N3FpQVBaX25IbjlSUHRVUGVXa2ZsTldtQWZUZWJ6T3pzaFIt?oc=5"
+      "category": "Conflict",
+      "title": "イラン、米国との合意に「かなり近づいている」とトランプ氏が発言",
+      "summary": "トランプ氏は、イランが米国との合意形成に「かなり近づいている」と発言しました。これは、両国間の緊張緩和に向けた進展を示唆する可能性があり、国際社会の注目を集めています。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BeXpHWk9FU1RfRHJIMGFNQ2tacWNvM2dCanhJNVlxODFJWWtrWS1aLTc2UVJKc1dGdC1HRC1fbTlQNnNBYWZYRnZJM0JTYUFXLXhYc0FEeWNCZw?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "新規則により、ほとんどのグリーンカード申請者は米国外からの申請が必須に",
-      "summary": "米国政府は新たな規則を発表し、ほとんどの永住権（グリーンカード）申請者に対し、米国外からの申請を義務付けた。この変更は、米国の移民政策に大きな影響を与え、申請手続きの複雑化が懸念される。",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmxRNkpfZnh2Y0h4R1Q3YVMxRXFtWlFHdjFRUHc2QzdGa2hyeVJpSFNSalo0bXA3U3VLbmsyMW5hUnZacllkaFNaZ0M4S0JOLWdIanZSbUdIS3JYT0JwTWFlS3g1cFNRbVpZczlXZDY1LTZfd3N0dDUxMUx1NWJWMEJVS1A1NDc1T1lmTEp1WHNGR1R3TWpIZDJVVXdUQzVvZ29xWlp4dWd4Z2JHVFpUVXozQU55X0k?oc=5"
+      "category": "Social",
+      "title": "ライブアップデート：オレンジ郡で有害化学物質が漏洩中のタンクが「流出または爆発する」と当局が発表",
+      "summary": "米国オレンジ郡で有害化学物質を積んだタンクから漏洩が発生しており、当局はタンクが「流出または爆発する可能性が高い」と警告しました。住民の安全確保のため、緊急対応が続けられています。",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV0VpTXBmZUhNbENkWFIyb0JwS3NDU2xxcWpqdTFzTk0xQjJtQW1ER0pYM05XZ2xoUEZQMDNKUGZDT1E2YUFSZkxyWkU1UlhVNnBlSXpiekNCNEl0cG9Ib19BNGRrSTBtR0E4b2R4NVRQMklVOUFZUWIxREQwMHVYZGlnY0ZhLXNIa0xnUVlTZWtDVEQtRF85WDZ0UmRmcHpMaUJBa2M0V0Fhel9mTGFNZWJHV3JaNnVRckVkaXVNS1RXaE9BaXpaODdGMkZPVkdTeHRNeTZaOEJhaXhiQXNkRA?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "裁判官が人身売買事件でキルマー・アブレゴ・ガルシアに対する刑事告訴を棄却",
-      "summary": "裁判官が、人身売買事件で被告キルマー・アブレゴ・ガルシアに対する刑事告訴を棄却した。この決定は、人身売買事件の司法プロセスにおける複雑さと、証拠収集の難しさを示唆している。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUW9zdUhiX3BuWVF5UUJOY3VFcUt2LWFRUUhzZ3lnVXk1WFhFQW5sZUZpRkV6ZURyYmlubjNBU0c5d2wwR09UV1JyQlpDaVRxT0x0ZmVvX3RsQzJzWXRqTWluSDNHSlNkZXdvWVRPV2FBVERRRjNicFhyWWR4bmZOdDVSbmIzbnhKRVhrLXZyTG8yWWRLT1RvWXJBdzBuOVo1NHhrczNZMGhlb0dScnZjSTJONA?oc=5"
+      "title": "共和党がトランプ氏に挫折をもたらし、Capitol Hillで厳しい一週間",
+      "summary": "ドナルド・トランプ氏は、Capitol Hillで共和党議員らから複数の挫折を受け、厳しい一週間を過ごしました。これは、彼の政治的影響力に変化が生じている可能性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDluYzF1NjdzU1BYT2g2b0NSazQ4eE9JNW5FYW5paXZkWEo5YzI4cnBRSVFlNk9kdHZUNUs5aEgyeGM5c3dJVnpMVmx4cDNrUlN6VU15ZldOaEE5ZGJGMTE3SGhzMHFzc1R4UG5CTmR1R0hZUVQyTnE3SlpwQlVMQXNhWW1ldlRjbEljQ0VNZjFKRlhobk5UV0stbm5sbEc5RnFrZ0xMQ013cE0yM1pTLQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "ドナルド・トランプ・ジュニアとベッティーナ・アンダーソンがウェストパームビーチで結婚",
-      "summary": "ドナルド・トランプ元大統領の息子であるドナルド・トランプ・ジュニア氏とベッティーナ・アンダーソン氏が、フロリダ州ウェストパームビーチで結婚式を挙げた。著名な政治家一族の結婚として注目を集めている。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVJrMjhNMTB1YWhWb3E5Qk1CWXlJUXh0bTZKOGlSOXMwVDR6MHFxaFU4YzBYanZPRDJrdHVFOUYtcE5mRENKT0x1WlRTQjdmcjA0cGxjbFJ4ZUhrclJsTGJDQ052STJKOUVDN0djQjBCbjhiQVRqTnVpNjhtYUxsWUg2Z2NYSzU2T3A5Yi1mMlBGTFZzSDFiUWJ4al9DSy1CSzcySw?oc=5"
+      "category": "Politics",
+      "title": "トランプ政権、米国の外国人に国外での永住権申請を強制へ",
+      "summary": "トランプ政権は、米国内に滞在する外国人に国外で永住権（グリーンカード）を申請することを義務付ける新たな政策を打ち出しました。これは移民政策の大きな転換となり、多くの外国人に影響を与える見込みです。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDBDZDIxLV9DQzExaWp5T3RDYXhNeXBBNldTMVFNTEJuRm1fdlNHUkJ4bU9lZUlWdUljb0NYd19jbUZmUEs0WFN6cWIwUFNIYlBNZXhFNExyODlnckFQS0hrME5XSjNqbklhS080ajFEOWhWR0tVM0FyaHVqejk2MUVPTkl0MFI4NzFr?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "ガーデングローブでタンクから有毒化学物質が流出し、避難命令が発令",
-      "summary": "カリフォルニア州ガーデングローブでタンクから有毒化学物質が流出し、周辺住民に避難命令が出された。当局は流出源の特定と封じ込め作業を急いでおり、健康被害や環境への影響が懸念されている。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmRBazZLVEFlUnEybktwS1dQZmQ4eWhKQkQtUGhYSUdaeS04aHdqSXRMU2dFYW9XQWQwZG96bHVHaVRLYzdLYlh4b3Zsb2pFUHRMNUZ4Tk8zeEJEZ2htbW5sLXpnMHVGVUNDc1gzYko4UkF5TkVNM2tmV0RNLVhyRE5Fc09MZmFRNkxSMTFHMTMxQ2k2Z1djTVhWNGhRRnR50gGmAUFVX3lxTE9ScUQtcUl1elJtOHlsYnREUkVNM0o5RXRUZU1LWlhmekpJNzdNdmF3SXphRW04RmtIWjF0UG5rMm5FaDFJdFpFcjZXZFg3UWxob1JxUFlRaGJnYVlFb0piUjluNTFub0xtdE9Tdm9aa0FXRE40M0Rwc1E0X1lPUFhUcHJsVnZuRjBhSjBKZURLSVVxbFdZMC1YMXl1amwyUXJ3VzdjdkE?oc=5"
+      "category": "Politics",
+      "title": "トランプ氏の18億ドルの支払い基金、その実際の仕組みは公開義務なし",
+      "summary": "ドナルド・トランプ氏が関与する18億ドルの支払い基金について、その実際の運用方法が公開される義務がないことが報じられました。資金の透明性に関する懸念が浮上しています。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYklFT29rVDR4b2NENklrRXI5amduNVctSUE0M1dxOXJKUjhQZjFnNGJ1NllLUGhlZTBrZzExVW1wbXI0OHIyUU96T2ZwLXJ6VkpMUEFCb0Z0NDdZbkZpVGZqLWdhYkJoOGVHNDZwSGVRRGZXRjZwbEt3MTZiNnp3QV9TM3ppZmplaGlIYjA2cm4wS19aNEMtLWtmdEJYY1hacmRWWWUzbDdtYlBZMjdiJmlmQQ?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性におけるACL損傷の予防方法",
-      "summary": "女性アスリートが前十字靭帯（ACL）損傷のリスクが高い理由と、その予防策として多面的なトレーニングプログラムの重要性を解説。筋力強化、バランス、プライオメトリクス、神経筋コントロールを組み合わせた介入が、特に着地動作時の膝の動的安定性向上に寄与することが示されている。",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RwSXhDT3Z2NTZEWVh3MVFuU3pkOVYxZ1pqQ21fbV94Y01uYTRrUFhjLWhVeUY2MERxdFVRT2U3QjE2YUwxbjBSblZGNHc1bG9FWWJyUmxJV3B2dG9KM2s5WUp4VTVVVFUzWlZuNHRTTExxa1hJRlp5LU9IaS04bC1iTE9qNWVpM0V1d2doZVJ4NzZ0ME5Nb1BaR0V4NmNtQmJ6OGo1OVE4NGg3UzhqeTA3TEI?oc=5"
+      "title": "女子スポーツにおけるACL損傷の増加とその原因",
+      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加しており、その背景には生物学的要因（例: 膝の構造や筋力バランスの違い）や、若年層でのスポーツ専門化の傾向などが挙げられる。特に成長期の女子アスリートはACL損傷のリスクが高いことが指摘されている。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "火曜日のトピック：ランニングバイオメカニクスの基礎",
-      "summary": "ランニングバイオメカニクスの基本原則を解説し、効率的な走行フォームと怪我予防の重要性を強調している。特に、体の中心からの力の伝達、適切な接地、そして各関節の連動がパフォーマンスに与える影響について触れている。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
+      "title": "ラップクロージャー型シューレーシングシステムが長時間のランニング中の快適性、安定性、下肢筋活動に及ぼす影響",
+      "summary": "この研究では、ラップクロージャー型シューレーシングシステムが、長時間のランニングにおけるシューズの快適性、足の固定安定性、および下肢の筋肉活動にどのような影響を与えるかを調査した。従来のレーシングシステムと比較し、特定の条件下で快適性と安定性の向上が見られた。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmVSNmgyRGRFaVBKaW1tTUYzalhpd3pnblhHbllreUUzQzhLaTJrc0E0NXBPbnh3THRSalVtdjlSeTNacGVDUnpOckN5MXFyeGZyUjFzMzdVNkRlYjR2cGlibkpDN1VxSTgwaW9VQ29TeGRKQ3RGTi1meUNHdElkemthOXVrR1dhTVh0N25uTGRWMDZ5ekQzeEE3ZGUwVUpmeDdSWQ?oc=5"
     }
   ],
   "monthly_top20": [
@@ -349,161 +349,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツにおけるACL損傷の増加とその原因",
-      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加しており、その背景には生物学的要因（例: 膝の構造や筋力バランスの違い）や、若年層でのスポーツ専門化の傾向などが挙げられる。特に成長期の女子アスリートはACL損傷のリスクが高いことが指摘されている。",
+      "title": "女子スポーツでACL損傷が増加している理由",
+      "summary": "近年、女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が上昇しており、特に女子は男子に比べてACL損傷のリスクが高いことが指摘されています。この増加には、解剖学的構造の違い、ホルモンの影響、トレーニング方法の偏り、スポーツへの早期専門化など複数の要因が関連していると考えられています。",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "ラップクロージャー型シューレーシングシステムが長時間のランニング中の快適性、安定性、下肢筋活動に及ぼす影響",
-      "summary": "この研究では、ラップクロージャー型シューレーシングシステムが、長時間のランニングにおけるシューズの快適性、足の固定安定性、および下肢の筋肉活動にどのような影響を与えるかを調査した。従来のレーシングシステムと比較し、特定の条件下で快適性と安定性の向上が見られた。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmVSNmgyRGRFaVBKaW1tTUYzalhpd3pnblhHbllreUUzQzhLaTJrc0E0NXBPbnh3THRSalVtdjlSeTNacGVDUnpOckN5MXFyeGZyUjFzMzdVNkRlYjR2cGlibkpDN1VxSTgwaW9VQ29TeGRKQ3RGTi1meUNHdElkemthOXVrR1dhTVh0N25uTGRWMDZ5ekQzeEE3ZGUwVUpmeDdSWQ?oc=5"
+      "title": "運動誘発性疲労の多角的評価：高強度ランニングにおける心肺機能、神経筋、生体力学的プロファイリングの統合",
+      "summary": "高強度ランニングにおける運動誘発性疲労を評価するため、心肺機能、神経筋機能、そして生体力学的側面を統合した多角的なアプローチが検討されました。この研究は、疲労が身体の複数のシステムに及ぼす影響を包括的に捉えることで、アスリートのパフォーマンス低下や怪我のリスクをより正確に予測できる可能性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVHWmdqRjNUTGk1YlU3UHBnZzNUNnE5NFd2aVJVdlRRb0Vmek9OMmZDM2l3VjJ3dTlBNGNzUnBmZ1VvWGFMUlVQb1FydjNtRlRPMXVMNDQ2ZVpOSm1hQTRWUDl6UHJabEpkSFhveVZ4cERCajhXdTZ6Umd4SmxCbmJTZzJBQlBhRWpndjUyNXNuRDNtU3RUeUZyNHJNcVRFQUJTSw?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "Smith+Nephew社がIntegrity Orthopaedics社の買収を完了、肩関節修復のポートフォリオを強化",
-      "summary": "医療技術企業Smith+NephewがIntegrity Orthopaedicsの買収を完了し、肩関節修復分野における製品ポートフォリオを大幅に拡充した。この買収により、同社は肩関節治療市場での競争力を高め、幅広いソリューションを提供できるようになる。",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNnpRM0xVUFNhaTcxUUJlMFN6UXYxQjh5aGdjVzlXZVk4R0pXbnF2cjhtc195bFRoeWl5YWt6VkNhZktGQUNjTGFUdi02TDJmU2tJZHVWc1htSjRjMkRXQ3RCNk9OdTNTUUFoV1hKUXk4dUdJYXVSZnM1UTM4S3dkUW53a1gtUlNoWGE4bnY2dWhmd2tNeV9ib0hwMnRRd3dJelBBc184V3hmSmhCdTNlUUtyOUVKWW83UXg2TTh2akp4a3lfdTNLamF2Tl9pOUxORVVWUXFXbWI?oc=5"
+      "title": "MUCL損傷を負ったアスリートの競技復帰",
+      "summary": "肘の内側側副靭帯（MUCL）損傷は、特に投球競技のアスリートにとって深刻な怪我であり、その回復と競技復帰は複雑な課題を伴います。本記事では、MUCL損傷のアスリートが安全かつ効果的にスポーツへ復帰するための治療法、リハビリテーションプロトコル、および予防戦略について詳しく解説しています。",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "リハビリからパフォーマンス向上へ：リカバリーへの新しいアプローチ",
-      "summary": "従来の傷害からの回復に焦点を当てたリハビリテーションから、アスリートが最高のパフォーマンスを発揮できるよう支援する「パフォーマンス回復」への移行が提唱されている。この新しいアプローチは、単なる機能回復に留まらず、心理的側面や特定のスポーツ動作への適応も重視する。",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0NVN2gyNzJ6Nm9yU2xFd0F4Y0xzZ0lUdE9NU1JUTlJKa1VmbHlOUTVxSzFKVm93NXJPajU5VXVBZU9kNm5LRXY2Ti00M3owNzQ1TkVVUGl0b1pXeEZIMnNselU1eDNfT3kwUEJTRGIySWFxR29WVTNoMnZfY2VVN3BiTXVBS3JvaFBxRzZWN0hTN05HWFdCSlFnZ0hkS1JLM0pHQUFyalg0cFdDRGVxM3VoUmlaOXpxQ3ljSUNYeU04VFBLRmczSw?oc=5"
+      "title": "リハビリからパフォーマンスへ：回復への新たなアプローチ",
+      "summary": "近年のスポーツ医療では、怪我からの回復を単なる機能回復に留めず、アスリートが最高のパフォーマンスを発揮できる状態まで引き上げることを目指す「リハビリからパフォーマンスへ」という新たなアプローチが注目されています。このアプローチでは、怪我前の能力を超えるようなトレーニングや、メンタル面へのサポートも重要視されます。",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0NVN2gyNzJ6Nm9yU2xFd0F4Y0xzZ0lUdE9NU1JUTlJKa1VmbHlOUTVxS0FKVm93NXJPajU5VXVBZU9kNm5LRXY2Ti00M3owNzQ1TkVVUGl0b1pXeEZIMnNselU1eDNfT3kwUEJTRGIySWFxR29WVTNoMnZfY2VVN3BiTXVBS3JvaFBxRzZWN0hTN05HWFdCSlFnZ0hkS1JLM0pHQUFyalg0cFdDRGVxM3VoUmlaOXpxQ3ljSUNYeU04VFBLRmczSw?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女性サッカー選手における再発性肩関節後方脱臼による疼痛管理への鍼灸補助療法の症例報告",
-      "summary": "再発性の肩関節後方脱臼に悩む女性サッカー選手に対し、標準治療に加え鍼灸治療を補助的に行ったところ、疼痛の有意な軽減と機能改善が見られた症例が報告された。鍼灸がスポーツ傷害の疼痛管理に有効な選択肢となり得る可能性を示唆している。",
+      "title": "女子サッカー選手における再発性肩関節後方脱臼による疼痛管理のための補助的な鍼治療と灸：症例報告",
+      "summary": "本症例報告では、再発性の肩関節後方脱臼に苦しむ女子サッカー選手に対し、従来の治療に加えて鍼治療と灸を補助的に適用した結果が示されています。この統合的アプローチは、選手の疼痛管理と機能改善に有効であった可能性があり、代替医療のスポーツ傷害治療における潜在的な役割を示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "わずかな数のクレアチンサプリメントのみが効果的：あなたはどれを選んでいますか？",
-      "summary": "市場には数多くのクレアチンサプリメントが出回っているが、実際に効果が科学的に裏付けられ、コストパフォーマンスに優れた製品は限られているという。記事は、アスリートやトレーニーが信頼できるクレアチン製品を選ぶための基準と推奨事項を提供している。",
+      "title": "わずかなクレアチンサプリメントだけが価値がある。あなたはどれを摂取していますか？",
+      "summary": "クレアチンは運動パフォーマンス向上と筋肉増強に広く利用されるサプリメントですが、市場には多種多様な製品が存在し、その品質と有効性は様々です。この記事では、科学的根拠に基づき、本当に効果が期待でき、費用対効果の高いクレアチンサプリメントを選び出すためのポイントと、避けるべき製品について解説しています。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53TzBmN0tfVXFnM1dJbDljemlfOW9XdUZEREQ1UGVfVm9jUFVlMllPaFZtaTFQdFdwbzJhcUZXRjNyMnEyTVpnZFFaMmJBOVZ4TWZkamdxeExUQldkY2s3Mm9hQzFST29jQzg0STRUYk9sMDF6RktZVEhRSkdTUQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "若年アスリートのスポーツ傷害を防ぐ方法 - Cedars-Sinai",
-      "summary": "若年アスリートにおけるスポーツ傷害の予防には、適切なウォームアップとクールダウン、十分な休息、バランスの取れた栄養摂取が重要である。また、特定のスポーツに特化しすぎる「早期専門化」を避け、多様な運動経験を積むことが推奨されている。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVh0c1NlbHBvSGV6NEFCN3dydFU2LW42VUMyQ1dtWEtINHgzcllVY3N4a0lkM0JRaWpkeUVXWTlIWHRtYlNITkZ2bWNja29ZVE9SQVk2LXBXRWQyN01USUFhNmVid0pJNDRLZl9JLUFTLV9JWkxBZlNfMDFaOWNKa2NnYnJGUEtPWTlIM1FDOTNIOXdPTXh5dFNaNWs4OF9QSnhkVlE5Zld3cEVBdnFjVVlKWQ?oc=5"
+      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
+      "summary": "学生アスリートは、学業とスポーツの両立、成績へのプレッシャー、怪我、人間関係など、様々な要因からメンタルヘルス上の課題に直面しやすいことが知られています。本記事では、保護者やコーチが学生アスリートのメンタルヘルスをサポートするための具体的なヒントと戦略を提供しています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMW94UXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "プレッシャー下のリーダーシップ：エリートスポーツにおけるコーチの睡眠、意思決定、チーム機能",
-      "summary": "エリートスポーツの環境下において、コーチの睡眠の質が、プレッシャーの高い状況での意思決定能力や、結果としてチーム全体の機能に大きな影響を与えることが示唆されている。不十分な睡眠は認知機能の低下を招き、パフォーマンスに悪影響を及ぼす可能性がある。",
+      "title": "プレッシャー下のリーダーシップ：エリートスポーツにおけるコーチの睡眠、意思決定、およびチーム機能",
+      "summary": "エリートスポーツの現場では、コーチは常に高いプレッシャーと厳しいスケジュールの中で意思決定を求められます。この研究は、コーチの睡眠の質が、彼らの意思決定能力、チームマネジメント、そして最終的なチームの機能にどのように影響するかを分析しています。不十分な睡眠は、パフォーマンス低下や人間関係の悪化につながる可能性が示唆されました。",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQlA3Y0phdUhqUng0Z0pkYUx6eExrdkt3LWNjalBPbEoyNkItcmxEamR6WGRBb2pwVGlEUGhLaXZaZ2JkaDBLalZhcFhnRmh2amdJMl9oU0p2LXZBTjNJSG0xR2tUdUhiNGF6NWZFZVYyLW9TZHp0aU5UVEFRUWwyQXVqZnVHbTV0QlVyeDZnenhtWVdfVlFQODZBSVp2M2NZXzVfaXVCZUYyM3lpekFSRDE5S0FFenQzQVNnNzVoYU5obXlmSEE?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "教育",
-      "title": "同志社国際高の平和学習、ヘリ基地反対協の活動と密接な関わり 文科省が認定 是正求める",
-      "summary": "同志社国際高校の平和学習において、沖縄のヘリ基地反対運動団体との密接な関わりが文部科学省によって認定され、是正が求められた。特定の政治的立場に偏る教育内容ではないかという点が問題視されている。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoaHNhd1BnUm9mZG1paXNjclphYkZIdG5XZEp3a1hfa0tMeUZXYkJTWU1naDhnYUQyemNhejF5TjMwbHZIVkpVbEU5OWhVQ1MwY0Z6QldXeUNXVzJHbkV1S05nOGZiazI5MXdQSmZIRzZVNFNrZmc?oc=5"
+      "category": "国際",
+      "title": "米イラン、停戦60日延長で合意に近づく FT報道",
+      "summary": "米国とイランが停戦の60日間延長で合意に近づいているとフィナンシャル・タイムズが報じました。中東地域の緊張緩和に向けた動きとして注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hLVRaZnhFV3YzbFMyb3BJQnpxSUVWTUh0aUNqdFRCdlZIczhXblkwSEFwMzRDbkhra3hJUTFkVS0zNGdOM3BDdlp6LUFzRmJNX1hVZ3c2V3R3RzlRR2s4OEJYUEJ2bXhvSEdOMA?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "栃木・強盗殺人》「バイクで来て朝方までうるさく…注意したらツバを吐かれ」指示役タトゥー夫とつながっていた16歳少年の素顔…遺族は「同じような苦しみを味わってほしい」（集英社オンライン",
-      "summary": "栃木県で発生した強盗殺人事件で、指示役の男と関わっていたとされる16歳少年の素顔が報じられた。近隣住民からは騒音トラブルの指摘があり、被害者遺族は少年への厳しい処罰を求めている。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2VnFicjZycEVYamd1a0diXzA1bmNEdDk0M0hCTWdMMThuVk9rek5sOGx1Q1F5a0FDY2dSSXgzdDdfSkswWTZCc2RtYmVGWU15MVNoNGUzUDZGV0pZTDhtX2hrUW5nQUFiWTlwbERPNTJtbUNzN01ZcWQxTDZneGc?oc=5"
+      "category": "政治",
+      "title": "高市首相、中国炭鉱ガス爆発事故に「大変心を痛めている」…ＳＮＳに日本語・中国語・英語で",
+      "summary": "高市首相は、中国で発生した炭鉱ガス爆発事故に対し、自身のSNSで日本語、中国語、英語の3カ国語で哀悼の意と見舞いの言葉を表明しました。国際社会との連携を意識した対応と見られます。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WZk1wSm9mdjJvaFIwRmZLTHdnTzFRWTNrOFRSMjJYZ2R1WlNzQnZlWDNpSWVJMEhUOHN3cXZwOWRSV1hMMTM4SlFpTU9nTFVSTk05cFY2b1czOG9ESzRtNnlQek8xUQ?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "帰還困難区域をパトロールせずに計２４０万円の手当を不当受給、福島県警が３９人処分…読書やテレビ視聴",
-      "summary": "福島県警の警察官39人が、東京電力福島第一原発事故の帰還困難区域でのパトロールを怠り、手当計240万円を不当に受給していたことが判明し、処分された。勤務中に読書やテレビ視聴をしていたという。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adHBEUTl6VmNjeU9adVoxTmZfVWJ1NmVQUDNISWsyN2l0M3pXX1Zsci1jQUU5OWJWVFNpZVpUNnp4MV9DdEJVY1NYM2hydzBoNzM1TFVHbnlrczc5Q1RZVi03QUxhZw?oc=5"
+      "category": "政治",
+      "title": "赤沢経産大臣が中国閣僚と「立ち話」 台湾有事発言後初の接触 レアアース輸出是正求める",
+      "summary": "赤沢経産大臣が、台湾有事に関する発言後初めて中国閣僚と「立ち話」を行いました。会談では、レアアース輸出に関する是正を求めるなど、両国間の経済問題について意見交換が行われた模様です。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9GUzNraWpkMEpKNXNTcVlaVGh2WEdGS3ZRX3pZa1J4WEdXemhUTFZBT0hFampZc1RoR3BjanZXa1h3VzJNeGNwV1c4cklDdw?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "フェンタニル密輸「日本が経由地」 米麻薬取締局高官が認める",
-      "summary": "米麻薬取締局（DEA）の高官が、合成麻薬フェンタニルの密輸において、日本が経由地となっている可能性を認めた。日本における薬物乱用問題や国際的な麻薬対策の強化が課題として浮上している。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MZlRVX05ybmczcDRfc2tZOHJUU2psN1Yya1hPbW1UNkV2Q3NQNGRDd0VabldrQ2JkOHU5TVQyQ0lwWTdsUmx6RDFtby1BUnZodnF1ZkFRQnY0bGZEWlhweHBBN2FabHhHenJCSw?oc=5"
+      "category": "国際",
+      "title": "草案は「まるで核保有国が作った文書」 「失敗」続くNPT会議",
+      "summary": "核兵器不拡散条約（NPT）の会議が難航し、草案が「まるで核保有国が作った文書のようだ」と非難されています。核軍縮に向けた国際社会の取り組みの難しさが浮き彫りになっています。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjdk9zaU5uRTNMclRDUEVSMnBEYVBuLTRLcWJ2aVdkYjZDQm05SXZZVjVlakg4d2FiTElMbXNIc0FTeUlnZnJGQml1Q2N6NktyTFM1ekQ5UHI2VFNobXFPYUVxQ2VGcUhT?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "今日5月23日(土)の天気予報 関東以西は曇りや雨の所が多い 北日本はお出かけ日和",
-      "summary": "5月23日(土)の天気予報によると、関東から西の地域では曇りや雨のところが多くなると予想されている。一方、北日本では晴れ間が広がり、お出かけに適した天気となる見込みだ。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pcWhPajJwdW10NC1IdXJFeFB4WG8tZjZlb2wxSmZFRXJHREdpZWMzdEREUTVxWm5CZDM4VFhEdDlVb3dnakxIMllSdXZGUU5DTVlkUQ?oc=5"
+      "category": "国際",
+      "title": "米中首脳会談で習主席が高市首相を名指し非難、トランプ氏は擁護…緊張長期化の見方広がる",
+      "summary": "米中首脳会談において、中国の習主席が高市首相を名指しで非難する一方、トランプ氏は高市首相を擁護する異例の展開となりました。これにより、米中間の緊張関係とそれに伴う国際情勢の複雑化が長期化するとの見方が広がっています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oa0tjTjRJVmVQTU0zVnhhUUJUUzExVWZBZlY2bW43VVBwQXZkbHJDYnhaMTBVcHpIT3d5VjNOdDJhX1l3VDRSWTVCMlI4b2hJdnFJQUNzRm94SUh0SXJWeHlZRmtqdw?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "タルシ・ギャバードが国家情報長官を辞任、トランプ氏がアーロン・ルーカスを国家情報長官代行に指名 – 米国政治ライブ",
-      "summary": "タルシ・ギャバード国家情報長官が辞任し、トランプ大統領はアーロン・ルーカス氏を国家情報長官代行に指名した。この人事は米国の情報機関トップの交代となり、今後の外交・安全保障政策に影響を与える可能性がある。",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGUwQmFRa3JMSnFsY1lhRW9HVkxtWHZydWVNbHdhOUItT1lRVVAzdGUwdUxQejl2Vl96VDVLVEl1ZkhORS1GRWk5dUFxeS1fT2dqUEpOeFBvbFNBalMyMHR3dTF6RGtlZlJOTlA5SzJOVDc2WGFIMkFPaFc2dUdKZ1l1MUp6TjlsRUlCMkFXR0xkeno5N3FpQVBaX25IbjlSUHRVUGVXa2ZsTldtQWZUZWJ6T3pzaFIt?oc=5"
+      "category": "Conflict",
+      "title": "イラン、米国との合意に「かなり近づいている」とトランプ氏が発言",
+      "summary": "トランプ氏は、イランが米国との合意形成に「かなり近づいている」と発言しました。これは、両国間の緊張緩和に向けた進展を示唆する可能性があり、国際社会の注目を集めています。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BeXpHWk9FU1RfRHJIMGFNQ2tacWNvM2dCanhJNVlxODFJWWtrWS1aLTc2UVJKc1dGdC1HRC1fbTlQNnNBYWZYRnZJM0JTYUFXLXhYc0FEeWNCZw?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "新規則により、ほとんどのグリーンカード申請者は米国外からの申請が必須に",
-      "summary": "米国政府は新たな規則を発表し、ほとんどの永住権（グリーンカード）申請者に対し、米国外からの申請を義務付けた。この変更は、米国の移民政策に大きな影響を与え、申請手続きの複雑化が懸念される。",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmxRNkpfZnh2Y0h4R1Q3YVMxRXFtWlFHdjFRUHc2QzdGa2hyeVJpSFNSalo0bXA3U3VLbmsyMW5hUnZacllkaFNaZ0M4S0JOLWdIanZSbUdIS3JYT0JwTWFlS3g1cFNRbVpZczlXZDY1LTZfd3N0dDUxMUx1NWJWMEJVS1A1NDc1T1lmTEp1WHNGR1R3TWpIZDJVVXdUQzVvZ29xWlp4dWd4Z2JHVFpUVXozQU55X0k?oc=5"
+      "category": "Social",
+      "title": "ライブアップデート：オレンジ郡で有害化学物質が漏洩中のタンクが「流出または爆発する」と当局が発表",
+      "summary": "米国オレンジ郡で有害化学物質を積んだタンクから漏洩が発生しており、当局はタンクが「流出または爆発する可能性が高い」と警告しました。住民の安全確保のため、緊急対応が続けられています。",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV0VpTXBmZUhNbENkWFIyb0JwS3NDU2xxcWpqdTFzTk0xQjJtQW1ER0pYM05XZ2xoUEZQMDNKUGZDT1E2YUFSZkxyWkU1UlhVNnBlSXpiekNCNEl0cG9Ib19BNGRrSTBtR0E4b2R4NVRQMklVOUFZUWIxREQwMHVYZGlnY0ZhLXNIa0xnUVlTZWtDVEQtRF85WDZ0UmRmcHpMaUJBa2M0V0Fhel9mTGFNZWJHV3JaNnVRckVkaXVNS1RXaE9BaXpaODdGMkZPVkdTeHRNeTZaOEJhaXhiQXNkRA?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "裁判官が人身売買事件でキルマー・アブレゴ・ガルシアに対する刑事告訴を棄却",
-      "summary": "裁判官が、人身売買事件で被告キルマー・アブレゴ・ガルシアに対する刑事告訴を棄却した。この決定は、人身売買事件の司法プロセスにおける複雑さと、証拠収集の難しさを示唆している。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUW9zdUhiX3BuWVF5UUJOY3VFcUt2LWFRUUhzZ3lnVXk1WFhFQW5sZUZpRkV6ZURyYmlubjNBU0c5d2wwR09UV1JyQlpDaVRxT0x0ZmVvX3RsQzJzWXRqTWluSDNHSlNkZXdvWVRPV2FBVERRRjNicFhyWWR4bmZOdDVSbmIzbnhKRVhrLXZyTG8yWWRLT1RvWXJBdzBuOVo1NHhrczNZMGhlb0dScnZjSTJONA?oc=5"
+      "title": "共和党がトランプ氏に挫折をもたらし、Capitol Hillで厳しい一週間",
+      "summary": "ドナルド・トランプ氏は、Capitol Hillで共和党議員らから複数の挫折を受け、厳しい一週間を過ごしました。これは、彼の政治的影響力に変化が生じている可能性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDluYzF1NjdzU1BYT2g2b0NSazQ4eE9JNW5FYW5paXZkWEo5YzI4cnBRSVFlNk9kdHZUNUs5aEgyeGM5c3dJVnpMVmx4cDNrUlN6VU15ZldOaEE5ZGJGMTE3SGhzMHFzc1R4UG5CTmR1R0hZUVQyTnE3SlpwQlVMQXNhWW1ldlRjbEljQ0VNZjFKRlhobk5UV0stbm5sbEc5RnFrZ0xMQ013cE0yM1pTLQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "ドナルド・トランプ・ジュニアとベッティーナ・アンダーソンがウェストパームビーチで結婚",
-      "summary": "ドナルド・トランプ元大統領の息子であるドナルド・トランプ・ジュニア氏とベッティーナ・アンダーソン氏が、フロリダ州ウェストパームビーチで結婚式を挙げた。著名な政治家一族の結婚として注目を集めている。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVJrMjhNMTB1YWhWb3E5Qk1CWXlJUXh0bTZKOGlSOXMwVDR6MHFxaFU4YzBYanZPRDJrdHVFOUYtcE5mRENKT0x1WlRTQjdmcjA0cGxjbFJ4ZUhrclJsTGJDQ052STJKOUVDN0djQjBCbjhiQVRqTnVpNjhtYUxsWUg2Z2NYSzU2T3A5Yi1mMlBGTFZzSDFiUWJ4al9DSy1CSzcySw?oc=5"
+      "category": "Politics",
+      "title": "トランプ政権、米国の外国人に国外での永住権申請を強制へ",
+      "summary": "トランプ政権は、米国内に滞在する外国人に国外で永住権（グリーンカード）を申請することを義務付ける新たな政策を打ち出しました。これは移民政策の大きな転換となり、多くの外国人に影響を与える見込みです。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDBDZDIxLV9DQzExaWp5T3RDYXhNeXBBNldTMVFNTEJuRm1fdlNHUkJ4bU9lZUlWdUljb0NYd19jbUZmUEs0WFN6cWIwUFNIYlBNZXhFNExyODlnckFQS0hrME5XSjNqbklhS080ajFEOWhWR0tVM0FyaHVqejk2MUVPTkl0MFI4NzFr?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "ガーデングローブでタンクから有毒化学物質が流出し、避難命令が発令",
-      "summary": "カリフォルニア州ガーデングローブでタンクから有毒化学物質が流出し、周辺住民に避難命令が出された。当局は流出源の特定と封じ込め作業を急いでおり、健康被害や環境への影響が懸念されている。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmRBazZLVEFlUnEybktwS1dQZmQ4eWhKQkQtUGhYSUdaeS04aHdqSXRMU2dFYW9XQWQwZG96bHVHaVRLYzdLYlh4b3Zsb2pFUHRMNUZ4Tk8zeEJEZ2htbW5sLXpnMHVGVUNDc1gzYko4UkF5TkVNM2tmV0RNLVhyRE5Fc09MZmFRNkxSMTFHMTMxQ2k2Z1djTVhWNGhRRnR50gGmAUFVX3lxTE9ScUQtcUl1elJtOHlsYnREUkVNM0o5RXRUZU1LWlhmekpJNzdNdmF3SXphRW04RmtIWjF0UG5rMm5FaDFJdFpFcjZXZFg3UWxob1JxUFlRaGJnYVlFb0piUjluNTFub0xtdE9Tdm9aa0FXRE40M0Rwc1E0X1lPUFhUcHJsVnZuRjBhSjBKZURLSVVxbFdZMC1YMXl1amwyUXJ3VzdjdkE?oc=5"
+      "category": "Politics",
+      "title": "トランプ氏の18億ドルの支払い基金、その実際の仕組みは公開義務なし",
+      "summary": "ドナルド・トランプ氏が関与する18億ドルの支払い基金について、その実際の運用方法が公開される義務がないことが報じられました。資金の透明性に関する懸念が浮上しています。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYklFT29rVDR4b2NENklrRXI5amduNVctSUE0M1dxOXJKUjhQZjFnNGJ1NllLUGhlZTBrZzExVW1wbXI0OHIyUU96T2ZwLXJ6VkpMUEFCb0Z0NDdZbkZpVGZqLWdhYkJoOGVHNDZwSGVRRGZXRjZwbEt3MTZiNnp3QV9TM3ppZmplaGlIYjA2cm4wS19aNEMtLWtmdEJYY1hacmRWWWUzbDdtYlBZMjdiJmlmQQ?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性におけるACL損傷の予防方法",
-      "summary": "女性アスリートが前十字靭帯（ACL）損傷のリスクが高い理由と、その予防策として多面的なトレーニングプログラムの重要性を解説。筋力強化、バランス、プライオメトリクス、神経筋コントロールを組み合わせた介入が、特に着地動作時の膝の動的安定性向上に寄与することが示されている。",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RwSXhDT3Z2NTZEWVh3MVFuU3pkOVYxZ1pqQ21fbV94Y01uYTRrUFhjLWhVeUY2MERxdFVRT2U3QjE2YUwxbjBSblZGNHc1bG9FWWJyUmxJV3B2dG9KM2s5WUp4VTVVVFUzWlZuNHRTTExxa1hJRlp5LU9IaS04bC1iTE9qNWVpM0V1d2doZVJ4NzZ0ME5Nb1BaR0V4NmNtQmJ6OGo1OVE4NGg3UzhqeTA3TEI?oc=5"
+      "title": "女子スポーツにおけるACL損傷の増加とその原因",
+      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加しており、その背景には生物学的要因（例: 膝の構造や筋力バランスの違い）や、若年層でのスポーツ専門化の傾向などが挙げられる。特に成長期の女子アスリートはACL損傷のリスクが高いことが指摘されている。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "火曜日のトピック：ランニングバイオメカニクスの基礎",
-      "summary": "ランニングバイオメカニクスの基本原則を解説し、効率的な走行フォームと怪我予防の重要性を強調している。特に、体の中心からの力の伝達、適切な接地、そして各関節の連動がパフォーマンスに与える影響について触れている。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
+      "title": "ラップクロージャー型シューレーシングシステムが長時間のランニング中の快適性、安定性、下肢筋活動に及ぼす影響",
+      "summary": "この研究では、ラップクロージャー型シューレーシングシステムが、長時間のランニングにおけるシューズの快適性、足の固定安定性、および下肢の筋肉活動にどのような影響を与えるかを調査した。従来のレーシングシステムと比較し、特定の条件下で快適性と安定性の向上が見られた。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmVSNmgyRGRFaVBKaW1tTUYzalhpd3pnblhHbllreUUzQzhLaTJrc0E0NXBPbnh3THRSalVtdjlSeTNacGVDUnpOckN5MXFyeGZyUjFzMzdVNkRlYjR2cGlibkpDN1VxSTgwaW9VQ29TeGRKQ3RGTi1meUNHdElkemthOXVrR1dhTVh0N25uTGRWMDZ5ekQzeEE3ZGUwVUpmeDdSWQ?oc=5"
     }
   ]
 };
