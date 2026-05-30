@@ -1,65 +1,65 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/05/30",
-  "generated_at": "2026-05-29T22:23:57.766Z",
+  "issue_date": "2026/05/31",
+  "generated_at": "2026-05-30T21:50:26.106Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性アスリートの下肢損傷予防：効果的な戦略",
+      "title": "女性アスリートにおける下肢損傷予防",
       "source": "BMJ Blogs",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUC1ROFlGZ3VNbnp2azJMUnhXZVFEVVlRdXRqU19BdmFia0dhcmRSRmRqemdPekRmc0JUZVRYMm9jWk9BRm12VndnZw?oc=5",
-      "abstract": "女性アスリートにおける下肢損傷、特にACL損傷の予防に焦点を当てた記事です。女性は特定の生体力学的要因やホルモンバランスによりリスクが高いとされており、効果的な予防戦略として多面的なアプローチの重要性を指摘しています。ウォームアップやジャンプ着地指導の改善が有効であることが示唆されています。",
-      "insight": "特に女性アスリートを指導するトレーナーやコーチは、性差を考慮したトレーニングプログラムを導入し、ACL損傷予防に努めるべきです。ウォームアップやジャンプ着地指導の改善が有効でしょう。",
+      "abstract": "本研究は、女性アスリート、特に若い女性選手の下肢損傷予防に焦点を当てています。性差による傷害リスクの違いや、効果的な予防プログラムの必要性が強調されており、包括的なアプローチが推奨されています。",
+      "insight": "女性アスリート指導者は、ACL損傷などの下肢傷害リスクが高いことを認識し、性差を考慮した特異的な予防トレーニングプログラムを導入することで、選手の安全とパフォーマンス向上に貢献できます。",
       "published_at": "2026-05-01T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "高強度ランニングにおける運動誘発性疲労の多角的評価：心肺機能、神経筋機能、生体力学的プロファイリングの統合",
+      "title": "スプリント科学におけるパイオニアとパラダイム：テーマ別歴史的ミニレビュー",
       "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVHWmdqRjNUTGk1YlU3UHBnZzNUNnE5NFd2aVJVdlRRb0Vmek9OMmZDM2l3VjJ3dTlBNGNzUnBmZ1VvWGFMUlVQb1FydjNtRlRPMXVMNDQ2ZVpOSm1hQTRWUDl6UHJabEpkSFhveVZ4cERCajhXdTZ6Umd4SmxCbmJTZzJBQlBhRWpndjUyNXNuRDNtU3RUeUZyNHJNcVRFQUJTSw?oc=5",
-      "abstract": "高強度ランニングにおける運動誘発性疲労を多角的に評価する研究です。心肺機能、神経筋機能、生体力学的プロファイリングを統合することで、疲労のメカニズムを包括的に理解し、客観的な疲労指標を提供することを目指しています。このアプローチは、トレーニングの最適化に貢献する可能性を秘めています。",
-      "insight": "アスリートの疲労管理において、単一の指標に頼るのではなく、心肺機能、神経筋機能、生体力学的な動きを総合的に評価することが重要です。これにより、オーバートレーニングを防ぎ、パフォーマンス向上に繋げることができます。",
-      "published_at": "2026-03-10T20:40:59.000Z"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZlJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
+      "abstract": "このミニレビューは、スプリント科学の歴史における主要な研究者や理論的枠組みを概観しています。スプリントパフォーマンス向上に貢献した生物力学、生理学、コーチング理論の進化が分析されています。",
+      "insight": "コーチやトレーナーは、スプリント技術の歴史的発展を理解することで、現代のスプリントトレーニングにおける最先端のアプローチをより深く評価し、選手の指導に応用できます。",
+      "published_at": "2026-04-30T16:58:11.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷アスリートの競技復帰支援",
-      "source": "Mayo Clinic",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9rajN5bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5",
-      "abstract": "MUCL（内側尺側側副靭帯）損傷を負ったアスリートが競技に安全に復帰するための治療戦略に焦点を当てた記事です。投球動作を伴うスポーツ選手に多く見られるこの損傷に対し、適切な診断と個別化されたリハビリテーション、または手術的介入が競技復帰の鍵となります。最新の治療プロトコルが紹介されています。",
-      "insight": "肘のMUCL損傷はアスリートのキャリアに大きく影響するため、早期の正確な診断と個別化されたリハビリ計画が不可欠です。スポーツドクターと理学療法士が連携し、段階的な負荷設定と機能回復を目指すことで、安全な競技復帰をサポートできます。",
-      "published_at": "2025-12-02T08:00:00.000Z"
+      "title": "人工腱および靭帯市場の規模、シェア、予測、2034年",
+      "source": "Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5",
+      "abstract": "本レポートは、人工腱および靭帯の世界市場の現状と2034年までの成長予測に関するものです。スポーツ医学の進歩と高齢化社会における需要増加が市場拡大の主要因として挙げられています。",
+      "insight": "スポーツ医療従事者や施設運営者は、将来の治療選択肢としての人工腱・靭帯の市場動向を把握することで、設備投資や人材育成の計画を立てる上で役立てることができます。",
+      "published_at": "2026-04-27T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "リハビリからパフォーマンスへ：新しい回復アプローチ",
+      "title": "リハビリからパフォーマンスへ：回復への新しいアプローチ",
       "source": "The Chaffee County Times",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0NVN2gyNzJ6Nm9yU2xFd0F4Y0xzZ0lUdE9NU1JUTlJKa1VmbHlOUTVxSzFKVm93NXJPajU5VXVBZU9kNm5LRXY2Ti00M3owNzQ1TkVVUGl0b1pXeEZIMnNselU1eDNfT3kwUEJTRGIySWFxR29WVTNoMnZfY2VVN3BiTXVBS3JvaFBxRzZWN0hTN05HWFdCSlFnZ0hkS1JLM0pHQUFyalg0cFdDRGVxM3VoUmlaOXpxQ3ljSUNYeU04VFBLRmczSw?oc=5",
-      "abstract": "怪我からの回復（リハビリテーション）に加えて、競技復帰後のパフォーマンス向上に焦点を当てた新しいアプローチを紹介する記事です。単に痛みがなくなるだけでなく、アスリートが最高の状態に戻るための包括的なサポート体制の重要性を強調。身体能力の再構築と心理的側面の両面を考慮に入れています。",
-      "insight": "アスリートのリハビリテーションは、怪我の治療にとどまらず、競技パフォーマンスの最適化まで見据えるべきです。心理的サポートも視野に入れ、専門家チームが一貫したプログラムを提供することで、より安全で高いレベルでの復帰が可能になります。",
+      "abstract": "本記事は、従来の傷害からの回復だけでなく、アスリートが最高のパフォーマンスを発揮できる状態まで導くための新しいリハビリテーションアプローチについて論じています。心身両面からの包括的なサポートが重要視されています。",
+      "insight": "物理療法士やトレーナーは、傷害後のリハビリテーションを単なる機能回復で終わらせず、アスリートの競技復帰後のパフォーマンス向上を見据えたプログラムを設計することで、選手をより高いレベルへと導けます。",
       "published_at": "2026-05-18T21:03:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手における反復性後方肩関節脱臼による疼痛管理のための補助的鍼灸治療：症例報告",
+      "title": "女子サッカー選手の反復性後方肩関節脱臼による疼痛管理における鍼灸の補助療法：症例報告",
       "source": "Cureus",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM3B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
-      "abstract": "女子サッカー選手における反復性後方肩関節脱臼による疼痛管理に、鍼治療と灸が補助的に用いられた症例報告です。西洋医学的治療に加えて東洋医学的アプローチを取り入れることで、疼痛の軽減と機能回復が期待できる可能性を示唆しています。このケーススタディは、統合医療の有効性を示唆するものです。",
-      "insight": "既存の治療法で改善が見られないアスリートの疼痛管理において、鍼灸治療は補助的な選択肢となり得ます。特に肩関節の不安定性による慢性疼痛に対して、痛みの緩和と可動域改善を促すために、東洋医学専門家との連携を検討する価値があります。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
+      "abstract": "反復性後方肩関節脱臼に苦しむ女子サッカー選手に対し、鍼灸治療が疼痛管理に有効であった単一症例を報告しています。従来の治療に加えて鍼灸を併用することで、痛みの軽減と機能改善が見られたと結論付けています。",
+      "insight": "疼痛管理に課題を抱えるアスリートに対して、従来の西洋医学的アプローチに加えて、鍼灸などの東洋医学的補助療法を検討することで、より幅広い治療選択肢を提供し、回復を促進できる可能性があります。",
       "published_at": "2026-03-18T07:00:00.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "本当に価値のあるクレアチンサプリメントはごく一部：あなたが摂取しているものは？",
+      "title": "投資に値するクレアチンサプリメントはごく一部：あなたはどれを選んでいますか？",
       "source": "Men's Health",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53TzBmN0tfVXFnM1dJbDljemlfOW9XdUZEREQ1UGVfVm9jUFVlMllPaFZtaTFQdFdwbzJhcUZXRjNyMnEyTVpnZFFaMmJBOVZ4TWZkamdxeExUQldkY2s3Mm9hQzFST29jQzg0STRUYk9sMDF6RktZVEhRSkdTUQ?oc=5",
-      "abstract": "クレアチンサプリメントの選び方と、効果が期待できる高品質な製品について解説した記事です。市場には多様な製品が存在しますが、効果が薄いものや安全性に疑問があるものも含まれるため、購入時には科学的根拠に基づいた慎重な選択が求められます。信頼できる製品を選ぶことの重要性を強調しています。",
-      "insight": "クレアチンはアスリートのパフォーマンス向上に有効なサプリメントですが、その品質にはばらつきがあります。選手やクライアントに推奨する際は、信頼できる第三者機関の認証を受けた製品や、臨床研究で効果が確認された形態のクレアチンを選択するよう指導することが重要です。",
+      "abstract": "数多あるクレアチンサプリメントの中から、科学的根拠に基づき効果と安全性が確認されている製品を識別する方法を解説しています。品質の高いクレアチンモノハイドレートの選び方や、一般的な疑問に答えています。",
+      "insight": "アスリートやその指導者は、クレアチンサプリメントの選択において、効果と安全性を重視し、信頼できる製品を選ぶことの重要性を理解するべきです。情報に基づいた選択がパフォーマンス向上に直結します。",
       "published_at": "2026-04-17T07:00:00.000Z"
     },
     {
@@ -67,67 +67,67 @@ window.DIGEST_DATA = {
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
       "source": "Johns Hopkins Medicine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
-      "abstract": "学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けのヒントが提供されています。競技と学業の両立、パフォーマンスへのプレッシャー、ソーシャルメディアの影響など、若年層アスリートが直面する特有の課題に焦点を当て、早期の兆候に気づき、適切なサポートを提供することの重要性を強調しています。",
-      "insight": "若年層アスリートのメンタルヘルスは、身体的健康と同様に重要です。コーチや保護者は、パフォーマンスだけでなく、ストレスや不安の兆候にも注意を払い、オープンなコミュニケーションを促す必要があります。専門家との連携も視野に入れ、多角的なサポート体制を構築しましょう。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMW93eFFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
+      "abstract": "本記事は、学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者やコーチがどのようにサポートできるかについて具体的なヒントを提供しています。学業と競技の両立、プレッシャーへの対処などが議論されています。",
+      "insight": "保護者やコーチは、学生アスリートのメンタルヘルスを身体の健康と同様に重要視し、早期にサインを認識し、適切なサポートを提供するためのコミュニケーションスキルや知識を身につける必要があります。",
       "published_at": "2026-05-05T15:36:18.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "ぐっすり眠って最高のプレーを：サッカー選手の睡眠に関する実践的洞察",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkw2eEFWU1ltYmFoZWN4ZzUxWGtiLWxvNXdidXl6b0REZHZaNVVWMTNOdFdLbVM1M1lFZzAwWWxoSnFPbWFycTJsVE90Y3lTZlkwdzZhZkpwLTE3d0hLdUMwM3JXWXZKQ2dRTlFCSFF3djE0YUR4NjlYT21qQWZBajJaZG5zcF9acWsxeG9Wb2o4djhpYkhQbDdDUlpwbzdxNzBjWA?oc=5",
-      "abstract": "サッカー選手に特化した睡眠の重要性と、そのパフォーマンスへの影響、そして実践的な改善策について解説しています。十分な睡眠が身体的回復、認知機能、集中力、反応速度にどのように影響するかを詳述。睡眠衛生の改善や環境最適化、時差ぼけ対策など、具体的なアドバイスが提供されています。",
-      "insight": "アスリート、特にサッカー選手にとって睡眠は最も基本的な回復戦略であり、パフォーマンスに直結します。適切な睡眠時間と質の確保は、怪我の予防、集中力向上、反応速度改善に不可欠です。選手には、質の高い睡眠を確保するための習慣作りをサポートすべきです。",
-      "published_at": "2026-01-28T13:59:11.000Z"
+      "title": "アスリートの精神を養う：競技におけるサプリメント",
+      "source": "Psychiatric Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONWRpUkxkMHpfdzd1SEFlQnVRYU0tRVNJaXd6OGtzcWk5c2EwcUptcGJxWXV4aHF0bmtfdlpOM2xiZWMzS3RpU0VmdjFzdHZuTTlEQndpbVMzQ2Z1dWVNOTZhX3lVOU9MbWxfUmwzOWI0YlVEbDJBSU95cGJGVmp3amptTGpISndTSE54WnhUYkNWQQ?oc=5",
+      "abstract": "本記事では、アスリートの精神的なパフォーマンス向上に寄与する可能性のあるサプリメントについて検討しています。集中力、ストレス耐性、回復力など、メンタル面への影響が期待される成分とそのエビデンスを概観しています。",
+      "insight": "アスリートは、精神的なパフォーマンスを高めるためにサプリメントを検討する際、科学的根拠に基づいた適切な選択と専門家との相談が不可欠です。安易な使用は避け、効果と安全性を最優先すべきです。",
+      "published_at": "2026-03-16T07:00:00.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
       "category": "社会",
-      "source": "読売新聞",
-      "title": "栃木強盗殺人、海外逃亡の男が報酬４０００万円示唆…現場指示役に「１億４０％」などメッセージ",
-      "summary": "栃木県で発生した強盗殺人事件で、海外に逃亡中の男が現場指示役に4000万円の報酬を示唆していたことが判明しました。「1億40%」などのメッセージが送られていたと報じられています。事件の全容解明に向け、捜査が進められています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpZWs3bVhERE5aSE9VcDBYX25kS3RXUVZNeTZRRF96aS1pbENGTUc4RTQxd3M0MVJiVEh6ZnFOVFdsWGtLNjlJQUUydmVDWktTeDNPbE13WnNaSjdiclFyMThMNnk2Zw?oc=5",
-      "published_at": "2026-05-29T20:00:00.000Z"
+      "source": "TBS NEWS DIG",
+      "title": "公開手配の益田和彦容疑者 十数年前まではタクシー会社に勤務 学生時代は生徒会長も 栃木・上三川町強盗殺人事件",
+      "summary": "栃木県上三川町で発生した強盗殺人事件の公開手配容疑者、益田和彦氏に関する新情報が明らかになりました。同容疑者は十数年前までタクシー会社に勤務し、学生時代は生徒会長を務めるなど意外な経歴が判明しています。警察は情報提供を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LYkYycEM3bVpRSGxfVXFtdHB6UVFkU2drQmM3MnZnaXV3Vkt2Qk9vYzExUldHV2czTGhMUWZ6TGFKenNWNlZKUGM2dlg3bElaT3VGcjQybw?oc=5",
+      "published_at": "2026-05-30T08:59:20.000Z"
     },
     {
       "id": "j002",
-      "category": "社会",
-      "source": "朝日新聞",
-      "title": "事故の運転手は85歳「人が集まらず」 中型バスでは駐車時に支障も [愛知県]",
-      "summary": "愛知県で発生した事故の運転手が85歳であったことが報じられました。運転手は「人が集まらず」と話し、中型バスの駐車時に支障があった可能性も指摘されています。高齢ドライバーの問題と人手不足が背景にあると見られます。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fclZJMmx1c0ZvNW14RHg3R0ZuUGl5dHJJSHRaT2FTb3hzNUw0ZThUTmtTOTllemlNX09idllVUWl3SlY4Wms1VnhpRXM5NjgxS1hGcFdyR2ZySFNJa0pCWjdndlppUW8?oc=5",
-      "published_at": "2026-05-29T21:37:12.000Z"
+      "category": "環境・気候",
+      "source": "日テレNEWS NNN",
+      "title": "台風6号北上中 広い範囲で大荒れのおそれ 週明け沖縄・奄美は厳重警戒 西・東日本も早めの備えを",
+      "summary": "台風6号が日本列島に北上しており、週明けには沖縄・奄美地方で厳重な警戒が必要です。西日本から東日本にかけても広い範囲で大荒れの天気となる恐れがあり、早めの備えが呼びかけられています。最新の気象情報に注意してください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BWWliNl9VLUVHbXVyX0lKNGhPZ1hZMDc0Skg1N0VNeFVHMU9sTzVxamxTMDBJbkVkSUVlZWkwbF9IektXbFNZcEtVN2FqTnBRRkJzNWxyNjNJSFdJaktucVdhSlJQXzFCUkxkOHpCejleyenJBWV9VZHpjcko?oc=5",
+      "published_at": "2026-05-30T14:23:01.000Z"
     },
     {
       "id": "j003",
-      "category": "国際",
-      "source": "Reuters",
-      "title": "トランプ氏、イラン合意案巡る「最終決定」へ会議 結果は不明",
-      "summary": "トランプ氏がイラン合意案を巡る最終決定のため会議を行ったと報じられています。会議の結果は現時点では不明です。今後の米国とイランの関係、そして中東情勢に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWV0U211SjdUYU9TVTdxeHJ0Mk9YUFhMeFVXSk9RQUlPUFJHYTRoa3ZFWjRmSC1hUDVscGlFM2R6SzlEWmg3U0p6NmRkbmc4OVZydERDTkZqVW11Umg0dzJ0UDRJUkdpcFUyT0JnUkRBdC1MV2g0SVhjYTdST3NvdWVn?oc=5",
-      "published_at": "2026-05-29T21:15:30.000Z"
+      "category": "環境・気候",
+      "source": "ウェザーニュース",
+      "title": "週間天気予報 6月初めは台風6号の影響に警戒 雨で暑さは少し和らぐ",
+      "summary": "週間天気予報によると、6月初めは台風6号の影響で全国的に荒れた天候となる見込みです。特に西日本を中心に大雨や強風に警戒が必要ですが、雨によって一時的に暑さが和らぐ地域もあると予測されています。引き続き気象庁からの情報に注目しましょう。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZZ1FIVzVrWWMwNy1ySjljblA2elFvdkJicmZRM09xQTBGaG9CV3RGNms1NUhPa1d1aUJ1aUVNUmVHMER0OHBJdTFScmM3Um9kMVFEcA?oc=5",
+      "published_at": "2026-05-30T21:00:00.000Z"
     },
     {
       "id": "j004",
       "category": "社会",
-      "source": "日テレNEWS NNN",
-      "title": "「お金を払うので許してほしい」謝るばかりの女子高校生に「イライラ」内田梨瑚被告の被告人質問",
-      "summary": "内田梨瑚被告の被告人質問で、女子高校生が「お金を払うので許してほしい」と謝るばかりの状況に対し、被告が「イライラした」と供述したと報じられています。このやり取りは、事件の背景にある人間関係や心理状態を浮き彫りにしています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMW9ybWY4RWhYZWRQTnkwMnNXLVh4RWNhZ1J0d1RyX0dWdktWaVdHTE9aYkFUUDRyQVpYdFlGN2xnM0Z5MjZsbTh5R0R0aGcxeDliNlpsQUdZOTVDbmhic2tFaW8wUU9UTWZ2N0ZQSmZtUUc2bVZFWTFfcVd6TTA4MmxPM0E4Zms?oc=5",
-      "published_at": "2026-05-29T11:30:11.000Z"
+      "source": "読売新聞",
+      "title": "２人死亡事故前のマイクロバス、遮断機上がりきる前に踏み切り侵入…情報得た担当者が運転中止するよう容疑者に連絡",
+      "summary": "2人が死亡したマイクロバスの踏切事故で、事故前の状況が判明しました。運転手は遮断機が完全に上がる前に踏切に侵入しており、事前に運送会社の担当者から運転中止を求める連絡を受けていたことも明らかになりました。警察は詳しい経緯を調べています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXa01DV3ExYXhUY19CVEs3eDdPdG00WVprUHlJX1pSMEtzYW5IWVpaV0pubjV1Y1FNZjMxVjBUWGRmaGx2ODBHOFo3UURIQWtKR3pjdXZJcGUwT2dtaXQ2ZVRxWjJqdw?oc=5",
+      "published_at": "2026-05-30T11:55:00.000Z"
     },
     {
       "id": "j005",
-      "category": "環境・気候",
-      "source": "ウェザーニュース",
-      "title": "台風6号(チャンミー) 暴風域を伴い沖縄直撃 来週は本州南岸を東進予想",
-      "summary": "台風6号（チャンミー）が暴風域を伴って沖縄を直撃すると予想されています。来週は本州の南岸を東進する見込みで、広範囲での警戒が必要です。交通機関への影響や大雨、暴風に注意が呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53UmM5NGppakpxTUlQYlVVVDFieUtDTHJ5U1d6NzZKbDVKMk5ZcUtERDVBNjBham1BT1BYdnQwVUNKbTJfcmlwUEJfLVhzbkszY3Nfaw?oc=5",
-      "published_at": "2026-05-29T20:39:00.000Z"
+      "category": "社会",
+      "source": "産経ニュース",
+      "title": "「支えは母からの腕時計」「月見て泣いた」曽我ひとみさん、北での24年回顧 国民大集会",
+      "summary": "拉致被害者である曽我ひとみさんが、北朝鮮での24年間を回顧する国民大集会に出席しました。曽我さんは「支えは母からの腕時計」「月見て泣いた」など当時の厳しい生活と心情を語り、残る拉致被害者の早期帰国を改めて強く訴えました。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvMDMtUE1jMERCb1AxbHBxakVYdTV0T2hwMUFteTZEbkVKc09ieFJNT1N3T3hmdWktTGtNYVlIdDdBRF9iVTVYX05hRlZrTDVaSzhKbmFVZGVzdXoxM2dwME85aFNzaENDMVZkSDNEbFE5RmJ4S3c?oc=5",
+      "published_at": "2026-05-30T11:51:38.000Z"
     }
   ],
   "global_news": [
@@ -135,51 +135,51 @@ window.DIGEST_DATA = {
       "id": "g001",
       "category": "Politics",
       "region": "US",
-      "source": "NPR",
-      "title": "裁判官、ケネディ・センターからトランプ大統領の名前を削除するよう命じる",
-      "summary": "裁判官が、ケネディ・センターからトランプ元大統領の名前を削除すべきとの判決を下しました。この決定は、公共の場所における政治的な命名を巡る議論を反映しています。米国内での政治的分断と文化施設のあり方について問いかけるものとなります。",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdFVRSTA2azhCNTdPQ2ltUUJmMGxwb1RBclk3aFp1STF5endHNGtWdWxiWkFwX3hUZ0tZczlZOGthRDNjbUhxdTdMNnQ5YTN2aC1jQzI2LXYxZGhTZDZZSGJKTUFFWTdVM2xFTmx6TTdIbnJNWGxyTFpFZG50RUROXzhRbXdzX0xFVUdONDNULWJjaS1uX1FV?oc=5",
-      "published_at": "2026-05-29T20:33:21.000Z"
+      "source": "Forbes",
+      "title": "トランプ氏、ケネディ・センターの判決後に判事の妻を激しく非難",
+      "summary": "ドナルド・トランプ前大統領が、ケネディ・センターに関する判決後、判事の妻に対してソーシャルメディアで激しく非難を展開しました。この発言は、司法の独立性や政治的な対立が深まる米国の状況を改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRjltRkJiWUQyR2hzaERzWFcyd21ZME5VVks3TVAxQ2VmX2VLR0ZjWDVKUWlnQ1psQXFfUnpRQWhJVVZNdXMyaWZjSzBNUGpHSFU2RHJ2Nk8wbzZHYU9wREhQUm9STWdHd2FjbUFoaDY2a3dwRVhPa2NxZjljOGc4a2JuYjd2dm9mTzZkbTV1eFBrUGkweWdFbU1IcWRHMnhYTnFtSm9ibVQwejhGbjFzS0dzYk5fUmU3UjJPMllJTkw4NTB1a3J6d1hVODJnS1VWYVowR3ln?oc=5",
+      "published_at": "2026-05-30T21:06:57.000Z"
     },
     {
       "id": "g002",
-      "category": "Politics",
-      "region": "Global",
-      "source": "Reuters",
-      "title": "トランプ氏、イラン合意案について間もなく決定すると発言、ホルムズ海峡の開通を主張",
-      "summary": "トランプ氏がイラン核合意について間もなく決定を下すと述べ、ホルムズ海峡の航行の自由を主張しました。これは中東地域の地政学的緊張を高める可能性があります。エネルギー供給にも関わる国際的な問題として注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUdqVHl0NlVBZUFYS3VkTkJlbU1ISUhpdFVKUTFSMklXWHY3TXBXWFptWkNvTWlhMXROQy14RlNvTUh5eFlTUm1ueUNMTnQ1U0p4REp5OTUwaVo2QkhVZw?oc=5",
-      "published_at": "2026-05-29T21:39:26.000Z"
+      "category": "Science",
+      "region": "US",
+      "source": "CBS News",
+      "title": "マサチューセッツ州沖で流星が爆発、大きな轟音を引き起こしたと気象学者が確認",
+      "summary": "マサチューセッツ州沖で流星が爆発し、広範囲で大きな轟音が報告されました。気象学者がこの現象を確認し、流星が大気圏に突入する際に発生したと見ています。大きな被害は報告されていません。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd05CNWdnY0tzWWtpanVraW8wakFWSlBYUUlib0J1NWp0eGxwZkRleUFsTzNyaTBwdFQxckVDSl9ybE5DOWJkNFZETEpXLUpVbURNbGtpOVVhOU5Tb1R5UmtzQzl3LUtNV0JVa2E3QklLV1V6akgzUkZRQzV2SGxRU3JlSVRxOWtkbUE?oc=5",
+      "published_at": "2026-05-30T19:10:00.000Z"
     },
     {
       "id": "g003",
       "category": "Politics",
       "region": "US",
-      "source": "CNBC",
-      "title": "ボンディ氏、エプスタイン関連ファイルの議会委員会への取り扱いを擁護",
-      "summary": "ボンディ氏が、エプスタイン関連ファイルの議会委員会への取り扱いを擁護しました。これは、高官による公文書管理の透明性と説明責任に関する議論を引き起こしています。世間の注目を集めるこの問題は、引き続き調査される見込みです。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmlxY28yRjBnQlo0SzhyeHRERzh4QS1aOEU2QWJLMHpZY3Y5QThCS3N2MHE3dXd1WkxFTlJnRHJab05UcDc4MHNpc0FYUVZDaER4RXJnaEtvck1yTDluTHlXQjY1TFByWnU3UzFZeG90dnZRbmpqMUYxYy0xVW5sXzFB0gGHAUFVX3lxTE1hckhneWtIaFRzUWJwb2p0bnJCNEY4RWhqSXhGLUF2YnU0T0c0MTNZNnVWcVJWRHNUT1lvMHdzWUVFT2FZYVZwQldNTkdIWGdXYVd4LS1iYTI3ZS05Y0ktNGV1ZlA4eEtIQklzYkpWczNLNkNOR0tUNDdsVTVHZklia1FLbC1aUQ?oc=5",
-      "published_at": "2026-05-29T14:17:19.000Z"
+      "source": "The New York Times",
+      "title": "プラトナー氏の女性とのメッセージが上院選開始時に陣営を懸念させる",
+      "summary": "上院選挙運動が本格化する中、プラトナー候補が女性と交わしたとされるメッセージの内容が選挙陣営内で懸念を引き起こしていることが報じられました。これらのメッセージが選挙戦にどのような影響を与えるか注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVVUbzVjdUtXT1dIcjJNeGhGM1FMRzVRYWhfdDg1dk1HU0pRWkFtUzRnWmd0MjQ3MVVoQXJ2bHJ0TGxzbFR3X2IzTFhKZjhWVEpMUHlweTdEZ2xsbklyZHlmenBJb1NTcGFwTFFSVC1kRzczLTZQUXZocmZPME96bEhOMWxNR2ZHcWxTMTNn?oc=5",
+      "published_at": "2026-05-30T18:59:19.000Z"
     },
     {
       "id": "g004",
       "category": "Politics",
       "region": "US",
-      "source": "AP News",
-      "title": "裁判官、トランプ氏の17.76億ドルの「反兵器化」和解基金からの支払いを一時的に差し止め",
-      "summary": "裁判官が、トランプ氏の「反兵器化」和解基金からの支払い手続きを一時的に差し止めました。この基金は政治的な目的で利用される可能性が指摘されており、その合法性について引き続き議論が交わされるでしょう。資金の使途に関する透明性が求められています。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmFDRFZ2MW1Ua1NsRVJMMWdrNWFIanJzS3RLUWt1aEVTdkRyS1VyN3IwaElGZUtobmNkQV81RENYRFJqdmVycXpHdTA1Wm8xZkJZWUNUaXJhU1RqbzhrX3BkLUxwenRNRlQ5Um9pSDRMT1RFUlVYZmZmd2RMUzh3MVNpYkJJZWtLcm1LWk9MWkJ0Z1dGNEE2ZkhkU2J1dzBO?oc=5",
-      "published_at": "2026-05-29T17:27:00.000Z"
+      "source": "The Washington Post",
+      "title": "トランプ氏の18億ドルの支払い基金を抑制するために議会ができること、できないこと",
+      "summary": "ドナルド・トランプ前大統領に関連する18億ドル規模の支払い基金について、議会がその権限をどこまで行使できるのかをワシントン・ポスト紙が分析しています。法的な制約や政治的な課題が複雑に絡み合っている状況です。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNallva3F1UjNPTU5rVS1SYTBESmtoMnB2RGhqcEhrRWpUNkxfS3BzbWtKYW9KT2ZPTDVfdlZjVlYwMk16SXp0ODlMbHlscE1WNnEzVzQ3UmdXRnZfdUZSNXpWaGxrdm8yLXdQbmRvYUpfN0NBUHJSUjUwMGJRd1N0WkVmOWRfUnk1NlFHVzNmeW9XZWRzck5wb2VldEM4X3M0V1JVUXBYRmh2UHFYOU9kMmd0MA?oc=5",
+      "published_at": "2026-05-30T16:00:00.000Z"
     },
     {
       "id": "g005",
-      "category": "Health",
-      "region": "Africa",
-      "source": "The Washington Post",
-      "title": "ケニアの裁判所、アメリカのエボラ患者をアフリカに留めるという米国の計画を阻止",
-      "summary": "ケニアの裁判所が、アメリカのエボラ患者をアフリカ国内に留めるという米国の計画を阻止しました。この決定は、公衆衛生と医療倫理、そして国際的な協力のあり方について重要な問いを投げかけています。アフリカ諸国の主権と、感染症対策における国際社会の役割が焦点となります。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUpGWnVEREV2Njh1eGhtUDI4NnYxMG9IM0hWWlk3THBYZHotUTRuRG5KaHlqVmxwenBIWnJEcTdKR0xaWXgwUG9qSU44UHpTdk5GVGllZnVoT0Nld2JNSWpvX2lfeVdaZGlJOXV1YjhuU2dSYmg1cjhuLXIweTdPcFZCMDhsQzBsOUJiWXZIOVRvRHM3TVJ3TFd5RWxMRDhVWUQtSGJURU9pSjd1ZzN2RzQtbw?oc=5",
-      "published_at": "2026-05-29T20:40:47.000Z"
+      "category": "Conflict",
+      "region": "Middle East",
+      "source": "Euronews.com",
+      "title": "米国、イランとの合意が依然として困難な中、戦争再開の能力があると表明",
+      "summary": "米国政府は、イランとの核合意が依然として達成できていない状況下で、イランとの戦争を再開する能力があることを表明しました。この発言は、中東地域の緊張を高め、国際社会の懸念を深めるものとなっています。",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1JqZ2ttSDN5R1NMc2pTWHVrdzgwOHVSYnRjMEJyQWFtQk01X0VQWkd3Q0t2ZHpQN2ZId2dKa0EwanZxOUpBUEljeVoxTUJ1V01IaUxNNDRzUEVZVDhWNS1lMkhZTlNVaFdLZEd3d0p1cnFXTEl2QTAtaUsyUVRPcHBZNnY2SnUyajJNZmRtb3JwamhVbHdLYV9TNnphZlc0T0x6cjBNYlU?oc=5",
+      "published_at": "2026-05-30T09:46:36.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,48 +187,48 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性アスリートの下肢損傷予防：効果的な戦略",
-      "summary": "女性アスリートにおける下肢損傷、特にACL損傷の予防に焦点を当てた記事です。女性は特定の生体力学的要因やホルモンバランスによりリスクが高いとされており、効果的な予防戦略として多面的なアプローチの重要性を指摘しています。ウォームアップやジャンプ着地指導の改善が有効であることが示唆されています。",
+      "title": "女性アスリートにおける下肢損傷予防",
+      "summary": "本研究は、女性アスリート、特に若い女性選手の下肢損傷予防に焦点を当てています。性差による傷害リスクの違いや、効果的な予防プログラムの必要性が強調されており、包括的なアプローチが推奨されています。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUC1ROFlGZ3VNbnp2azJMUnhXZVFEVVlRdXRqU19BdmFia0dhcmRSRmRqemdPekRmc0JUZVRYMm9jWk9BRm12VndnZw?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "高強度ランニングにおける運動誘発性疲労の多角的評価：心肺機能、神経筋機能、生体力学的プロファイリングの統合",
-      "summary": "高強度ランニングにおける運動誘発性疲労を多角的に評価する研究です。心肺機能、神経筋機能、生体力学的プロファイリングを統合することで、疲労のメカニズムを包括的に理解し、客観的な疲労指標を提供することを目指しています。このアプローチは、トレーニングの最適化に貢献する可能性を秘めています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVHWmdqRjNUTGk1YlU3UHBnZzNUNnE5NFd2aVJVdlRRb0Vmek9OMmZDM2l3VjJ3dTlBNGNzUnBmZ1VvWGFMUlVQb1FydjNtRlRPMXVMNDQ2ZVpOSm1hQTRWUDl6UHJabEpkSFhveVZ4cERCajhXdTZ6Umd4SmxCbmJTZzJBQlBhRWpndjUyNXNuRDNtU3RUeUZyNHJNcVRFQUJTSw?oc=5"
+      "title": "スプリント科学におけるパイオニアとパラダイム：テーマ別歴史的ミニレビュー",
+      "summary": "このミニレビューは、スプリント科学の歴史における主要な研究者や理論的枠組みを概観しています。スプリントパフォーマンス向上に貢献した生物力学、生理学、コーチング理論の進化が分析されています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZlJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷アスリートの競技復帰支援",
-      "summary": "MUCL（内側尺側側副靭帯）損傷を負ったアスリートが競技に安全に復帰するための治療戦略に焦点を当てた記事です。投球動作を伴うスポーツ選手に多く見られるこの損傷に対し、適切な診断と個別化されたリハビリテーション、または手術的介入が競技復帰の鍵となります。最新の治療プロトコルが紹介されています。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9rajN5bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
+      "title": "人工腱および靭帯市場の規模、シェア、予測、2034年",
+      "summary": "本レポートは、人工腱および靭帯の世界市場の現状と2034年までの成長予測に関するものです。スポーツ医学の進歩と高齢化社会における需要増加が市場拡大の主要因として挙げられています。",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "リハビリからパフォーマンスへ：新しい回復アプローチ",
-      "summary": "怪我からの回復（リハビリテーション）に加えて、競技復帰後のパフォーマンス向上に焦点を当てた新しいアプローチを紹介する記事です。単に痛みがなくなるだけでなく、アスリートが最高の状態に戻るための包括的なサポート体制の重要性を強調。身体能力の再構築と心理的側面の両面を考慮に入れています。",
+      "title": "リハビリからパフォーマンスへ：回復への新しいアプローチ",
+      "summary": "本記事は、従来の傷害からの回復だけでなく、アスリートが最高のパフォーマンスを発揮できる状態まで導くための新しいリハビリテーションアプローチについて論じています。心身両面からの包括的なサポートが重要視されています。",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0NVN2gyNzJ6Nm9yU2xFd0F4Y0xzZ0lUdE9NU1JUTlJKa1VmbHlOUTVxSzFKVm93NXJPajU5VXVBZU9kNm5LRXY2Ti00M3owNzQ1TkVVUGl0b1pXeEZIMnNselU1eDNfT3kwUEJTRGIySWFxR29WVTNoMnZfY2VVN3BiTXVBS3JvaFBxRzZWN0hTN05HWFdCSlFnZ0hkS1JLM0pHQUFyalg0cFdDRGVxM3VoUmlaOXpxQ3ljSUNYeU04VFBLRmczSw?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手における反復性後方肩関節脱臼による疼痛管理のための補助的鍼灸治療：症例報告",
-      "summary": "女子サッカー選手における反復性後方肩関節脱臼による疼痛管理に、鍼治療と灸が補助的に用いられた症例報告です。西洋医学的治療に加えて東洋医学的アプローチを取り入れることで、疼痛の軽減と機能回復が期待できる可能性を示唆しています。このケーススタディは、統合医療の有効性を示唆するものです。",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM3B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
+      "title": "女子サッカー選手の反復性後方肩関節脱臼による疼痛管理における鍼灸の補助療法：症例報告",
+      "summary": "反復性後方肩関節脱臼に苦しむ女子サッカー選手に対し、鍼灸治療が疼痛管理に有効であった単一症例を報告しています。従来の治療に加えて鍼灸を併用することで、痛みの軽減と機能改善が見られたと結論付けています。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "本当に価値のあるクレアチンサプリメントはごく一部：あなたが摂取しているものは？",
-      "summary": "クレアチンサプリメントの選び方と、効果が期待できる高品質な製品について解説した記事です。市場には多様な製品が存在しますが、効果が薄いものや安全性に疑問があるものも含まれるため、購入時には科学的根拠に基づいた慎重な選択が求められます。信頼できる製品を選ぶことの重要性を強調しています。",
+      "title": "投資に値するクレアチンサプリメントはごく一部：あなたはどれを選んでいますか？",
+      "summary": "数多あるクレアチンサプリメントの中から、科学的根拠に基づき効果と安全性が確認されている製品を識別する方法を解説しています。品質の高いクレアチンモノハイドレートの選び方や、一般的な疑問に答えています。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53TzBmN0tfVXFnM1dJbDljemlfOW9XdUZEREQ1UGVfVm9jUFVlMllPaFZtaTFQdFdwbzJhcUZXRjNyMnEyTVpnZFFaMmJBOVZ4TWZkamdxeExUQldkY2s3Mm9hQzFST29jQzg0STRUYk9sMDF6RktZVEhRSkdTUQ?oc=5"
     },
     {
@@ -236,111 +236,111 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けのヒントが提供されています。競技と学業の両立、パフォーマンスへのプレッシャー、ソーシャルメディアの影響など、若年層アスリートが直面する特有の課題に焦点を当て、早期の兆候に気づき、適切なサポートを提供することの重要性を強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "本記事は、学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者やコーチがどのようにサポートできるかについて具体的なヒントを提供しています。学業と競技の両立、プレッシャーへの対処などが議論されています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMW93eFFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "ぐっすり眠って最高のプレーを：サッカー選手の睡眠に関する実践的洞察",
-      "summary": "サッカー選手に特化した睡眠の重要性と、そのパフォーマンスへの影響、そして実践的な改善策について解説しています。十分な睡眠が身体的回復、認知機能、集中力、反応速度にどのように影響するかを詳述。睡眠衛生の改善や環境最適化、時差ぼけ対策など、具体的なアドバイスが提供されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkw2eEFWU1ltYmFoZWN4ZzUxWGtiLWxvNXdidXl6b0REZHZaNVVWMTNOdFdLbVM1M1lFZzAwWWxoSnFPbWFycTJsVE90Y3lTZlkwdzZhZkpwLTE3d0hLdUMwM3JXWXZKQ2dRTlFCSFF3djE0YUR4NjlYT21qQWZBajJaZG5zcF9acWsxeG9Wb2o4djhpYkhQbDdDUlpwbzdxNzBjWA?oc=5"
+      "title": "アスリートの精神を養う：競技におけるサプリメント",
+      "summary": "本記事では、アスリートの精神的なパフォーマンス向上に寄与する可能性のあるサプリメントについて検討しています。集中力、ストレス耐性、回復力など、メンタル面への影響が期待される成分とそのエビデンスを概観しています。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONWRpUkxkMHpfdzd1SEFlQnVRYU0tRVNJaXd6OGtzcWk5c2EwcUptcGJxWXV4aHF0bmtfdlpOM2xiZWMzS3RpU0VmdjFzdHZuTTlEQndpbVMzQ2Z1dWVNOTZhX3lVOU9MbWxfUmwzOWI0YlVEbDJBSU95cGJGVmp3amptTGpISndTSE54WnhUYkNWQQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "栃木強盗殺人、海外逃亡の男が報酬４０００万円示唆…現場指示役に「１億４０％」などメッセージ",
-      "summary": "栃木県で発生した強盗殺人事件で、海外に逃亡中の男が現場指示役に4000万円の報酬を示唆していたことが判明しました。「1億40%」などのメッセージが送られていたと報じられています。事件の全容解明に向け、捜査が進められています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpZWs3bVhERE5aSE9VcDBYX25kS3RXUVZNeTZRRF96aS1pbENGTUc4RTQxd3M0MVJiVEh6ZnFOVFdsWGtLNjlJQUUydmVDWktTeDNPbE13WnNaSjdiclFyMThMNnk2Zw?oc=5"
+      "title": "公開手配の益田和彦容疑者 十数年前まではタクシー会社に勤務 学生時代は生徒会長も 栃木・上三川町強盗殺人事件",
+      "summary": "栃木県上三川町で発生した強盗殺人事件の公開手配容疑者、益田和彦氏に関する新情報が明らかになりました。同容疑者は十数年前までタクシー会社に勤務し、学生時代は生徒会長を務めるなど意外な経歴が判明しています。警察は情報提供を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LYkYycEM3bVpRSGxfVXFtdHB6UVFkU2drQmM3MnZnaXV3Vkt2Qk9vYzExUldHV2czTGhMUWZ6TGFKenNWNlZKUGM2dlg3bElaT3VGcjQybw?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "事故の運転手は85歳「人が集まらず」 中型バスでは駐車時に支障も [愛知県]",
-      "summary": "愛知県で発生した事故の運転手が85歳であったことが報じられました。運転手は「人が集まらず」と話し、中型バスの駐車時に支障があった可能性も指摘されています。高齢ドライバーの問題と人手不足が背景にあると見られます。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fclZJMmx1c0ZvNW14RHg3R0ZuUGl5dHJJSHRaT2FTb3hzNUw0ZThUTmtTOTllemlNX09idllVUWl3SlY4Wms1VnhpRXM5NjgxS1hGcFdyR2ZySFNJa0pCWjdndlppUW8?oc=5"
+      "category": "環境・気候",
+      "title": "台風6号北上中 広い範囲で大荒れのおそれ 週明け沖縄・奄美は厳重警戒 西・東日本も早めの備えを",
+      "summary": "台風6号が日本列島に北上しており、週明けには沖縄・奄美地方で厳重な警戒が必要です。西日本から東日本にかけても広い範囲で大荒れの天気となる恐れがあり、早めの備えが呼びかけられています。最新の気象情報に注意してください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BWWliNl9VLUVHbXVyX0lKNGhPZ1hZMDc0Skg1N0VNeFVHMU9sTzVxamxTMDBJbkVkSUVlZWkwbF9IektXbFNZcEtVN2FqTnBRRkJzNWxyNjNJSFdJaktucVdhSlJQXzFCUkxkOHpCejleyenJBWV9VZHpjcko?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "トランプ氏、イラン合意案巡る「最終決定」へ会議 結果は不明",
-      "summary": "トランプ氏がイラン合意案を巡る最終決定のため会議を行ったと報じられています。会議の結果は現時点では不明です。今後の米国とイランの関係、そして中東情勢に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWV0U211SjdUYU9TVTdxeHJ0Mk9YUFhMeFVXSk9RQUlPUFJHYTRoa3ZFWjRmSC1hUDVscGlFM2R6SzlEWmg3U0p6NmRkbmc4OVZydERDTkZqVW11Umg0dzJ0UDRJUkdpcFUyT0JnUkRBdC1MV2g0SVhjYTdST3NvdWVn?oc=5"
+      "category": "環境・気候",
+      "title": "週間天気予報 6月初めは台風6号の影響に警戒 雨で暑さは少し和らぐ",
+      "summary": "週間天気予報によると、6月初めは台風6号の影響で全国的に荒れた天候となる見込みです。特に西日本を中心に大雨や強風に警戒が必要ですが、雨によって一時的に暑さが和らぐ地域もあると予測されています。引き続き気象庁からの情報に注目しましょう。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZZ1FIVzVrWWMwNy1ySjljblA2elFvdkJicmZRM09xQTBGaG9CV3RGNms1NUhPa1d1aUJ1aUVNUmVHMER0OHBJdTFScmM3Um9kMVFEcA?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "「お金を払うので許してほしい」謝るばかりの女子高校生に「イライラ」内田梨瑚被告の被告人質問",
-      "summary": "内田梨瑚被告の被告人質問で、女子高校生が「お金を払うので許してほしい」と謝るばかりの状況に対し、被告が「イライラした」と供述したと報じられています。このやり取りは、事件の背景にある人間関係や心理状態を浮き彫りにしています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMW9ybWY4RWhYZWRQTnkwMnNXLVh4RWNhZ1J0d1RyX0dWdktWaVdHTE9aYkFUUDRyQVpYdFlGN2xnM0Z5MjZsbTh5R0R0aGcxeDliNlpsQUdZOTVDbmhic2tFaW8wUU9UTWZ2N0ZQSmZtUUc2bVZFWTFfcVd6TTA4MmxPM0E4Zms?oc=5"
+      "title": "２人死亡事故前のマイクロバス、遮断機上がりきる前に踏み切り侵入…情報得た担当者が運転中止するよう容疑者に連絡",
+      "summary": "2人が死亡したマイクロバスの踏切事故で、事故前の状況が判明しました。運転手は遮断機が完全に上がる前に踏切に侵入しており、事前に運送会社の担当者から運転中止を求める連絡を受けていたことも明らかになりました。警察は詳しい経緯を調べています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXa01DV3ExYXhUY19CVEs3eDdPdG00WVprUHlJX1pSMEtzYW5IWVpaV0pubjV1Y1FNZjMxVjBUWGRmaGx2ODBHOFo3UURIQWtKR3pjdXZJcGUwT2dtaXQ2ZVRxWjJqdw?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風6号(チャンミー) 暴風域を伴い沖縄直撃 来週は本州南岸を東進予想",
-      "summary": "台風6号（チャンミー）が暴風域を伴って沖縄を直撃すると予想されています。来週は本州の南岸を東進する見込みで、広範囲での警戒が必要です。交通機関への影響や大雨、暴風に注意が呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53UmM5NGppakpxTUlQYlVVVDFieUtDTHJ5U1d6NzZKbDVKMk5ZcUtERDVBNjBham1BT1BYdnQwVUNKbTJfcmlwUEJfLVhzbkszY3Nfaw?oc=5"
+      "category": "社会",
+      "title": "「支えは母からの腕時計」「月見て泣いた」曽我ひとみさん、北での24年回顧 国民大集会",
+      "summary": "拉致被害者である曽我ひとみさんが、北朝鮮での24年間を回顧する国民大集会に出席しました。曽我さんは「支えは母からの腕時計」「月見て泣いた」など当時の厳しい生活と心情を語り、残る拉致被害者の早期帰国を改めて強く訴えました。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvMDMtUE1jMERCb1AxbHBxakVYdTV0T2hwMUFteTZEbkVKc09ieFJNT1N3T3hmdWktTGtNYVlIdDdBRF9iVTVYX05hRlZrTDVaSzhKbmFVZGVzdXoxM2dwME85aFNzaENDMVZkSDNEbFE5RmJ4S3c?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "裁判官、ケネディ・センターからトランプ大統領の名前を削除するよう命じる",
-      "summary": "裁判官が、ケネディ・センターからトランプ元大統領の名前を削除すべきとの判決を下しました。この決定は、公共の場所における政治的な命名を巡る議論を反映しています。米国内での政治的分断と文化施設のあり方について問いかけるものとなります。",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdFVRSTA2azhCNTdPQ2ltUUJmMGxwb1RBclk3aFp1STF5endHNGtWdWxiWkFwX3hUZ0tZczlZOGthRDNjbUhxdTdMNnQ5YTN2aC1jQzI2LXYxZGhTZDZZSGJKTUFFWTdVM2xFTmx6TTdIbnJNWGxyTFpFZG50RUROXzhRbXdzX0xFVUdONDNULWJjaS1uX1FV?oc=5"
+      "title": "トランプ氏、ケネディ・センターの判決後に判事の妻を激しく非難",
+      "summary": "ドナルド・トランプ前大統領が、ケネディ・センターに関する判決後、判事の妻に対してソーシャルメディアで激しく非難を展開しました。この発言は、司法の独立性や政治的な対立が深まる米国の状況を改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRjltRkJiWUQyR2hzaERzWFcyd21ZME5VVks3TVAxQ2VmX2VLR0ZjWDVKUWlnQ1psQXFfUnpRQWhJVVZNdXMyaWZjSzBNUGpHSFU2RHJ2Nk8wbzZHYU9wREhQUm9STWdHd2FjbUFoaDY2a3dwRVhPa2NxZjljOGc4a2JuYjd2dm9mTzZkbTV1eFBrUGkweWdFbU1IcWRHMnhYTnFtSm9ibVQwejhGbjFzS0dzYk5fUmU3UjJPMllJTkw4NTB1a3J6d1hVODJnS1VWYVowR3ln?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、イラン合意案について間もなく決定すると発言、ホルムズ海峡の開通を主張",
-      "summary": "トランプ氏がイラン核合意について間もなく決定を下すと述べ、ホルムズ海峡の航行の自由を主張しました。これは中東地域の地政学的緊張を高める可能性があります。エネルギー供給にも関わる国際的な問題として注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUdqVHl0NlVBZUFYS3VkTkJlbU1ISUhpdFVKUTFSMklXWHY3TXBXWFptWkNvTWlhMXROQy14RlNvTUh5eFlTUm1ueUNMTnQ1U0p4REp5OTUwaVo2QkhVZw?oc=5"
+      "category": "Science",
+      "title": "マサチューセッツ州沖で流星が爆発、大きな轟音を引き起こしたと気象学者が確認",
+      "summary": "マサチューセッツ州沖で流星が爆発し、広範囲で大きな轟音が報告されました。気象学者がこの現象を確認し、流星が大気圏に突入する際に発生したと見ています。大きな被害は報告されていません。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd05CNWdnY0tzWWtpanVraW8wakFWSlBYUUlib0J1NWp0eGxwZkRleUFsTzNyaTBwdFQxckVDSl9ybE5DOWJkNFZETEpXLUpVbURNbGtpOVVhOU5Tb1R5UmtzQzl3LUtNV0JVa2E3QklLV1V6akgzUkZRQzV2SGxRU3JlSVRxOWtkbUE?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ボンディ氏、エプスタイン関連ファイルの議会委員会への取り扱いを擁護",
-      "summary": "ボンディ氏が、エプスタイン関連ファイルの議会委員会への取り扱いを擁護しました。これは、高官による公文書管理の透明性と説明責任に関する議論を引き起こしています。世間の注目を集めるこの問題は、引き続き調査される見込みです。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmlxY28yRjBnQlo0SzhyeHRERzh4QS1aOEU2QWJLMHpZY3Y5QThCS3N2MHE3dXd1WkxFTlJnRHJab05UcDc4MHNpc0FYUVZDaER4RXJnaEtvck1yTDluTHlXQjY1TFByWnU3UzFZeG90dnZRbmpqMUYxYy0xVW5sXzFB0gGHAUFVX3lxTE1hckhneWtIaFRzUWJwb2p0bnJCNEY4RWhqSXhGLUF2YnU0T0c0MTNZNnVWcVJWRHNUT1lvMHdzWUVFT2FZYVZwQldNTkdIWGdXYVd4LS1iYTI3ZS05Y0ktNGV1ZlA4eEtIQklzYkpWczNLNkNOR0tUNDdsVTVHZklia1FLbC1aUQ?oc=5"
+      "title": "プラトナー氏の女性とのメッセージが上院選開始時に陣営を懸念させる",
+      "summary": "上院選挙運動が本格化する中、プラトナー候補が女性と交わしたとされるメッセージの内容が選挙陣営内で懸念を引き起こしていることが報じられました。これらのメッセージが選挙戦にどのような影響を与えるか注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVVUbzVjdUtXT1dIcjJNeGhGM1FMRzVRYWhfdDg1dk1HU0pRWkFtUzRnWmd0MjQ3MVVoQXJ2bHJ0TGxzbFR3X2IzTFhKZjhWVEpMUHlweTdEZ2xsbklyZHlmenBJb1NTcGFwTFFSVC1kRzczLTZQUXZocmZPME96bEhOMWxNR2ZHcWxTMTNn?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "裁判官、トランプ氏の17.76億ドルの「反兵器化」和解基金からの支払いを一時的に差し止め",
-      "summary": "裁判官が、トランプ氏の「反兵器化」和解基金からの支払い手続きを一時的に差し止めました。この基金は政治的な目的で利用される可能性が指摘されており、その合法性について引き続き議論が交わされるでしょう。資金の使途に関する透明性が求められています。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmFDRFZ2MW1Ua1NsRVJMMWdrNWFIanJzS3RLUWt1aEVTdkRyS1VyN3IwaElGZUtobmNkQV81RENYRFJqdmVycXpHdTA1Wm8xZkJZWUNUaXJhU1RqbzhrX3BkLUxwenRNRlQ5Um9pSDRMT1RFUlVYZmZmd2RMUzh3MVNpYkJJZWtLcm1LWk9MWkJ0Z1dGNEE2ZkhkU2J1dzBO?oc=5"
+      "title": "トランプ氏の18億ドルの支払い基金を抑制するために議会ができること、できないこと",
+      "summary": "ドナルド・トランプ前大統領に関連する18億ドル規模の支払い基金について、議会がその権限をどこまで行使できるのかをワシントン・ポスト紙が分析しています。法的な制約や政治的な課題が複雑に絡み合っている状況です。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNallva3F1UjNPTU5rVS1SYTBESmtoMnB2RGhqcEhrRWpUNkxfS3BzbWtKYW9KT2ZPTDVfdlZjVlYwMk16SXp0ODlMbHlscE1WNnEzVzQ3UmdXRnZfdUZSNXpWaGxrdm8yLXdQbmRvYUpfN0NBUHJSUjUwMGJRd1N0WkVmOWRfUnk1NlFHVzNmeW9XZWRzck5wb2VldEM4X3M0V1JVUXBYRmh2UHFYOU9kMmd0MA?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Health",
-      "title": "ケニアの裁判所、アメリカのエボラ患者をアフリカに留めるという米国の計画を阻止",
-      "summary": "ケニアの裁判所が、アメリカのエボラ患者をアフリカ国内に留めるという米国の計画を阻止しました。この決定は、公衆衛生と医療倫理、そして国際的な協力のあり方について重要な問いを投げかけています。アフリカ諸国の主権と、感染症対策における国際社会の役割が焦点となります。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUpGWnVEREV2Njh1eGhtUDI4NnYxMG9IM0hWWlk3THBYZHotUTRuRG5KaHlqVmxwenBIWnJEcTdKR0xaWXgwUG9qSU44UHpTdk5GVGllZnVoT0Nld2JNSWpvX2lfeVdaZGlJOXV1YjhuU2dSYmg1cjhuLXIweTdPcFZCMDhsQzBsOUJiWXZIOVRvRHM3TVJ3TFd5RWxMRDhVWUQtSGJURU9pSjd1ZzN2RzQtbw?oc=5"
+      "category": "Conflict",
+      "title": "米国、イランとの合意が依然として困難な中、戦争再開の能力があると表明",
+      "summary": "米国政府は、イランとの核合意が依然として達成できていない状況下で、イランとの戦争を再開する能力があることを表明しました。この発言は、中東地域の緊張を高め、国際社会の懸念を深めるものとなっています。",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1JqZ2ttSDN5R1NMc2pTWHVrdzgwOHVSYnRjMEJyQWFtQk01X0VQWkd3Q0t2ZHpQN2ZId2dKa0EwanZxOUpBUEljeVoxTUJ1V01IaUxNNDRzUEVZVDhWNS1lMkhZTlNVaFdLZEd3d0p1cnFXTEl2QTAtaUsyUVRPcHBZNnY2SnUyajJNZmRtb3JwamhVbHdLYV9TNnphZlc0T0x6cjBNYlU?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性アスリートにおける下肢損傷予防",
-      "summary": "女性アスリートが直面するACL損傷を含む下肢損傷のリスク要因とその予防戦略について考察しています。特に、思春期の女子アスリートにおける神経筋コントロールの改善や適切なトレーニングプログラムの重要性が強調されており、包括的な予防介入が長期的な健康とパフォーマンス維持に不可欠であると結論付けられています。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUC1RODlGZ3VNbnp2azJMUnhXZVFEVVlRdXRqU19BdmFia0dhcmRSRmRqemdPekRmc0JUZVRYMm9jWk9BRm12VndnZw?oc=5"
+      "title": "女性アスリートの下肢損傷予防：効果的な戦略",
+      "summary": "女性アスリートにおける下肢損傷、特にACL損傷の予防に焦点を当てた記事です。女性は特定の生体力学的要因やホルモンバランスによりリスクが高いとされており、効果的な予防戦略として多面的なアプローチの重要性を指摘しています。ウォームアップやジャンプ着地指導の改善が有効であることが示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUC1ROFlGZ3VNbnp2azJMUnhXZVFEVVlRdXRqU19BdmFia0dhcmRSRmRqemdPekRmc0JUZVRYMm9jWk9BRm12VndnZw?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "高強度ランニングにおける運動誘発性疲労の多角的評価：心肺機能、神経筋、バイオメカニクスプロファイルの統合",
-      "summary": "高強度ランニングにおける運動誘発性疲労を、心肺機能、神経筋機能、バイオメカニクスの複数の側面から評価する新しいアプローチを提案しています。この研究は、疲労のメカニズムをより包括的に理解し、個々のアスリートに合わせたトレーニングや回復戦略を最適化する可能性を探ります。",
+      "title": "高強度ランニングにおける運動誘発性疲労の多角的評価：心肺機能、神経筋機能、生体力学的プロファイリングの統合",
+      "summary": "高強度ランニングにおける運動誘発性疲労を多角的に評価する研究です。心肺機能、神経筋機能、生体力学的プロファイリングを統合することで、疲労のメカニズムを包括的に理解し、客観的な疲労指標を提供することを目指しています。このアプローチは、トレーニングの最適化に貢献する可能性を秘めています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVHWmdqRjNUTGk1YlU3UHBnZzNUNnE5NFd2aVJVdlRRb0Vmek9OMmZDM2l3VjJ3dTlBNGNzUnBmZ1VvWGFMUlVQb1FydjNtRlRPMXVMNDQ2ZVpOSm1hQTRWUDl6UHJabEpkSFhveVZ4cERCajhXdTZ6Umd4SmxCbmJTZzJBQlBhRWpndjUyNXNuRDNtU3RUeUZyNHJNcVRFQUJTSw?oc=5"
     }
   ],
@@ -349,48 +349,48 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性アスリートの下肢損傷予防：効果的な戦略",
-      "summary": "女性アスリートにおける下肢損傷、特にACL損傷の予防に焦点を当てた記事です。女性は特定の生体力学的要因やホルモンバランスによりリスクが高いとされており、効果的な予防戦略として多面的なアプローチの重要性を指摘しています。ウォームアップやジャンプ着地指導の改善が有効であることが示唆されています。",
+      "title": "女性アスリートにおける下肢損傷予防",
+      "summary": "本研究は、女性アスリート、特に若い女性選手の下肢損傷予防に焦点を当てています。性差による傷害リスクの違いや、効果的な予防プログラムの必要性が強調されており、包括的なアプローチが推奨されています。",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUC1ROFlGZ3VNbnp2azJMUnhXZVFEVVlRdXRqU19BdmFia0dhcmRSRmRqemdPekRmc0JUZVRYMm9jWk9BRm12VndnZw?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "高強度ランニングにおける運動誘発性疲労の多角的評価：心肺機能、神経筋機能、生体力学的プロファイリングの統合",
-      "summary": "高強度ランニングにおける運動誘発性疲労を多角的に評価する研究です。心肺機能、神経筋機能、生体力学的プロファイリングを統合することで、疲労のメカニズムを包括的に理解し、客観的な疲労指標を提供することを目指しています。このアプローチは、トレーニングの最適化に貢献する可能性を秘めています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVHWmdqRjNUTGk1YlU3UHBnZzNUNnE5NFd2aVJVdlRRb0Vmek9OMmZDM2l3VjJ3dTlBNGNzUnBmZ1VvWGFMUlVQb1FydjNtRlRPMXVMNDQ2ZVpOSm1hQTRWUDl6UHJabEpkSFhveVZ4cERCajhXdTZ6Umd4SmxCbmJTZzJBQlBhRWpndjUyNXNuRDNtU3RUeUZyNHJNcVRFQUJTSw?oc=5"
+      "title": "スプリント科学におけるパイオニアとパラダイム：テーマ別歴史的ミニレビュー",
+      "summary": "このミニレビューは、スプリント科学の歴史における主要な研究者や理論的枠組みを概観しています。スプリントパフォーマンス向上に貢献した生物力学、生理学、コーチング理論の進化が分析されています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZlJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷アスリートの競技復帰支援",
-      "summary": "MUCL（内側尺側側副靭帯）損傷を負ったアスリートが競技に安全に復帰するための治療戦略に焦点を当てた記事です。投球動作を伴うスポーツ選手に多く見られるこの損傷に対し、適切な診断と個別化されたリハビリテーション、または手術的介入が競技復帰の鍵となります。最新の治療プロトコルが紹介されています。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9rajN5bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
+      "title": "人工腱および靭帯市場の規模、シェア、予測、2034年",
+      "summary": "本レポートは、人工腱および靭帯の世界市場の現状と2034年までの成長予測に関するものです。スポーツ医学の進歩と高齢化社会における需要増加が市場拡大の主要因として挙げられています。",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "リハビリからパフォーマンスへ：新しい回復アプローチ",
-      "summary": "怪我からの回復（リハビリテーション）に加えて、競技復帰後のパフォーマンス向上に焦点を当てた新しいアプローチを紹介する記事です。単に痛みがなくなるだけでなく、アスリートが最高の状態に戻るための包括的なサポート体制の重要性を強調。身体能力の再構築と心理的側面の両面を考慮に入れています。",
+      "title": "リハビリからパフォーマンスへ：回復への新しいアプローチ",
+      "summary": "本記事は、従来の傷害からの回復だけでなく、アスリートが最高のパフォーマンスを発揮できる状態まで導くための新しいリハビリテーションアプローチについて論じています。心身両面からの包括的なサポートが重要視されています。",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0NVN2gyNzJ6Nm9yU2xFd0F4Y0xzZ0lUdE9NU1JUTlJKa1VmbHlOUTVxSzFKVm93NXJPajU5VXVBZU9kNm5LRXY2Ti00M3owNzQ1TkVVUGl0b1pXeEZIMnNselU1eDNfT3kwUEJTRGIySWFxR29WVTNoMnZfY2VVN3BiTXVBS3JvaFBxRzZWN0hTN05HWFdCSlFnZ0hkS1JLM0pHQUFyalg0cFdDRGVxM3VoUmlaOXpxQ3ljSUNYeU04VFBLRmczSw?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手における反復性後方肩関節脱臼による疼痛管理のための補助的鍼灸治療：症例報告",
-      "summary": "女子サッカー選手における反復性後方肩関節脱臼による疼痛管理に、鍼治療と灸が補助的に用いられた症例報告です。西洋医学的治療に加えて東洋医学的アプローチを取り入れることで、疼痛の軽減と機能回復が期待できる可能性を示唆しています。このケーススタディは、統合医療の有効性を示唆するものです。",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM3B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
+      "title": "女子サッカー選手の反復性後方肩関節脱臼による疼痛管理における鍼灸の補助療法：症例報告",
+      "summary": "反復性後方肩関節脱臼に苦しむ女子サッカー選手に対し、鍼灸治療が疼痛管理に有効であった単一症例を報告しています。従来の治療に加えて鍼灸を併用することで、痛みの軽減と機能改善が見られたと結論付けています。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "本当に価値のあるクレアチンサプリメントはごく一部：あなたが摂取しているものは？",
-      "summary": "クレアチンサプリメントの選び方と、効果が期待できる高品質な製品について解説した記事です。市場には多様な製品が存在しますが、効果が薄いものや安全性に疑問があるものも含まれるため、購入時には科学的根拠に基づいた慎重な選択が求められます。信頼できる製品を選ぶことの重要性を強調しています。",
+      "title": "投資に値するクレアチンサプリメントはごく一部：あなたはどれを選んでいますか？",
+      "summary": "数多あるクレアチンサプリメントの中から、科学的根拠に基づき効果と安全性が確認されている製品を識別する方法を解説しています。品質の高いクレアチンモノハイドレートの選び方や、一般的な疑問に答えています。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53TzBmN0tfVXFnM1dJbDljemlfOW9XdUZEREQ1UGVfVm9jUFVlMllPaFZtaTFQdFdwbzJhcUZXRjNyMnEyTVpnZFFaMmJBOVZ4TWZkamdxeExUQldkY2s3Mm9hQzFST29jQzg0STRUYk9sMDF6RktZVEhRSkdTUQ?oc=5"
     },
     {
@@ -398,111 +398,111 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けのヒントが提供されています。競技と学業の両立、パフォーマンスへのプレッシャー、ソーシャルメディアの影響など、若年層アスリートが直面する特有の課題に焦点を当て、早期の兆候に気づき、適切なサポートを提供することの重要性を強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "本記事は、学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者やコーチがどのようにサポートできるかについて具体的なヒントを提供しています。学業と競技の両立、プレッシャーへの対処などが議論されています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMW93eFFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "ぐっすり眠って最高のプレーを：サッカー選手の睡眠に関する実践的洞察",
-      "summary": "サッカー選手に特化した睡眠の重要性と、そのパフォーマンスへの影響、そして実践的な改善策について解説しています。十分な睡眠が身体的回復、認知機能、集中力、反応速度にどのように影響するかを詳述。睡眠衛生の改善や環境最適化、時差ぼけ対策など、具体的なアドバイスが提供されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkw2eEFWU1ltYmFoZWN4ZzUxWGtiLWxvNXdidXl6b0REZHZaNVVWMTNOdFdLbVM1M1lFZzAwWWxoSnFPbWFycTJsVE90Y3lTZlkwdzZhZkpwLTE3d0hLdUMwM3JXWXZKQ2dRTlFCSFF3djE0YUR4NjlYT21qQWZBajJaZG5zcF9acWsxeG9Wb2o4djhpYkhQbDdDUlpwbzdxNzBjWA?oc=5"
+      "title": "アスリートの精神を養う：競技におけるサプリメント",
+      "summary": "本記事では、アスリートの精神的なパフォーマンス向上に寄与する可能性のあるサプリメントについて検討しています。集中力、ストレス耐性、回復力など、メンタル面への影響が期待される成分とそのエビデンスを概観しています。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONWRpUkxkMHpfdzd1SEFlQnVRYU0tRVNJaXd6OGtzcWk5c2EwcUptcGJxWXV4aHF0bmtfdlpOM2xiZWMzS3RpU0VmdjFzdHZuTTlEQndpbVMzQ2Z1dWVNOTZhX3lVOU9MbWxfUmwzOWI0YlVEbDJBSU95cGJGVmp3amptTGpISndTSE54WnhUYkNWQQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "栃木強盗殺人、海外逃亡の男が報酬４０００万円示唆…現場指示役に「１億４０％」などメッセージ",
-      "summary": "栃木県で発生した強盗殺人事件で、海外に逃亡中の男が現場指示役に4000万円の報酬を示唆していたことが判明しました。「1億40%」などのメッセージが送られていたと報じられています。事件の全容解明に向け、捜査が進められています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpZWs3bVhERE5aSE9VcDBYX25kS3RXUVZNeTZRRF96aS1pbENGTUc4RTQxd3M0MVJiVEh6ZnFOVFdsWGtLNjlJQUUydmVDWktTeDNPbE13WnNaSjdiclFyMThMNnk2Zw?oc=5"
+      "title": "公開手配の益田和彦容疑者 十数年前まではタクシー会社に勤務 学生時代は生徒会長も 栃木・上三川町強盗殺人事件",
+      "summary": "栃木県上三川町で発生した強盗殺人事件の公開手配容疑者、益田和彦氏に関する新情報が明らかになりました。同容疑者は十数年前までタクシー会社に勤務し、学生時代は生徒会長を務めるなど意外な経歴が判明しています。警察は情報提供を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LYkYycEM3bVpRSGxfVXFtdHB6UVFkU2drQmM3MnZnaXV3Vkt2Qk9vYzExUldHV2czTGhMUWZ6TGFKenNWNlZKUGM2dlg3bElaT3VGcjQybw?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "事故の運転手は85歳「人が集まらず」 中型バスでは駐車時に支障も [愛知県]",
-      "summary": "愛知県で発生した事故の運転手が85歳であったことが報じられました。運転手は「人が集まらず」と話し、中型バスの駐車時に支障があった可能性も指摘されています。高齢ドライバーの問題と人手不足が背景にあると見られます。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fclZJMmx1c0ZvNW14RHg3R0ZuUGl5dHJJSHRaT2FTb3hzNUw0ZThUTmtTOTllemlNX09idllVUWl3SlY4Wms1VnhpRXM5NjgxS1hGcFdyR2ZySFNJa0pCWjdndlppUW8?oc=5"
+      "category": "環境・気候",
+      "title": "台風6号北上中 広い範囲で大荒れのおそれ 週明け沖縄・奄美は厳重警戒 西・東日本も早めの備えを",
+      "summary": "台風6号が日本列島に北上しており、週明けには沖縄・奄美地方で厳重な警戒が必要です。西日本から東日本にかけても広い範囲で大荒れの天気となる恐れがあり、早めの備えが呼びかけられています。最新の気象情報に注意してください。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BWWliNl9VLUVHbXVyX0lKNGhPZ1hZMDc0Skg1N0VNeFVHMU9sTzVxamxTMDBJbkVkSUVlZWkwbF9IektXbFNZcEtVN2FqTnBRRkJzNWxyNjNJSFdJaktucVdhSlJQXzFCUkxkOHpCejleyenJBWV9VZHpjcko?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "トランプ氏、イラン合意案巡る「最終決定」へ会議 結果は不明",
-      "summary": "トランプ氏がイラン合意案を巡る最終決定のため会議を行ったと報じられています。会議の結果は現時点では不明です。今後の米国とイランの関係、そして中東情勢に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWV0U211SjdUYU9TVTdxeHJ0Mk9YUFhMeFVXSk9RQUlPUFJHYTRoa3ZFWjRmSC1hUDVscGlFM2R6SzlEWmg3U0p6NmRkbmc4OVZydERDTkZqVW11Umg0dzJ0UDRJUkdpcFUyT0JnUkRBdC1MV2g0SVhjYTdST3NvdWVn?oc=5"
+      "category": "環境・気候",
+      "title": "週間天気予報 6月初めは台風6号の影響に警戒 雨で暑さは少し和らぐ",
+      "summary": "週間天気予報によると、6月初めは台風6号の影響で全国的に荒れた天候となる見込みです。特に西日本を中心に大雨や強風に警戒が必要ですが、雨によって一時的に暑さが和らぐ地域もあると予測されています。引き続き気象庁からの情報に注目しましょう。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZZ1FIVzVrWWMwNy1ySjljblA2elFvdkJicmZRM09xQTBGaG9CV3RGNms1NUhPa1d1aUJ1aUVNUmVHMER0OHBJdTFScmM3Um9kMVFEcA?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "「お金を払うので許してほしい」謝るばかりの女子高校生に「イライラ」内田梨瑚被告の被告人質問",
-      "summary": "内田梨瑚被告の被告人質問で、女子高校生が「お金を払うので許してほしい」と謝るばかりの状況に対し、被告が「イライラした」と供述したと報じられています。このやり取りは、事件の背景にある人間関係や心理状態を浮き彫りにしています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMW9ybWY4RWhYZWRQTnkwMnNXLVh4RWNhZ1J0d1RyX0dWdktWaVdHTE9aYkFUUDRyQVpYdFlGN2xnM0Z5MjZsbTh5R0R0aGcxeDliNlpsQUdZOTVDbmhic2tFaW8wUU9UTWZ2N0ZQSmZtUUc2bVZFWTFfcVd6TTA4MmxPM0E4Zms?oc=5"
+      "title": "２人死亡事故前のマイクロバス、遮断機上がりきる前に踏み切り侵入…情報得た担当者が運転中止するよう容疑者に連絡",
+      "summary": "2人が死亡したマイクロバスの踏切事故で、事故前の状況が判明しました。運転手は遮断機が完全に上がる前に踏切に侵入しており、事前に運送会社の担当者から運転中止を求める連絡を受けていたことも明らかになりました。警察は詳しい経緯を調べています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXa01DV3ExYXhUY19CVEs3eDdPdG00WVprUHlJX1pSMEtzYW5IWVpaV0pubjV1Y1FNZjMxVjBUWGRmaGx2ODBHOFo3UURIQWtKR3pjdXZJcGUwT2dtaXQ2ZVRxWjJqdw?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風6号(チャンミー) 暴風域を伴い沖縄直撃 来週は本州南岸を東進予想",
-      "summary": "台風6号（チャンミー）が暴風域を伴って沖縄を直撃すると予想されています。来週は本州の南岸を東進する見込みで、広範囲での警戒が必要です。交通機関への影響や大雨、暴風に注意が呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53UmM5NGppakpxTUlQYlVVVDFieUtDTHJ5U1d6NzZKbDVKMk5ZcUtERDVBNjBham1BT1BYdnQwVUNKbTJfcmlwUEJfLVhzbkszY3Nfaw?oc=5"
+      "category": "社会",
+      "title": "「支えは母からの腕時計」「月見て泣いた」曽我ひとみさん、北での24年回顧 国民大集会",
+      "summary": "拉致被害者である曽我ひとみさんが、北朝鮮での24年間を回顧する国民大集会に出席しました。曽我さんは「支えは母からの腕時計」「月見て泣いた」など当時の厳しい生活と心情を語り、残る拉致被害者の早期帰国を改めて強く訴えました。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvMDMtUE1jMERCb1AxbHBxakVYdTV0T2hwMUFteTZEbkVKc09ieFJNT1N3T3hmdWktTGtNYVlIdDdBRF9iVTVYX05hRlZrTDVaSzhKbmFVZGVzdXoxM2dwME85aFNzaENDMVZkSDNEbFE5RmJ4S3c?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "裁判官、ケネディ・センターからトランプ大統領の名前を削除するよう命じる",
-      "summary": "裁判官が、ケネディ・センターからトランプ元大統領の名前を削除すべきとの判決を下しました。この決定は、公共の場所における政治的な命名を巡る議論を反映しています。米国内での政治的分断と文化施設のあり方について問いかけるものとなります。",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdFVRSTA2azhCNTdPQ2ltUUJmMGxwb1RBclk3aFp1STF5endHNGtWdWxiWkFwX3hUZ0tZczlZOGthRDNjbUhxdTdMNnQ5YTN2aC1jQzI2LXYxZGhTZDZZSGJKTUFFWTdVM2xFTmx6TTdIbnJNWGxyTFpFZG50RUROXzhRbXdzX0xFVUdONDNULWJjaS1uX1FV?oc=5"
+      "title": "トランプ氏、ケネディ・センターの判決後に判事の妻を激しく非難",
+      "summary": "ドナルド・トランプ前大統領が、ケネディ・センターに関する判決後、判事の妻に対してソーシャルメディアで激しく非難を展開しました。この発言は、司法の独立性や政治的な対立が深まる米国の状況を改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRjltRkJiWUQyR2hzaERzWFcyd21ZME5VVks3TVAxQ2VmX2VLR0ZjWDVKUWlnQ1psQXFfUnpRQWhJVVZNdXMyaWZjSzBNUGpHSFU2RHJ2Nk8wbzZHYU9wREhQUm9STWdHd2FjbUFoaDY2a3dwRVhPa2NxZjljOGc4a2JuYjd2dm9mTzZkbTV1eFBrUGkweWdFbU1IcWRHMnhYTnFtSm9ibVQwejhGbjFzS0dzYk5fUmU3UjJPMllJTkw4NTB1a3J6d1hVODJnS1VWYVowR3ln?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、イラン合意案について間もなく決定すると発言、ホルムズ海峡の開通を主張",
-      "summary": "トランプ氏がイラン核合意について間もなく決定を下すと述べ、ホルムズ海峡の航行の自由を主張しました。これは中東地域の地政学的緊張を高める可能性があります。エネルギー供給にも関わる国際的な問題として注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5ESU5VTnpnd09UZ3VvYnJ5WmtPOUR1STFHREZuSXBjTmZob2tEUUZUTUZsOWZyaDlCbk9OdVZlM2ZaRUZyMnNvUG83QVl3d3EzbFlZZ3UyaThBaTRXRXBPRktIb0cxWEhrUUdqVHl0NlVBZUFYS3VkTkJlbU1ISUhpdFVKUTFSMklXWHY3TXBXWFptWkNvTWlhMXROQy14RlNvTUh5eFlTUm1ueUNMTnQ1U0p4REp5OTUwaVo2QkhVZw?oc=5"
+      "category": "Science",
+      "title": "マサチューセッツ州沖で流星が爆発、大きな轟音を引き起こしたと気象学者が確認",
+      "summary": "マサチューセッツ州沖で流星が爆発し、広範囲で大きな轟音が報告されました。気象学者がこの現象を確認し、流星が大気圏に突入する際に発生したと見ています。大きな被害は報告されていません。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd05CNWdnY0tzWWtpanVraW8wakFWSlBYUUlib0J1NWp0eGxwZkRleUFsTzNyaTBwdFQxckVDSl9ybE5DOWJkNFZETEpXLUpVbURNbGtpOVVhOU5Tb1R5UmtzQzl3LUtNV0JVa2E3QklLV1V6akgzUkZRQzV2SGxRU3JlSVRxOWtkbUE?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ボンディ氏、エプスタイン関連ファイルの議会委員会への取り扱いを擁護",
-      "summary": "ボンディ氏が、エプスタイン関連ファイルの議会委員会への取り扱いを擁護しました。これは、高官による公文書管理の透明性と説明責任に関する議論を引き起こしています。世間の注目を集めるこの問題は、引き続き調査される見込みです。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmlxY28yRjBnQlo0SzhyeHRERzh4QS1aOEU2QWJLMHpZY3Y5QThCS3N2MHE3dXd1WkxFTlJnRHJab05UcDc4MHNpc0FYUVZDaER4RXJnaEtvck1yTDluTHlXQjY1TFByWnU3UzFZeG90dnZRbmpqMUYxYy0xVW5sXzFB0gGHAUFVX3lxTE1hckhneWtIaFRzUWJwb2p0bnJCNEY4RWhqSXhGLUF2YnU0T0c0MTNZNnVWcVJWRHNUT1lvMHdzWUVFT2FZYVZwQldNTkdIWGdXYVd4LS1iYTI3ZS05Y0ktNGV1ZlA4eEtIQklzYkpWczNLNkNOR0tUNDdsVTVHZklia1FLbC1aUQ?oc=5"
+      "title": "プラトナー氏の女性とのメッセージが上院選開始時に陣営を懸念させる",
+      "summary": "上院選挙運動が本格化する中、プラトナー候補が女性と交わしたとされるメッセージの内容が選挙陣営内で懸念を引き起こしていることが報じられました。これらのメッセージが選挙戦にどのような影響を与えるか注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVVUbzVjdUtXT1dIcjJNeGhGM1FMRzVRYWhfdDg1dk1HU0pRWkFtUzRnWmd0MjQ3MVVoQXJ2bHJ0TGxzbFR3X2IzTFhKZjhWVEpMUHlweTdEZ2xsbklyZHlmenBJb1NTcGFwTFFSVC1kRzczLTZQUXZocmZPME96bEhOMWxNR2ZHcWxTMTNn?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "裁判官、トランプ氏の17.76億ドルの「反兵器化」和解基金からの支払いを一時的に差し止め",
-      "summary": "裁判官が、トランプ氏の「反兵器化」和解基金からの支払い手続きを一時的に差し止めました。この基金は政治的な目的で利用される可能性が指摘されており、その合法性について引き続き議論が交わされるでしょう。資金の使途に関する透明性が求められています。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmFDRFZ2MW1Ua1NsRVJMMWdrNWFIanJzS3RLUWt1aEVTdkRyS1VyN3IwaElGZUtobmNkQV81RENYRFJqdmVycXpHdTA1Wm8xZkJZWUNUaXJhU1RqbzhrX3BkLUxwenRNRlQ5Um9pSDRMT1RFUlVYZmZmd2RMUzh3MVNpYkJJZWtLcm1LWk9MWkJ0Z1dGNEE2ZkhkU2J1dzBO?oc=5"
+      "title": "トランプ氏の18億ドルの支払い基金を抑制するために議会ができること、できないこと",
+      "summary": "ドナルド・トランプ前大統領に関連する18億ドル規模の支払い基金について、議会がその権限をどこまで行使できるのかをワシントン・ポスト紙が分析しています。法的な制約や政治的な課題が複雑に絡み合っている状況です。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNallva3F1UjNPTU5rVS1SYTBESmtoMnB2RGhqcEhrRWpUNkxfS3BzbWtKYW9KT2ZPTDVfdlZjVlYwMk16SXp0ODlMbHlscE1WNnEzVzQ3UmdXRnZfdUZSNXpWaGxrdm8yLXdQbmRvYUpfN0NBUHJSUjUwMGJRd1N0WkVmOWRfUnk1NlFHVzNmeW9XZWRzck5wb2VldEM4X3M0V1JVUXBYRmh2UHFYOU9kMmd0MA?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Health",
-      "title": "ケニアの裁判所、アメリカのエボラ患者をアフリカに留めるという米国の計画を阻止",
-      "summary": "ケニアの裁判所が、アメリカのエボラ患者をアフリカ国内に留めるという米国の計画を阻止しました。この決定は、公衆衛生と医療倫理、そして国際的な協力のあり方について重要な問いを投げかけています。アフリカ諸国の主権と、感染症対策における国際社会の役割が焦点となります。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUpGWnVEREV2Njh1eGhtUDI4NnYxMG9IM0hWWlk3THBYZHotUTRuRG5KaHlqVmxwenBIWnJEcTdKR0xaWXgwUG9qSU44UHpTdk5GVGllZnVoT0Nld2JNSWpvX2lfeVdaZGlJOXV1YjhuU2dSYmg1cjhuLXIweTdPcFZCMDhsQzBsOUJiWXZIOVRvRHM3TVJ3TFd5RWxMRDhVWUQtSGJURU9pSjd1ZzN2RzQtbw?oc=5"
+      "category": "Conflict",
+      "title": "米国、イランとの合意が依然として困難な中、戦争再開の能力があると表明",
+      "summary": "米国政府は、イランとの核合意が依然として達成できていない状況下で、イランとの戦争を再開する能力があることを表明しました。この発言は、中東地域の緊張を高め、国際社会の懸念を深めるものとなっています。",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1JqZ2ttSDN5R1NMc2pTWHVrdzgwOHVSYnRjMEJyQWFtQk01X0VQWkd3Q0t2ZHpQN2ZId2dKa0EwanZxOUpBUEljeVoxTUJ1V01IaUxNNDRzUEVZVDhWNS1lMkhZTlNVaFdLZEd3d0p1cnFXTEl2QTAtaUsyUVRPcHBZNnY2SnUyajJNZmRtb3JwamhVbHdLYV9TNnphZlc0T0x6cjBNYlU?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女性アスリートにおける下肢損傷予防",
-      "summary": "女性アスリートが直面するACL損傷を含む下肢損傷のリスク要因とその予防戦略について考察しています。特に、思春期の女子アスリートにおける神経筋コントロールの改善や適切なトレーニングプログラムの重要性が強調されており、包括的な予防介入が長期的な健康とパフォーマンス維持に不可欠であると結論付けられています。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUC1RODlGZ3VNbnp2azJMUnhXZVFEVVlRdXRqU19BdmFia0dhcmRSRmRqemdPekRmc0JUZVRYMm9jWk9BRm12VndnZw?oc=5"
+      "title": "女性アスリートの下肢損傷予防：効果的な戦略",
+      "summary": "女性アスリートにおける下肢損傷、特にACL損傷の予防に焦点を当てた記事です。女性は特定の生体力学的要因やホルモンバランスによりリスクが高いとされており、効果的な予防戦略として多面的なアプローチの重要性を指摘しています。ウォームアップやジャンプ着地指導の改善が有効であることが示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUC1ROFlGZ3VNbnp2azJMUnhXZVFEVVlRdXRqU19BdmFia0dhcmRSRmRqemdPekRmc0JUZVRYMm9jWk9BRm12VndnZw?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "高強度ランニングにおける運動誘発性疲労の多角的評価：心肺機能、神経筋、バイオメカニクスプロファイルの統合",
-      "summary": "高強度ランニングにおける運動誘発性疲労を、心肺機能、神経筋機能、バイオメカニクスの複数の側面から評価する新しいアプローチを提案しています。この研究は、疲労のメカニズムをより包括的に理解し、個々のアスリートに合わせたトレーニングや回復戦略を最適化する可能性を探ります。",
+      "title": "高強度ランニングにおける運動誘発性疲労の多角的評価：心肺機能、神経筋機能、生体力学的プロファイリングの統合",
+      "summary": "高強度ランニングにおける運動誘発性疲労を多角的に評価する研究です。心肺機能、神経筋機能、生体力学的プロファイリングを統合することで、疲労のメカニズムを包括的に理解し、客観的な疲労指標を提供することを目指しています。このアプローチは、トレーニングの最適化に貢献する可能性を秘めています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVHWmdqRjNUTGk1YlU3UHBnZzNUNnE5NFd2aVJVdlRRb0Vmek9OMmZDM2l3VjJ3dTlBNGNzUnBmZ1VvWGFMUlVQb1FydjNtRlRPMXVMNDQ2ZVpOSm1hQTRWUDl6UHJabEpkSFhveVZ4cERCajhXdTZ6Umd4SmxCbmJTZzJBQlBhRWpndjUyNXNuRDNtU3RUeUZyNHJNcVRFQUJTSw?oc=5"
     }
   ]
