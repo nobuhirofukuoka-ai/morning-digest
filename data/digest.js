@@ -1,185 +1,185 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/06/06",
-  "generated_at": "2026-06-05T22:08:18.796Z",
+  "issue_date": "2026/06/07",
+  "generated_at": "2026-06-06T21:55:27.199Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツにおけるACL損傷の増加とその背景",
-      "source": "ESPN – WRUF",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSKzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5",
-      "abstract": "女子スポーツ選手における前十字靭帯（ACL）損傷の増加傾向について、その原因を深掘りする記事です。特に女子選手は解剖学的、ホルモン的要因、そしてトレーニング習慣の違いからACL損傷のリスクが高いと指摘されています。これらの複合的な要因が、傷害発生率の上昇につながっていると考えられています。",
-      "insight": "女子選手特有のACL損傷リスク要因を理解し、性差を考慮した予防プログラムの導入が、傷害発生率低減に不可欠です。適切なウォーミングアップ、筋力トレーニング、プライオメトリクス運動を組み合わせることで効果を高められます。",
-      "published_at": "2026-05-12T07:00:00.000Z"
+      "title": "女性アスリートにおけるACL（前十字靭帯）損傷の予防法",
+      "source": "Mass General Brigham",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RwSXhDT3Z2NTZEWVh3MVFuU3pkOVYxZ1pqQ21fbV94Y01uYTRrUFhjLWhVeUY2MERxdFVRT2U3QjE2YUwxbjBSblZGNHc1bG9FWWJyUmxJV3B2dG9KM2s5WUp4VTVVVFUzWlZuNHRTTExxa1hJRlp5LU9IaS04bC1iTE9qNWVpM0V1d2doZVJ4NzZ0ME5Nb1BaR0V4NmNtQmJ6OGo1OVE4NGg3UzhqeTA3TEI?oc=5",
+      "abstract": "女性アスリートは男性アスリートと比較してACL損傷のリスクが高いことが指摘されています。この記事では、その理由と、ジャンプ・着地パターンや骨盤機能の改善に焦点を当てたウォームアッププログラムの効果について解説しています。特に、動的膝外反（dynamic knee valgus）を持つ女性バスケットボール選手を対象とした研究結果が示唆されています。",
+      "insight": "女性アスリートのACL損傷予防には、性差を考慮した biomechanics に基づくトレーニングプログラムの導入が重要です。",
+      "published_at": "2026-04-17T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史的ミニレビュー",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZnpSbFdtMy0xVmwtN0lCMHgxUFpmU0s1X19EZlIyREZUSzliUHVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
-      "abstract": "スプリント科学の歴史における主要な先駆者とその研究パラダイムを概観するミニレビューです。過去の研究がスプリントパフォーマンスの理解と向上にどのように貢献してきたかを分析しています。これには、生物力学的分析、生理学的メカニズム、トレーニング方法論の発展が含まれます。",
-      "insight": "スプリントトレーニングや指導において、過去の科学的進歩と現在の知見を統合することで、より効果的なアプローチを構築できます。特に個々のアスリートの特性に合わせたトレーニング計画の策定に役立ちます。",
-      "published_at": "2026-04-30T16:58:11.000Z"
+      "title": "ランニングのバイオメカニクスの基本",
+      "source": "MileSplit United States",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5",
+      "abstract": "ランニングのパフォーマンス向上と怪我の予防には、ランニングバイオメカニクスの理解が不可欠です。この記事では、ランニングフォームの効率化や、膝の痛みが膝自体ではなく他の部位の機能不全に起因する可能性についても触れています。効果的なランニングフォームの習得には、全体的な身体の協調性が重要であることを示唆しています。",
+      "insight": "ランニングフォームの改善には、全身の連動性を意識したトレーニングを取り入れることが効果的です。",
+      "published_at": "2026-03-24T07:00:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱および靭帯市場規模、シェア、予測、2034年",
-      "source": "Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5",
-      "abstract": "人工腱および靭帯の世界市場に関する予測レポートが発表されました。この市場が2034年までに大きな成長を遂げると予測されており、技術革新やスポーツ外傷の増加がその背景にあると分析されています。整形外科分野における新たな治療選択肢の可能性を示唆しています。",
-      "insight": "将来のスポーツ医学分野では、人工腱・靭帯の利用が増加する可能性があり、患者への選択肢提供やリハビリテーション戦略に影響を与えるでしょう。最新の素材や技術の進展に注目し、治療計画に組み込む検討が必要です。",
-      "published_at": "2026-05-11T07:00:00.000Z"
+      "title": "内側側副靭帯（MCL）損傷からのアスリートの競技復帰",
+      "source": "Mayo Clinic",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzWh5NkU1MV90eEtQZWkwUzA4?oc=5",
+      "abstract": "内側側副靭帯（MCL）の損傷からの競技復帰は、慎重なリハビリテーション計画を必要とします。この記事では、MCL損傷からの回復プロセスと、アスリートが安全かつ効果的に競技に復帰するためのガイドラインについて解説しています。適切な治療と段階的な復帰プログラムの重要性が強調されています。",
+      "insight": "MCL損傷からの復帰には、個々の回復状況に合わせた段階的なリハビリテーションと、専門家による評価が不可欠です。",
+      "published_at": "2025-12-02T08:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "Valley Health Systemがアスリートの安全な競技復帰を支援するプログラムを開始",
+      "title": "アスリートがピークパフォーマンスに安全に復帰するための「Return to Sport」プログラム",
       "source": "Valley Health System",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5",
-      "abstract": "Valley Health Systemが、アスリートが怪我から安全に復帰し、最高のパフォーマンスを取り戻すための「リターン・トゥ・スポーツ・プログラム」を立ち上げたことを報じるニュースです。このプログラムは、身体的側面だけでなく、精神的サポートや個別化されたトレーニング計画を重視しています。専門家チームによる包括的なアプローチが特徴です。",
-      "insight": "アスリートの競技復帰には、単なる身体機能の回復だけでなく、心理的側面へのアプローチが重要であり、包括的なプログラムが求められます。リハビリテーション専門家は、選手一人ひとりの状況に合わせた多角的なサポート体制を構築すべきです。",
+      "abstract": "Valley Health Systemは、アスリートが怪我から安全に競技に復帰するための「Return to Sport」プログラムを開始しました。このプログラムは、運動能力の回復だけでなく、精神的な準備も重視し、アスリートが自信を持って競技に臨めるようサポートします。最新のスポーツ医学の知見に基づいた、個別化されたリハビリテーションを提供します。",
+      "insight": "怪我からの復帰においては、身体的側面に加え、精神的なサポートも提供する包括的なプログラムが有効です。",
       "published_at": "2026-05-11T13:16:02.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "鍼灸市場規模、2035年までに1053.4億ドルに達する見込み",
-      "source": "Precedence Research",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUlViS0U1WHduTVFvMVlkUzk5b194Mzg3OTVGU1VXNFQ2VU5aOGFkRjJYel8tWHNXc2N2dGhJeHFEVUI2eXlFVVdYN3VsdkRiSElGa2RfNWNFUHRfdlQxeF9Kcw?oc=5",
-      "abstract": "鍼灸（アキュパンクチャー）の世界市場が2035年までに1053.4億ドルに達すると予測するレポートです。代替医療への関心の高まりや、慢性疼痛管理における鍼灸の有効性が市場成長を牽引すると分析されています。ヘルスケア分野における東洋医学の役割が拡大しています。",
-      "insight": "スポーツ分野においても、西洋医学と東洋医学を組み合わせたアプローチ（統合医療）が拡大する可能性があり、鍼灸治療がアスリートの疼痛管理やコンディショニングにさらに活用されることが期待されます。選手の回復促進やパフォーマンス向上の一助として検討できるでしょう。",
-      "published_at": "2026-05-14T07:00:00.000Z"
+      "title": "アスリートの疼痛管理における西洋式鍼灸療法の体系的レビューとメタアナリシス",
+      "source": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
+      "abstract": "本研究は、アスリートの疼痛管理における西洋式鍼灸療法の有効性を評価するための体系的レビューとメタアナリシスを実施しました。様々な研究結果を統合することで、鍼灸がアスリートの疼痛軽減に寄与する可能性を示唆しています。ただし、さらなる質の高い研究が必要であることも指摘されています。",
+      "insight": "スポーツ現場での疼痛管理において、鍼灸療法は従来の治療法と併用する選択肢として検討されるべきです。",
+      "published_at": "2026-02-03T18:00:13.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
-      "source": "220 Triathlon",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5",
-      "abstract": "アスリートが利用する主要なスポーツサプリメント（クレアチン、カフェイン、エネルギージェル、L-カルニチンなど）について、その効果、安全性、そしてパフォーマンス向上への影響を検証する記事です。科学的根拠に基づいた情報を提示し、それぞれのサプリメントの適切な使用方法を解説しています。",
-      "insight": "アスリートは、自身の競技特性や目標に応じて、科学的根拠のあるサプリメントを適切に選択し、過剰摂取や根拠のない製品の使用を避けるべきです。専門家による個別指導を受け、安全かつ効果的な栄養戦略を立てることが重要です。",
-      "published_at": "2026-04-19T07:00:00.000Z"
+      "title": "ワークアウトパフォーマンスを向上させる5つのサプリメント",
+      "source": "Verywell Health",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUlUTTR1eER0WjEweE9OVzh0ai1yb1ZkVHBxY2VqQnI2LTVER3hyVm4wREhTTmg1bEdFMjNUZml6YVRKUHVTVVZfRXkxam50U1p3RWFHcldTbjRabml3NWZsakw4eTJBRzBxcktyaEQ1SUJKVlgyMFRMTS12ZUVtSXJLbw?oc=5",
+      "abstract": "ワークアウトのパフォーマンス向上に役立つ可能性のある5つのサプリメントについて解説しています。クリスタルマッスル、ホエイプロテイン、クレアチン、ベータアラニン、カフェインなどが紹介されており、それぞれの効果や摂取方法、注意点についても触れられています。",
+      "insight": "トレーニング効果を最大化するため、個々の目標や体質に合ったサプリメントの適切な摂取を検討しましょう。",
+      "published_at": "2026-03-02T08:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
+      "title": "若年アスリートのメンタルヘルス：保護者とコーチのためのヒント",
       "source": "Johns Hopkins Medicine",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
-      "abstract": "学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者やコーチがどのようにサポートすべきか具体的なヒントを提供する記事です。学業とスポーツの両立、高い競技レベルでのプレッシャー、そして燃え尽き症候群などについて言及し、早期発見と介入の重要性を説いています。",
-      "insight": "若年アスリートの健全な成長には、身体的トレーニングだけでなく、メンタルヘルスへの配慮が不可欠です。保護者やコーチは、選手の変化に気づき、適切なサポートを提供するための知識を持ち、専門家との連携も視野に入れるべきです。",
+      "abstract": "若年アスリートは、学業や競技のプレッシャーからメンタルヘルスの問題に直面することがあります。この記事では、保護者やコーチがアスリートのメンタルヘルスをサポートするための具体的なヒントを提供しています。早期の兆候に気づき、適切な支援を行うことの重要性を強調しています。",
+      "insight": "若年アスリートの健全な成長のため、身体的なトレーニングだけでなく、メンタルヘルスケアにも配慮した指導が求められます。",
       "published_at": "2026-05-05T15:36:18.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "論説：アスリートの回復を最適化する：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "title": "編集：アスリートの回復の最適化：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5",
-      "abstract": "アスリートのパフォーマンス向上と怪我予防において、回復戦略と睡眠が果たす役割の重要性を強調する論説です。最適な回復プロセスを確立するための様々なアプローチと、質の高い睡眠の必要性について論じています。特に、個別の回復ニーズに合わせた戦略の重要性が指摘されています。",
-      "insight": "スポーツ現場では、トレーニングだけでなく、個々のアスリートに合わせた質の高い睡眠と効果的な回復戦略を組み込むことで、怪我のリスクを減らし、持続的なパフォーマンス向上をサポートできます。睡眠環境の最適化やリカバリースケジュールの見直しが推奨されます。",
+      "abstract": "本論文は、アスリートの回復における回復戦略と睡眠の重要性に焦点を当てています。様々な回復戦略の効果を比較し、特に睡眠がスポーツパフォーマンス、認知機能、および感情的な回復にどのように影響するかを分析しています。最適な回復プロトコルの確立に向けた知見を提供します。",
+      "insight": "アスリートのパフォーマンス最大化のためには、トレーニングだけでなく、質の高い睡眠と効果的な回復戦略の実施が不可欠です。",
       "published_at": "2026-04-08T10:40:51.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "文化・エンタメ",
+      "category": "社会",
       "source": "読売新聞",
-      "title": "奈良県の「飛鳥・藤原の宮都」、世界文化遺産登録の見通し…ユネスコ諮問機関が勧告",
-      "summary": "奈良県の「飛鳥・藤原の宮都」が、ユネスコ（国連教育科学文化機関）の諮問機関から世界文化遺産への登録を勧告されたことが報じられました。\nこれにより、国内で21件目の世界遺産となる見通しが強まり、古代日本の歴史的価値が国際的に認められることになります。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13Q3RTaDVka3Zqdy1KdjA4YVZjTUwxTkk1VEJmeWZiQjF0Vzk5WklKMTJ1Y1RzVWt4SllHSkU5SlpSMmpvdDNOTGdCS2JYLTlIUWZJVV9oNzlRcEJkRGx3Y0VFSGo?oc=5",
-      "published_at": "2026-06-05T18:36:00.000Z"
+      "title": "栃木強殺で少年３人再逮捕、「俺は知らない」「バールで殴っていない」と容疑否認…主導役はＩＣＰＯが国際手配",
+      "summary": "栃木県で発生した強盗殺人事件で、少年3人が再逮捕されました。3人は容疑を否認しており、「知らない」「殴っていない」などと供述しています。事件の主導役とみられる人物は、ICPO（国際刑事警察機構）によって国際手配されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwdVExSXlHMmZzMnQxaTU5NVJFSElfSGhmZWJJWklybGFBUnF0RHhlY3ZfaGtJMmllTm9LcFZLRzNBZWI2SDNYLWdMS1R4NzVJZERoR0FSVVJ0aVFsVlYwamdEOThndw?oc=5",
+      "published_at": "2026-06-06T12:16:00.000Z"
     },
     {
       "id": "j002",
       "category": "政治",
-      "source": "Yahoo!ニュース",
-      "title": "「言い訳が醜すぎて聞いてられない」高市首相、秘書の“中傷動画”関与を改めて「否定」で遠のく支持率回復（週刊女性PRIME）",
-      "summary": "高市首相が自身の秘書による「中傷動画」への関与を改めて否定しましたが、この対応が国民の不信感を招き、支持率回復がさらに遠のく可能性があると週刊女性PRIMEが報じています。\n国民からは「言い訳が醜い」といった批判の声が上がっており、政権運営に暗雲が立ち込めています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42a3pxejZLc0xub0FZaUotNXpJVV91ZG1GR09QazBURzZwTWNTMnp5ZUo3a0pLUEJTczFyY2l6RzN6ZzdBODlFVk1IMnZndVFlSW5pNHhpTENqX3ZlbWxjUjVnZnQwQkl4YkdMZGxXXzRJYmQ0aUJBMG5YOTM0aDg?oc=5",
-      "published_at": "2026-06-05T09:00:35.000Z"
+      "source": "47NEWS",
+      "title": "【速報】北海道、愛知、福岡と副首都目指すと吉村氏",
+      "summary": "大阪府の吉村知事が、北海道、愛知県、福岡県と共に「副首都」を目指す構想について言及しました。この発言は、新たな都市開発や地域連携の可能性を示唆するものとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UbkNwSUZiVjJhb2ZiVVpMc193VnJDS3hHbzhIQVZrVFBGci1mYzdIcllrSVB1SXRKZGxRV0VGNnJoVGdsakNTNGdUTQ?oc=5",
+      "published_at": "2026-06-06T08:18:26.000Z"
     },
     {
       "id": "j003",
-      "category": "社会",
-      "source": "日テレNEWS NNN",
-      "title": "【速報】栃木強盗殺人事件、益田容疑者を国際手配 身柄拘束を求める「赤手配」で（2026年6月5日掲載）｜日テレNEWS NNN",
-      "summary": "栃木県で発生した強盗殺人事件に関して、警察庁が益田容疑者を国際刑事警察機構（ICPO）を通じて国際手配したと速報されました。\n身柄拘束を求める「赤手配」が出されており、国際的な協力体制のもとで早期逮捕に向けた捜査が進められています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pZGhwMlNFZEtrbzZ2dWFOWDRzbmkzeGplRTlhYzR6eHo5UmZKa1dJRUZFZFIwenpBbUNEbEREUnlFV29hb3k3Zk00Rmpua01ycXV1Uzd1QVZkQ2N3VFpMMHlXSl9UWWk0MXdET1ZPemJzdmpUNjZFYTRWVGI?oc=5",
-      "published_at": "2026-06-05T14:21:01.000Z"
+      "category": "教育",
+      "source": "Yahoo!ニュース",
+      "title": "高専卒業に学位授与、国内限定の「準学士」改め…国際的に通用する学歴で卒業生の活躍後押し（読売新聞オンライン）",
+      "summary": "高等専門学校（高専）の卒業資格が、国内限定の「準学士」から学位として国際的に通用するものに改められることになりました。これにより、卒業生の海外での活躍や、さらなる学歴取得への道が開かれることが期待されています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XREtUWGQ2ZFdUQ2gtUXc1azViVkZ0ek9RWjJKNmlSemxqQTFJZUVwWFVJU0xHSndsX3ZrX0luQmplaFZiekVCRUFtcV81TE1uWXRBeVRoVXh2a1VxYTg0dXZaTFM4WXFvZWlSMDVjODVYZWM5N1p5X2U4ZmFnT0k?oc=5",
+      "published_at": "2026-06-06T20:04:22.000Z"
     },
     {
       "id": "j004",
-      "category": "社会",
-      "source": "TBS NEWS DIG",
-      "title": "「殺したいくらいの気持ちです」【大学生集団暴行死】被害者の姉が法廷で極刑要求 検察から無期懲役を求刑された川村葉音被告（21）弁護側は13年の有期懲役相当を主張",
-      "summary": "大学生集団暴行死事件の公判で、被害者の姉が法廷で犯人への極刑を要求したと報じられています。\n検察側は川村葉音被告（21）に無期懲役を求刑しましたが、弁護側は13年の有期懲役が相当だと主張しており、判決の行方が注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55Q1dVbmFUblpmNnYxMzdYTjBPWGtXNHlwemdXNjdUUEE4ZWRHQkVRcVRaa3lrSDFUMXZ1bV9HMHFzclBIMmpEVTZWNnB0S2pjclpVUkQ5clFROHFXbFFfTTFpV2o?oc=5",
-      "published_at": "2026-06-05T09:52:00.000Z"
+      "category": "環境・気候",
+      "source": "tenki.jp",
+      "title": "【速報】宮崎県で「線状降水帯」発生の可能性　7日明け方～昼前　避難の検討や準備を(気象予報士 日直主任 2026年06月06日)",
+      "summary": "宮崎県で7日明け方から昼前にかけて「線状降水帯」が発生する可能性が示唆されています。気象予報士は、避難の検討や事前の準備を呼びかけています。記録的な大雨となる恐れがあるため、厳重な警戒が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KOGhMaXBtZ29oLXMzRVFyTHlCaHNGenNMbThFZi1IWF9VeGtwWW4zN3o3U19uQnExOXVqZl91ZEFOU29QSzdpTFBmT25BYjFwekYwT0pFSXBDbXJWbTdFZU4wUkdzYjYzeEHSAW9BVV95cUxPWTBMZWJlZzZkY1FoNVJKck84V3R4U3h4bHAyNzY5aE15RTdFYUpsQzNJbUdWM19HU2Nfakd4S19LLTltbmRrQUdxdzdUaUFiUUZGbUtLRHVUOVpiejZWZ3J2SThpTk5mc1B4d2VDYUU?oc=5",
+      "published_at": "2026-06-06T12:07:45.000Z"
     },
     {
       "id": "j005",
       "category": "政治",
-      "source": "産経ニュース",
-      "title": "男系男子の皇籍復帰容認 両院正副議長が「立法府の総意案」合意 各党に8日提示",
-      "summary": "衆参両院の正副議長が、皇位継承資格を持つ「男系男子」の皇籍復帰を容認する「立法府の総意案」で合意したことが報じられました。\nこの案は各党に8日提示される予定で、安定的な皇位継承を巡る議論に大きな動きが見られます。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkc3MxSGxkeXg3U3RlSlJJUWxyR2RpVUNQMXFJYk9UUmNfZFJlUlZHUlBsVTJEVUxTRmFvSFJlQkhwYUd2YXJSMUlwQkx3UmFRY0Vob1pQQ1VFamJTVEdaMnRiNDNfMk5zLXhHVEJFWDdZQ1FySkE?oc=5",
-      "published_at": "2026-06-05T10:45:58.000Z"
+      "source": "日本経済新聞",
+      "title": "自民党の石破前首相、中傷動画報道「真実究明が大事」",
+      "summary": "自民党の石破茂元首相は、自身に関する中傷動画の報道について、「真実究明が大事だ」との認識を示しました。法的な対応も含め、事実関係の解明が重要であるとの立場を強調しました。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWWWhrNW5MMEF2M0NzSENCX0lIcm11Z29OVTRLZzJvYlc3SkJtRC1WMENuckI2a0dTSGcyWW5MZU9waFNLWENVMVJfNzBuRlZVUHdudnlvb0Z2QUJ6ODVNalk3N2M3V0hCZUw4Tg?oc=5",
+      "published_at": "2026-06-06T12:00:00.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
-      "category": "Conflict",
-      "region": "Europe",
-      "source": "BBC",
-      "title": "プーチン大統領、ウクライナ戦争終結に向けたゼレンスキー大統領との会談は「無意味」と発言",
-      "summary": "ロシアのプーチン大統領が、ウクライナ戦争終結についてゼレンスキー大統領と会談する「意味がない」と述べたとBBCが報じました。\nこの発言は、停戦に向けた外交努力が停滞している現状を示唆しており、国際社会の懸念を深めています。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45b1VaUEU3MjROUi12WVdOdkFLMWlFZFZfcDU5eVlCS20tOUhOLXdIZk1SMmpIM0toeW5oR2QtQTJrcWZXWlEyTHk1NE9mbm9HTUY2QmQwb2hhQQ?oc=5",
-      "published_at": "2026-06-05T18:16:15.000Z"
+      "category": "Politics",
+      "region": "US",
+      "source": "Forbes",
+      "title": "バーニー・サンダース上院議員、グラハム・プラトナー氏への疑惑浮上後も支持を表明。人間関係の「有害さ」や「不穏な行動」を巡る告発。",
+      "summary": "バーニー・サンダース上院議員は、グラハム・プラトナー氏に関する「有害な人間関係」や「不穏な行動」を巡る疑惑が浮上しているにもかかわらず、同氏への支持を表明しました。この表明は、疑惑の内容とサンダース氏の姿勢との間に乖離があるとして波紋を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlJPdU5wNXFwOHFQQms3SFYwSGVMWmJ2cnFQaDlETS1FWHgyR0ZmaGhJdW9zUWkxSlk3NVRDUUVlN29LTHE4eURDckpicUNBNHIwSGIzSUhrbnBDUWRuQUNKcmtkdTdORUFYWlhfT2tldkpxZGFfd2tpdGZpczFWa2w4aXdsaVh6R24yamxOUnlSU202bVFONGh5alo5WmdKWkQ4TmNpUTdib0lVR0NGXzZhRnd1c21YZXRVaHY2NE5PaGtpSTA4WGlvNmNycmtWdjJ5eXFMa3JOWE9yQUdaOWk2SlpURjRsNXc?oc=5",
+      "published_at": "2026-06-06T21:13:00.000Z"
     },
     {
       "id": "g002",
-      "category": "Culture",
+      "category": "Health",
       "region": "US",
-      "source": "NPR",
-      "title": "ワシントンD.C.のリフレクティングプールが再塗装された後、訪問者が疑問に思う：「何が変わったのか？」",
-      "summary": "ワシントンD.C.のリンカーン記念堂前にあるリフレクティングプールが再塗装されたものの、訪問者からは「何が変わったのか」という疑問の声が上がっているとNPRが伝えています。\n改修の目的や効果について、市民の間で関心が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa3ljVWI3YjBnMTVNbGZaYzV4eUhoNnZNNlgtYUxPSGZXR3JkRnRwRThKLUtwb1FSYVVkbU9yUHFfWmkzQllrM0JRcGFlMUFXdUtsUHlxcm13Q25wMjk4VlROX1AzUHlxNVhXcE8wNXBKLU9JVzhRclJsR2V4ZENGNw?oc=5",
-      "published_at": "2026-06-05T21:12:38.000Z"
+      "source": "WBMA",
+      "title": "日本で発見の行方不明のアラバマ州ハイカー、死亡確認",
+      "summary": "アラバマ州から日本を旅行中に消息を絶っていたハイカーが、遺体で発見されました。事件の詳細は現在調査中ですが、家族は悲しみに包まれています。現地の警察が捜査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyejVoSWY3TzROR0tMQl91c1FPZEgwb2gwSnl0Z25LemwyMXhzZUxMaUxPSkQ2dEx6UVdqMDZBZXNJR1FUbS1HUXExLXV0SlhGMFZCNS1IMkpmYWgyYWlueDVoT2poV2R4UHRRZ18xUE4wRVd1cWVoZXpfY18?oc=5",
+      "published_at": "2026-06-06T21:45:00.000Z"
     },
     {
       "id": "g003",
-      "category": "Politics",
-      "region": "US",
-      "source": "WMTW",
-      "title": "グラハム・プラットナー氏の告発者がNYTの記事を彼の「上院選挙運動への贈り物」と呼ぶ",
-      "summary": "グラハム・プラットナー上院議員候補を告発している人物が、ニューヨーク・タイムズ紙の記事を彼の選挙運動への「贈り物」だと表現したとWMTWが報じています。\nこの発言は、記事が彼のキャンペーンに有利に働く可能性があるという皮肉な見方を示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEwxQ3IwMEhFc0NFSzhyVzNrd2VlV2R5eUJhZHByY1RKOWF1Z3BsanF2aGsyUG5qazBKWl9qUUZSMDFXU08xR0Y3ekZraHZLdzJyanNNZ2xKTXd2WThsaU5RNmE5UGlEUnR0T3hWZXd2QjVtV1lPZnA3QUVrRExoaGZhejlHYjFBbF9QaWFIS0RFVlRkYjRQSlFrMWdodGR6WUpnV185ZVlFWng4?oc=5",
-      "published_at": "2026-06-05T16:24:15.000Z"
+      "category": "Economy",
+      "region": "North America",
+      "source": "Reuters",
+      "title": "スクリューワームの国境閉鎖がメキシコでの牛肉ブームとテキサスでの不況を加速",
+      "summary": "スクリューワーム（ウシウマバエ）の発生による国境閉鎖が、メキシコでは牛肉産業のブームを引き起こす一方、テキサス州では経済的な打撃となっています。この状況は、貿易政策が地域経済に与える影響の大きさを浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdE5LM1VqUi0yQjIyc1ZaajRpcV9vak5BWkh6LUMzVHFmRUFtMHNubEJTRkh1OTlOWk5KS3FqNFZvOW90OERycHE5WVN5cXFIbVo5bVp5QkttYU1jRUJkRm1tYXQ4dXVWQkhwLTlQU1MxRHVrSlY3elAxM0VHb3RXOExtNGxIYW44a0xCcUtNMTdhRW9mdGJnQlpvMXpfQkZFdUZyWUdrTUZZQkRNQnNz?oc=5",
+      "published_at": "2026-06-06T18:15:50.000Z"
     },
     {
       "id": "g004",
       "category": "Politics",
       "region": "US",
-      "source": "Reuters",
-      "title": "米国の判事、39カ国からの移民を標的としたトランプ政権の政策を却下",
-      "summary": "米国の裁判官が、39カ国からの移民を対象としたトランプ前政権の複数の政策を違法として却下したとロイターが報じました。\nこの判決は、移民政策の合法性に関する継続的な議論に大きな影響を与えるものと見られます。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkstOFU0cXFkQ1dVbEZwNldfU3lLU2VHbzYwRE90Y2dOX0VYeTVPMWUxRUo1aVBqc3k2ZmFvNGFLMS1lNS1IMkk2MkhtZnNUS2xZNlhBM2w3ajZOWTZuTXYwNlZHbWRYbDIyRUo1ajRta3dCbFRCeDNDXzIyREVsTU0xTnQyUXdfQk9zMUtMWkdXT1hVUzdGdEV1eEp0MnlUSnNlcWtoSXRwRnlzbUtKMQ?oc=5",
-      "published_at": "2026-06-05T18:31:34.000Z"
+      "source": "The Guardian",
+      "title": "より多くの共和党員がトランプ氏と袂を分かつ。良心か、それとも政治的計算か？",
+      "summary": "トランプ前大統領に対する共和党内の反発が強まっています。この記事は、その背景にある動機が、道徳的な信念によるものなのか、それとも選挙戦略上の計算によるものなのかを分析しています。両方の要因が複雑に絡み合っている可能性が示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zZ0JBVGx1QTkxUVRlQVRoTjBSckdQQnlIWU50WjFQaHcyZXhTcktMTkpGb0ZRYlRTT21XOE42YThFRXotbFd2X0FrWUlLMDYtVzJlaG4wLURWWUdXM1NuNm11RGViZk9ZU1BrMHhUZkViaHZNdkJZTnBFN0c5TlU?oc=5",
+      "published_at": "2026-06-06T15:43:00.000Z"
     },
     {
       "id": "g005",
-      "category": "Politics",
-      "region": "US",
-      "source": "The Washington Post",
-      "title": "トランプ氏の突然緩和された新たなグリーンカード政策の内幕",
-      "summary": "トランプ氏が、以前よりも緩和された新たなグリーンカード政策を発表した背景について、ワシントン・ポスト紙が内幕を報じています。\nこの政策変更の意図や、それが移民問題に与える影響について分析しています。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF9UOHIwZGdjd1dxeEtYaTdRVEoyb3RySUt2MFo1MDdMT1AtNVBsYkNLTHpTeUZoOVZPRG1OSmlSS0RoTjdHU0xJdVhNVGZ3QVR0d0RlcTk2Mm5IekdlZTZYbUVlcFFWVl9mZE5lYjNGa1gtZjhZWmlScnQ4VE42X3ptOEVNUVE5Rm5OMTA3bHhLMm1iUFFLOFJ1aEhUNDFpeUZXNzgyV2tlLURCcy0yR3NpUQ?oc=5",
-      "published_at": "2026-06-05T16:00:00.000Z"
+      "category": "Conflict",
+      "region": "Middle East",
+      "source": "NPR",
+      "title": "停戦合意後、イスラエル軍の空爆でレバノン軍将校ら9名死亡",
+      "summary": "停戦合意がなされた後、イスラエル軍による空爆が発生し、レバノン軍の将校9名を含む計9名が死亡したと報じられています。この一件は、地域情勢の不安定さを改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVRRbFk4OU9ncUh0Y0FpQVhtR1Z6TnNIUDRNUGR2X2N1TWxnYmt2dnpXMEE3REt3RW90VkJ6WldXSHFrZk55ZzZNOW82Q01ld2pnZHNsWUx0MzFEcm1Wc0dkZDkxdmt1Um52UTFjOGNDWk1RMnNZV1duUTVIb2NrZEpES2tPb1RGUm9qOHJxai1YZXJxRUE?oc=5",
+      "published_at": "2026-06-06T10:54:34.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,161 +187,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツにおけるACL損傷の増加とその背景",
-      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の増加傾向について、その原因を深掘りする記事です。特に女子選手は解剖学的、ホルモン的要因、そしてトレーニング習慣の違いからACL損傷のリスクが高いと指摘されています。これらの複合的な要因が、傷害発生率の上昇につながっていると考えられています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSKzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "女性アスリートにおけるACL（前十字靭帯）損傷の予防法",
+      "summary": "女性アスリートは男性アスリートと比較してACL損傷のリスクが高いことが指摘されています。この記事では、その理由と、ジャンプ・着地パターンや骨盤機能の改善に焦点を当てたウォームアッププログラムの効果について解説しています。特に、動的膝外反（dynamic knee valgus）を持つ女性バスケットボール選手を対象とした研究結果が示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RwSXhDT3Z2NTZEWVh3MVFuU3pkOVYxZ1pqQ21fbV94Y01uYTRrUFhjLWhVeUY2MERxdFVRT2U3QjE2YUwxbjBSblZGNHc1bG9FWWJyUmxJV3B2dG9KM2s5WUp4VTVVVFUzWlZuNHRTTExxa1hJRlp5LU9IaS04bC1iTE9qNWVpM0V1d2doZVJ4NzZ0ME5Nb1BaR0V4NmNtQmJ6OGo1OVE4NGg3UzhqeTA3TEI?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史的ミニレビュー",
-      "summary": "スプリント科学の歴史における主要な先駆者とその研究パラダイムを概観するミニレビューです。過去の研究がスプリントパフォーマンスの理解と向上にどのように貢献してきたかを分析しています。これには、生物力学的分析、生理学的メカニズム、トレーニング方法論の発展が含まれます。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZnpSbFdtMy0xVmwtN0lCMHgxUFpmU0s1X19EZlIyREZUSzliUHVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "ランニングのバイオメカニクスの基本",
+      "summary": "ランニングのパフォーマンス向上と怪我の予防には、ランニングバイオメカニクスの理解が不可欠です。この記事では、ランニングフォームの効率化や、膝の痛みが膝自体ではなく他の部位の機能不全に起因する可能性についても触れています。効果的なランニングフォームの習得には、全体的な身体の協調性が重要であることを示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱および靭帯市場規模、シェア、予測、2034年",
-      "summary": "人工腱および靭帯の世界市場に関する予測レポートが発表されました。この市場が2034年までに大きな成長を遂げると予測されており、技術革新やスポーツ外傷の増加がその背景にあると分析されています。整形外科分野における新たな治療選択肢の可能性を示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5"
+      "title": "内側側副靭帯（MCL）損傷からのアスリートの競技復帰",
+      "summary": "内側側副靭帯（MCL）の損傷からの競技復帰は、慎重なリハビリテーション計画を必要とします。この記事では、MCL損傷からの回復プロセスと、アスリートが安全かつ効果的に競技に復帰するためのガイドラインについて解説しています。適切な治療と段階的な復帰プログラムの重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzWh5NkU1MV90eEtQZWkwUzA4?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "Valley Health Systemがアスリートの安全な競技復帰を支援するプログラムを開始",
-      "summary": "Valley Health Systemが、アスリートが怪我から安全に復帰し、最高のパフォーマンスを取り戻すための「リターン・トゥ・スポーツ・プログラム」を立ち上げたことを報じるニュースです。このプログラムは、身体的側面だけでなく、精神的サポートや個別化されたトレーニング計画を重視しています。専門家チームによる包括的なアプローチが特徴です。",
+      "title": "アスリートがピークパフォーマンスに安全に復帰するための「Return to Sport」プログラム",
+      "summary": "Valley Health Systemは、アスリートが怪我から安全に競技に復帰するための「Return to Sport」プログラムを開始しました。このプログラムは、運動能力の回復だけでなく、精神的な準備も重視し、アスリートが自信を持って競技に臨めるようサポートします。最新のスポーツ医学の知見に基づいた、個別化されたリハビリテーションを提供します。",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "鍼灸市場規模、2035年までに1053.4億ドルに達する見込み",
-      "summary": "鍼灸（アキュパンクチャー）の世界市場が2035年までに1053.4億ドルに達すると予測するレポートです。代替医療への関心の高まりや、慢性疼痛管理における鍼灸の有効性が市場成長を牽引すると分析されています。ヘルスケア分野における東洋医学の役割が拡大しています。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUlViS0U1WHduTVFvMVlkUzk5b194Mzg3OTVGU1VXNFQ2VU5aOGFkRjJYel8tWHNXc2N2dGhJeHFEVUI2eXlFVVdYN3VsdkRiSElGa2RfNWNFUHRfdlQxeF9Kcw?oc=5"
+      "title": "アスリートの疼痛管理における西洋式鍼灸療法の体系的レビューとメタアナリシス",
+      "summary": "本研究は、アスリートの疼痛管理における西洋式鍼灸療法の有効性を評価するための体系的レビューとメタアナリシスを実施しました。様々な研究結果を統合することで、鍼灸がアスリートの疼痛軽減に寄与する可能性を示唆しています。ただし、さらなる質の高い研究が必要であることも指摘されています。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
-      "summary": "アスリートが利用する主要なスポーツサプリメント（クレアチン、カフェイン、エネルギージェル、L-カルニチンなど）について、その効果、安全性、そしてパフォーマンス向上への影響を検証する記事です。科学的根拠に基づいた情報を提示し、それぞれのサプリメントの適切な使用方法を解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
+      "title": "ワークアウトパフォーマンスを向上させる5つのサプリメント",
+      "summary": "ワークアウトのパフォーマンス向上に役立つ可能性のある5つのサプリメントについて解説しています。クリスタルマッスル、ホエイプロテイン、クレアチン、ベータアラニン、カフェインなどが紹介されており、それぞれの効果や摂取方法、注意点についても触れられています。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUlUTTR1eER0WjEweE9OVzh0ai1yb1ZkVHBxY2VqQnI2LTVER3hyVm4wREhTTmg1bEdFMjNUZml6YVRKUHVTVVZfRXkxam50U1p3RWFHcldTbjRabml3NWZsakw4eTJBRzBxcktyaEQ1SUJKVlgyMFRMTS12ZUVtSXJLbw?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者やコーチがどのようにサポートすべきか具体的なヒントを提供する記事です。学業とスポーツの両立、高い競技レベルでのプレッシャー、そして燃え尽き症候群などについて言及し、早期発見と介入の重要性を説いています。",
+      "title": "若年アスリートのメンタルヘルス：保護者とコーチのためのヒント",
+      "summary": "若年アスリートは、学業や競技のプレッシャーからメンタルヘルスの問題に直面することがあります。この記事では、保護者やコーチがアスリートのメンタルヘルスをサポートするための具体的なヒントを提供しています。早期の兆候に気づき、適切な支援を行うことの重要性を強調しています。",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "論説：アスリートの回復を最適化する：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
-      "summary": "アスリートのパフォーマンス向上と怪我予防において、回復戦略と睡眠が果たす役割の重要性を強調する論説です。最適な回復プロセスを確立するための様々なアプローチと、質の高い睡眠の必要性について論じています。特に、個別の回復ニーズに合わせた戦略の重要性が指摘されています。",
+      "title": "編集：アスリートの回復の最適化：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "summary": "本論文は、アスリートの回復における回復戦略と睡眠の重要性に焦点を当てています。様々な回復戦略の効果を比較し、特に睡眠がスポーツパフォーマンス、認知機能、および感情的な回復にどのように影響するかを分析しています。最適な回復プロトコルの確立に向けた知見を提供します。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "文化・エンタメ",
-      "title": "奈良県の「飛鳥・藤原の宮都」、世界文化遺産登録の見通し…ユネスコ諮問機関が勧告",
-      "summary": "奈良県の「飛鳥・藤原の宮都」が、ユネスコ（国連教育科学文化機関）の諮問機関から世界文化遺産への登録を勧告されたことが報じられました。\nこれにより、国内で21件目の世界遺産となる見通しが強まり、古代日本の歴史的価値が国際的に認められることになります。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13Q3RTaDVka3Zqdy1KdjA4YVZjTUwxTkk1VEJmeWZiQjF0Vzk5WklKMTJ1Y1RzVWt4SllHSkU5SlpSMmpvdDNOTGdCS2JYLTlIUWZJVV9oNzlRcEJkRGx3Y0VFSGo?oc=5"
+      "category": "社会",
+      "title": "栃木強殺で少年３人再逮捕、「俺は知らない」「バールで殴っていない」と容疑否認…主導役はＩＣＰＯが国際手配",
+      "summary": "栃木県で発生した強盗殺人事件で、少年3人が再逮捕されました。3人は容疑を否認しており、「知らない」「殴っていない」などと供述しています。事件の主導役とみられる人物は、ICPO（国際刑事警察機構）によって国際手配されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwdVExSXlHMmZzMnQxaTU5NVJFSElfSGhmZWJJWklybGFBUnF0RHhlY3ZfaGtJMmllTm9LcFZLRzNBZWI2SDNYLWdMS1R4NzVJZERoR0FSVVJ0aVFsVlYwamdEOThndw?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "「言い訳が醜すぎて聞いてられない」高市首相、秘書の“中傷動画”関与を改めて「否定」で遠のく支持率回復（週刊女性PRIME）",
-      "summary": "高市首相が自身の秘書による「中傷動画」への関与を改めて否定しましたが、この対応が国民の不信感を招き、支持率回復がさらに遠のく可能性があると週刊女性PRIMEが報じています。\n国民からは「言い訳が醜い」といった批判の声が上がっており、政権運営に暗雲が立ち込めています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42a3pxejZLc0xub0FZaUotNXpJVV91ZG1GR09QazBURzZwTWNTMnp5ZUo3a0pLUEJTczFyY2l6RzN6ZzdBODlFVk1IMnZndVFlSW5pNHhpTENqX3ZlbWxjUjVnZnQwQkl4YkdMZGxXXzRJYmQ0aUJBMG5YOTM0aDg?oc=5"
+      "title": "【速報】北海道、愛知、福岡と副首都目指すと吉村氏",
+      "summary": "大阪府の吉村知事が、北海道、愛知県、福岡県と共に「副首都」を目指す構想について言及しました。この発言は、新たな都市開発や地域連携の可能性を示唆するものとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UbkNwSUZiVjJhb2ZiVVpMc193VnJDS3hHbzhIQVZrVFBGci1mYzdIcllrSVB1SXRKZGxRV0VGNnJoVGdsakNTNGdUTQ?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "【速報】栃木強盗殺人事件、益田容疑者を国際手配 身柄拘束を求める「赤手配」で（2026年6月5日掲載）｜日テレNEWS NNN",
-      "summary": "栃木県で発生した強盗殺人事件に関して、警察庁が益田容疑者を国際刑事警察機構（ICPO）を通じて国際手配したと速報されました。\n身柄拘束を求める「赤手配」が出されており、国際的な協力体制のもとで早期逮捕に向けた捜査が進められています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pZGhwMlNFZEtrbzZ2dWFOWDRzbmkzeGplRTlhYzR6eHo5UmZKa1dJRUZFZFIwenpBbUNEbEREUnlFV29hb3k3Zk00Rmpua01ycXV1Uzd1QVZkQ2N3VFpMMHlXSl9UWWk0MXdET1ZPemJzdmpUNjZFYTRWVGI?oc=5"
+      "category": "教育",
+      "title": "高専卒業に学位授与、国内限定の「準学士」改め…国際的に通用する学歴で卒業生の活躍後押し（読売新聞オンライン）",
+      "summary": "高等専門学校（高専）の卒業資格が、国内限定の「準学士」から学位として国際的に通用するものに改められることになりました。これにより、卒業生の海外での活躍や、さらなる学歴取得への道が開かれることが期待されています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XREtUWGQ2ZFdUQ2gtUXc1azViVkZ0ek9RWjJKNmlSemxqQTFJZUVwWFVJU0xHSndsX3ZrX0luQmplaFZiekVCRUFtcV81TE1uWXRBeVRoVXh2a1VxYTg0dXZaTFM4WXFvZWlSMDVjODVYZWM5N1p5X2U4ZmFnT0k?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "「殺したいくらいの気持ちです」【大学生集団暴行死】被害者の姉が法廷で極刑要求 検察から無期懲役を求刑された川村葉音被告（21）弁護側は13年の有期懲役相当を主張",
-      "summary": "大学生集団暴行死事件の公判で、被害者の姉が法廷で犯人への極刑を要求したと報じられています。\n検察側は川村葉音被告（21）に無期懲役を求刑しましたが、弁護側は13年の有期懲役が相当だと主張しており、判決の行方が注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55Q1dVbmFUblpmNnYxMzdYTjBPWGtXNHlwemdXNjdUUEE4ZWRHQkVRcVRaa3lrSDFUMXZ1bV9HMHFzclBIMmpEVTZWNnB0S2pjclpVUkQ5clFROHFXbFFfTTFpV2o?oc=5"
+      "category": "環境・気候",
+      "title": "【速報】宮崎県で「線状降水帯」発生の可能性　7日明け方～昼前　避難の検討や準備を(気象予報士 日直主任 2026年06月06日)",
+      "summary": "宮崎県で7日明け方から昼前にかけて「線状降水帯」が発生する可能性が示唆されています。気象予報士は、避難の検討や事前の準備を呼びかけています。記録的な大雨となる恐れがあるため、厳重な警戒が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KOGhMaXBtZ29oLXMzRVFyTHlCaHNGenNMbThFZi1IWF9VeGtwWW4zN3o3U19uQnExOXVqZl91ZEFOU29QSzdpTFBmT25BYjFwekYwT0pFSXBDbXJWbTdFZU4wUkdzYjYzeEHSAW9BVV95cUxPWTBMZWJlZzZkY1FoNVJKck84V3R4U3h4bHAyNzY5aE15RTdFYUpsQzNJbUdWM19HU2Nfakd4S19LLTltbmRrQUdxdzdUaUFiUUZGbUtLRHVUOVpiejZWZ3J2SThpTk5mc1B4d2VDYUU?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "男系男子の皇籍復帰容認 両院正副議長が「立法府の総意案」合意 各党に8日提示",
-      "summary": "衆参両院の正副議長が、皇位継承資格を持つ「男系男子」の皇籍復帰を容認する「立法府の総意案」で合意したことが報じられました。\nこの案は各党に8日提示される予定で、安定的な皇位継承を巡る議論に大きな動きが見られます。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkc3MxSGxkeXg3U3RlSlJJUWxyR2RpVUNQMXFJYk9UUmNfZFJlUlZHUlBsVTJEVUxTRmFvSFJlQkhwYUd2YXJSMUlwQkx3UmFRY0Vob1pQQ1VFamJTVEdaMnRiNDNfMk5zLXhHVEJFWDdZQ1FySkE?oc=5"
+      "title": "自民党の石破前首相、中傷動画報道「真実究明が大事」",
+      "summary": "自民党の石破茂元首相は、自身に関する中傷動画の報道について、「真実究明が大事だ」との認識を示しました。法的な対応も含め、事実関係の解明が重要であるとの立場を強調しました。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWWWhrNW5MMEF2M0NzSENCX0lIcm11Z29OVTRLZzJvYlc3SkJtRC1WMENuckI2a0dTSGcyWW5MZU9waFNLWENVMVJfNzBuRlZVUHdudnlvb0Z2QUJ6ODVNalk3N2M3V0hCZUw4Tg?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "プーチン大統領、ウクライナ戦争終結に向けたゼレンスキー大統領との会談は「無意味」と発言",
-      "summary": "ロシアのプーチン大統領が、ウクライナ戦争終結についてゼレンスキー大統領と会談する「意味がない」と述べたとBBCが報じました。\nこの発言は、停戦に向けた外交努力が停滞している現状を示唆しており、国際社会の懸念を深めています。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45b1VaUEU3MjROUi12WVdOdkFLMWlFZFZfcDU5eVlCS20tOUhOLXdIZk1SMmpIM0toeW5oR2QtQTJrcWZXWlEyTHk1NE9mbm9HTUY2QmQwb2hhQQ?oc=5"
+      "category": "Politics",
+      "title": "バーニー・サンダース上院議員、グラハム・プラトナー氏への疑惑浮上後も支持を表明。人間関係の「有害さ」や「不穏な行動」を巡る告発。",
+      "summary": "バーニー・サンダース上院議員は、グラハム・プラトナー氏に関する「有害な人間関係」や「不穏な行動」を巡る疑惑が浮上しているにもかかわらず、同氏への支持を表明しました。この表明は、疑惑の内容とサンダース氏の姿勢との間に乖離があるとして波紋を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlJPdU5wNXFwOHFQQms3SFYwSGVMWmJ2cnFQaDlETS1FWHgyR0ZmaGhJdW9zUWkxSlk3NVRDUUVlN29LTHE4eURDckpicUNBNHIwSGIzSUhrbnBDUWRuQUNKcmtkdTdORUFYWlhfT2tldkpxZGFfd2tpdGZpczFWa2w4aXdsaVh6R24yamxOUnlSU202bVFONGh5alo5WmdKWkQ4TmNpUTdib0lVR0NGXzZhRnd1c21YZXRVaHY2NE5PaGtpSTA4WGlvNmNycmtWdjJ5eXFMa3JOWE9yQUdaOWk2SlpURjRsNXc?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "ワシントンD.C.のリフレクティングプールが再塗装された後、訪問者が疑問に思う：「何が変わったのか？」",
-      "summary": "ワシントンD.C.のリンカーン記念堂前にあるリフレクティングプールが再塗装されたものの、訪問者からは「何が変わったのか」という疑問の声が上がっているとNPRが伝えています。\n改修の目的や効果について、市民の間で関心が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa3ljVWI3YjBnMTVNbGZaYzV4eUhoNnZNNlgtYUxPSGZXR3JkRnRwRThKLUtwb1FSYVVkbU9yUHFfWmkzQllrM0JRcGFlMUFXdUtsUHlxcm13Q25wMjk4VlROX1AzUHlxNVhXcE8wNXBKLU9JVzhRclJsR2V4ZENGNw?oc=5"
+      "category": "Health",
+      "title": "日本で発見の行方不明のアラバマ州ハイカー、死亡確認",
+      "summary": "アラバマ州から日本を旅行中に消息を絶っていたハイカーが、遺体で発見されました。事件の詳細は現在調査中ですが、家族は悲しみに包まれています。現地の警察が捜査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyejVoSWY3TzROR0tMQl91c1FPZEgwb2gwSnl0Z25LemwyMXhzZUxMaUxPSkQ2dEx6UVdqMDZBZXNJR1FUbS1HUXExLXV0SlhGMFZCNS1IMkpmYWgyYWlueDVoT2poV2R4UHRRZ18xUE4wRVd1cWVoZXpfY18?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "グラハム・プラットナー氏の告発者がNYTの記事を彼の「上院選挙運動への贈り物」と呼ぶ",
-      "summary": "グラハム・プラットナー上院議員候補を告発している人物が、ニューヨーク・タイムズ紙の記事を彼の選挙運動への「贈り物」だと表現したとWMTWが報じています。\nこの発言は、記事が彼のキャンペーンに有利に働く可能性があるという皮肉な見方を示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEwxQ3IwMEhFc0NFSzhyVzNrd2VlV2R5eUJhZHByY1RKOWF1Z3BsanF2aGsyUG5qazBKWl9qUUZSMDFXU08xR0Y3ekZraHZLdzJyanNNZ2xKTXd2WThsaU5RNmE5UGlEUnR0T3hWZXd2QjVtV1lPZnA3QUVrRExoaGZhejlHYjFBbF9QaWFIS0RFVlRkYjRQSlFrMWdodGR6WUpnV185ZVlFWng4?oc=5"
+      "category": "Economy",
+      "title": "スクリューワームの国境閉鎖がメキシコでの牛肉ブームとテキサスでの不況を加速",
+      "summary": "スクリューワーム（ウシウマバエ）の発生による国境閉鎖が、メキシコでは牛肉産業のブームを引き起こす一方、テキサス州では経済的な打撃となっています。この状況は、貿易政策が地域経済に与える影響の大きさを浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdE5LM1VqUi0yQjIyc1ZaajRpcV9vak5BWkh6LUMzVHFmRUFtMHNubEJTRkh1OTlOWk5KS3FqNFZvOW90OERycHE5WVN5cXFIbVo5bVp5QkttYU1jRUJkRm1tYXQ4dXVWQkhwLTlQU1MxRHVrSlY3elAxM0VHb3RXOExtNGxIYW44a0xCcUtNMTdhRW9mdGJnQlpvMXpfQkZFdUZyWUdrTUZZQkRNQnNz?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "米国の判事、39カ国からの移民を標的としたトランプ政権の政策を却下",
-      "summary": "米国の裁判官が、39カ国からの移民を対象としたトランプ前政権の複数の政策を違法として却下したとロイターが報じました。\nこの判決は、移民政策の合法性に関する継続的な議論に大きな影響を与えるものと見られます。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkstOFU0cXFkQ1dVbEZwNldfU3lLU2VHbzYwRE90Y2dOX0VYeTVPMWUxRUo1aVBqc3k2ZmFvNGFLMS1lNS1IMkk2MkhtZnNUS2xZNlhBM2w3ajZOWTZuTXYwNlZHbWRYbDIyRUo1ajRta3dCbFRCeDNDXzIyREVsTU0xTnQyUXdfQk9zMUtMWkdXT1hVUzdGdEV1eEp0MnlUSnNlcWtoSXRwRnlzbUtKMQ?oc=5"
+      "title": "より多くの共和党員がトランプ氏と袂を分かつ。良心か、それとも政治的計算か？",
+      "summary": "トランプ前大統領に対する共和党内の反発が強まっています。この記事は、その背景にある動機が、道徳的な信念によるものなのか、それとも選挙戦略上の計算によるものなのかを分析しています。両方の要因が複雑に絡み合っている可能性が示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zZ0JBVGx1QTkxUVRlQVRoTjBSckdQQnlIWU50WjFQaHcyZXhTcktMTkpGb0ZRYlRTT21XOE42YThFRXotbFd2X0FrWUlLMDYtVzJlaG4wLURWWUdXM1NuNm11RGViZk9ZU1BrMHhUZkViaHZNdkJZTnBFN0c5TlU?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏の突然緩和された新たなグリーンカード政策の内幕",
-      "summary": "トランプ氏が、以前よりも緩和された新たなグリーンカード政策を発表した背景について、ワシントン・ポスト紙が内幕を報じています。\nこの政策変更の意図や、それが移民問題に与える影響について分析しています。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF9UOHIwZGdjd1dxeEtYaTdRVEoyb3RySUt2MFo1MDdMT1AtNVBsYkNLTHpTeUZoOVZPRG1OSmlSS0RoTjdHU0xJdVhNVGZ3QVR0d0RlcTk2Mm5IekdlZTZYbUVlcFFWVl9mZE5lYjNGa1gtZjhZWmlScnQ4VE42X3ptOEVNUVE5Rm5OMTA3bHhLMm1iUFFLOFJ1aEhUNDFpeUZXNzgyV2tlLURCcy0yR3NpUQ?oc=5"
+      "category": "Conflict",
+      "title": "停戦合意後、イスラエル軍の空爆でレバノン軍将校ら9名死亡",
+      "summary": "停戦合意がなされた後、イスラエル軍による空爆が発生し、レバノン軍の将校9名を含む計9名が死亡したと報じられています。この一件は、地域情勢の不安定さを改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVRRbFk4OU9ncUh0Y0FpQVhtR1Z6TnNIUDRNUGR2X2N1TWxnYmt2dnpXMEE3REt3RW90VkJ6WldXSHFrZk55ZzZNOW82Q01ld2pnZHNsWUx0MzFEcm1Wc0dkZDkxdmt1Um52UTFjOGNDWk1RMnNZV1duUTVIb2NrZEpES2tPb1RGUm9qOHJxai1YZXJxRUE?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツでACL損傷が増加している理由",
-      "summary": "近年、女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加傾向にあることについて報告しています。この増加の背景には、身体的な要因だけでなく、訓練方法や競技環境の変化も関与している可能性が指摘されています。特に成長期の女子アスリートに焦点を当て、その原因を分析しています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "女子スポーツにおけるACL損傷の増加とその背景",
+      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の増加傾向について、その原因を深掘りする記事です。特に女子選手は解剖学的、ホルモン的要因、そしてトレーニング習慣の違いからACL損傷のリスクが高いと指摘されています。これらの複合的な要因が、傷害発生率の上昇につながっていると考えられています。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSKzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における先駆者とパラダイム：主題別歴史的ミニレビュー",
-      "summary": "スプリント運動科学の発展における主要な人物や理論的枠組みを歴史的に概観したミニレビューです。過去の研究がどのようにスプリントパフォーマンスの理解を深め、現在のトレーニング方法に影響を与えてきたかを解説しています。バイオメカニクスや生理学の進化が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史的ミニレビュー",
+      "summary": "スプリント科学の歴史における主要な先駆者とその研究パラダイムを概観するミニレビューです。過去の研究がスプリントパフォーマンスの理解と向上にどのように貢献してきたかを分析しています。これには、生物力学的分析、生理学的メカニズム、トレーニング方法論の発展が含まれます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZnpSbFdtMy0xVmwtN0lCMHgxUFpmU0s1X19EZlIyREZUSzliUHVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ],
   "monthly_top20": [
@@ -349,161 +349,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツにおけるACL損傷の増加とその背景",
-      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の増加傾向について、その原因を深掘りする記事です。特に女子選手は解剖学的、ホルモン的要因、そしてトレーニング習慣の違いからACL損傷のリスクが高いと指摘されています。これらの複合的な要因が、傷害発生率の上昇につながっていると考えられています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSKzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "女性アスリートにおけるACL（前十字靭帯）損傷の予防法",
+      "summary": "女性アスリートは男性アスリートと比較してACL損傷のリスクが高いことが指摘されています。この記事では、その理由と、ジャンプ・着地パターンや骨盤機能の改善に焦点を当てたウォームアッププログラムの効果について解説しています。特に、動的膝外反（dynamic knee valgus）を持つ女性バスケットボール選手を対象とした研究結果が示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0RwSXhDT3Z2NTZEWVh3MVFuU3pkOVYxZ1pqQ21fbV94Y01uYTRrUFhjLWhVeUY2MERxdFVRT2U3QjE2YUwxbjBSblZGNHc1bG9FWWJyUmxJV3B2dG9KM2s5WUp4VTVVVFUzWlZuNHRTTExxa1hJRlp5LU9IaS04bC1iTE9qNWVpM0V1d2doZVJ4NzZ0ME5Nb1BaR0V4NmNtQmJ6OGo1OVE4NGg3UzhqeTA3TEI?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史的ミニレビュー",
-      "summary": "スプリント科学の歴史における主要な先駆者とその研究パラダイムを概観するミニレビューです。過去の研究がスプリントパフォーマンスの理解と向上にどのように貢献してきたかを分析しています。これには、生物力学的分析、生理学的メカニズム、トレーニング方法論の発展が含まれます。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZnpSbFdtMy0xVmwtN0lCMHgxUFpmU0s1X19EZlIyREZUSzliUHVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "ランニングのバイオメカニクスの基本",
+      "summary": "ランニングのパフォーマンス向上と怪我の予防には、ランニングバイオメカニクスの理解が不可欠です。この記事では、ランニングフォームの効率化や、膝の痛みが膝自体ではなく他の部位の機能不全に起因する可能性についても触れています。効果的なランニングフォームの習得には、全体的な身体の協調性が重要であることを示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱および靭帯市場規模、シェア、予測、2034年",
-      "summary": "人工腱および靭帯の世界市場に関する予測レポートが発表されました。この市場が2034年までに大きな成長を遂げると予測されており、技術革新やスポーツ外傷の増加がその背景にあると分析されています。整形外科分野における新たな治療選択肢の可能性を示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5"
+      "title": "内側側副靭帯（MCL）損傷からのアスリートの競技復帰",
+      "summary": "内側側副靭帯（MCL）の損傷からの競技復帰は、慎重なリハビリテーション計画を必要とします。この記事では、MCL損傷からの回復プロセスと、アスリートが安全かつ効果的に競技に復帰するためのガイドラインについて解説しています。適切な治療と段階的な復帰プログラムの重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzWh5NkU1MV90eEtQZWkwUzA4?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "Valley Health Systemがアスリートの安全な競技復帰を支援するプログラムを開始",
-      "summary": "Valley Health Systemが、アスリートが怪我から安全に復帰し、最高のパフォーマンスを取り戻すための「リターン・トゥ・スポーツ・プログラム」を立ち上げたことを報じるニュースです。このプログラムは、身体的側面だけでなく、精神的サポートや個別化されたトレーニング計画を重視しています。専門家チームによる包括的なアプローチが特徴です。",
+      "title": "アスリートがピークパフォーマンスに安全に復帰するための「Return to Sport」プログラム",
+      "summary": "Valley Health Systemは、アスリートが怪我から安全に競技に復帰するための「Return to Sport」プログラムを開始しました。このプログラムは、運動能力の回復だけでなく、精神的な準備も重視し、アスリートが自信を持って競技に臨めるようサポートします。最新のスポーツ医学の知見に基づいた、個別化されたリハビリテーションを提供します。",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "鍼灸市場規模、2035年までに1053.4億ドルに達する見込み",
-      "summary": "鍼灸（アキュパンクチャー）の世界市場が2035年までに1053.4億ドルに達すると予測するレポートです。代替医療への関心の高まりや、慢性疼痛管理における鍼灸の有効性が市場成長を牽引すると分析されています。ヘルスケア分野における東洋医学の役割が拡大しています。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUlViS0U1WHduTVFvMVlkUzk5b194Mzg3OTVGU1VXNFQ2VU5aOGFkRjJYel8tWHNXc2N2dGhJeHFEVUI2eXlFVVdYN3VsdkRiSElGa2RfNWNFUHRfdlQxeF9Kcw?oc=5"
+      "title": "アスリートの疼痛管理における西洋式鍼灸療法の体系的レビューとメタアナリシス",
+      "summary": "本研究は、アスリートの疼痛管理における西洋式鍼灸療法の有効性を評価するための体系的レビューとメタアナリシスを実施しました。様々な研究結果を統合することで、鍼灸がアスリートの疼痛軽減に寄与する可能性を示唆しています。ただし、さらなる質の高い研究が必要であることも指摘されています。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
-      "summary": "アスリートが利用する主要なスポーツサプリメント（クレアチン、カフェイン、エネルギージェル、L-カルニチンなど）について、その効果、安全性、そしてパフォーマンス向上への影響を検証する記事です。科学的根拠に基づいた情報を提示し、それぞれのサプリメントの適切な使用方法を解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
+      "title": "ワークアウトパフォーマンスを向上させる5つのサプリメント",
+      "summary": "ワークアウトのパフォーマンス向上に役立つ可能性のある5つのサプリメントについて解説しています。クリスタルマッスル、ホエイプロテイン、クレアチン、ベータアラニン、カフェインなどが紹介されており、それぞれの効果や摂取方法、注意点についても触れられています。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUlUTTR1eER0WjEweE9OVzh0ai1yb1ZkVHBxY2VqQnI2LTVER3hyVm4wREhTTmg1bEdFMjNUZml6YVRKUHVTVVZfRXkxam50U1p3RWFHcldTbjRabml3NWZsakw4eTJBRzBxcktyaEQ1SUJKVlgyMFRMTS12ZUVtSXJLbw?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者やコーチがどのようにサポートすべきか具体的なヒントを提供する記事です。学業とスポーツの両立、高い競技レベルでのプレッシャー、そして燃え尽き症候群などについて言及し、早期発見と介入の重要性を説いています。",
+      "title": "若年アスリートのメンタルヘルス：保護者とコーチのためのヒント",
+      "summary": "若年アスリートは、学業や競技のプレッシャーからメンタルヘルスの問題に直面することがあります。この記事では、保護者やコーチがアスリートのメンタルヘルスをサポートするための具体的なヒントを提供しています。早期の兆候に気づき、適切な支援を行うことの重要性を強調しています。",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "論説：アスリートの回復を最適化する：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
-      "summary": "アスリートのパフォーマンス向上と怪我予防において、回復戦略と睡眠が果たす役割の重要性を強調する論説です。最適な回復プロセスを確立するための様々なアプローチと、質の高い睡眠の必要性について論じています。特に、個別の回復ニーズに合わせた戦略の重要性が指摘されています。",
+      "title": "編集：アスリートの回復の最適化：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "summary": "本論文は、アスリートの回復における回復戦略と睡眠の重要性に焦点を当てています。様々な回復戦略の効果を比較し、特に睡眠がスポーツパフォーマンス、認知機能、および感情的な回復にどのように影響するかを分析しています。最適な回復プロトコルの確立に向けた知見を提供します。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "文化・エンタメ",
-      "title": "奈良県の「飛鳥・藤原の宮都」、世界文化遺産登録の見通し…ユネスコ諮問機関が勧告",
-      "summary": "奈良県の「飛鳥・藤原の宮都」が、ユネスコ（国連教育科学文化機関）の諮問機関から世界文化遺産への登録を勧告されたことが報じられました。\nこれにより、国内で21件目の世界遺産となる見通しが強まり、古代日本の歴史的価値が国際的に認められることになります。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13Q3RTaDVka3Zqdy1KdjA4YVZjTUwxTkk1VEJmeWZiQjF0Vzk5WklKMTJ1Y1RzVWt4SllHSkU5SlpSMmpvdDNOTGdCS2JYLTlIUWZJVV9oNzlRcEJkRGx3Y0VFSGo?oc=5"
+      "category": "社会",
+      "title": "栃木強殺で少年３人再逮捕、「俺は知らない」「バールで殴っていない」と容疑否認…主導役はＩＣＰＯが国際手配",
+      "summary": "栃木県で発生した強盗殺人事件で、少年3人が再逮捕されました。3人は容疑を否認しており、「知らない」「殴っていない」などと供述しています。事件の主導役とみられる人物は、ICPO（国際刑事警察機構）によって国際手配されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwdVExSXlHMmZzMnQxaTU5NVJFSElfSGhmZWJJWklybGFBUnF0RHhlY3ZfaGtJMmllTm9LcFZLRzNBZWI2SDNYLWdMS1R4NzVJZERoR0FSVVJ0aVFsVlYwamdEOThndw?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "「言い訳が醜すぎて聞いてられない」高市首相、秘書の“中傷動画”関与を改めて「否定」で遠のく支持率回復（週刊女性PRIME）",
-      "summary": "高市首相が自身の秘書による「中傷動画」への関与を改めて否定しましたが、この対応が国民の不信感を招き、支持率回復がさらに遠のく可能性があると週刊女性PRIMEが報じています。\n国民からは「言い訳が醜い」といった批判の声が上がっており、政権運営に暗雲が立ち込めています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42a3pxejZLc0xub0FZaUotNXpJVV91ZG1GR09QazBURzZwTWNTMnp5ZUo3a0pLUEJTczFyY2l6RzN6ZzdBODlFVk1IMnZndVFlSW5pNHhpTENqX3ZlbWxjUjVnZnQwQkl4YkdMZGxXXzRJYmQ0aUJBMG5YOTM0aDg?oc=5"
+      "title": "【速報】北海道、愛知、福岡と副首都目指すと吉村氏",
+      "summary": "大阪府の吉村知事が、北海道、愛知県、福岡県と共に「副首都」を目指す構想について言及しました。この発言は、新たな都市開発や地域連携の可能性を示唆するものとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UbkNwSUZiVjJhb2ZiVVpMc193VnJDS3hHbzhIQVZrVFBGci1mYzdIcllrSVB1SXRKZGxRV0VGNnJoVGdsakNTNGdUTQ?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "【速報】栃木強盗殺人事件、益田容疑者を国際手配 身柄拘束を求める「赤手配」で（2026年6月5日掲載）｜日テレNEWS NNN",
-      "summary": "栃木県で発生した強盗殺人事件に関して、警察庁が益田容疑者を国際刑事警察機構（ICPO）を通じて国際手配したと速報されました。\n身柄拘束を求める「赤手配」が出されており、国際的な協力体制のもとで早期逮捕に向けた捜査が進められています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pZGhwMlNFZEtrbzZ2dWFOWDRzbmkzeGplRTlhYzR6eHo5UmZKa1dJRUZFZFIwenpBbUNEbEREUnlFV29hb3k3Zk00Rmpua01ycXV1Uzd1QVZkQ2N3VFpMMHlXSl9UWWk0MXdET1ZPemJzdmpUNjZFYTRWVGI?oc=5"
+      "category": "教育",
+      "title": "高専卒業に学位授与、国内限定の「準学士」改め…国際的に通用する学歴で卒業生の活躍後押し（読売新聞オンライン）",
+      "summary": "高等専門学校（高専）の卒業資格が、国内限定の「準学士」から学位として国際的に通用するものに改められることになりました。これにより、卒業生の海外での活躍や、さらなる学歴取得への道が開かれることが期待されています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XREtUWGQ2ZFdUQ2gtUXc1azViVkZ0ek9RWjJKNmlSemxqQTFJZUVwWFVJU0xHSndsX3ZrX0luQmplaFZiekVCRUFtcV81TE1uWXRBeVRoVXh2a1VxYTg0dXZaTFM4WXFvZWlSMDVjODVYZWM5N1p5X2U4ZmFnT0k?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "「殺したいくらいの気持ちです」【大学生集団暴行死】被害者の姉が法廷で極刑要求 検察から無期懲役を求刑された川村葉音被告（21）弁護側は13年の有期懲役相当を主張",
-      "summary": "大学生集団暴行死事件の公判で、被害者の姉が法廷で犯人への極刑を要求したと報じられています。\n検察側は川村葉音被告（21）に無期懲役を求刑しましたが、弁護側は13年の有期懲役が相当だと主張しており、判決の行方が注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55Q1dVbmFUblpmNnYxMzdYTjBPWGtXNHlwemdXNjdUUEE4ZWRHQkVRcVRaa3lrSDFUMXZ1bV9HMHFzclBIMmpEVTZWNnB0S2pjclpVUkQ5clFROHFXbFFfTTFpV2o?oc=5"
+      "category": "環境・気候",
+      "title": "【速報】宮崎県で「線状降水帯」発生の可能性　7日明け方～昼前　避難の検討や準備を(気象予報士 日直主任 2026年06月06日)",
+      "summary": "宮崎県で7日明け方から昼前にかけて「線状降水帯」が発生する可能性が示唆されています。気象予報士は、避難の検討や事前の準備を呼びかけています。記録的な大雨となる恐れがあるため、厳重な警戒が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KOGhMaXBtZ29oLXMzRVFyTHlCaHNGenNMbThFZi1IWF9VeGtwWW4zN3o3U19uQnExOXVqZl91ZEFOU29QSzdpTFBmT25BYjFwekYwT0pFSXBDbXJWbTdFZU4wUkdzYjYzeEHSAW9BVV95cUxPWTBMZWJlZzZkY1FoNVJKck84V3R4U3h4bHAyNzY5aE15RTdFYUpsQzNJbUdWM19HU2Nfakd4S19LLTltbmRrQUdxdzdUaUFiUUZGbUtLRHVUOVpiejZWZ3J2SThpTk5mc1B4d2VDYUU?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "男系男子の皇籍復帰容認 両院正副議長が「立法府の総意案」合意 各党に8日提示",
-      "summary": "衆参両院の正副議長が、皇位継承資格を持つ「男系男子」の皇籍復帰を容認する「立法府の総意案」で合意したことが報じられました。\nこの案は各党に8日提示される予定で、安定的な皇位継承を巡る議論に大きな動きが見られます。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkc3MxSGxkeXg3U3RlSlJJUWxyR2RpVUNQMXFJYk9UUmNfZFJlUlZHUlBsVTJEVUxTRmFvSFJlQkhwYUd2YXJSMUlwQkx3UmFRY0Vob1pQQ1VFamJTVEdaMnRiNDNfMk5zLXhHVEJFWDdZQ1FySkE?oc=5"
+      "title": "自民党の石破前首相、中傷動画報道「真実究明が大事」",
+      "summary": "自民党の石破茂元首相は、自身に関する中傷動画の報道について、「真実究明が大事だ」との認識を示しました。法的な対応も含め、事実関係の解明が重要であるとの立場を強調しました。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWWWhrNW5MMEF2M0NzSENCX0lIcm11Z29OVTRLZzJvYlc3SkJtRC1WMENuckI2a0dTSGcyWW5MZU9waFNLWENVMVJfNzBuRlZVUHdudnlvb0Z2QUJ6ODVNalk3N2M3V0hCZUw4Tg?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "プーチン大統領、ウクライナ戦争終結に向けたゼレンスキー大統領との会談は「無意味」と発言",
-      "summary": "ロシアのプーチン大統領が、ウクライナ戦争終結についてゼレンスキー大統領と会談する「意味がない」と述べたとBBCが報じました。\nこの発言は、停戦に向けた外交努力が停滞している現状を示唆しており、国際社会の懸念を深めています。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45b1VaUEU3MjROUi12WVdOdkFLMWlFZFZfcDU5eVlCS20tOUhOLXdIZk1SMmpIM0toeW5oR2QtQTJrcWZXWlEyTHk1NE9mbm9HTUY2QmQwb2hhQQ?oc=5"
+      "category": "Politics",
+      "title": "バーニー・サンダース上院議員、グラハム・プラトナー氏への疑惑浮上後も支持を表明。人間関係の「有害さ」や「不穏な行動」を巡る告発。",
+      "summary": "バーニー・サンダース上院議員は、グラハム・プラトナー氏に関する「有害な人間関係」や「不穏な行動」を巡る疑惑が浮上しているにもかかわらず、同氏への支持を表明しました。この表明は、疑惑の内容とサンダース氏の姿勢との間に乖離があるとして波紋を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVlJPdU5wNXFwOHFQQms3SFYwSGVMWmJ2cnFQaDlETS1FWHgyR0ZmaGhJdW9zUWkxSlk3NVRDUUVlN29LTHE4eURDckpicUNBNHIwSGIzSUhrbnBDUWRuQUNKcmtkdTdORUFYWlhfT2tldkpxZGFfd2tpdGZpczFWa2w4aXdsaVh6R24yamxOUnlSU202bVFONGh5alo5WmdKWkQ4TmNpUTdib0lVR0NGXzZhRnd1c21YZXRVaHY2NE5PaGtpSTA4WGlvNmNycmtWdjJ5eXFMa3JOWE9yQUdaOWk2SlpURjRsNXc?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "ワシントンD.C.のリフレクティングプールが再塗装された後、訪問者が疑問に思う：「何が変わったのか？」",
-      "summary": "ワシントンD.C.のリンカーン記念堂前にあるリフレクティングプールが再塗装されたものの、訪問者からは「何が変わったのか」という疑問の声が上がっているとNPRが伝えています。\n改修の目的や効果について、市民の間で関心が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa3ljVWI3YjBnMTVNbGZaYzV4eUhoNnZNNlgtYUxPSGZXR3JkRnRwRThKLUtwb1FSYVVkbU9yUHFfWmkzQllrM0JRcGFlMUFXdUtsUHlxcm13Q25wMjk4VlROX1AzUHlxNVhXcE8wNXBKLU9JVzhRclJsR2V4ZENGNw?oc=5"
+      "category": "Health",
+      "title": "日本で発見の行方不明のアラバマ州ハイカー、死亡確認",
+      "summary": "アラバマ州から日本を旅行中に消息を絶っていたハイカーが、遺体で発見されました。事件の詳細は現在調査中ですが、家族は悲しみに包まれています。現地の警察が捜査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyejVoSWY3TzROR0tMQl91c1FPZEgwb2gwSnl0Z25LemwyMXhzZUxMaUxPSkQ2dEx6UVdqMDZBZXNJR1FUbS1HUXExLXV0SlhGMFZCNS1IMkpmYWgyYWlueDVoT2poV2R4UHRRZ18xUE4wRVd1cWVoZXpfY18?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "グラハム・プラットナー氏の告発者がNYTの記事を彼の「上院選挙運動への贈り物」と呼ぶ",
-      "summary": "グラハム・プラットナー上院議員候補を告発している人物が、ニューヨーク・タイムズ紙の記事を彼の選挙運動への「贈り物」だと表現したとWMTWが報じています。\nこの発言は、記事が彼のキャンペーンに有利に働く可能性があるという皮肉な見方を示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEwxQ3IwMEhFc0NFSzhyVzNrd2VlV2R5eUJhZHByY1RKOWF1Z3BsanF2aGsyUG5qazBKWl9qUUZSMDFXU08xR0Y3ekZraHZLdzJyanNNZ2xKTXd2WThsaU5RNmE5UGlEUnR0T3hWZXd2QjVtV1lPZnA3QUVrRExoaGZhejlHYjFBbF9QaWFIS0RFVlRkYjRQSlFrMWdodGR6WUpnV185ZVlFWng4?oc=5"
+      "category": "Economy",
+      "title": "スクリューワームの国境閉鎖がメキシコでの牛肉ブームとテキサスでの不況を加速",
+      "summary": "スクリューワーム（ウシウマバエ）の発生による国境閉鎖が、メキシコでは牛肉産業のブームを引き起こす一方、テキサス州では経済的な打撃となっています。この状況は、貿易政策が地域経済に与える影響の大きさを浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdE5LM1VqUi0yQjIyc1ZaajRpcV9vak5BWkh6LUMzVHFmRUFtMHNubEJTRkh1OTlOWk5KS3FqNFZvOW90OERycHE5WVN5cXFIbVo5bVp5QkttYU1jRUJkRm1tYXQ4dXVWQkhwLTlQU1MxRHVrSlY3elAxM0VHb3RXOExtNGxIYW44a0xCcUtNMTdhRW9mdGJnQlpvMXpfQkZFdUZyWUdrTUZZQkRNQnNz?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "米国の判事、39カ国からの移民を標的としたトランプ政権の政策を却下",
-      "summary": "米国の裁判官が、39カ国からの移民を対象としたトランプ前政権の複数の政策を違法として却下したとロイターが報じました。\nこの判決は、移民政策の合法性に関する継続的な議論に大きな影響を与えるものと見られます。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkstOFU0cXFkQ1dVbEZwNldfU3lLU2VHbzYwRE90Y2dOX0VYeTVPMWUxRUo1aVBqc3k2ZmFvNGFLMS1lNS1IMkk2MkhtZnNUS2xZNlhBM2w3ajZOWTZuTXYwNlZHbWRYbDIyRUo1ajRta3dCbFRCeDNDXzIyREVsTU0xTnQyUXdfQk9zMUtMWkdXT1hVUzdGdEV1eEp0MnlUSnNlcWtoSXRwRnlzbUtKMQ?oc=5"
+      "title": "より多くの共和党員がトランプ氏と袂を分かつ。良心か、それとも政治的計算か？",
+      "summary": "トランプ前大統領に対する共和党内の反発が強まっています。この記事は、その背景にある動機が、道徳的な信念によるものなのか、それとも選挙戦略上の計算によるものなのかを分析しています。両方の要因が複雑に絡み合っている可能性が示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zZ0JBVGx1QTkxUVRlQVRoTjBSckdQQnlIWU50WjFQaHcyZXhTcktMTkpGb0ZRYlRTT21XOE42YThFRXotbFd2X0FrWUlLMDYtVzJlaG4wLURWWUdXM1NuNm11RGViZk9ZU1BrMHhUZkViaHZNdkJZTnBFN0c5TlU?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏の突然緩和された新たなグリーンカード政策の内幕",
-      "summary": "トランプ氏が、以前よりも緩和された新たなグリーンカード政策を発表した背景について、ワシントン・ポスト紙が内幕を報じています。\nこの政策変更の意図や、それが移民問題に与える影響について分析しています。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF9UOHIwZGdjd1dxeEtYaTdRVEoyb3RySUt2MFo1MDdMT1AtNVBsYkNLTHpTeUZoOVZPRG1OSmlSS0RoTjdHU0xJdVhNVGZ3QVR0d0RlcTk2Mm5IekdlZTZYbUVlcFFWVl9mZE5lYjNGa1gtZjhZWmlScnQ4VE42X3ptOEVNUVE5Rm5OMTA3bHhLMm1iUFFLOFJ1aEhUNDFpeUZXNzgyV2tlLURCcy0yR3NpUQ?oc=5"
+      "category": "Conflict",
+      "title": "停戦合意後、イスラエル軍の空爆でレバノン軍将校ら9名死亡",
+      "summary": "停戦合意がなされた後、イスラエル軍による空爆が発生し、レバノン軍の将校9名を含む計9名が死亡したと報じられています。この一件は、地域情勢の不安定さを改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVRRbFk4OU9ncUh0Y0FpQVhtR1Z6TnNIUDRNUGR2X2N1TWxnYmt2dnpXMEE3REt3RW90VkJ6WldXSHFrZk55ZzZNOW82Q01ld2pnZHNsWUx0MzFEcm1Wc0dkZDkxdmt1Um52UTFjOGNDWk1RMnNZV1duUTVIb2NrZEpES2tPb1RGUm9qOHJxai1YZXJxRUE?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツでACL損傷が増加している理由",
-      "summary": "近年、女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加傾向にあることについて報告しています。この増加の背景には、身体的な要因だけでなく、訓練方法や競技環境の変化も関与している可能性が指摘されています。特に成長期の女子アスリートに焦点を当て、その原因を分析しています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "女子スポーツにおけるACL損傷の増加とその背景",
+      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の増加傾向について、その原因を深掘りする記事です。特に女子選手は解剖学的、ホルモン的要因、そしてトレーニング習慣の違いからACL損傷のリスクが高いと指摘されています。これらの複合的な要因が、傷害発生率の上昇につながっていると考えられています。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSKzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における先駆者とパラダイム：主題別歴史的ミニレビュー",
-      "summary": "スプリント運動科学の発展における主要な人物や理論的枠組みを歴史的に概観したミニレビューです。過去の研究がどのようにスプリントパフォーマンスの理解を深め、現在のトレーニング方法に影響を与えてきたかを解説しています。バイオメカニクスや生理学の進化が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史的ミニレビュー",
+      "summary": "スプリント科学の歴史における主要な先駆者とその研究パラダイムを概観するミニレビューです。過去の研究がスプリントパフォーマンスの理解と向上にどのように貢献してきたかを分析しています。これには、生物力学的分析、生理学的メカニズム、トレーニング方法論の発展が含まれます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZnpSbFdtMy0xVmwtN0lCMHgxUFpmU0s1X19EZlIyREZUSzliUHVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ]
 };
