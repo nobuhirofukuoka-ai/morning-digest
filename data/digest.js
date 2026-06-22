@@ -1,65 +1,65 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/06/22",
-  "generated_at": "2026-06-21T22:07:20.577Z",
+  "issue_date": "2026/06/23",
+  "generated_at": "2026-06-22T22:40:54.660Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツでACL損傷が増加している理由",
+      "title": "女子スポーツにおけるACL損傷の増加：その原因とは",
       "source": "ESPN – WRUF",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5",
-      "abstract": "女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向について分析した記事。生物学的要因（例: 骨盤の広さ、筋力バランス）、トレーニング方法、早期のスポーツ専門化などがリスク上昇の背景にあると指摘している。特に着地時の膝の動きやハムストリングスの筋力不足が重要な要因として挙げられている。",
-      "insight": "女子アスリートのACL損傷予防プログラムは、筋力トレーニング（特にハムストリングス）、神経筋コントロール、適切な着地技術の指導に重点を置くべきである。早期のスポーツ専門化を避け、多様な運動経験を積ませることも重要となる。",
+      "abstract": "ESPN – WRUFの記事は、女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向に焦点を当てています。女性の身体構造、ホルモンバランス、トレーニング方法の違いが、男子と比較して高いACL損傷リスクに寄与している可能性を指摘し、特に女子スポーツにおける予防策の重要性を強調しています。早期介入と包括的なトレーニングが、若年女子アスリートの怪我のリスクを低減する鍵となります。",
+      "insight": "女子アスリートのトレーニングプログラムにおいて、ACL予防に特化した筋力トレーニング、プライオメトリクス、バランス練習を組み込むべきです。特に成長期や競技特性に応じた個別化された指導が重要となります。",
       "published_at": "2026-05-12T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における先駆者とパラダイム：主題別歴史的ミニレビュー",
+      "title": "スプリント科学における先駆者とパラダイム：テーマ別歴史的ミニレビュー",
       "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZUxSMW0zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
-      "abstract": "スプリント科学の歴史的発展における主要な研究者と概念を概観したミニレビュー。初期の運動学研究から現代のバイオメカニクス、生理学、コーチング理論に至るまで、スプリントパフォーマンス向上への理解がどのように深まってきたかを辿っている。特に技術分析とトレーニング法の進化に焦点を当てている。",
-      "insight": "スプリントコーチやアスレティックトレーナーは、このレビューを通じて過去の研究成果を理解し、最新の科学的知見と歴史的視点を組み合わせたトレーニングプログラムの構築に役立てることができる。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
+      "abstract": "Frontiers誌に掲載されたこのレビューは、スプリント科学の歴史的発展における主要な人物と理論的枠組みを概観しています。初期のバイオメカニクス研究から現代の神経生理学的アプローチまで、スプリントパフォーマンスの理解がどのように進化してきたかをテーマ別に分析しています。本レビューは、現在のトレーニング理論が過去の知見の上に築かれていることを示唆し、将来の研究方向性にも貢献します。",
+      "insight": "スプリントコーチやトレーナーは、このレビューから得られた歴史的知識を基に、最新のスプリントトレーニング理論がどのように構築されてきたかを理解し、より効果的な指導法の開発に応用できます。",
       "published_at": "2026-04-30T16:58:11.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、CAGR 11.5%で成長予測",
+      "title": "人工腱・靭帯市場規模 | CAGR 11.5%",
       "source": "Market.us Media",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnhrOENtTUJ4YkNTc3NobkJDMms4dDBCS0VQTEk3TEFtOWl5Z1dJYXczdzhtZF9EZjZmM1hxWHFfR1ZOV1R5bEU2SGtYOE5MSHR3TGZETG5aakJrYXZRbENySzNZdUd6eWJraUdNX1Z0Skk5dUlMRFN6TzhGTkRwRUd3?oc=5",
-      "abstract": "人工腱および靭帯の世界市場に関する調査報告。市場が年平均成長率（CAGR）11.5%で拡大すると予測されており、スポーツ損傷の増加、医療技術の進歩、高齢化社会における需要増加が主な成長要因として挙げられている。これにより、整形外科手術における治療選択肢が多様化する可能性が示唆されている。",
-      "insight": "この市場成長は、将来的により多くの人工腱・靭帯を用いた治療法が臨床現場に導入される可能性を示唆しており、スポーツ医学専門家は新しい外科的アプローチやリハビリテーションプロトコルへの理解を深める必要がある。",
+      "abstract": "Market.us Mediaの報告によると、人工腱および靭帯市場が年間平均成長率（CAGR）11.5%で拡大していることが示されています。スポーツ関連の靭帯損傷の増加や、より効果的で耐久性のある人工材料の開発が進んでいることが、この市場成長の主要な要因と分析されています。これは、外科的治療の選択肢が今後も進化し続けることを示唆しています。",
+      "insight": "医療従事者やスポーツドクターは、人工腱・靭帯の市場動向を把握することで、将来的な治療選択肢の進化や、それに伴うリハビリテーションプロトコルの変更に備えることができます。",
       "published_at": "2026-01-15T08:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレーヘルスシステム、アスリートが最高のパフォーマンスで安全に競技復帰するためのプログラムを開始",
+      "title": "バレーヘルスシステム、アスリートの安全な競技復帰を支援する「リターントゥスポーツプログラム」を開始",
       "source": "Valley Health System",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5",
-      "abstract": "バレーヘルスシステムが、アスリートの安全かつ効果的な競技復帰を支援する「リターン・トゥ・スポーツ・プログラム」を立ち上げたというニュース。このプログラムは、多分野にわたる専門家チームが、個々のアスリートのニーズに合わせて身体的および精神的なサポートを提供することを目指している。",
-      "insight": "傷害からの競技復帰には、包括的なリハビリテーションとメンタルサポートが不可欠である。リハビリテーション専門家は、単なる身体機能回復だけでなく、アスリートの自信と競技特異的な動きの再構築を支援するプログラムを導入すべきである。",
+      "abstract": "バレーヘルスシステムが、怪我をしたアスリートが安全かつ最高のパフォーマンスで競技に復帰するための専門プログラムを立ち上げました。このプログラムは、身体機能の回復だけでなく、心理的な準備や競技特有の動作トレーニングを統合し、包括的なアプローチでアスリートをサポートすることを目指しています。多職種連携による個別化されたケアが、成功的な競技復帰の鍵となります。",
+      "insight": "スポーツリハビリテーション専門家は、このような包括的なプログラムの構成を参考に、自身の施設におけるリターントゥスポーツプロトコルを見直し、身体的・精神的側面の両方からアスリートを支援する体制を強化できます。",
       "published_at": "2026-05-11T07:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理への鍼灸補助療法の症例報告",
+      "title": "女子サッカー選手の反復性肩関節後方脱臼による疼痛管理のための鍼灸併用療法：症例報告",
       "source": "Cureus",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVlek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
-      "abstract": "反復性肩関節後方脱臼に苦しむ女子サッカー選手に対する鍼灸補助療法の効果を報告した症例研究。この選手は従来の治療に加えて鍼灸治療を受けた結果、疼痛が軽減し、競技活動への復帰が促進されたと結論付けている。",
-      "insight": "スポーツ現場での疼痛管理において、従来の医療と並行して鍼灸などの東洋医学的アプローチが有効な選択肢となり得る。特に慢性疼痛や特定部位の不快感に対し、個別のアプローチとして検討する価値がある。",
+      "abstract": "Cureus誌に掲載された症例報告は、反復性肩関節後方脱臼に苦しむ女子サッカー選手に対する鍼灸併用療法の有効性を示しています。この治療法は、疼痛の軽減と肩関節機能の改善に寄与し、選手の競技復帰を支援したと報告されています。西洋医学的治療と併用することで、より良い治療結果が期待できる可能性があります。",
+      "insight": "スポーツトレーナーや理学療法士は、伝統医学としての鍼灸が、スポーツ外傷の疼痛管理や機能改善における補助的治療として有効な選択肢であることを理解し、適切な専門家との連携を検討することができます。",
       "published_at": "2026-03-18T07:00:00.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリート向けスポーツサプリメントトップ9：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
+      "title": "アスリート向けトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
       "source": "220 Triathlon",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5",
-      "abstract": "アスリートが利用する主要なスポーツサプリメント（クレアチン、カフェイン、栄養ジェル、L-カルニチンなど）について、その効果、安全性、およびパフォーマンスへの影響を詳細に解説した記事。科学的根拠に基づき、どのサプリメントが特定の競技や目標に対して有効であるかを評価している。",
-      "insight": "アスリートやコーチは、サプリメントの選択に際して、科学的根拠に基づいた情報を参照し、個々のアスリートのニーズ、競技の種類、健康状態を考慮することが重要である。不必要な摂取を避け、効果的な回復とパフォーマンス向上を目指すべきだ。",
+      "abstract": "220 Triathlonの記事では、アスリートに人気のある9種類のスポーツサプリメントについて、その効果、安全性、そしてパフォーマンスへの影響を詳細に解説しています。クレアチン、カフェイン、エネルギージェル、L-カルニチンなどが取り上げられ、科学的根拠に基づいた適切な利用法が示されています。サプリメントの選択においては、個人のニーズと科学的エビデンスを考慮することが重要です。",
+      "insight": "アスリートやコーチは、この記事を通じて主要なサプリメントに関する最新情報を得て、個々のアスリートの目標やニーズに合わせた補給戦略を安全かつ効果的に計画するための参考にできます。",
       "published_at": "2026-04-19T07:00:00.000Z"
     },
     {
@@ -67,119 +67,119 @@ window.DIGEST_DATA = {
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
       "source": "Johns Hopkins Medicine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
-      "abstract": "学生アスリートが直面するメンタルヘルス課題に焦点を当て、保護者とコーチが彼らをどのようにサポートできるかについての実用的なアドバイスを提供する記事。競技のプレッシャー、学業との両立、ソーシャルメディアの影響などがメンタルヘルスに与える影響について言及し、早期発見と適切な介入の重要性を強調している。",
-      "insight": "学生アスリートの心身の健康を包括的にサポートするため、コーチや保護者はメンタルヘルスに関する知識を深め、オープンなコミュニケーションを促進する必要がある。専門家への相談を促し、健全な競技環境を提供することが重要となる。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
+      "abstract": "Johns Hopkins Medicineは、学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けの具体的なアドバイスを掲載しています。競技のプレッシャー、学業との両立、ソーシャルメディアの影響など、学生が直面する課題を認識し、早期にサポートを提供することの重要性を強調しています。開かれたコミュニケーションとサポート体制の構築が、健全な成長を促します。",
+      "insight": "保護者やコーチは、この記事を参考に、学生アスリートの精神的な健康状態に常に注意を払い、ストレスや不安の兆候が見られた場合には、積極的に対話し、専門家への相談を促す体制を整えるべきです。",
       "published_at": "2026-05-05T15:36:18.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリスティン・ホームズ氏が語る、睡眠と回復がハイパフォーマンスをいかに形成するか",
+      "title": "マイケル・フェルプスのように回復、睡眠、メンタルヘルスに取り組む方法",
       "source": "WHOOP",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5",
-      "abstract": "WHOOPのVPであるクリスティン・ホームズ氏が、睡眠と回復がアスリートのパフォーマンスに与える決定的な影響について議論する記事。質の高い睡眠と適切な回復戦略がいかに身体的・精神的なレディネスを高め、怪我のリスクを減らし、最適なパフォーマンスを達成するために不可欠であるかを強調している。",
-      "insight": "アスリートのトレーニングプログラムには、運動負荷だけでなく、睡眠の質と回復を最適化するための戦略を積極的に組み込むべきである。個々のアスリートの回復状態をモニタリングし、データに基づいた介入を行うことで、継続的なハイパフォーマンスを維持できる。",
-      "published_at": "2026-06-16T07:00:00.000Z"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXEwOWVYQmFMSGc1NE1SbGN0M0Nmdm1oODdBb3NMZ25rbko3Sk1JbDA5aldSU0ItT3VyemNsSHFaVlY0VUU5X0NSTi1aLXZzV1RaMW9VQnJkbXpGQk85dXQwMmVVVjcwWlVoY2J1NDc5U01HNm1hOUFrSjNtZmIzSjVaUkdpZENCUWNOWU03ZUgyUQ?oc=5",
+      "abstract": "WHOOPの記事は、伝説的スイマーであるマイケル・フェルプスの回復、睡眠、メンタルヘルスへのアプローチを紹介しています。最高のパフォーマンスを維持するために、睡眠の質、積極的な回復戦略、そして自身のメンタル状態をモニタリングし管理することの重要性が強調されています。データに基づいた自己管理と、必要に応じた専門家のサポートが成功の秘訣です。",
+      "insight": "アスリートは、この事例から、単にトレーニング量を増やすだけでなく、質の高い睡眠、積極的なリカバリー、そしてメンタルヘルスケアが、持続的な高パフォーマンス達成に不可欠であることを学び、自身のルーティンにこれらを取り入れることができます。",
+      "published_at": "2026-06-17T07:00:00.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
       "category": "国際",
-      "source": "Reuters",
-      "title": "米イランが協議、ホルムズ封鎖とレバノン巡りトランプ氏態度硬化 イランも反発",
-      "summary": "米国とイランがスイスで協議を開始したものの、ホルムズ海峡の封鎖やレバノン情勢を巡りトランプ氏の態度が硬化し、イラン側も反発する展開となった。中東地域の緊張緩和に向けた交渉の行方が注目される。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlFBMDFPMUFkMTlwVDNpdmh5WGs3OU4wVVBHN19UT0ZOOGttWmlzTE5YXzRjUTJHLVFBSldZc2hkMGd0MWJoeGJSQUxaSlJtZnN4dFFUM1BWVlhZQ1BMMjQ2cklCVlU3ekRkaHp2T19VVnpFV2tGN1dial9ocDdxZHRB?oc=5",
-      "published_at": "2026-06-21T16:49:02.000Z"
+      "source": "BBC",
+      "title": "スターマー英首相、辞任発表　次の与党党首が決まるまでは留任",
+      "summary": "BBCによると、スターマー英首相が辞任を発表しました。\nしかし、次の与党党首が決定するまではその職に留まる意向を示しています。\nこの発表は、英国政界に大きな動きをもたらすものと見られています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HRi1PUFhYakRLY3JzbmR3QTA3V1ZtX0hVRlJnMnh4SUNMM3dCWlhPLUJaTTA0WFdMbXpqY0c5YTlwdWhIcnYzb3lvRjZJUEsyRkRscnRQQUF4N2xBMTdN0gFkQVVfeXFMTVp4Z2oxUkZRdW44dXJBZkpPdlE2VHhNbjFqdXdTMDJTaGd6TXlNYVpSTXBOVFRrejFRcUhYSEVQRUlLcTF3SkcwcmdJdWVDTTZMZzNCeExlSTRfRVpwd0hHYUNwLQ?oc=5",
+      "published_at": "2026-06-22T14:04:14.000Z"
     },
     {
       "id": "j002",
-      "category": "環境・気候",
-      "source": "tenki.jp",
-      "title": "台風7号は非常に強い勢力へ　25日には強い勢力で暴風域を伴い沖縄の南に　影響は(気象予報士 中川　裕美子 2026年06月22日)",
-      "summary": "台風7号が非常に強い勢力に発達し、25日には強い勢力で暴風域を伴い沖縄の南へ進む見込み。気象予報士の中川裕美子氏が、今後の進路や沖縄をはじめとする地域への影響について詳細に解説している。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oTTNPa0NUNHJBRWY5bUFZZjlKWWZSa3hGNUdoVW9pMFhOYkNHTUYxTTBWRDZsdDI5NnFfeFlxakxHQmlvT2RFTzVjbnVGNEh1QXY1Y18wc0NaNGdkOVpVdndwMkEyb0dtTVYzUtIBckFVX3lxTE1TZlVsYzJKVGJIS1pVME1nbjRWZ29qQkV1U2hlVm5qdUhZdlJseDJtY2l4Tmh2eXJYalVHc21Bb2dzaExKMkRKeHF4U2g4bXc0eFhrV1R3TEZoWTY3RWRGNVpUYmcxelRIaERrSXR1eWhnQQ?oc=5",
-      "published_at": "2026-06-21T20:44:15.000Z"
+      "category": "国際",
+      "source": "読売新聞",
+      "title": "ホルムズ海峡の安全航行へ米イランが連絡網、レバノン巡り新たな枠組み設置…戦闘終結へ高官協議の初会合",
+      "summary": "読売新聞の報道によれば、米国とイランはホルムズ海峡の安全航行を確保するため、新たな連絡網を設置することで合意しました。\nさらにレバノン情勢を巡っても新たな枠組みを設けることが決定され、戦闘終結に向けた高官協議の初会合が開催されました。\nこれにより、地域情勢の安定化への期待が高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxdWRybUNwQ0dfZGY1S2lGM1hUZ3g1OUxPNzdIN1Brd2ZOSTFpRlE3WWk1TWo5X3dnR0hNQlRKY2htbndROXBacGxScmpoMnhMaG16SHZPQ0JfcWI2QVZfX0dn?oc=5",
+      "published_at": "2026-06-22T12:12:00.000Z"
     },
     {
       "id": "j003",
-      "category": "社会",
-      "source": "朝日新聞",
-      "title": "家族湯に入浴中の5歳児が行方不明、窓から外へ？ 鹿児島の温泉施設",
-      "summary": "鹿児島県内の温泉施設で、家族湯に入浴していた5歳の子供が行方不明となる事故が発生した。警察は窓から外に出た可能性も含め、詳しい状況を捜査している。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wQVNFQnRUQVZYbXpvWEtiRUxIeXBhLWRaeVNOX3h0cWRDZ1lDcmhqbjNXRWx4dHQzdnNWZGVBa20zU3c2S2ZLOFBlZnNZOU9tZGE5c1JvWFF2NUFqc1JRQUktWm91Y1k?oc=5",
-      "published_at": "2026-06-21T14:00:00.000Z"
+      "category": "政治",
+      "source": "産経ニュース",
+      "title": "高市首相、中傷動画もサナエトークンも関与否定「秘書に責任押し付けない」関連資料提出へ",
+      "summary": "産経ニュースは、高市首相が中傷動画や「サナエトークン」問題への関与を否定したと報じています。\n「秘書に責任を押し付けることはしない」と述べ、関連資料の提出を表明しました。\nこの問題は、国会で引き続き議論される見通しです。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5MDVpTnk5R0gtMUFZR1IwM0FWSlh5T1BzVnhjLTBZcVd1SGdQMUwwMXRQT29tZlJ5ZEVQSnNhX3ppTzNpN1BCZkREZ2hkdEZsc2FuZUpaTlNMdlJ4SldIOHQ4Y3dPeUJxX0VEWHZyTXNBaEF6ekE?oc=5",
+      "published_at": "2026-06-22T10:00:27.000Z"
     },
     {
       "id": "j004",
-      "category": "政治",
-      "source": "読売新聞",
-      "title": "女性皇族の身分保持だけ実現が最大公約数、１００年後の検証に堪える議論を…立憲民主党・長浜博行氏",
-      "summary": "立憲民主党の長浜博行氏が、女性皇族の身分保持のみを最大公約数として実現し、将来の世代が検証できるような議論を行うべきだと提言した。皇位継承問題に関する議論の方向性について述べられている。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12Rko3SkhfanZIalhkeHlfRFk4VGszMGI2dTdrcFM2TzF2Q1VhTG5iZkhVbEJTSUhwTG9teGhtSFpKbW9jOVhCR0JfQnZQNl9uSkJJTFg5aWVQeTJBVkpiem9RUXgzNms?oc=5",
-      "published_at": "2026-06-21T20:00:00.000Z"
+      "category": "環境・気候",
+      "source": "tenki.jp",
+      "title": "新たな台風が発生してダブル台風が日本接近の恐れ 台風7号は28日頃九州や四国へ(気象予報士 木村 雅洋)",
+      "summary": "tenki.jpによると、新たな台風が発生し、日本にはダブル台風が接近する恐れがあるとのことです。\n台風7号は特に28日頃に九州や四国地方に接近する見込みで、気象予報士の木村雅洋氏は早めの対策と警戒を呼びかけています。\n交通機関や生活への影響が懸念されます。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oM2xicFZzUXVZNy1mSTBWV1I2ZGh4Y2pfaXJVYkxRY1pmUUlZY0lIRDVLSlRZUzJReXlRS0tQNEhoOWw3VWJuRnZnNlBhRTBCMzNmN0xZcUt2dHI4TzZfWWFEMFZFNzFuUUE?oc=5",
+      "published_at": "2026-06-22T21:19:36.000Z"
     },
     {
       "id": "j005",
-      "category": "政治",
-      "source": "47NEWS",
-      "title": "食品消費税1％、最多43％ 自衛隊派遣不要54％、世論調査",
-      "summary": "最新の世論調査で、食品への消費税1%引き下げを支持する声が43%と最も多く、自衛隊の海外派遣については54%が不要と回答した。国民の意識が政治課題にどう影響するかが注目される。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HWVBVODRMakVud295Y0NmOUx2TmpPWnpTNHAwdXRfNUlpUWdtNTJCb0s2NHc5eFVqYmY3NDRvamlPbVVMSEVTbVVpcw?oc=5",
-      "published_at": "2026-06-21T09:56:00.000Z"
+      "category": "社会",
+      "source": "NHKニュース",
+      "title": "神戸 冷凍庫切断遺体 死体損壊などの疑いで捜査本部設置",
+      "summary": "NHKニュースは、神戸市で冷凍庫から切断された遺体が発見された事件について報じています。\n警察は死体損壊などの疑いで捜査本部を設置し、事件の全容解明に向けて捜査を進めています。\n住民の間には不安が広がっています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORkZQZk85SGh1eGNKcTNsdUkwZy1ieGg0OVBjRkVoQ2tPbm5QeEl0cktCME5nSnhTel9TRllOTGE5enNRX0t4dW1IdElXRGtNUVRoSkthTzZzMWJZTkd3?oc=5",
+      "published_at": "2026-06-22T15:34:01.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
       "category": "Politics",
-      "region": "Middle East",
-      "source": "Al Jazeera",
-      "title": "バンス氏、米イラン協議開始で「新境地を開きたい」スイスにて",
-      "summary": "米国とイランの間でスイスにて協議が開始され、米国政府関係者が関係改善への意欲を示した。特に米イラン間の緊張緩和と協力関係の構築を目指す可能性が示唆されている。",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3FjZXl6NnNTa3N4ZndtVW8xTnY3WFl2ekNjbTJzZGRGMnBLZUhzaTNUWk01QTRSQXgwTmVRakdybFhjdmt5WlpDYmxzZ1QtR3ZhZHV5YmlMOXBya3lTZ0VvY2twVWNyTlhhdUN2VWp2RXlNbTNoYUU2Ml9vX25DWDFRZkpwOFpGOENxY2RxbFPSAZYBQVVfeXFMT1hya0JhY05hOVVuQUpIbFk3T2xscFBsMHJuYjU2V09SQXV1NW04VktLWkZfRGlUYl9JUlRXLWxJUDhYVHBhSHdkdlBLeWI3bUJhQW9ZLWF0T28weW0zSV95dHNlMjY0WldueUxjZW5BTzRidDQ4N1BNQmpBaGFDZ1FwcDc2SVZpNF8xa3NqSUxxT3phQW5B?oc=5",
-      "published_at": "2026-06-21T19:40:38.000Z"
+      "region": "Europe",
+      "source": "CBS News",
+      "title": "英首相キーア・スターマー辞任後、後任として有力視されるアンディ・バーナムとは何者か？",
+      "summary": "CBS Newsは、辞任を発表した英国首相キーア・スターマーの後任として有力視されているアンディ・バーナムに焦点を当てています。\n彼のこれまでの経歴や政治的立場、そして次期首相としての可能性について解説しています。\n英国の政局に大きな影響を与える人物として注目が集まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUwxY1k1TVJGWTlaTmJ5V0VidnJiYklSTk1BUTl2U1RxZ0lodUhRVVlzZWJ3bTNaamtqMU9SeEhLVEZOZ09URWRzZUxVNF9Wd2JibXJ3dHdXbkJmdzg5S3VmVDltYzRXRG9LTHBUUFBsTC1oZWlwS0tkZjVORXhxa3lCSW9ZczFaV1lMRS1VLVNNY21zYUNhRDNDVVdEUTkyNFE?oc=5",
+      "published_at": "2026-06-22T19:58:06.000Z"
     },
     {
       "id": "g002",
-      "category": "Politics",
-      "region": "US",
-      "source": "WSJ",
-      "title": "トランプ氏、リフレクティング・プールの問題に募る不満を表明",
-      "summary": "ドナルド・トランプ氏が、ワシントンD.C.のリフレクティング・プールのメンテナンス問題に対して募る不満を公に表明した。これは自身の政策や国民生活への影響を強調する発言と見られている。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQlNJNld0Z2EzbHhFZHlvYm9pRlpmSjlCUlc5WDBwUFN2U3BFQUVhdTJsb0xKZnJsdnlYYnNveWdobk1CbFV2eHh2d3VRQjdkLUNyNXZ3UmRuWVVhX2JoSVc5WXI0TzQ3VldOYVJsTmJQQmJvcmhhcEdFcko4TGltRmNobzdxejVJcGNxMTczQWJTcEZ0UXo2dm9MVWtYbWcz?oc=5",
-      "published_at": "2026-06-21T19:14:00.000Z"
+      "category": "Economy",
+      "region": "Middle East",
+      "source": "Reuters",
+      "title": "米国、最終和平合意交渉中にイラン産原油販売を承認",
+      "summary": "ロイター通信は、米国が最終的な和平合意に向けた交渉が続く中で、イラン産原油の販売を承認したと報じています。\nこの動きは、地域の緊張緩和と経済的関係の再構築に向けた重要な一歩と見られています。\n国際的なエネルギー市場にも影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzdZaTNrdXFNYWlPV2hKM1g2TDZkUFRmM3pMTE5HZzc1NnRuY1Y1cEdkLWl4bWpWOWFHdmZnMDN0cS0zdFdOeVIzalM0cGN1Yk1PV1lmc0I1NElkUjI5cWtKQzVvdHVqZFFNUm9nT01BZDdlYXFJdnVPM2NiMF9mUFduSFhlcUZWUjV0RVJtY0NFcFVmSElZSXk0V1IxN3ZrLXc?oc=5",
+      "published_at": "2026-06-22T14:46:30.000Z"
     },
     {
       "id": "g003",
       "category": "Politics",
-      "region": "Europe",
-      "source": "CNN",
-      "title": "トランプ氏、英国首相が月曜にも辞任との憶測の中、スターマー氏が「辞任するだろう」と発言",
-      "summary": "英国首相の辞任憶測が広がる中、ドナルド・トランプ氏が労働党のキーア・スターマー党首も「辞任するだろう」と発言し、英国政界の動向に言及した。",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DYklNZ0ZHcTMwcmZRTlVHQi1ReXN2NzdlM0EyM0JIQXRTMmk0RUdxZnJiQVZlbWxCVHFESUxUeklUN04yUG8tNm9td0NNYmdOa2UwUF9XdkNsTjVkXzJzZnRFX0RpaGNFdGMzRFhnODROenQ4WXU4LWtn?oc=5",
-      "published_at": "2026-06-21T16:25:58.000Z"
+      "region": "Middle East",
+      "source": "The Washington Post",
+      "title": "バンス氏、イランがオバマ政権下合意と同様に核査察に合意したと発表",
+      "summary": "ワシントン・ポスト紙によると、バンス氏が、イランがオバマ政権時代の合意と同様に核査察を受け入れることに合意したと発表しました。\nこれは、イランの核開発プログラムに関する国際社会の懸念を軽減する可能性のある進展です。\n今後の核問題に関する交渉の行方が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmtUc3d3TllBOUNyVU1SMVRoeWY5Wk5PMGl5eEpOSnJPSmY5aHdJM1NaVGYwZVZSem43bUZDTmRMaHplb3ZoQjNKSUlRYXB2blFGVWFtYmNFQVJkdmd4aEpHazkySkFFVm10a0xVc1ZMSXNTZ2Z1SGh3SThNSGlSLS1KYkdoQWY4U1A1by1ucmYwdG9ZUVNvblNNTEVzN2NuQ0ZXMHdjR0JReGZyZ2JfcQ?oc=5",
+      "published_at": "2026-06-22T18:45:42.000Z"
     },
     {
       "id": "g004",
-      "category": "Health",
+      "category": "Politics",
       "region": "US",
-      "source": "KTLA",
-      "title": "ボイルハイツの数日続く倉庫火災、作業員にとって構造的完全性がより懸念に",
-      "summary": "ロサンゼルスのボイルハイツ地区で数日にわたって続く倉庫火災の消火活動において、建物の構造的な安全性が消防隊員にとって大きな懸念となっている。崩落の危険性があるため、作業はより困難を極めている。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVV3lxTE9rZ0ZuRWdaOUhNMEdiTnZ5TVlYWEJSNGJ3T2lRNG5MY0JnS25Ka2t6emltem9WVWc5b1FEOXFhcE5pZnFTelVubjN3cEhheVFCOG1ZZk5HRE1tbno4SkRsajk0cXZQaDNxbkVNWGI3UEh5MEpwdUc0S9IBfkFVX3lxTE5UQ0ZvOTdlWnY2Mlpudnl4X2hkZFVCd0EwNWx1MEkwamU5S2xWcmFlN1dCZlRYbk55dFY2X01FMUd1UVN1VG9JZWs2ZUh1a1BBWU1mYnQxZXJWQ3Jha2NkN1dZVnNZMVlpTk5LYzIyRjBfX3ZVVmtZYkYtV19oQQ?oc=5",
-      "published_at": "2026-06-21T14:14:40.000Z"
+      "source": "The Hill",
+      "title": "裁判官、トランプ政権の社会保障番号・市民権データベースを違憲と判断",
+      "summary": "The Hillは、裁判官がトランプ政権下で作成された社会保障番号と市民権ステータスのデータベースを違憲とする判決を下したと報じています。\nこの判決は、個人情報保護と政府による市民データ収集の範囲に関して重要な意味を持つものです。\n今後の政府のデータ管理方針に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ0hJd2IzZXF5YnEydllqbFhvSVlOMTdmSWVwQmxGY3lYMWNBa2NfRi03OTZsdlMzLXYzUGZkTkREUTNzUjROUXBmOFdHaURtckFRY3N5SVJRQ1hCUm1xTWNDNHk0TmdPSDB2U1FGT1QwT3oxRFA5aFhreUdqbVhJYlNHdGRvSHpuVlHSAY8BQVVfeXFMT3NnVnhrSTdkNkZVNWNvS0F4bWgyX25KeVp3b1Fyc2syNlgwYnJpM3g1MXdwbENFcVY4SXN6OG9jc1V3Uzh2eEFtU1VRMTdGVHNubFdsMzg1eGJoUzlMZUhkTzMyS3FZWXhnWU9nQUJ0VDF4NXliNVdJa01aQThLOE1XNmltdVRnT3lQVnNrMkU?oc=5",
+      "published_at": "2026-06-22T19:16:00.000Z"
     },
     {
       "id": "g005",
-      "category": "Politics",
-      "region": "Middle East",
-      "source": "USA Today",
-      "title": "リンゼイ・グラハム議員、「ホルムズ海峡で抵抗があればイランを『壊滅させる』」",
-      "summary": "リンゼイ・グラハム上院議員が、ホルムズ海峡でイランが抵抗した場合、米国はイランを「壊滅させる」べきだと強く発言した。これは中東情勢における米国の強硬な姿勢を改めて示したものである。",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjVod29tRXZ2X2kxLUJNVlBmdEpiNlhWYjhFQTNMVGZjS2VaZjBkNmFBcHlHUnRSUmVXZlg1dWhtMzNJQUVvZmluS0dtdExYUG10QW1ISmt6bzgzOGdlZW1Sd0l5Zm4tb3REUF9sMEpOemgtSE94dFZuYzF4bExRb25qbmt1aFVkbTIxY0dwZzdVamNyd1g4N21R?oc=5",
-      "published_at": "2026-06-21T17:53:00.000Z"
+      "category": "Social",
+      "region": "US",
+      "source": "CNN",
+      "title": "ロサンゼルスの冷蔵倉庫火災、数日間燃え続ける：現状報告",
+      "summary": "CNNは、ロサンゼルスで発生した冷蔵倉庫の火災が数日間燃え続けている状況を伝えています。\n火災の原因や影響、そして消火活動の進捗について、当局からの最新情報がまとめられています。\n周辺地域では煙による健康被害も懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XMExFcm9LQTBLQ1RVeGtvYml0UWF3RkdzTkRJQ2ZGcmpZa0FiSFBkbzRLZmhWZjFGVnlQajJBbG5lVmRxYU92UFppR0E3aEtwQUhCYXI3M0pUaVFyV0Z0d1l5d1Fjb2pVWC1lLW5n?oc=5",
+      "published_at": "2026-06-22T15:39:15.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,48 +187,48 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツでACL損傷が増加している理由",
-      "summary": "女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向について分析した記事。生物学的要因（例: 骨盤の広さ、筋力バランス）、トレーニング方法、早期のスポーツ専門化などがリスク上昇の背景にあると指摘している。特に着地時の膝の動きやハムストリングスの筋力不足が重要な要因として挙げられている。",
+      "title": "女子スポーツにおけるACL損傷の増加：その原因とは",
+      "summary": "ESPN – WRUFの記事は、女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向に焦点を当てています。女性の身体構造、ホルモンバランス、トレーニング方法の違いが、男子と比較して高いACL損傷リスクに寄与している可能性を指摘し、特に女子スポーツにおける予防策の重要性を強調しています。早期介入と包括的なトレーニングが、若年女子アスリートの怪我のリスクを低減する鍵となります。",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における先駆者とパラダイム：主題別歴史的ミニレビュー",
-      "summary": "スプリント科学の歴史的発展における主要な研究者と概念を概観したミニレビュー。初期の運動学研究から現代のバイオメカニクス、生理学、コーチング理論に至るまで、スプリントパフォーマンス向上への理解がどのように深まってきたかを辿っている。特に技術分析とトレーニング法の進化に焦点を当てている。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZUxSMW0zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学における先駆者とパラダイム：テーマ別歴史的ミニレビュー",
+      "summary": "Frontiers誌に掲載されたこのレビューは、スプリント科学の歴史的発展における主要な人物と理論的枠組みを概観しています。初期のバイオメカニクス研究から現代の神経生理学的アプローチまで、スプリントパフォーマンスの理解がどのように進化してきたかをテーマ別に分析しています。本レビューは、現在のトレーニング理論が過去の知見の上に築かれていることを示唆し、将来の研究方向性にも貢献します。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、CAGR 11.5%で成長予測",
-      "summary": "人工腱および靭帯の世界市場に関する調査報告。市場が年平均成長率（CAGR）11.5%で拡大すると予測されており、スポーツ損傷の増加、医療技術の進歩、高齢化社会における需要増加が主な成長要因として挙げられている。これにより、整形外科手術における治療選択肢が多様化する可能性が示唆されている。",
+      "title": "人工腱・靭帯市場規模 | CAGR 11.5%",
+      "summary": "Market.us Mediaの報告によると、人工腱および靭帯市場が年間平均成長率（CAGR）11.5%で拡大していることが示されています。スポーツ関連の靭帯損傷の増加や、より効果的で耐久性のある人工材料の開発が進んでいることが、この市場成長の主要な要因と分析されています。これは、外科的治療の選択肢が今後も進化し続けることを示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnhrOENtTUJ4YkNTc3NobkJDMms4dDBCS0VQTEk3TEFtOWl5Z1dJYXczdzhtZF9EZjZmM1hxWHFfR1ZOV1R5bEU2SGtYOE5MSHR3TGZETG5aakJrYXZRbENySzNZdUd6eWJraUdNX1Z0Skk5dUlMRFN6TzhGTkRwRUd3?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレーヘルスシステム、アスリートが最高のパフォーマンスで安全に競技復帰するためのプログラムを開始",
-      "summary": "バレーヘルスシステムが、アスリートの安全かつ効果的な競技復帰を支援する「リターン・トゥ・スポーツ・プログラム」を立ち上げたというニュース。このプログラムは、多分野にわたる専門家チームが、個々のアスリートのニーズに合わせて身体的および精神的なサポートを提供することを目指している。",
+      "title": "バレーヘルスシステム、アスリートの安全な競技復帰を支援する「リターントゥスポーツプログラム」を開始",
+      "summary": "バレーヘルスシステムが、怪我をしたアスリートが安全かつ最高のパフォーマンスで競技に復帰するための専門プログラムを立ち上げました。このプログラムは、身体機能の回復だけでなく、心理的な準備や競技特有の動作トレーニングを統合し、包括的なアプローチでアスリートをサポートすることを目指しています。多職種連携による個別化されたケアが、成功的な競技復帰の鍵となります。",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理への鍼灸補助療法の症例報告",
-      "summary": "反復性肩関節後方脱臼に苦しむ女子サッカー選手に対する鍼灸補助療法の効果を報告した症例研究。この選手は従来の治療に加えて鍼灸治療を受けた結果、疼痛が軽減し、競技活動への復帰が促進されたと結論付けている。",
+      "title": "女子サッカー選手の反復性肩関節後方脱臼による疼痛管理のための鍼灸併用療法：症例報告",
+      "summary": "Cureus誌に掲載された症例報告は、反復性肩関節後方脱臼に苦しむ女子サッカー選手に対する鍼灸併用療法の有効性を示しています。この治療法は、疼痛の軽減と肩関節機能の改善に寄与し、選手の競技復帰を支援したと報告されています。西洋医学的治療と併用することで、より良い治療結果が期待できる可能性があります。",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVlek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリート向けスポーツサプリメントトップ9：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
-      "summary": "アスリートが利用する主要なスポーツサプリメント（クレアチン、カフェイン、栄養ジェル、L-カルニチンなど）について、その効果、安全性、およびパフォーマンスへの影響を詳細に解説した記事。科学的根拠に基づき、どのサプリメントが特定の競技や目標に対して有効であるかを評価している。",
+      "title": "アスリート向けトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
+      "summary": "220 Triathlonの記事では、アスリートに人気のある9種類のスポーツサプリメントについて、その効果、安全性、そしてパフォーマンスへの影響を詳細に解説しています。クレアチン、カフェイン、エネルギージェル、L-カルニチンなどが取り上げられ、科学的根拠に基づいた適切な利用法が示されています。サプリメントの選択においては、個人のニーズと科学的エビデンスを考慮することが重要です。",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
     },
     {
@@ -236,117 +236,99 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートが直面するメンタルヘルス課題に焦点を当て、保護者とコーチが彼らをどのようにサポートできるかについての実用的なアドバイスを提供する記事。競技のプレッシャー、学業との両立、ソーシャルメディアの影響などがメンタルヘルスに与える影響について言及し、早期発見と適切な介入の重要性を強調している。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "Johns Hopkins Medicineは、学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けの具体的なアドバイスを掲載しています。競技のプレッシャー、学業との両立、ソーシャルメディアの影響など、学生が直面する課題を認識し、早期にサポートを提供することの重要性を強調しています。開かれたコミュニケーションとサポート体制の構築が、健全な成長を促します。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリスティン・ホームズ氏が語る、睡眠と回復がハイパフォーマンスをいかに形成するか",
-      "summary": "WHOOPのVPであるクリスティン・ホームズ氏が、睡眠と回復がアスリートのパフォーマンスに与える決定的な影響について議論する記事。質の高い睡眠と適切な回復戦略がいかに身体的・精神的なレディネスを高め、怪我のリスクを減らし、最適なパフォーマンスを達成するために不可欠であるかを強調している。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
+      "title": "マイケル・フェルプスのように回復、睡眠、メンタルヘルスに取り組む方法",
+      "summary": "WHOOPの記事は、伝説的スイマーであるマイケル・フェルプスの回復、睡眠、メンタルヘルスへのアプローチを紹介しています。最高のパフォーマンスを維持するために、睡眠の質、積極的な回復戦略、そして自身のメンタル状態をモニタリングし管理することの重要性が強調されています。データに基づいた自己管理と、必要に応じた専門家のサポートが成功の秘訣です。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXEwOWVYQmFMSGc1NE1SbGN0M0Nmdm1oODdBb3NMZ25rbko3Sk1JbDA5aldSU0ItT3VyemNsSHFaVlY0VUU5X0NSTi1aLXZzV1RaMW9VQnJkbXpGQk85dXQwMmVVVjcwWlVoY2J1NDc5U01HNm1hOUFrSjNtZmIzSjVaUkdpZENCUWNOWU03ZUgyUQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "米イランが協議、ホルムズ封鎖とレバノン巡りトランプ氏態度硬化 イランも反発",
-      "summary": "米国とイランがスイスで協議を開始したものの、ホルムズ海峡の封鎖やレバノン情勢を巡りトランプ氏の態度が硬化し、イラン側も反発する展開となった。中東地域の緊張緩和に向けた交渉の行方が注目される。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlFBMDFPMUFkMTlwVDNpdmh5WGs3OU4wVVBHN19UT0ZOOGttWmlzTE5YXzRjUTJHLVFBSldZc2hkMGd0MWJoeGJSQUxaSlJtZnN4dFFUM1BWVlhZQ1BMMjQ2cklCVlU3ekRkaHp2T19VVnpFV2tGN1dial9ocDdxZHRB?oc=5"
+      "title": "スターマー英首相、辞任発表　次の与党党首が決まるまでは留任",
+      "summary": "BBCによると、スターマー英首相が辞任を発表しました。\nしかし、次の与党党首が決定するまではその職に留まる意向を示しています。\nこの発表は、英国政界に大きな動きをもたらすものと見られています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HRi1PUFhYakRLY3JzbmR3QTA3V1ZtX0hVRlJnMnh4SUNMM3dCWlhPLUJaTTA0WFdMbXpqY0c5YTlwdWhIcnYzb3lvRjZJUEsyRkRscnRQQUF4N2xBMTdN0gFkQVVfeXFMTVp4Z2oxUkZRdW44dXJBZkpPdlE2VHhNbjFqdXdTMDJTaGd6TXlNYVpSTXBOVFRrejFRcUhYSEVQRUlLcTF3SkcwcmdJdWVDTTZMZzNCeExlSTRfRVpwd0hHYUNwLQ?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風7号は非常に強い勢力へ　25日には強い勢力で暴風域を伴い沖縄の南に　影響は(気象予報士 中川　裕美子 2026年06月22日)",
-      "summary": "台風7号が非常に強い勢力に発達し、25日には強い勢力で暴風域を伴い沖縄の南へ進む見込み。気象予報士の中川裕美子氏が、今後の進路や沖縄をはじめとする地域への影響について詳細に解説している。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oTTNPa0NUNHJBRWY5bUFZZjlKWWZSa3hGNUdoVW9pMFhOYkNHTUYxTTBWRDZsdDI5NnFfeFlxakxHQmlvT2RFTzVjbnVGNEh1QXY1Y18wc0NaNGdkOVpVdndwMkEyb0dtTVYzUtIBckFVX3lxTE1TZlVsYzJKVGJIS1pVME1nbjRWZ29qQkV1U2hlVm5qdUhZdlJseDJtY2l4Tmh2eXJYalVHc21Bb2dzaExKMkRKeHF4U2g4bXc0eFhrV1R3TEZoWTY3RWRGNVpUYmcxelRIaERrSXR1eWhnQQ?oc=5"
+      "category": "国際",
+      "title": "ホルムズ海峡の安全航行へ米イランが連絡網、レバノン巡り新たな枠組み設置…戦闘終結へ高官協議の初会合",
+      "summary": "読売新聞の報道によれば、米国とイランはホルムズ海峡の安全航行を確保するため、新たな連絡網を設置することで合意しました。\nさらにレバノン情勢を巡っても新たな枠組みを設けることが決定され、戦闘終結に向けた高官協議の初会合が開催されました。\nこれにより、地域情勢の安定化への期待が高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxdWRybUNwQ0dfZGY1S2lGM1hUZ3g1OUxPNzdIN1Brd2ZOSTFpRlE3WWk1TWo5X3dnR0hNQlRKY2htbndROXBacGxScmpoMnhMaG16SHZPQ0JfcWI2QVZfX0dn?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "家族湯に入浴中の5歳児が行方不明、窓から外へ？ 鹿児島の温泉施設",
-      "summary": "鹿児島県内の温泉施設で、家族湯に入浴していた5歳の子供が行方不明となる事故が発生した。警察は窓から外に出た可能性も含め、詳しい状況を捜査している。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wQVNFQnRUQVZYbXpvWEtiRUxIeXBhLWRaeVNOX3h0cWRDZ1lDcmhqbjNXRWx4dHQzdnNWZGVBa20zU3c2S2ZLOFBlZnNZOU9tZGE5c1JvWFF2NUFqc1JRQUktWm91Y1k?oc=5"
+      "category": "政治",
+      "title": "高市首相、中傷動画もサナエトークンも関与否定「秘書に責任押し付けない」関連資料提出へ",
+      "summary": "産経ニュースは、高市首相が中傷動画や「サナエトークン」問題への関与を否定したと報じています。\n「秘書に責任を押し付けることはしない」と述べ、関連資料の提出を表明しました。\nこの問題は、国会で引き続き議論される見通しです。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5MDVpTnk5R0gtMUFZR1IwM0FWSlh5T1BzVnhjLTBZcVd1SGdQMUwwMXRQT29tZlJ5ZEVQSnNhX3ppTzNpN1BCZkREZ2hkdEZsc2FuZUpaTlNMdlJ4SldIOHQ4Y3dPeUJxX0VEWHZyTXNBaEF6ekE?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "女性皇族の身分保持だけ実現が最大公約数、１００年後の検証に堪える議論を…立憲民主党・長浜博行氏",
-      "summary": "立憲民主党の長浜博行氏が、女性皇族の身分保持のみを最大公約数として実現し、将来の世代が検証できるような議論を行うべきだと提言した。皇位継承問題に関する議論の方向性について述べられている。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12Rko3SkhfanZIalhkeHlfRFk4VGszMGI2dTdrcFM2TzF2Q1VhTG5iZkhVbEJTSUhwTG9teGhtSFpKbW9jOVhCR0JfQnZQNl9uSkJJTFg5aWVQeTJBVkpiem9RUXgzNms?oc=5"
+      "category": "環境・気候",
+      "title": "新たな台風が発生してダブル台風が日本接近の恐れ 台風7号は28日頃九州や四国へ(気象予報士 木村 雅洋)",
+      "summary": "tenki.jpによると、新たな台風が発生し、日本にはダブル台風が接近する恐れがあるとのことです。\n台風7号は特に28日頃に九州や四国地方に接近する見込みで、気象予報士の木村雅洋氏は早めの対策と警戒を呼びかけています。\n交通機関や生活への影響が懸念されます。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oM2xicFZzUXVZNy1mSTBWV1I2ZGh4Y2pfaXJVYkxRY1pmUUlZY0lIRDVLSlRZUzJReXlRS0tQNEhoOWw3VWJuRnZnNlBhRTBCMzNmN0xZcUt2dHI4TzZfWWFEMFZFNzFuUUE?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "食品消費税1％、最多43％ 自衛隊派遣不要54％、世論調査",
-      "summary": "最新の世論調査で、食品への消費税1%引き下げを支持する声が43%と最も多く、自衛隊の海外派遣については54%が不要と回答した。国民の意識が政治課題にどう影響するかが注目される。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HWVBVODRMakVud295Y0NmOUx2TmpPWnpTNHAwdXRfNUlpUWdtNTJCb0s2NHc5eFVqYmY3NDRvamlPbVVMSEVTbVVpcw?oc=5"
+      "category": "社会",
+      "title": "神戸 冷凍庫切断遺体 死体損壊などの疑いで捜査本部設置",
+      "summary": "NHKニュースは、神戸市で冷凍庫から切断された遺体が発見された事件について報じています。\n警察は死体損壊などの疑いで捜査本部を設置し、事件の全容解明に向けて捜査を進めています。\n住民の間には不安が広がっています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORkZQZk85SGh1eGNKcTNsdUkwZy1ieGg0OVBjRkVoQ2tPbm5QeEl0cktCME5nSnhTel9TRllOTGE5enNRX0t4dW1IdElXRGtNUVRoSkthTzZzMWJZTkd3?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "バンス氏、米イラン協議開始で「新境地を開きたい」スイスにて",
-      "summary": "米国とイランの間でスイスにて協議が開始され、米国政府関係者が関係改善への意欲を示した。特に米イラン間の緊張緩和と協力関係の構築を目指す可能性が示唆されている。",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3FjZXl6NnNTa3N4ZndtVW8xTnY3WFl2ekNjbTJzZGRGMnBLZUhzaTNUWk01QTRSQXgwTmVRakdybFhjdmt5WlpDYmxzZ1QtR3ZhZHV5YmlMOXBya3lTZ0VvY2twVWNyTlhhdUN2VWp2RXlNbTNoYUU2Ml9vX25DWDFRZkpwOFpGOENxY2RxbFPSAZYBQVVfeXFMT1hya0JhY05hOVVuQUpIbFk3T2xscFBsMHJuYjU2V09SQXV1NW04VktLWkZfRGlUYl9JUlRXLWxJUDhYVHBhSHdkdlBLeWI3bUJhQW9ZLWF0T28weW0zSV95dHNlMjY0WldueUxjZW5BTzRidDQ4N1BNQmpBaGFDZ1FwcDc2SVZpNF8xa3NqSUxxT3phQW5B?oc=5"
+      "title": "英首相キーア・スターマー辞任後、後任として有力視されるアンディ・バーナムとは何者か？",
+      "summary": "CBS Newsは、辞任を発表した英国首相キーア・スターマーの後任として有力視されているアンディ・バーナムに焦点を当てています。\n彼のこれまでの経歴や政治的立場、そして次期首相としての可能性について解説しています。\n英国の政局に大きな影響を与える人物として注目が集まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUwxY1k1TVJGWTlaTmJ5V0VidnJiYklSTk1BUTl2U1RxZ0lodUhRVVlzZWJ3bTNaamtqMU9SeEhLVEZOZ09URWRzZUxVNF9Wd2JibXJ3dHdXbkJmdzg5S3VmVDltYzRXRG9LTHBUUFBsTC1oZWlwS0tkZjVORXhxa3lCSW9ZczFaV1lMRS1VLVNNY21zYUNhRDNDVVdEUTkyNFE?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、リフレクティング・プールの問題に募る不満を表明",
-      "summary": "ドナルド・トランプ氏が、ワシントンD.C.のリフレクティング・プールのメンテナンス問題に対して募る不満を公に表明した。これは自身の政策や国民生活への影響を強調する発言と見られている。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQlNJNld0Z2EzbHhFZHlvYm9pRlpmSjlCUlc5WDBwUFN2U3BFQUVhdTJsb0xKZnJsdnlYYnNveWdobk1CbFV2eHh2d3VRQjdkLUNyNXZ3UmRuWVVhX2JoSVc5WXI0TzQ3VldOYVJsTmJQQmJvcmhhcEdFcko4TGltRmNobzdxejVJcGNxMTczQWJTcEZ0UXo2dm9MVWtYbWcz?oc=5"
+      "category": "Economy",
+      "title": "米国、最終和平合意交渉中にイラン産原油販売を承認",
+      "summary": "ロイター通信は、米国が最終的な和平合意に向けた交渉が続く中で、イラン産原油の販売を承認したと報じています。\nこの動きは、地域の緊張緩和と経済的関係の再構築に向けた重要な一歩と見られています。\n国際的なエネルギー市場にも影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzdZaTNrdXFNYWlPV2hKM1g2TDZkUFRmM3pMTE5HZzc1NnRuY1Y1cEdkLWl4bWpWOWFHdmZnMDN0cS0zdFdOeVIzalM0cGN1Yk1PV1lmc0I1NElkUjI5cWtKQzVvdHVqZFFNUm9nT01BZDdlYXFJdnVPM2NiMF9mUFduSFhlcUZWUjV0RVJtY0NFcFVmSElZSXk0V1IxN3ZrLXc?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏、英国首相が月曜にも辞任との憶測の中、スターマー氏が「辞任するだろう」と発言",
-      "summary": "英国首相の辞任憶測が広がる中、ドナルド・トランプ氏が労働党のキーア・スターマー党首も「辞任するだろう」と発言し、英国政界の動向に言及した。",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DYklNZ0ZHcTMwcmZRTlVHQi1ReXN2NzdlM0EyM0JIQXRTMmk0RUdxZnJiQVZlbWxCVHFESUxUeklUN04yUG8tNm9td0NNYmdOa2UwUF9XdkNsTjVkXzJzZnRFX0RpaGNFdGMzRFhnODROenQ4WXU4LWtn?oc=5"
+      "title": "バンス氏、イランがオバマ政権下合意と同様に核査察に合意したと発表",
+      "summary": "ワシントン・ポスト紙によると、バンス氏が、イランがオバマ政権時代の合意と同様に核査察を受け入れることに合意したと発表しました。\nこれは、イランの核開発プログラムに関する国際社会の懸念を軽減する可能性のある進展です。\n今後の核問題に関する交渉の行方が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmtUc3d3TllBOUNyVU1SMVRoeWY5Wk5PMGl5eEpOSnJPSmY5aHdJM1NaVGYwZVZSem43bUZDTmRMaHplb3ZoQjNKSUlRYXB2blFGVWFtYmNFQVJkdmd4aEpHazkySkFFVm10a0xVc1ZMSXNTZ2Z1SGh3SThNSGlSLS1KYkdoQWY4U1A1by1ucmYwdG9ZUVNvblNNTEVzN2NuQ0ZXMHdjR0JReGZyZ2JfcQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Health",
-      "title": "ボイルハイツの数日続く倉庫火災、作業員にとって構造的完全性がより懸念に",
-      "summary": "ロサンゼルスのボイルハイツ地区で数日にわたって続く倉庫火災の消火活動において、建物の構造的な安全性が消防隊員にとって大きな懸念となっている。崩落の危険性があるため、作業はより困難を極めている。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVV3lxTE9rZ0ZuRWdaOUhNMEdiTnZ5TVlYWEJSNGJ3T2lRNG5MY0JnS25Ka2t6emltem9WVWc5b1FEOXFhcE5pZnFTelVubjN3cEhheVFCOG1ZZk5HRE1tbno4SkRsajk0cXZQaDNxbkVNWGI3UEh5MEpwdUc0S9IBfkFVX3lxTE5UQ0ZvOTdlWnY2Mlpudnl4X2hkZFVCd0EwNWx1MEkwamU5S2xWcmFlN1dCZlRYbk55dFY2X01FMUd1UVN1VG9JZWs2ZUh1a1BBWU1mYnQxZXJWQ3Jha2NkN1dZVnNZMVlpTk5LYzIyRjBfX3ZVVmtZYkYtV19oQQ?oc=5"
+      "category": "Politics",
+      "title": "裁判官、トランプ政権の社会保障番号・市民権データベースを違憲と判断",
+      "summary": "The Hillは、裁判官がトランプ政権下で作成された社会保障番号と市民権ステータスのデータベースを違憲とする判決を下したと報じています。\nこの判決は、個人情報保護と政府による市民データ収集の範囲に関して重要な意味を持つものです。\n今後の政府のデータ管理方針に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ0hJd2IzZXF5YnEydllqbFhvSVlOMTdmSWVwQmxGY3lYMWNBa2NfRi03OTZsdlMzLXYzUGZkTkREUTNzUjROUXBmOFdHaURtckFRY3N5SVJRQ1hCUm1xTWNDNHk0TmdPSDB2U1FGT1QwT3oxRFA5aFhreUdqbVhJYlNHdGRvSHpuVlHSAY8BQVVfeXFMT3NnVnhrSTdkNkZVNWNvS0F4bWgyX25KeVp3b1Fyc2syNlgwYnJpM3g1MXdwbENFcVY4SXN6OG9jc1V3Uzh2eEFtU1VRMTdGVHNubFdsMzg1eGJoUzlMZUhkTzMyS3FZWXhnWU9nQUJ0VDF4NXliNVdJa01aQThLOE1XNmltdVRnT3lQVnNrMkU?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "リンゼイ・グラハム議員、「ホルムズ海峡で抵抗があればイランを『壊滅させる』」",
-      "summary": "リンゼイ・グラハム上院議員が、ホルムズ海峡でイランが抵抗した場合、米国はイランを「壊滅させる」べきだと強く発言した。これは中東情勢における米国の強硬な姿勢を改めて示したものである。",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjVod29tRXZ2X2kxLUJNVlBmdEpiNlhWYjhFQTNMVGZjS2VaZjBkNmFBcHlHUnRSUmVXZlg1dWhtMzNJQUVvZmluS0dtdExYUG10QW1ISmt6bzgzOGdlZW1Sd0l5Zm4tb3REUF9sMEpOemgtSE94dFZuYzF4bExRb25qbmt1aFVkbTIxY0dwZzdVamNyd1g4N21R?oc=5"
+      "category": "Social",
+      "title": "ロサンゼルスの冷蔵倉庫火災、数日間燃え続ける：現状報告",
+      "summary": "CNNは、ロサンゼルスで発生した冷蔵倉庫の火災が数日間燃え続けている状況を伝えています。\n火災の原因や影響、そして消火活動の進捗について、当局からの最新情報がまとめられています。\n周辺地域では煙による健康被害も懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XMExFcm9LQTBLQ1RVeGtvYml0UWF3RkdzTkRJQ2ZGcmpZa0FiSFBkbzRLZmhWZjFGVnlQajJBbG5lVmRxYU92UFppR0E3aEtwQUhCYXI3M0pUaVFyV0Z0d1l5d1Fjb2pVWC1lLW5n?oc=5"
     },
     {
       "rank": 19,
-      "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "短距離走科学における先駆者とパラダイム：歴史的ミニレビュー",
-      "summary": "このレビューでは、短距離走科学の発展に貢献した主要な研究者や理論的枠組みを歴史的な観点から概観しています。短距離走のパフォーマンス向上におけるバイオメカニクス、生理学、トレーニング理論の進化が分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
-    },
-    {
-      "rank": 20,
-      "origin_tab": "latest_research",
-      "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷アスリートの競技復帰",
-      "summary": "内側尺側側副靭帯（MUCL）損傷は野球などの投擲競技で多く見られ、アスリートの競技復帰には正確な診断と段階的なリハビリテーションが不可欠です。この記事では、治療戦略と競技復帰プロセスの重要性について解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9rajN5bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
-    }
-  ],
-  "monthly_top20": [
-    {
-      "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
       "title": "女子スポーツでACL損傷が増加している理由",
@@ -354,43 +336,61 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
-      "rank": 2,
+      "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
       "title": "スプリント科学における先駆者とパラダイム：主題別歴史的ミニレビュー",
       "summary": "スプリント科学の歴史的発展における主要な研究者と概念を概観したミニレビュー。初期の運動学研究から現代のバイオメカニクス、生理学、コーチング理論に至るまで、スプリントパフォーマンス向上への理解がどのように深まってきたかを辿っている。特に技術分析とトレーニング法の進化に焦点を当てている。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZUxSMW0zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+    }
+  ],
+  "monthly_top20": [
+    {
+      "rank": 1,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "女子スポーツにおけるACL損傷の増加：その原因とは",
+      "summary": "ESPN – WRUFの記事は、女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向に焦点を当てています。女性の身体構造、ホルモンバランス、トレーニング方法の違いが、男子と比較して高いACL損傷リスクに寄与している可能性を指摘し、特に女子スポーツにおける予防策の重要性を強調しています。早期介入と包括的なトレーニングが、若年女子アスリートの怪我のリスクを低減する鍵となります。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "スプリント科学における先駆者とパラダイム：テーマ別歴史的ミニレビュー",
+      "summary": "Frontiers誌に掲載されたこのレビューは、スプリント科学の歴史的発展における主要な人物と理論的枠組みを概観しています。初期のバイオメカニクス研究から現代の神経生理学的アプローチまで、スプリントパフォーマンスの理解がどのように進化してきたかをテーマ別に分析しています。本レビューは、現在のトレーニング理論が過去の知見の上に築かれていることを示唆し、将来の研究方向性にも貢献します。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、CAGR 11.5%で成長予測",
-      "summary": "人工腱および靭帯の世界市場に関する調査報告。市場が年平均成長率（CAGR）11.5%で拡大すると予測されており、スポーツ損傷の増加、医療技術の進歩、高齢化社会における需要増加が主な成長要因として挙げられている。これにより、整形外科手術における治療選択肢が多様化する可能性が示唆されている。",
+      "title": "人工腱・靭帯市場規模 | CAGR 11.5%",
+      "summary": "Market.us Mediaの報告によると、人工腱および靭帯市場が年間平均成長率（CAGR）11.5%で拡大していることが示されています。スポーツ関連の靭帯損傷の増加や、より効果的で耐久性のある人工材料の開発が進んでいることが、この市場成長の主要な要因と分析されています。これは、外科的治療の選択肢が今後も進化し続けることを示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnhrOENtTUJ4YkNTc3NobkJDMms4dDBCS0VQTEk3TEFtOWl5Z1dJYXczdzhtZF9EZjZmM1hxWHFfR1ZOV1R5bEU2SGtYOE5MSHR3TGZETG5aakJrYXZRbENySzNZdUd6eWJraUdNX1Z0Skk5dUlMRFN6TzhGTkRwRUd3?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレーヘルスシステム、アスリートが最高のパフォーマンスで安全に競技復帰するためのプログラムを開始",
-      "summary": "バレーヘルスシステムが、アスリートの安全かつ効果的な競技復帰を支援する「リターン・トゥ・スポーツ・プログラム」を立ち上げたというニュース。このプログラムは、多分野にわたる専門家チームが、個々のアスリートのニーズに合わせて身体的および精神的なサポートを提供することを目指している。",
+      "title": "バレーヘルスシステム、アスリートの安全な競技復帰を支援する「リターントゥスポーツプログラム」を開始",
+      "summary": "バレーヘルスシステムが、怪我をしたアスリートが安全かつ最高のパフォーマンスで競技に復帰するための専門プログラムを立ち上げました。このプログラムは、身体機能の回復だけでなく、心理的な準備や競技特有の動作トレーニングを統合し、包括的なアプローチでアスリートをサポートすることを目指しています。多職種連携による個別化されたケアが、成功的な競技復帰の鍵となります。",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理への鍼灸補助療法の症例報告",
-      "summary": "反復性肩関節後方脱臼に苦しむ女子サッカー選手に対する鍼灸補助療法の効果を報告した症例研究。この選手は従来の治療に加えて鍼灸治療を受けた結果、疼痛が軽減し、競技活動への復帰が促進されたと結論付けている。",
+      "title": "女子サッカー選手の反復性肩関節後方脱臼による疼痛管理のための鍼灸併用療法：症例報告",
+      "summary": "Cureus誌に掲載された症例報告は、反復性肩関節後方脱臼に苦しむ女子サッカー選手に対する鍼灸併用療法の有効性を示しています。この治療法は、疼痛の軽減と肩関節機能の改善に寄与し、選手の競技復帰を支援したと報告されています。西洋医学的治療と併用することで、より良い治療結果が期待できる可能性があります。",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVlek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリート向けスポーツサプリメントトップ9：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
-      "summary": "アスリートが利用する主要なスポーツサプリメント（クレアチン、カフェイン、栄養ジェル、L-カルニチンなど）について、その効果、安全性、およびパフォーマンスへの影響を詳細に解説した記事。科学的根拠に基づき、どのサプリメントが特定の競技や目標に対して有効であるかを評価している。",
+      "title": "アスリート向けトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
+      "summary": "220 Triathlonの記事では、アスリートに人気のある9種類のスポーツサプリメントについて、その効果、安全性、そしてパフォーマンスへの影響を詳細に解説しています。クレアチン、カフェイン、エネルギージェル、L-カルニチンなどが取り上げられ、科学的根拠に基づいた適切な利用法が示されています。サプリメントの選択においては、個人のニーズと科学的エビデンスを考慮することが重要です。",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
     },
     {
@@ -398,112 +398,112 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートが直面するメンタルヘルス課題に焦点を当て、保護者とコーチが彼らをどのようにサポートできるかについての実用的なアドバイスを提供する記事。競技のプレッシャー、学業との両立、ソーシャルメディアの影響などがメンタルヘルスに与える影響について言及し、早期発見と適切な介入の重要性を強調している。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "Johns Hopkins Medicineは、学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けの具体的なアドバイスを掲載しています。競技のプレッシャー、学業との両立、ソーシャルメディアの影響など、学生が直面する課題を認識し、早期にサポートを提供することの重要性を強調しています。開かれたコミュニケーションとサポート体制の構築が、健全な成長を促します。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリスティン・ホームズ氏が語る、睡眠と回復がハイパフォーマンスをいかに形成するか",
-      "summary": "WHOOPのVPであるクリスティン・ホームズ氏が、睡眠と回復がアスリートのパフォーマンスに与える決定的な影響について議論する記事。質の高い睡眠と適切な回復戦略がいかに身体的・精神的なレディネスを高め、怪我のリスクを減らし、最適なパフォーマンスを達成するために不可欠であるかを強調している。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
+      "title": "マイケル・フェルプスのように回復、睡眠、メンタルヘルスに取り組む方法",
+      "summary": "WHOOPの記事は、伝説的スイマーであるマイケル・フェルプスの回復、睡眠、メンタルヘルスへのアプローチを紹介しています。最高のパフォーマンスを維持するために、睡眠の質、積極的な回復戦略、そして自身のメンタル状態をモニタリングし管理することの重要性が強調されています。データに基づいた自己管理と、必要に応じた専門家のサポートが成功の秘訣です。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXEwOWVYQmFMSGc1NE1SbGN0M0Nmdm1oODdBb3NMZ25rbko3Sk1JbDA5aldSU0ItT3VyemNsSHFaVlY0VUU5X0NSTi1aLXZzV1RaMW9VQnJkbXpGQk85dXQwMmVVVjcwWlVoY2J1NDc5U01HNm1hOUFrSjNtZmIzSjVaUkdpZENCUWNOWU03ZUgyUQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "米イランが協議、ホルムズ封鎖とレバノン巡りトランプ氏態度硬化 イランも反発",
-      "summary": "米国とイランがスイスで協議を開始したものの、ホルムズ海峡の封鎖やレバノン情勢を巡りトランプ氏の態度が硬化し、イラン側も反発する展開となった。中東地域の緊張緩和に向けた交渉の行方が注目される。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlFBMDFPMUFkMTlwVDNpdmh5WGs3OU4wVVBHN19UT0ZOOGttWmlzTE5YXzRjUTJHLVFBSldZc2hkMGd0MWJoeGJSQUxaSlJtZnN4dFFUM1BWVlhZQ1BMMjQ2cklCVlU3ekRkaHp2T19VVnpFV2tGN1dial9ocDdxZHRB?oc=5"
+      "title": "スターマー英首相、辞任発表　次の与党党首が決まるまでは留任",
+      "summary": "BBCによると、スターマー英首相が辞任を発表しました。\nしかし、次の与党党首が決定するまではその職に留まる意向を示しています。\nこの発表は、英国政界に大きな動きをもたらすものと見られています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HRi1PUFhYakRLY3JzbmR3QTA3V1ZtX0hVRlJnMnh4SUNMM3dCWlhPLUJaTTA0WFdMbXpqY0c5YTlwdWhIcnYzb3lvRjZJUEsyRkRscnRQQUF4N2xBMTdN0gFkQVVfeXFMTVp4Z2oxUkZRdW44dXJBZkpPdlE2VHhNbjFqdXdTMDJTaGd6TXlNYVpSTXBOVFRrejFRcUhYSEVQRUlLcTF3SkcwcmdJdWVDTTZMZzNCeExlSTRfRVpwd0hHYUNwLQ?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風7号は非常に強い勢力へ　25日には強い勢力で暴風域を伴い沖縄の南に　影響は(気象予報士 中川　裕美子 2026年06月22日)",
-      "summary": "台風7号が非常に強い勢力に発達し、25日には強い勢力で暴風域を伴い沖縄の南へ進む見込み。気象予報士の中川裕美子氏が、今後の進路や沖縄をはじめとする地域への影響について詳細に解説している。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oTTNPa0NUNHJBRWY5bUFZZjlKWWZSa3hGNUdoVW9pMFhOYkNHTUYxTTBWRDZsdDI5NnFfeFlxakxHQmlvT2RFTzVjbnVGNEh1QXY1Y18wc0NaNGdkOVpVdndwMkEyb0dtTVYzUtIBckFVX3lxTE1TZlVsYzJKVGJIS1pVME1nbjRWZ29qQkV1U2hlVm5qdUhZdlJseDJtY2l4Tmh2eXJYalVHc21Bb2dzaExKMkRKeHF4U2g4bXc0eFhrV1R3TEZoWTY3RWRGNVpUYmcxelRIaERrSXR1eWhnQQ?oc=5"
+      "category": "国際",
+      "title": "ホルムズ海峡の安全航行へ米イランが連絡網、レバノン巡り新たな枠組み設置…戦闘終結へ高官協議の初会合",
+      "summary": "読売新聞の報道によれば、米国とイランはホルムズ海峡の安全航行を確保するため、新たな連絡網を設置することで合意しました。\nさらにレバノン情勢を巡っても新たな枠組みを設けることが決定され、戦闘終結に向けた高官協議の初会合が開催されました。\nこれにより、地域情勢の安定化への期待が高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxdWRybUNwQ0dfZGY1S2lGM1hUZ3g1OUxPNzdIN1Brd2ZOSTFpRlE3WWk1TWo5X3dnR0hNQlRKY2htbndROXBacGxScmpoMnhMaG16SHZPQ0JfcWI2QVZfX0dn?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "家族湯に入浴中の5歳児が行方不明、窓から外へ？ 鹿児島の温泉施設",
-      "summary": "鹿児島県内の温泉施設で、家族湯に入浴していた5歳の子供が行方不明となる事故が発生した。警察は窓から外に出た可能性も含め、詳しい状況を捜査している。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wQVNFQnRUQVZYbXpvWEtiRUxIeXBhLWRaeVNOX3h0cWRDZ1lDcmhqbjNXRWx4dHQzdnNWZGVBa20zU3c2S2ZLOFBlZnNZOU9tZGE5c1JvWFF2NUFqc1JRQUktWm91Y1k?oc=5"
+      "category": "政治",
+      "title": "高市首相、中傷動画もサナエトークンも関与否定「秘書に責任押し付けない」関連資料提出へ",
+      "summary": "産経ニュースは、高市首相が中傷動画や「サナエトークン」問題への関与を否定したと報じています。\n「秘書に責任を押し付けることはしない」と述べ、関連資料の提出を表明しました。\nこの問題は、国会で引き続き議論される見通しです。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5MDVpTnk5R0gtMUFZR1IwM0FWSlh5T1BzVnhjLTBZcVd1SGdQMUwwMXRQT29tZlJ5ZEVQSnNhX3ppTzNpN1BCZkREZ2hkdEZsc2FuZUpaTlNMdlJ4SldIOHQ4Y3dPeUJxX0VEWHZyTXNBaEF6ekE?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "女性皇族の身分保持だけ実現が最大公約数、１００年後の検証に堪える議論を…立憲民主党・長浜博行氏",
-      "summary": "立憲民主党の長浜博行氏が、女性皇族の身分保持のみを最大公約数として実現し、将来の世代が検証できるような議論を行うべきだと提言した。皇位継承問題に関する議論の方向性について述べられている。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12Rko3SkhfanZIalhkeHlfRFk4VGszMGI2dTdrcFM2TzF2Q1VhTG5iZkhVbEJTSUhwTG9teGhtSFpKbW9jOVhCR0JfQnZQNl9uSkJJTFg5aWVQeTJBVkpiem9RUXgzNms?oc=5"
+      "category": "環境・気候",
+      "title": "新たな台風が発生してダブル台風が日本接近の恐れ 台風7号は28日頃九州や四国へ(気象予報士 木村 雅洋)",
+      "summary": "tenki.jpによると、新たな台風が発生し、日本にはダブル台風が接近する恐れがあるとのことです。\n台風7号は特に28日頃に九州や四国地方に接近する見込みで、気象予報士の木村雅洋氏は早めの対策と警戒を呼びかけています。\n交通機関や生活への影響が懸念されます。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oM2xicFZzUXVZNy1mSTBWV1I2ZGh4Y2pfaXJVYkxRY1pmUUlZY0lIRDVLSlRZUzJReXlRS0tQNEhoOWw3VWJuRnZnNlBhRTBCMzNmN0xZcUt2dHI4TzZfWWFEMFZFNzFuUUE?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "食品消費税1％、最多43％ 自衛隊派遣不要54％、世論調査",
-      "summary": "最新の世論調査で、食品への消費税1%引き下げを支持する声が43%と最も多く、自衛隊の海外派遣については54%が不要と回答した。国民の意識が政治課題にどう影響するかが注目される。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HWVBVODRMakVud295Y0NmOUx2TmpPWnpTNHAwdXRfNUlpUWdtNTJCb0s2NHc5eFVqYmY3NDRvamlPbVVMSEVTbVVpcw?oc=5"
+      "category": "社会",
+      "title": "神戸 冷凍庫切断遺体 死体損壊などの疑いで捜査本部設置",
+      "summary": "NHKニュースは、神戸市で冷凍庫から切断された遺体が発見された事件について報じています。\n警察は死体損壊などの疑いで捜査本部を設置し、事件の全容解明に向けて捜査を進めています。\n住民の間には不安が広がっています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORkZQZk85SGh1eGNKcTNsdUkwZy1ieGg0OVBjRkVoQ2tPbm5QeEl0cktCME5nSnhTel9TRllOTGE5enNRX0t4dW1IdElXRGtNUVRoSkthTzZzMWJZTkd3?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "バンス氏、米イラン協議開始で「新境地を開きたい」スイスにて",
-      "summary": "米国とイランの間でスイスにて協議が開始され、米国政府関係者が関係改善への意欲を示した。特に米イラン間の緊張緩和と協力関係の構築を目指す可能性が示唆されている。",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3FjZXl6NnNTa3N4ZndtVW8xTnY3WFl2ekNjbTJzZGRGMnBLZUhzaTNUWk01QTRSQXgwTmVRakdybFhjdmt5WlpDYmxzZ1QtR3ZhZHV5YmlMOXBya3lTZ0VvY2twVWNyTlhhdUN2VWp2RXlNbTNoYUU2Ml9vX25DWDFRZkpwOFpGOENxY2RxbFPSAZYBQVVfeXFMT1hya0JhY05hOVVuQUpIbFk3T2xscFBsMHJuYjU2V09SQXV1NW04VktLWkZfRGlUYl9JUlRXLWxJUDhYVHBhSHdkdlBLeWI3bUJhQW9ZLWF0T28weW0zSV95dHNlMjY0WldueUxjZW5BTzRidDQ4N1BNQmpBaGFDZ1FwcDc2SVZpNF8xa3NqSUxxT3phQW5B?oc=5"
+      "title": "英首相キーア・スターマー辞任後、後任として有力視されるアンディ・バーナムとは何者か？",
+      "summary": "CBS Newsは、辞任を発表した英国首相キーア・スターマーの後任として有力視されているアンディ・バーナムに焦点を当てています。\n彼のこれまでの経歴や政治的立場、そして次期首相としての可能性について解説しています。\n英国の政局に大きな影響を与える人物として注目が集まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUwxY1k1TVJGWTlaTmJ5V0VidnJiYklSTk1BUTl2U1RxZ0lodUhRVVlzZWJ3bTNaamtqMU9SeEhLVEZOZ09URWRzZUxVNF9Wd2JibXJ3dHdXbkJmdzg5S3VmVDltYzRXRG9LTHBUUFBsTC1oZWlwS0tkZjVORXhxa3lCSW9ZczFaV1lMRS1VLVNNY21zYUNhRDNDVVdEUTkyNFE?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、リフレクティング・プールの問題に募る不満を表明",
-      "summary": "ドナルド・トランプ氏が、ワシントンD.C.のリフレクティング・プールのメンテナンス問題に対して募る不満を公に表明した。これは自身の政策や国民生活への影響を強調する発言と見られている。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQlNJNld0Z2EzbHhFZHlvYm9pRlpmSjlCUlc5WDBwUFN2U3BFQUVhdTJsb0xKZnJsdnlYYnNveWdobk1CbFV2eHh2d3VRQjdkLUNyNXZ3UmRuWVVhX2JoSVc5WXI0TzQ3VldOYVJsTmJQQmJvcmhhcEdFcko4TGltRmNobzdxejVJcGNxMTczQWJTcEZ0UXo2dm9MVWtYbWcz?oc=5"
+      "category": "Economy",
+      "title": "米国、最終和平合意交渉中にイラン産原油販売を承認",
+      "summary": "ロイター通信は、米国が最終的な和平合意に向けた交渉が続く中で、イラン産原油の販売を承認したと報じています。\nこの動きは、地域の緊張緩和と経済的関係の再構築に向けた重要な一歩と見られています。\n国際的なエネルギー市場にも影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzdZaTNrdXFNYWlPV2hKM1g2TDZkUFRmM3pMTE5HZzc1NnRuY1Y1cEdkLWl4bWpWOWFHdmZnMDN0cS0zdFdOeVIzalM0cGN1Yk1PV1lmc0I1NElkUjI5cWtKQzVvdHVqZFFNUm9nT01BZDdlYXFJdnVPM2NiMF9mUFduSFhlcUZWUjV0RVJtY0NFcFVmSElZSXk0V1IxN3ZrLXc?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏、英国首相が月曜にも辞任との憶測の中、スターマー氏が「辞任するだろう」と発言",
-      "summary": "英国首相の辞任憶測が広がる中、ドナルド・トランプ氏が労働党のキーア・スターマー党首も「辞任するだろう」と発言し、英国政界の動向に言及した。",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DYklNZ0ZHcTMwcmZRTlVHQi1ReXN2NzdlM0EyM0JIQXRTMmk0RUdxZnJiQVZlbWxCVHFESUxUeklUN04yUG8tNm9td0NNYmdOa2UwUF9XdkNsTjVkXzJzZnRFX0RpaGNFdGMzRFhnODROenQ4WXU4LWtn?oc=5"
+      "title": "バンス氏、イランがオバマ政権下合意と同様に核査察に合意したと発表",
+      "summary": "ワシントン・ポスト紙によると、バンス氏が、イランがオバマ政権時代の合意と同様に核査察を受け入れることに合意したと発表しました。\nこれは、イランの核開発プログラムに関する国際社会の懸念を軽減する可能性のある進展です。\n今後の核問題に関する交渉の行方が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmtUc3d3TllBOUNyVU1SMVRoeWY5Wk5PMGl5eEpOSnJPSmY5aHdJM1NaVGYwZVZSem43bUZDTmRMaHplb3ZoQjNKSUlRYXB2blFGVWFtYmNFQVJkdmd4aEpHazkySkFFVm10a0xVc1ZMSXNTZ2Z1SGh3SThNSGlSLS1KYkdoQWY4U1A1by1ucmYwdG9ZUVNvblNNTEVzN2NuQ0ZXMHdjR0JReGZyZ2JfcQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Health",
-      "title": "ボイルハイツの数日続く倉庫火災、作業員にとって構造的完全性がより懸念に",
-      "summary": "ロサンゼルスのボイルハイツ地区で数日にわたって続く倉庫火災の消火活動において、建物の構造的な安全性が消防隊員にとって大きな懸念となっている。崩落の危険性があるため、作業はより困難を極めている。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVV3lxTE9rZ0ZuRWdaOUhNMEdiTnZ5TVlYWEJSNGJ3T2lRNG5MY0JnS25Ka2t6emltem9WVWc5b1FEOXFhcE5pZnFTelVubjN3cEhheVFCOG1ZZk5HRE1tbno4SkRsajk0cXZQaDNxbkVNWGI3UEh5MEpwdUc0S9IBfkFVX3lxTE5UQ0ZvOTdlWnY2Mlpudnl4X2hkZFVCd0EwNWx1MEkwamU5S2xWcmFlN1dCZlRYbk55dFY2X01FMUd1UVN1VG9JZWs2ZUh1a1BBWU1mYnQxZXJWQ3Jha2NkN1dZVnNZMVlpTk5LYzIyRjBfX3ZVVmtZYkYtV19oQQ?oc=5"
+      "category": "Politics",
+      "title": "裁判官、トランプ政権の社会保障番号・市民権データベースを違憲と判断",
+      "summary": "The Hillは、裁判官がトランプ政権下で作成された社会保障番号と市民権ステータスのデータベースを違憲とする判決を下したと報じています。\nこの判決は、個人情報保護と政府による市民データ収集の範囲に関して重要な意味を持つものです。\n今後の政府のデータ管理方針に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ0hJd2IzZXF5YnEydllqbFhvSVlOMTdmSWVwQmxGY3lYMWNBa2NfRi03OTZsdlMzLXYzUGZkTkREUTNzUjROUXBmOFdHaURtckFRY3N5SVJRQ1hCUm1xTWNDNHk0TmdPSDB2U1FGT1QwT3oxRFA5aFhreUdqbVhJYlNHdGRvSHpuVlHSAY8BQVVfeXFMT3NnVnhrSTdkNkZVNWNvS0F4bWgyX25KeVp3b1Fyc2syNlgwYnJpM3g1MXdwbENFcVY4SXN6OG9jc1V3Uzh2eEFtU1VRMTdGVHNubFdsMzg1eGJoUzlMZUhkTzMyS3FZWXhnWU9nQUJ0VDF4NXliNVdJa01aQThLOE1XNmltdVRnT3lQVnNrMkU?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "リンゼイ・グラハム議員、「ホルムズ海峡で抵抗があればイランを『壊滅させる』」",
-      "summary": "リンゼイ・グラハム上院議員が、ホルムズ海峡でイランが抵抗した場合、米国はイランを「壊滅させる」べきだと強く発言した。これは中東情勢における米国の強硬な姿勢を改めて示したものである。",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjVod29tRXZ2X2kxLUJNVlBmdEpiNlhWYjhFQTNMVGZjS2VaZjBkNmFBcHlHUnRSUmVXZlg1dWhtMzNJQUVvZmluS0dtdExYUG10QW1ISmt6bzgzOGdlZW1Sd0l5Zm4tb3REUF9sMEpOemgtSE94dFZuYzF4bExRb25qbmt1aFVkbTIxY0dwZzdVamNyd1g4N21R?oc=5"
+      "category": "Social",
+      "title": "ロサンゼルスの冷蔵倉庫火災、数日間燃え続ける：現状報告",
+      "summary": "CNNは、ロサンゼルスで発生した冷蔵倉庫の火災が数日間燃え続けている状況を伝えています。\n火災の原因や影響、そして消火活動の進捗について、当局からの最新情報がまとめられています。\n周辺地域では煙による健康被害も懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XMExFcm9LQTBLQ1RVeGtvYml0UWF3RkdzTkRJQ2ZGcmpZa0FiSFBkbzRLZmhWZjFGVnlQajJBbG5lVmRxYU92UFppR0E3aEtwQUhCYXI3M0pUaVFyV0Z0d1l5d1Fjb2pVWC1lLW5n?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "短距離走科学における先駆者とパラダイム：歴史的ミニレビュー",
-      "summary": "このレビューでは、短距離走科学の発展に貢献した主要な研究者や理論的枠組みを歴史的な観点から概観しています。短距離走のパフォーマンス向上におけるバイオメカニクス、生理学、トレーニング理論の進化が分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "category": "Athletic Training / ACL Prevention",
+      "title": "女子スポーツでACL損傷が増加している理由",
+      "summary": "女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向について分析した記事。生物学的要因（例: 骨盤の広さ、筋力バランス）、トレーニング方法、早期のスポーツ専門化などがリスク上昇の背景にあると指摘している。特に着地時の膝の動きやハムストリングスの筋力不足が重要な要因として挙げられている。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
-      "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷アスリートの競技復帰",
-      "summary": "内側尺側側副靭帯（MUCL）損傷は野球などの投擲競技で多く見られ、アスリートの競技復帰には正確な診断と段階的なリハビリテーションが不可欠です。この記事では、治療戦略と競技復帰プロセスの重要性について解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9rajN5bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
+      "category": "Biomechanics / Exercise Science",
+      "title": "スプリント科学における先駆者とパラダイム：主題別歴史的ミニレビュー",
+      "summary": "スプリント科学の歴史的発展における主要な研究者と概念を概観したミニレビュー。初期の運動学研究から現代のバイオメカニクス、生理学、コーチング理論に至るまで、スプリントパフォーマンス向上への理解がどのように深まってきたかを辿っている。特に技術分析とトレーニング法の進化に焦点を当てている。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZUxSMW0zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ]
 };
