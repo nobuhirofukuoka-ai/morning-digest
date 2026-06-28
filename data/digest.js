@@ -1,133 +1,133 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/06/28",
-  "generated_at": "2026-06-27T21:53:05.369Z",
+  "issue_date": "2026/06/29",
+  "generated_at": "2026-06-28T21:53:11.014Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "整形外科が見過ごせないACL予防のギャップ",
-      "source": "beckersspine.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnB6QnNoNGxmbU04cmRRS0NQZWFFQ3JoWk9GdC1rNDFDU0pSVUVwT25sX3NDNmYtQW1xeEVnQ3BGN2RjMkJ1Q0F4QmU2NlNBc0RNQzNPeFlKalZYUkJKRUliNHRMNXE0ZVJRaHhOaDNTVmhmUnZWQnhwWklfWE00N3c1WkNYcDRlTnoxZUZtVVM?oc=5",
-      "abstract": "前十字靭帯（ACL）損傷の予防において、整形外科医が介入すべきギャップが存在することが指摘されています。特に女性アスリートにおけるACL損傷の増加傾向に対し、現状の予防プログラムや介入が十分ではない可能性が示唆されており、より包括的なアプローチが求められています。",
-      "insight": "スポーツ現場では、女性アスリート特有のACL損傷リスク因子を理解し、整形外科医と連携して、個別の予防プログラムや筋力強化、動作改善指導を積極的に導入することが重要です。",
-      "published_at": "2026-06-25T16:38:54.000Z"
+      "title": "女子スポーツにおけるACL損傷の増加とその背景",
+      "source": "WRUF",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV_5cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5",
+      "abstract": "本記事では、女子スポーツ選手における前十字靭帯（ACL）損傷の増加傾向に焦点を当て、その原因を多角的に分析しています。特に、身体的差異、トレーニングの偏り、早期の専門化などがリスクを高めている可能性が指摘されています。具体的な研究結果として、女子選手は男子選手に比べて特定の動作パターンで膝への負担が大きいことが挙げられています。",
+      "insight": "女子選手向けのACL予防プログラムでは、性差を考慮した筋力トレーニングや着地動作の指導を強化し、早期専門化によるオーバーユースを防ぐため、多様なスポーツ経験を推奨することが重要です。",
+      "published_at": "2026-05-12T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史的ミニレビュー",
+      "title": "スプリント科学の先駆者とパラダイム：歴史的ミニレビュー",
       "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZnpSbFczLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
-      "abstract": "スプリント科学の歴史的な進展と、その中で確立されてきた主要な理論や研究手法をテーマ別に概観したミニレビューです。過去の研究がどのように現代のスプリントトレーニングやバイオメカニクスに影響を与えてきたかを考察し、今後の研究の方向性についても示唆を与えています。",
-      "insight": "指導者は、スプリントパフォーマンス向上のためのトレーニングを設計する際、過去の成功したアプローチや最新のバイオメカニクス研究に基づいた科学的根拠を取り入れることで、より効果的な指導が可能となります。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV_5cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
+      "abstract": "この歴史的ミニレビューは、スプリント科学の進化における主要な先駆者とパラダイムに焦点を当てています。研究では、高速走行のバイオメカニクスに関する過去の重要な発見がまとめられ、トレーニング方法論の発展に与えた影響が考察されています。対象は主にスプリントパフォーマンスに関連する生物学的・物理的原理の理解です。",
+      "insight": "スプリントコーチやトレーナーは、このレビューを参考に、現代のスプリントトレーニング理論がどのように構築されてきたかを理解し、選手の技術指導やプログラム設計に応用できます。",
       "published_at": "2026-04-30T16:58:11.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "新しいACL手術アプローチにより、ほとんどの患者が活動に復帰",
+      "title": "新しいACL手術アプローチがほとんどの患者の活動復帰を支援",
       "source": "Medical Xpress",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo3S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5",
-      "abstract": "前十字靭帯（ACL）損傷に対する新しい手術アプローチが導入され、多くの患者が以前の活動レベルに安全に復帰できることが示されました。このアプローチは、術後の安定性と機能回復を促進し、長期的な再受傷リスクの低減に貢献すると期待されています。",
-      "insight": "スポーツ医療従事者は、ACL損傷患者に対して最新の手術オプションとその後のリハビリテーション計画を説明する際に、この新しいアプローチの有効性を伝えることができます。これにより、患者の早期かつ安全なスポーツ復帰をサポートします。",
+      "abstract": "新しい前十字靭帯(ACL)手術アプローチが、ほとんどの患者の術後活動復帰を成功させていると報じられています。この研究は、特定の外科的手法が患者の機能回復とスポーツ復帰率に与える影響を評価しました。結果として、このアプローチを受けた患者の大多数が、良好な膝関節機能を取り戻し、以前の活動レベルに戻ることができたと示されています。",
+      "insight": "スポーツドクターや理学療法士は、この新しい手術アプローチに関する情報を患者への説明に活用し、術後のリハビリテーション計画を最適化して早期かつ安全なスポーツ復帰を促進できます。",
       "published_at": "2026-05-14T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレーヘルスシステム、アスリートの安全なパフォーマンス復帰を支援する『スポーツ復帰プログラム』を開始",
+      "title": "Valley Health Systemがアスリートの安全なピークパフォーマンス復帰を支援する「Return to Sportプログラム」を開始",
       "source": "Valley Health System",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5",
-      "abstract": "Valley Health Systemが、負傷したアスリートが安全に最高のパフォーマンスレベルに戻るための「Return to Sport Program」を立ち上げました。このプログラムは、個々のニーズに合わせた評価、段階的なリハビリテーション、そしてスポーツ特有のトレーニングを通じて、アスリートの完全な機能回復を目指します。",
-      "insight": "理学療法士やアスレティックトレーナーは、この種の専門プログラムを参照し、怪我からの復帰を支援する際の包括的なアプローチを学ぶことができます。特に、スポーツ復帰の判断基準やトレーニング段階の設計において役立ちます。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV_5cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno8Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5",
+      "abstract": "Valley Health Systemが、アスリートが安全に最高のパフォーマンスを取り戻すための「Return to Sportプログラム」を立ち上げました。このプログラムは、怪我からの回復期にあるアスリートを対象に、身体的および精神的なコンディショニングを通じて、競技レベルへの完全な復帰を目指します。専門家チームによる個別化されたリハビリ計画と段階的なトレーニングが特徴です。",
+      "insight": "スポーツリハビリテーションの専門家は、このような包括的なプログラムの構築を参考に、怪我から復帰するアスリートに対して、身体能力だけでなく心理的側面もサポートする戦略を導入できます。",
       "published_at": "2026-05-11T07:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手の反復性肩関節後方脱臼による疼痛管理に対する鍼灸併用療法：症例報告",
+      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理への鍼灸補助療法の症例報告",
       "source": "Cureus",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
-      "abstract": "反復性肩関節後方脱臼に苦しむ女子サッカー選手に対し、鍼と灸を併用した治療が行われた症例が報告されました。この治療は、選手の肩の痛みを効果的に軽減し、活動への復帰をサポートする可能性が示唆されています。東洋医学がスポーツ損傷の疼痛管理において補助的な役割を果たす可能性が示唆されています。",
-      "insight": "スポーツトレーナーや理学療法士は、西洋医学的治療に加えて、鍼灸が一部のスポーツ障害、特に疼痛管理において有効な選択肢となり得ることを知り、必要に応じて専門家との連携を検討することで、選手のリカバリーを多角的に支援できます。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV_5cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDajNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xUkt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
+      "abstract": "この症例報告は、反復性肩関節後方脱臼を抱える女子サッカー選手に対し、鍼灸補助療法が疼痛管理に有効であったケースを紹介しています。患者は通常の治療と併行して鍼治療と灸治療を受け、それにより肩の痛みが軽減され、機能改善が見られました。この結果は、鍼灸がスポーツ外傷の疼痛緩和に寄与する可能性を示唆しています。",
+      "insight": "スポーツトレーナーや医療従事者は、慢性的なスポーツ関連痛に対して、従来の治療法に加え、鍼灸が補助的な選択肢として有効である可能性を患者に提案できるようになります。",
       "published_at": "2026-03-18T07:00:00.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
-      "source": "220 Triathlon",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5",
-      "abstract": "本記事では、クレアチン、カフェイン、スポーツジェル、L-カルニチンなど、アスリートに人気の9つのスポーツサプリメントについて、その効果、安全性、そしてパフォーマンスへの影響を詳細にレビューしています。科学的根拠に基づき、どのサプリメントが、どのような状況で、どのように役立つのかを解説しています。",
-      "insight": "アスリートは、自身のトレーニング目標や栄養戦略に合わせて、科学的根拠に基づいたサプリメントの選択が重要です。スポーツ栄養士や専門家と相談し、個々のニーズに最適なサプリメントを効果的に活用することで、パフォーマンス向上とリカバリー促進が期待できます。",
-      "published_at": "2026-04-19T07:00:00.000Z"
+      "title": "アスリートにとっての最高のサプリメントとは？",
+      "source": "Dr. Axe",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJMTkyM0tUS2NpNGZHeEdsNE5CamlNNlFzVVEzT0ZjZDh2QjlJRlRwY09fMllKaXJZVkZpb3VnUk0xX2Q0UFBGa2lUSjJtRW9ESjhqUlZIZ0JNN2pKNHRQRVNBWQ?oc=5",
+      "abstract": "本記事では、アスリートのパフォーマンス向上と回復をサポートするための主要なサプリメントについて解説しています。クレアチン、カフェイン、プロテイン、BCAAなどが挙げられ、それぞれの効果、推奨摂取量、そして注意点について詳しく説明されています。研究に基づいた効果的なサプリメントの選び方と利用法が示されています。",
+      "insight": "アスリートは、自身のトレーニング目標や体の状態に合わせて、科学的根拠のあるサプリメントを適切に選択し、栄養士や医師と相談しながら安全に活用することで、パフォーマンスの最大化と疲労回復の促進を図れます。",
+      "published_at": "2026-05-10T07:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
       "source": "Johns Hopkins Medicine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
-      "abstract": "学生アスリートは、学業、スポーツのプレッシャー、ソーシャルライフのバランスを取る中で、メンタルヘルスの課題に直面しやすいことが指摘されています。本記事では、保護者やコーチが学生アスリートのメンタルヘルスをサポートするための具体的なヒントを提供し、早期にサインを認識し、適切な支援を提供する重要性を強調しています。",
-      "insight": "保護者やコーチは、学生アスリートの身体的な健康だけでなく、精神的な健康にも注意を払う必要があります。オープンなコミュニケーションを促し、ストレス管理のスキルを教え、必要に応じてメンタルヘルス専門家への紹介を検討することで、若いアスリートが健全に成長し、パフォーマンスを発揮できる環境を整えることができます。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV_5cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
+      "abstract": "学生アスリートのメンタルヘルスをサポートするための実践的なヒントを、保護者とコーチ向けに提供しています。学業、スポーツ、社会生活のプレッシャーに直面する若者のストレスサインを認識し、オープンなコミュニケーションを促進する方法が説明されています。具体的な介入策として、専門家への相談を促すことの重要性が強調されています。",
+      "insight": "保護者やコーチは、この記事のヒントを活用し、学生アスリートの精神的健康に対する理解を深めることで、早期の異変に気づき、適切なサポートを提供してバーンアウトや精神疾患のリスクを低減できます。",
       "published_at": "2026-05-05T15:36:18.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリステン・ホームズが語る、睡眠とリカバリーがいかにハイパフォーマンスを形成するか",
+      "title": "マイケル・フェルプスのように回復、睡眠、メンタルヘルスに取り組む方法",
       "source": "WHOOP",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5MUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5",
-      "abstract": "パフォーマンスコーチのクリステン・ホームズ氏が、アスリートのハイパフォーマンス達成において睡眠とリカバリーがいかに不可欠であるかを解説しています。質の高い睡眠と適切なリカバリー戦略が、身体的および精神的な回復を促進し、トレーニング効果の最大化、怪我のリスク軽減、集中力の向上に繋がることを強調しています。",
-      "insight": "アスリートや指導者は、トレーニング計画に睡眠とリカバリーの最適化を積極的に組み込むべきです。睡眠の質をモニターし、リカバリーツール（例えばアクティブリカバリー、栄養、水分補給）を適切に活用することで、持続的なパフォーマンス向上とオーバーリーチングの回避が期待できます。",
-      "published_at": "2026-06-16T07:00:00.000Z"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV_5cUxPUXEwOWVYQmFMSGc1NE1SbGN0M0Nmdm1oODdBb3NMZ25rbko3Sk1JbDA5aldSU0ItT3VyemNsSHFaVlY0VUU5X0NSTi1aLXZzV1RaMW9VQnJkbXpGQk85dXQwMmVVVjcwWlVoY2J1NDc5U01HNm1hOUFrSjNtZmIzSjVaUkdpQ0JRWNOWU03ZUgyUQ?oc=5",
+      "abstract": "記事では、史上最高のアスリートの一人であるマイケル・フェルプスが、いかに回復、睡眠、そしてメンタルヘルスを最適化してきたかを紹介しています。彼の戦略には、質の高い睡眠を確保するための厳格なルーティン、効果的な回復技術、そしてメンタルヘルス専門家との連携が含まれています。これらの要素が彼の競技パフォーマンスと長期的なキャリアを支えたと分析されています。",
+      "insight": "アスリートは、フェルプスの事例から、トレーニングだけでなく、睡眠の質向上、適切な回復戦略の導入、メンタルサポートの活用が、パフォーマンス向上と健康維持にいかに重要であるかを学び、自身の生活習慣に取り入れることができます。",
+      "published_at": "2026-06-17T07:00:00.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "環境・気候",
-      "source": "ウェザーニュース",
-      "title": "台風7号(メーカラー)が関東の東で温帯低気圧に 千葉で6月の記録的大雨、観測史上最大も",
-      "summary": "台風7号メーカラーは関東の東で温帯低気圧に変わりました。しかし、千葉県では記録的な大雨となり、一部では6月の観測史上最大の雨量を記録。地盤の緩みや河川の増水に引き続き警戒が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1COUlVdTI3S3ZVdkg4THdIeGpCRmNoMEZjaHp2Zzh3bk1nS0lYMWhBTjZTSmJxeFVnT1hFdDYxdjdQZl9maFFBdHluR1E1azhRTmZ0cA?oc=5",
-      "published_at": "2026-06-27T13:30:00.000Z"
+      "category": "国際",
+      "source": "産経ニュース",
+      "title": "中国艦船、日本のEEZで護衛 海洋調査、「管轄権」行使 日比の境界画定交渉に対抗",
+      "summary": "中国艦船が日本の排他的経済水域（EEZ）内で、中国の海洋調査船を護衛する活動を行いました。これは中国が日本のEEZ内でも自国の「管轄権」を行使しようとするもので、日本とフィリピンの境界画定交渉への対抗措置と見られています。この行動は、東シナ海における緊張を高めるものとして警戒されています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZks0QmtjYkxrWjhLU3piSmlDT2FyS3J5eDZWZ2lCVTJzUW5Pc0l4S0NaLUNLNjVGM3FMTEx6cDBINkhQZzhpeDl4TTRIUDR0U3B6YWg0NzZlMHNLbnFvQ0lZbE5WaFJMVkhvLXhBMmlXSm00Mnc?oc=5",
+      "published_at": "2026-06-28T12:00:00.000Z"
     },
     {
       "id": "j002",
       "category": "社会",
-      "source": "読売新聞",
-      "title": "青森・八戸市と岩手・普代村で震度５弱、震源は岩手県沖…津波の恐れなし",
-      "summary": "27日夜、青森県八戸市と岩手県普代村で震度５弱の地震を観測しました。震源は岩手県沖で、マグニチュードは5.0と推定されています。幸い津波の恐れはなく、大きな被害の報告は現時点ではありません。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ScXY1NWprMGFiM3hMbzFGdkI0ZmxGTkVaakZ6RENZU3V2bEw2bjRwd3R1VXZHRDNld2pscHNfY05NMHBocTFGXzV2c1ZQZGZhc1p6dkg3ekdNNnByYjFXRk1MYU9Tdw?oc=5",
-      "published_at": "2026-06-27T20:41:00.000Z"
+      "source": "東奥日報社",
+      "title": "倒れた人のそばにクマ 人身被害か／八甲田｜青森ニュース｜Web東奥",
+      "summary": "青森県の八甲田山系で、倒れている人のそばにクマがいるのが発見され、人身被害の可能性が浮上しています。警察と消防が現場に駆けつけ、状況確認と救助活動を行っています。地域住民や登山者に対し、クマへの注意喚起と安全確保が呼びかけられています。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNUFZ6VFFrV216NlhiWUtTNVZ1d1JUckRQc2hzemtLWjQwTzZ6ZTdwMW1iWkxUS3dMMVR1V1hlZ0xZcGJLMXVROFdhSldVLVVIV0pjbEZfSFI?oc=5",
+      "published_at": "2026-06-28T15:10:00.000Z"
     },
     {
       "id": "j003",
       "category": "国際",
-      "source": "時事ドットコム",
-      "title": "トランプ氏、イランが「愚かな停戦違反」 商船に無人機、米軍は報復",
-      "summary": "トランプ前大統領が、イランによる「愚かな停戦違反」を非難する声明を発表しました。商船への無人機攻撃があったとされ、これに対し米軍が報復措置を取ったと報じられています。中東情勢の緊迫化が懸念されます。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlQWJJcXlKc0RlZm14NW15S2VnSkhHQ1kxQVVSeWpyNkZuLXFTbU44UGVQOE5Db3BXaUp4STNtMURFTXB1TGxVV2Y5alR2S0dUQXo1SkZhbU5hOEUyZi1BbTRVUQ?oc=5",
-      "published_at": "2026-06-27T11:33:00.000Z"
+      "source": "読売新聞",
+      "title": "米イランが連日の攻撃応酬、ホルムズ海峡の管理権巡り緊迫…双方が相手の停戦合意違反を主張",
+      "summary": "米国とイランがホルムズ海峡の管理権を巡り、連日のように攻撃の応酬を続けており、情勢は緊迫しています。双方は相手側が停戦合意に違反していると主張し、互いに非難を繰り返しています。この対立は、中東地域の安定に深刻な影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjckhuRGlkLTN4NnhxbE5kWTdacVVuRk1ac0FiMHJ3ZFBDWDdXMWhMZXRJTkpuNkdUUFliUGxsdlgwdWNJNUJIeTZXRDZXWXRPdTFNc1ZlS2N2ZC1mQ2xIdXd3?oc=5",
+      "published_at": "2026-06-28T13:41:00.000Z"
     },
     {
       "id": "j004",
-      "category": "社会",
-      "source": "日本経済新聞",
-      "title": "山梨震度6弱、フィリピン海プレートの衝突が起因 政府調査委",
-      "summary": "山梨県で発生した震度6弱の地震について、政府の調査委員会はフィリピン海プレートと北米プレートの衝突が起因であるとの見解を示しました。この地域特有の地質構造が、このような内陸型地震を引き起こす可能性が高いと分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fdzJhLVNXRzlHYzJFOFpMdldVVGVuVm54VUVUM2Z3bi10RU5wOG1mYTBWWV9PUDVxeVZSelYyZ1pHc0EzcGJqeFAzUEVUR255OFdKTXhUcG1kTFFPQTBzdnZqMHpQZjF2d1djNA?oc=5",
-      "published_at": "2026-06-27T15:23:06.000Z"
+      "category": "環境・気候",
+      "source": "ウェザーニュース",
+      "title": "今日6月29日(月)の天気予報 関東は所々で雨 中部や西日本も急な雨に注意",
+      "summary": "本日6月29日(月)の天気予報によると、関東地方では所々で雨が降る見込みです。また、中部地方や西日本でも、局地的に急な雨や雷雨に注意が必要です。外出の際は、雨具の準備や最新の気象情報の確認が推奨されています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yckdtYWh3S0VOcUpZc0lpcll3WmlldmhNWTI3VDFyQ0V0VkwxUEZVcW5vT3BZcDROcEdyck9oNDM5a24xTEh3ZnlReG9DMk5CU0NxNg?oc=5",
+      "published_at": "2026-06-28T20:48:00.000Z"
     },
     {
       "id": "j005",
       "category": "環境・気候",
       "source": "tenki.jp",
-      "title": "台風接近で災害級の大雨に 6月1位の記録的雨量も 明日28日も土砂崩れに警戒を(気象予報士 伊藤 杏子 2026年06月27日)",
-      "summary": "台風接近に伴い、一部地域で災害級の大雨が降り、6月の月間降水量で1位を記録するほどの雨量となりました。気象予報士の伊藤杏子氏によると、明日28日も引き続き土砂災害や洪水に厳重な警戒が必要とのことです。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UaEllNmZ6Rnc1VkNvcEFMUzZkNXRSOXYybzFkcVJJWHNSMkY4bnoxSEgtTDRuSGpFZ1pFT3F2a2UtMk9Xck42RzlONXhrU3BXUnBHa1pObVI1aGFRYUFialFrS0w4RVHSAWxBVV95cUxNSUx1ZVhTNEFRbkFTWEk1VTkzNnF3aDBDTllRYW5INWVBeVo1WEFiSEZ3LXNScjI0UFp2QVNXU2MyclJ2RjhDcHhSOWlIMmtOYnNGUE90NWV1MFpFUEl2X09SaTE5bFVWMmQ1QjM?oc=5",
-      "published_at": "2026-06-27T09:13:20.000Z"
+      "title": "ヨーロッパで記録的高温 日本は去年ほどの高温なし(気象予報士 田畑　有佳子 2026年06月28日)",
+      "summary": "ヨーロッパでは記録的な高温が観測されており、地域によっては気温が41.7℃に達しています。一方、日本においては、去年に見られたような極端な高温は今のところ観測されていません。気象予報士の田畑有佳子氏が、この気象状況について解説しています。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OZGVZNzgtZ2JGRGpFa3dZWDFpNmd1bjB0ekx1ZlFxMnJzaDdYVGczZ2VFZHFGb1NDekM3SV9qX2VNRjBjSlRNVjd1LVI4MDZmbWxzU2l0QXpjSzhLVzQ3THNwSlpLa00xNGfSAW9BVV95cUxOcV96QlFxRW9paWhUb1dHNXZMRExzdkpjenNKZ09kQm9fRXJkeDJPb3I0U2xHMF93clgxNGttVGlwZnJOLVJPQWNNSktxbG1SLTFOSEtXcFRPM2V3SGVjTjF2OW5OQzFvVTVtZDd4Uk0?oc=5",
+      "published_at": "2026-06-28T11:20:46.000Z"
     }
   ],
   "global_news": [
@@ -135,51 +135,51 @@ window.DIGEST_DATA = {
       "id": "g001",
       "category": "Conflict",
       "region": "Middle East",
-      "source": "Reuters",
-      "title": "ホルムズ海峡でタンカー被弾、イランと米国が和平合意以来最悪の攻撃応酬",
-      "summary": "ホルムズ海峡でタンカーが被弾し、イランと米国間で和平合意以来最悪の攻撃応酬が報じられました。この事態は中東地域の緊張をさらに高め、国際的な石油供給経路の安全保障に対する懸念を深めています。",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5",
-      "published_at": "2026-06-27T17:27:28.000Z"
+      "source": "The Guardian",
+      "title": "米イラン間の攻撃激化が暫定平和合意を脅かす",
+      "summary": "米国とイランの間で攻撃がエスカレートしており、これまでの暫定平和合意が危機に瀕しています。両国間の緊張が高まる中、中東地域の安定に深刻な懸念が広がっています。国際社会は事態のさらなる悪化を防ぐため、両者に対し自制を求めています。",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV_5cUxNUjMzVkxxSXh2OVNqNEhNQ0V3Njh5cGdkYnE4VUdwaE5xRU1hRzdvXzRmQXpNQ1NmdE9BbDAwXzBWa05KbnlDU2xLRVRiY2NpdWN1T1RFSk16cHBjSlR6Q3lER1FNblpLd1ZJRlU1QmdTejNpTU12NGxYenRWRlB3aVREX21RRVdwaXkxdVBvM2doTEdZdXpJRE9kZVNMS01WZ2xfU2U1cVk?oc=5",
+      "published_at": "2026-06-28T20:34:00.000Z"
     },
     {
       "id": "g002",
-      "category": "Climate",
+      "category": "Society",
       "region": "Latin America",
-      "source": "Al Jazeera",
-      "title": "ベネズエラ付近でさらに強力なマグニチュード4.8の地震が発生",
-      "summary": "ベネズエラ付近でマグニチュード4.8の強力な地震が再び発生しました。この地域では地震活動が活発化しており、住民は警戒を強めています。当局は被害状況の確認と、住民への注意喚起を行っています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnRCTGlpNG5ZTV9kQTVKN3lHT1dOSVRNSDM2X2IyNE5zQU5CY3RLSFhNNDlOTkEzVllZZ29QSnMxV3lPOW9Xa1lQNXpOV2dqNDk5V2UzcExmeklvM0phSHJqZzN5ZE5KNkZ2ZmhuV2FkRm9vRDFnWGtKSjlpSGdaMFl2ODJnZHVsSTJWdkQ4ZE1OeHN6ZWVsOWx5MEV3SVdUbDhNadIBqgFBVV95cUxObko5aHEyZm1xcExJYkVWSkQwanc2TDdFY2Rwcmx0VWU1R3NKanhFWG8tTjhIQnJidTFUTWhNRXRoWFVMcjZILVl2cXZ5SDdxSG5TdGNkNFJ6VnAxUG9hUkRFX1FVdVVYSW13MXBJTFl3cjlKRnZxaUQzVmsijanQ4bDlxSEhtTGpJWE1sY3JRTjNaQ0djQUN5eXlTSFhKeS1DZVFoZjYwSDRhQQ?oc=5",
-      "published_at": "2026-06-27T19:41:19.000Z"
+      "source": "Reuters",
+      "title": "ベネズエラ地震後、33人が救助されるも数千人が依然行方不明",
+      "summary": "ベネズエラで発生した地震により、33人が救助されましたが、数千人が依然として行方不明となっています。大規模な捜索救助活動が続けられており、国際的な支援も求められています。被災地ではインフラが寸断され、人道危機が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV_5cUxObmhJQm00WWhEajZaTjRPWmRDWDVTcHhEVU1TQVBwVXRERjNpbUZkbVlydThPUGlxUXRiVXBaMkVjVUp2RGVxQUg4RHdqci1YSTFxamtkVFYzNlQtUmQwTURQdGdVX09Tb2p0cVgwZjM3YjRMaUEwekJIVGJyR0RXc1NWQ0pXTmV3VmtfdC05eEtnWWhic1E1QjBnR1VtblVRZkxfQjlxdV91VjgwLVVDTG1LNkRDUnNneWFsX2NvZlFxN05NYnN2bTY3WQ?oc=5",
+      "published_at": "2026-06-28T21:13:29.000Z"
     },
     {
       "id": "g003",
-      "category": "Politics",
-      "region": "US",
-      "source": "CNN",
-      "title": "トランプ氏、元オクラホマ州警察官をICE長官に指名すると発言",
-      "summary": "ドナルド・トランプ前大統領が、元オクラホマ州警察官を国土安全保障省の移民税関執行局（ICE）長官に指名する意向を表明しました。この指名が実現すれば、移民政策において強硬な姿勢がさらに強化される可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUhtYXQwaFFLblNnNXJkeXp0UE1keGl1TVlsV01WT3MtNlhtSzNGT1V5dTgzOXJLaC0xQzBJQ3p2Vlplc3RFZk50N29ZXzYtR19va1JBdFBvR3l4WXpQQmhqUnRWbHFWVDZRYmp4ajlDUWNjQ0JqSHd4aFpSOWFaR1hicjZ1alFh?oc=5",
-      "published_at": "2026-06-27T20:10:02.000Z"
+      "category": "Climate",
+      "region": "Europe",
+      "source": "BBC",
+      "title": "ヨーロッパの熱波により1,300人が死亡、ドイツでは41.7℃を記録とWHOが発表",
+      "summary": "ヨーロッパを襲っている熱波により、これまでに1,300人もの死者が出たことが世界保健機関（WHO）によって報告されました。ドイツでは史上最高の41.7℃を記録するなど、各地で異常な高温が続いています。この熱波は、気候変動の影響を強く示唆しており、公衆衛生上の大きな課題となっています。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94QW5POUt5TFVPMzg4b0J3QnlycU40X2poZjVJN0wxblI2Rm4teTlINzJlVjY1cFZqZnlXQko2TFZPM2JxUm5qTndvVlZyQVBXMmpvX1B0bENIZw?oc=5",
+      "published_at": "2026-06-28T19:37:07.000Z"
     },
     {
       "id": "g004",
       "category": "Politics",
       "region": "US",
-      "source": "The New York Times",
-      "title": "米イラン合意の曖昧な文言が和平努力を妨げる",
-      "summary": "米国とイランの間の和平合意に含まれる曖昧な文言が、現在の和平努力を困難にしていると報じられました。特に最近のホルムズ海峡でのタンカー被弾事件を受けて、合意の解釈の相違が両国間の緊張を再燃させています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEV1VkkwbHg0bzNFdUQ1eVFITHJwUmY0eWhsT21xeVBkTV9rLUlqY1RPMFlEUnREclRzMU9YdWJrdnotV3VqLVFJV0VSc3RxT19DUFlMMi1aMUY2UE5oMnJqUzhwbWhSWDQxWmJ0bEowVURhS3FGSWhISW9TcFZzZzlWUWpESFpzbWpxQQ?oc=5",
-      "published_at": "2026-06-27T16:57:28.000Z"
+      "source": "The Washington Post",
+      "title": "壊滅的な討論会から1年、バイデン大統領がカジノで民主党支持者を集める",
+      "summary": "壊滅的と評された討論会から1周年を迎え、バイデン大統領がカジノで民主党支持者を集めて集会を開催しました。再選を目指す大統領は、支持者に向けて経済政策や今後の展望を語り、団結を呼びかけました。この集会は、今後の選挙戦に向けた重要な足がかりとなるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV_5cUxPUWNoaGpmWGExRnVUYWdxbHB0UURBN3JaWElydS1VWTZka3R6ZTEzeVhQNXBMbnExNjQwS01IVDQyeFgxTW9LbGlVZWVOOWVnWENfMlYzbmp2OG8xVDJ5VW9KYkI3SmttY25MWkFMZnpzNFNxbjQtTDhicExvSVJuNk9iYUlSOVRGQk5YR3FVVHV5SUMzdzRTUVh5TGJEZ0dkdjVLUzg0MjJ5M1hHTlV3?oc=5",
+      "published_at": "2026-06-28T20:24:26.000Z"
     },
     {
       "id": "g005",
-      "category": "Climate",
+      "category": "Politics",
       "region": "US",
-      "source": "AP News",
-      "title": "米国最大のユタ州の急速に広がる山火事により、さらに多くの森林が黒焦げに",
-      "summary": "米国最大の山火事であるユタ州での火災が急速に拡大し、さらに多くの森林地帯が焼失しています。住民には避難勧告が出されており、当局は消火活動を強化していますが、乾燥した気候と強風が活動を困難にしています。",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1p1dC1zQi1rWVFIbGVzYkJJSTZMWnEwdnJOS3JTZDVlMGRBN2t1UVpKQUJ2cnNjcUtEWGJEY3dvaGhCMXhQMERmVjlXRDRTRmtNSUFyR1U0VFpqOVQtV21sbUJYTDJrQmo1YzBFbzh0MGVrQzlaS2lKdDFIUVM4VUIzRWYxVWpxanAzdUdGNUhVMDBnQXlfM1l5blpMZzNvZWc?oc=5",
-      "published_at": "2026-06-27T19:39:00.000Z"
+      "source": "Forbes",
+      "title": "リフレクティング・プールは「完全に利用可能」とトランプ氏がTruth Socialで長文投稿",
+      "summary": "ドナルド・トランプ前大統領が自身のソーシャルメディア「Truth Social」で長文を投稿し、ワシントンD.C.のリフレクティング・プールが「完全に利用可能」であると主張しました。この投稿は、最近の政治的議論や公共施設の利用状況に関する彼の見解を示すものとして注目されています。トランプ氏の発言は、しばしばメディアや国民の間で大きな反響を呼びます。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV_5cUxPU1lKSkpuWExLQ3RmeTJoNXJ0V3pWZTZ5WTNpeWJjLXlicmN3ZkxwRUJuQXhRNFB3VlNSazNzWHRnRWNZSTg2SFpibWF4cnNfcHpkekVzdFZOMjAzaUtuREFONm9FYzhkSTBhSWg4ZW9QLXVwSEpDWl80VUt6Sy1ULVUwWUJoRVN6dkxINmV0a1d5dm5OTFh1OU5NaWVYUQ?oc=5",
+      "published_at": "2026-06-28T21:07:31.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,161 +187,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "整形外科が見過ごせないACL予防のギャップ",
-      "summary": "前十字靭帯（ACL）損傷の予防において、整形外科医が介入すべきギャップが存在することが指摘されています。特に女性アスリートにおけるACL損傷の増加傾向に対し、現状の予防プログラムや介入が十分ではない可能性が示唆されており、より包括的なアプローチが求められています。",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnB6QnNoNGxmbU04cmRRS0NQZWFFQ3JoWk9GdC1rNDFDU0pSVUVwT25sX3NDNmYtQW1xeEVnQ3BGN2RjMkJ1Q0F4QmU2NlNBc0RNQzNPeFlKalZYUkJKRUliNHRMNXE0ZVJRaHhOaDNTVmhmUnZWQnhwWklfWE00N3c1WkNYcDRlTnoxZUZtVVM?oc=5"
+      "title": "女子スポーツにおけるACL損傷の増加とその背景",
+      "summary": "本記事では、女子スポーツ選手における前十字靭帯（ACL）損傷の増加傾向に焦点を当て、その原因を多角的に分析しています。特に、身体的差異、トレーニングの偏り、早期の専門化などがリスクを高めている可能性が指摘されています。具体的な研究結果として、女子選手は男子選手に比べて特定の動作パターンで膝への負担が大きいことが挙げられています。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV_5cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史的ミニレビュー",
-      "summary": "スプリント科学の歴史的な進展と、その中で確立されてきた主要な理論や研究手法をテーマ別に概観したミニレビューです。過去の研究がどのように現代のスプリントトレーニングやバイオメカニクスに影響を与えてきたかを考察し、今後の研究の方向性についても示唆を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZnpSbFczLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学の先駆者とパラダイム：歴史的ミニレビュー",
+      "summary": "この歴史的ミニレビューは、スプリント科学の進化における主要な先駆者とパラダイムに焦点を当てています。研究では、高速走行のバイオメカニクスに関する過去の重要な発見がまとめられ、トレーニング方法論の発展に与えた影響が考察されています。対象は主にスプリントパフォーマンスに関連する生物学的・物理的原理の理解です。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV_5cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "新しいACL手術アプローチにより、ほとんどの患者が活動に復帰",
-      "summary": "前十字靭帯（ACL）損傷に対する新しい手術アプローチが導入され、多くの患者が以前の活動レベルに安全に復帰できることが示されました。このアプローチは、術後の安定性と機能回復を促進し、長期的な再受傷リスクの低減に貢献すると期待されています。",
+      "title": "新しいACL手術アプローチがほとんどの患者の活動復帰を支援",
+      "summary": "新しい前十字靭帯(ACL)手術アプローチが、ほとんどの患者の術後活動復帰を成功させていると報じられています。この研究は、特定の外科的手法が患者の機能回復とスポーツ復帰率に与える影響を評価しました。結果として、このアプローチを受けた患者の大多数が、良好な膝関節機能を取り戻し、以前の活動レベルに戻ることができたと示されています。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo3S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレーヘルスシステム、アスリートの安全なパフォーマンス復帰を支援する『スポーツ復帰プログラム』を開始",
-      "summary": "Valley Health Systemが、負傷したアスリートが安全に最高のパフォーマンスレベルに戻るための「Return to Sport Program」を立ち上げました。このプログラムは、個々のニーズに合わせた評価、段階的なリハビリテーション、そしてスポーツ特有のトレーニングを通じて、アスリートの完全な機能回復を目指します。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
+      "title": "Valley Health Systemがアスリートの安全なピークパフォーマンス復帰を支援する「Return to Sportプログラム」を開始",
+      "summary": "Valley Health Systemが、アスリートが安全に最高のパフォーマンスを取り戻すための「Return to Sportプログラム」を立ち上げました。このプログラムは、怪我からの回復期にあるアスリートを対象に、身体的および精神的なコンディショニングを通じて、競技レベルへの完全な復帰を目指します。専門家チームによる個別化されたリハビリ計画と段階的なトレーニングが特徴です。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV_5cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno8Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手の反復性肩関節後方脱臼による疼痛管理に対する鍼灸併用療法：症例報告",
-      "summary": "反復性肩関節後方脱臼に苦しむ女子サッカー選手に対し、鍼と灸を併用した治療が行われた症例が報告されました。この治療は、選手の肩の痛みを効果的に軽減し、活動への復帰をサポートする可能性が示唆されています。東洋医学がスポーツ損傷の疼痛管理において補助的な役割を果たす可能性が示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
+      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理への鍼灸補助療法の症例報告",
+      "summary": "この症例報告は、反復性肩関節後方脱臼を抱える女子サッカー選手に対し、鍼灸補助療法が疼痛管理に有効であったケースを紹介しています。患者は通常の治療と併行して鍼治療と灸治療を受け、それにより肩の痛みが軽減され、機能改善が見られました。この結果は、鍼灸がスポーツ外傷の疼痛緩和に寄与する可能性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV_5cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDajNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xUkt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
-      "summary": "本記事では、クレアチン、カフェイン、スポーツジェル、L-カルニチンなど、アスリートに人気の9つのスポーツサプリメントについて、その効果、安全性、そしてパフォーマンスへの影響を詳細にレビューしています。科学的根拠に基づき、どのサプリメントが、どのような状況で、どのように役立つのかを解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
+      "title": "アスリートにとっての最高のサプリメントとは？",
+      "summary": "本記事では、アスリートのパフォーマンス向上と回復をサポートするための主要なサプリメントについて解説しています。クレアチン、カフェイン、プロテイン、BCAAなどが挙げられ、それぞれの効果、推奨摂取量、そして注意点について詳しく説明されています。研究に基づいた効果的なサプリメントの選び方と利用法が示されています。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJMTkyM0tUS2NpNGZHeEdsNE5CamlNNlFzVVEzT0ZjZDh2QjlJRlRwY09fMllKaXJZVkZpb3VnUk0xX2Q0UFBGa2lUSjJtRW9ESjhqUlZIZ0JNN2pKNHRQRVNBWQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートは、学業、スポーツのプレッシャー、ソーシャルライフのバランスを取る中で、メンタルヘルスの課題に直面しやすいことが指摘されています。本記事では、保護者やコーチが学生アスリートのメンタルヘルスをサポートするための具体的なヒントを提供し、早期にサインを認識し、適切な支援を提供する重要性を強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "学生アスリートのメンタルヘルスをサポートするための実践的なヒントを、保護者とコーチ向けに提供しています。学業、スポーツ、社会生活のプレッシャーに直面する若者のストレスサインを認識し、オープンなコミュニケーションを促進する方法が説明されています。具体的な介入策として、専門家への相談を促すことの重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV_5cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリステン・ホームズが語る、睡眠とリカバリーがいかにハイパフォーマンスを形成するか",
-      "summary": "パフォーマンスコーチのクリステン・ホームズ氏が、アスリートのハイパフォーマンス達成において睡眠とリカバリーがいかに不可欠であるかを解説しています。質の高い睡眠と適切なリカバリー戦略が、身体的および精神的な回復を促進し、トレーニング効果の最大化、怪我のリスク軽減、集中力の向上に繋がることを強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5MUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
+      "title": "マイケル・フェルプスのように回復、睡眠、メンタルヘルスに取り組む方法",
+      "summary": "記事では、史上最高のアスリートの一人であるマイケル・フェルプスが、いかに回復、睡眠、そしてメンタルヘルスを最適化してきたかを紹介しています。彼の戦略には、質の高い睡眠を確保するための厳格なルーティン、効果的な回復技術、そしてメンタルヘルス専門家との連携が含まれています。これらの要素が彼の競技パフォーマンスと長期的なキャリアを支えたと分析されています。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV_5cUxPUXEwOWVYQmFMSGc1NE1SbGN0M0Nmdm1oODdBb3NMZ25rbko3Sk1JbDA5aldSU0ItT3VyemNsSHFaVlY0VUU5X0NSTi1aLXZzV1RaMW9VQnJkbXpGQk85dXQwMmVVVjcwWlVoY2J1NDc5U01HNm1hOUFrSjNtZmIzSjVaUkdpQ0JRWNOWU03ZUgyUQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風7号(メーカラー)が関東の東で温帯低気圧に 千葉で6月の記録的大雨、観測史上最大も",
-      "summary": "台風7号メーカラーは関東の東で温帯低気圧に変わりました。しかし、千葉県では記録的な大雨となり、一部では6月の観測史上最大の雨量を記録。地盤の緩みや河川の増水に引き続き警戒が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1COUlVdTI3S3ZVdkg4THdIeGpCRmNoMEZjaHp2Zzh3bk1nS0lYMWhBTjZTSmJxeFVnT1hFdDYxdjdQZl9maFFBdHluR1E1azhRTmZ0cA?oc=5"
+      "category": "国際",
+      "title": "中国艦船、日本のEEZで護衛 海洋調査、「管轄権」行使 日比の境界画定交渉に対抗",
+      "summary": "中国艦船が日本の排他的経済水域（EEZ）内で、中国の海洋調査船を護衛する活動を行いました。これは中国が日本のEEZ内でも自国の「管轄権」を行使しようとするもので、日本とフィリピンの境界画定交渉への対抗措置と見られています。この行動は、東シナ海における緊張を高めるものとして警戒されています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZks0QmtjYkxrWjhLU3piSmlDT2FyS3J5eDZWZ2lCVTJzUW5Pc0l4S0NaLUNLNjVGM3FMTEx6cDBINkhQZzhpeDl4TTRIUDR0U3B6YWg0NzZlMHNLbnFvQ0lZbE5WaFJMVkhvLXhBMmlXSm00Mnc?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "青森・八戸市と岩手・普代村で震度５弱、震源は岩手県沖…津波の恐れなし",
-      "summary": "27日夜、青森県八戸市と岩手県普代村で震度５弱の地震を観測しました。震源は岩手県沖で、マグニチュードは5.0と推定されています。幸い津波の恐れはなく、大きな被害の報告は現時点ではありません。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ScXY1NWprMGFiM3hMbzFGdkI0ZmxGTkVaakZ6RENZU3V2bEw2bjRwd3R1VXZHRDNld2pscHNfY05NMHBocTFGXzV2c1ZQZGZhc1p6dkg3ekdNNnByYjFXRk1MYU9Tdw?oc=5"
+      "title": "倒れた人のそばにクマ 人身被害か／八甲田｜青森ニュース｜Web東奥",
+      "summary": "青森県の八甲田山系で、倒れている人のそばにクマがいるのが発見され、人身被害の可能性が浮上しています。警察と消防が現場に駆けつけ、状況確認と救助活動を行っています。地域住民や登山者に対し、クマへの注意喚起と安全確保が呼びかけられています。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNUFZ6VFFrV216NlhiWUtTNVZ1d1JUckRQc2hzemtLWjQwTzZ6ZTdwMW1iWkxUS3dMMVR1V1hlZ0xZcGJLMXVROFdhSldVLVVIV0pjbEZfSFI?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "トランプ氏、イランが「愚かな停戦違反」 商船に無人機、米軍は報復",
-      "summary": "トランプ前大統領が、イランによる「愚かな停戦違反」を非難する声明を発表しました。商船への無人機攻撃があったとされ、これに対し米軍が報復措置を取ったと報じられています。中東情勢の緊迫化が懸念されます。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlQWJJcXlKc0RlZm14NW15S2VnSkhHQ1kxQVVSeWpyNkZuLXFTbU44UGVQOE5Db3BXaUp4STNtMURFTXB1TGxVV2Y5alR2S0dUQXo1SkZhbU5hOEUyZi1BbTRVUQ?oc=5"
+      "title": "米イランが連日の攻撃応酬、ホルムズ海峡の管理権巡り緊迫…双方が相手の停戦合意違反を主張",
+      "summary": "米国とイランがホルムズ海峡の管理権を巡り、連日のように攻撃の応酬を続けており、情勢は緊迫しています。双方は相手側が停戦合意に違反していると主張し、互いに非難を繰り返しています。この対立は、中東地域の安定に深刻な影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjckhuRGlkLTN4NnhxbE5kWTdacVVuRk1ac0FiMHJ3ZFBDWDdXMWhMZXRJTkpuNkdUUFliUGxsdlgwdWNJNUJIeTZXRDZXWXRPdTFNc1ZlS2N2ZC1mQ2xIdXd3?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "山梨震度6弱、フィリピン海プレートの衝突が起因 政府調査委",
-      "summary": "山梨県で発生した震度6弱の地震について、政府の調査委員会はフィリピン海プレートと北米プレートの衝突が起因であるとの見解を示しました。この地域特有の地質構造が、このような内陸型地震を引き起こす可能性が高いと分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fdzJhLVNXRzlHYzJFOFpMdldVVGVuVm54VUVUM2Z3bi10RU5wOG1mYTBWWV9PUDVxeVZSelYyZ1pHc0EzcGJqeFAzUEVUR255OFdKTXhUcG1kTFFPQTBzdnZqMHpQZjF2d1djNA?oc=5"
+      "category": "環境・気候",
+      "title": "今日6月29日(月)の天気予報 関東は所々で雨 中部や西日本も急な雨に注意",
+      "summary": "本日6月29日(月)の天気予報によると、関東地方では所々で雨が降る見込みです。また、中部地方や西日本でも、局地的に急な雨や雷雨に注意が必要です。外出の際は、雨具の準備や最新の気象情報の確認が推奨されています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yckdtYWh3S0VOcUpZc0lpcll3WmlldmhNWTI3VDFyQ0V0VkwxUEZVcW5vT3BZcDROcEdyck9oNDM5a24xTEh3ZnlReG9DMk5CU0NxNg?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
       "category": "環境・気候",
-      "title": "台風接近で災害級の大雨に 6月1位の記録的雨量も 明日28日も土砂崩れに警戒を(気象予報士 伊藤 杏子 2026年06月27日)",
-      "summary": "台風接近に伴い、一部地域で災害級の大雨が降り、6月の月間降水量で1位を記録するほどの雨量となりました。気象予報士の伊藤杏子氏によると、明日28日も引き続き土砂災害や洪水に厳重な警戒が必要とのことです。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UaEllNmZ6Rnc1VkNvcEFMUzZkNXRSOXYybzFkcVJJWHNSMkY4bnoxSEgtTDRuSGpFZ1pFT3F2a2UtMk9Xck42RzlONXhrU3BXUnBHa1pObVI1aGFRYUFialFrS0w4RVHSAWxBVV95cUxNSUx1ZVhTNEFRbkFTWEk1VTkzNnF3aDBDTllRYW5INWVBeVo1WEFiSEZ3LXNScjI0UFp2QVNXU2MyclJ2RjhDcHhSOWlIMmtOYnNGUE90NWV1MFpFUEl2X09SaTE5bFVWMmQ1QjM?oc=5"
+      "title": "ヨーロッパで記録的高温 日本は去年ほどの高温なし(気象予報士 田畑　有佳子 2026年06月28日)",
+      "summary": "ヨーロッパでは記録的な高温が観測されており、地域によっては気温が41.7℃に達しています。一方、日本においては、去年に見られたような極端な高温は今のところ観測されていません。気象予報士の田畑有佳子氏が、この気象状況について解説しています。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OZGVZNzgtZ2JGRGpFa3dZWDFpNmd1bjB0ekx1ZlFxMnJzaDdYVGczZ2VFZHFGb1NDekM3SV9qX2VNRjBjSlRNVjd1LVI4MDZmbWxzU2l0QXpjSzhLVzQ3THNwSlpLa00xNGfSAW9BVV95cUxOcV96QlFxRW9paWhUb1dHNXZMRExzdkpjenNKZ09kQm9fRXJkeDJPb3I0U2xHMF93clgxNGttVGlwZnJOLVJPQWNNSktxbG1SLTFOSEtXcFRPM2V3SGVjTjF2OW5OQzFvVTVtZDd4Uk0?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Conflict",
-      "title": "ホルムズ海峡でタンカー被弾、イランと米国が和平合意以来最悪の攻撃応酬",
-      "summary": "ホルムズ海峡でタンカーが被弾し、イランと米国間で和平合意以来最悪の攻撃応酬が報じられました。この事態は中東地域の緊張をさらに高め、国際的な石油供給経路の安全保障に対する懸念を深めています。",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5"
+      "title": "米イラン間の攻撃激化が暫定平和合意を脅かす",
+      "summary": "米国とイランの間で攻撃がエスカレートしており、これまでの暫定平和合意が危機に瀕しています。両国間の緊張が高まる中、中東地域の安定に深刻な懸念が広がっています。国際社会は事態のさらなる悪化を防ぐため、両者に対し自制を求めています。",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV_5cUxNUjMzVkxxSXh2OVNqNEhNQ0V3Njh5cGdkYnE4VUdwaE5xRU1hRzdvXzRmQXpNQ1NmdE9BbDAwXzBWa05KbnlDU2xLRVRiY2NpdWN1T1RFSk16cHBjSlR6Q3lER1FNblpLd1ZJRlU1QmdTejNpTU12NGxYenRWRlB3aVREX21RRVdwaXkxdVBvM2doTEdZdXpJRE9kZVNMS01WZ2xfU2U1cVk?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "ベネズエラ付近でさらに強力なマグニチュード4.8の地震が発生",
-      "summary": "ベネズエラ付近でマグニチュード4.8の強力な地震が再び発生しました。この地域では地震活動が活発化しており、住民は警戒を強めています。当局は被害状況の確認と、住民への注意喚起を行っています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnRCTGlpNG5ZTV9kQTVKN3lHT1dOSVRNSDM2X2IyNE5zQU5CY3RLSFhNNDlOTkEzVllZZ29QSnMxV3lPOW9Xa1lQNXpOV2dqNDk5V2UzcExmeklvM0phSHJqZzN5ZE5KNkZ2ZmhuV2FkRm9vRDFnWGtKSjlpSGdaMFl2ODJnZHVsSTJWdkQ4ZE1OeHN6ZWVsOWx5MEV3SVdUbDhNadIBqgFBVV95cUxObko5aHEyZm1xcExJYkVWSkQwanc2TDdFY2Rwcmx0VWU1R3NKanhFWG8tTjhIQnJidTFUTWhNRXRoWFVMcjZILVl2cXZ5SDdxSG5TdGNkNFJ6VnAxUG9hUkRFX1FVdVVYSW13MXBJTFl3cjlKRnZxaUQzVmsijanQ4bDlxSEhtTGpJWE1sY3JRTjNaQ0djQUN5eXlTSFhKeS1DZVFoZjYwSDRhQQ?oc=5"
+      "category": "Society",
+      "title": "ベネズエラ地震後、33人が救助されるも数千人が依然行方不明",
+      "summary": "ベネズエラで発生した地震により、33人が救助されましたが、数千人が依然として行方不明となっています。大規模な捜索救助活動が続けられており、国際的な支援も求められています。被災地ではインフラが寸断され、人道危機が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV_5cUxObmhJQm00WWhEajZaTjRPWmRDWDVTcHhEVU1TQVBwVXRERjNpbUZkbVlydThPUGlxUXRiVXBaMkVjVUp2RGVxQUg4RHdqci1YSTFxamtkVFYzNlQtUmQwTURQdGdVX09Tb2p0cVgwZjM3YjRMaUEwekJIVGJyR0RXc1NWQ0pXTmV3VmtfdC05eEtnWWhic1E1QjBnR1VtblVRZkxfQjlxdV91VjgwLVVDTG1LNkRDUnNneWFsX2NvZlFxN05NYnN2bTY3WQ?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、元オクラホマ州警察官をICE長官に指名すると発言",
-      "summary": "ドナルド・トランプ前大統領が、元オクラホマ州警察官を国土安全保障省の移民税関執行局（ICE）長官に指名する意向を表明しました。この指名が実現すれば、移民政策において強硬な姿勢がさらに強化される可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUhtYXQwaFFLblNnNXJkeXp0UE1keGl1TVlsV01WT3MtNlhtSzNGT1V5dTgzOXJLaC0xQzBJQ3p2Vlplc3RFZk50N29ZXzYtR19va1JBdFBvR3l4WXpQQmhqUnRWbHFWVDZRYmp4ajlDUWNjQ0JqSHd4aFpSOWFaR1hicjZ1alFh?oc=5"
+      "category": "Climate",
+      "title": "ヨーロッパの熱波により1,300人が死亡、ドイツでは41.7℃を記録とWHOが発表",
+      "summary": "ヨーロッパを襲っている熱波により、これまでに1,300人もの死者が出たことが世界保健機関（WHO）によって報告されました。ドイツでは史上最高の41.7℃を記録するなど、各地で異常な高温が続いています。この熱波は、気候変動の影響を強く示唆しており、公衆衛生上の大きな課題となっています。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94QW5POUt5TFVPMzg4b0J3QnlycU40X2poZjVJN0wxblI2Rm4teTlINzJlVjY1cFZqZnlXQko2TFZPM2JxUm5qTndvVlZyQVBXMmpvX1B0bENIZw?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "米イラン合意の曖昧な文言が和平努力を妨げる",
-      "summary": "米国とイランの間の和平合意に含まれる曖昧な文言が、現在の和平努力を困難にしていると報じられました。特に最近のホルムズ海峡でのタンカー被弾事件を受けて、合意の解釈の相違が両国間の緊張を再燃させています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEV1VkkwbHg0bzNFdUQ1eVFITHJwUmY0eWhsT21xeVBkTV9rLUlqY1RPMFlEUnREclRzMU9YdWJrdnotV3VqLVFJV0VSc3RxT19DUFlMMi1aMUY2UE5oMnJqUzhwbWhSWDQxWmJ0bEowVURhS3FGSWhISW9TcFZzZzlWUWpESFpzbWpxQQ?oc=5"
+      "title": "壊滅的な討論会から1年、バイデン大統領がカジノで民主党支持者を集める",
+      "summary": "壊滅的と評された討論会から1周年を迎え、バイデン大統領がカジノで民主党支持者を集めて集会を開催しました。再選を目指す大統領は、支持者に向けて経済政策や今後の展望を語り、団結を呼びかけました。この集会は、今後の選挙戦に向けた重要な足がかりとなるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV_5cUxPUWNoaGpmWGExRnVUYWdxbHB0UURBN3JaWElydS1VWTZka3R6ZTEzeVhQNXBMbnExNjQwS01IVDQyeFgxTW9LbGlVZWVOOWVnWENfMlYzbmp2OG8xVDJ5VW9KYkI3SmttY25MWkFMZnpzNFNxbjQtTDhicExvSVJuNk9iYUlSOVRGQk5YR3FVVHV5SUMzdzRTUVh5TGJEZ0dkdjVLUzg0MjJ5M1hHTlV3?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "米国最大のユタ州の急速に広がる山火事により、さらに多くの森林が黒焦げに",
-      "summary": "米国最大の山火事であるユタ州での火災が急速に拡大し、さらに多くの森林地帯が焼失しています。住民には避難勧告が出されており、当局は消火活動を強化していますが、乾燥した気候と強風が活動を困難にしています。",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1p1dC1zQi1rWVFIbGVzYkJJSTZMWnEwdnJOS3JTZDVlMGRBN2t1UVpKQUJ2cnNjcUtEWGJEY3dvaGhCMXhQMERmVjlXRDRTRmtNSUFyR1U0VFpqOVQtV21sbUJYTDJrQmo1YzBFbzh0MGVrQzlaS2lKdDFIUVM4VUIzRWYxVWpxanAzdUdGNUhVMDBnQXlfM1l5blpMZzNvZWc?oc=5"
+      "category": "Politics",
+      "title": "リフレクティング・プールは「完全に利用可能」とトランプ氏がTruth Socialで長文投稿",
+      "summary": "ドナルド・トランプ前大統領が自身のソーシャルメディア「Truth Social」で長文を投稿し、ワシントンD.C.のリフレクティング・プールが「完全に利用可能」であると主張しました。この投稿は、最近の政治的議論や公共施設の利用状況に関する彼の見解を示すものとして注目されています。トランプ氏の発言は、しばしばメディアや国民の間で大きな反響を呼びます。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV_5cUxPU1lKSkpuWExLQ3RmeTJoNXJ0V3pWZTZ5WTNpeWJjLXlicmN3ZkxwRUJuQXhRNFB3VlNSazNzWHRnRWNZSTg2SFpibWF4cnNfcHpkekVzdFZOMjAzaUtuREFONm9FYzhkSTBhSWg4ZW9QLXVwSEpDWl80VUt6Sy1ULVUwWUJoRVN6dkxINmV0a1d5dm5OTFh1OU5NaWVYUQ?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "整形外科医が見過ごせないACL（前十字靭帯）予防のギャップ",
-      "summary": "前十字靭帯（ACL）損傷の予防において、スポーツ医学の進歩にもかかわらず、未だ大きなギャップが存在することが指摘されています。特に女性アスリートにおけるACL損傷率の増加は深刻な問題であり、現行の予防プログラムや介入策の効果を再評価し、さらなる改善が必要であるとされています。本記事は、整形外科医がこのギャップを認識し、予防戦略の強化に努めるべきであると警鐘を鳴らしています。",
+      "title": "整形外科が見過ごせないACL予防のギャップ",
+      "summary": "前十字靭帯（ACL）損傷の予防において、整形外科医が介入すべきギャップが存在することが指摘されています。特に女性アスリートにおけるACL損傷の増加傾向に対し、現状の予防プログラムや介入が十分ではない可能性が示唆されており、より包括的なアプローチが求められています。",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnB6QnNoNGxmbU04cmRRS0NQZWFFQ3JoWk9GdC1rNDFDU0pSVUVwT25sX3NDNmYtQW1xeEVnQ3BGN2RjMkJ1Q0F4QmU2NlNBc0RNQzNPeFlKalZYUkJKRUliNHRMNXE0ZVJRaHhOaDNTVmhmUnZWQnhwWklfWE00N3c1WkNYcDRlTnoxZUZtVVM?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における先駆者とパラダイム：主題別歴史ミニレビュー",
-      "summary": "スプリント科学の歴史的発展をレビューし、その基礎を築いた先駆者たちの貢献と主要な理論的パラダイムを考察しています。過去の研究がどのようにスプリントパフォーマンスの理解を深め、トレーニング方法の進化に繋がったのかを包括的に分析しており、今後の研究方向性についても示唆を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNvbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史的ミニレビュー",
+      "summary": "スプリント科学の歴史的な進展と、その中で確立されてきた主要な理論や研究手法をテーマ別に概観したミニレビューです。過去の研究がどのように現代のスプリントトレーニングやバイオメカニクスに影響を与えてきたかを考察し、今後の研究の方向性についても示唆を与えています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZnpSbFczLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ],
   "monthly_top20": [
@@ -349,161 +349,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "整形外科が見過ごせないACL予防のギャップ",
-      "summary": "前十字靭帯（ACL）損傷の予防において、整形外科医が介入すべきギャップが存在することが指摘されています。特に女性アスリートにおけるACL損傷の増加傾向に対し、現状の予防プログラムや介入が十分ではない可能性が示唆されており、より包括的なアプローチが求められています。",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnB6QnNoNGxmbU04cmRRS0NQZWFFQ3JoWk9GdC1rNDFDU0pSVUVwT25sX3NDNmYtQW1xeEVnQ3BGN2RjMkJ1Q0F4QmU2NlNBc0RNQzNPeFlKalZYUkJKRUliNHRMNXE0ZVJRaHhOaDNTVmhmUnZWQnhwWklfWE00N3c1WkNYcDRlTnoxZUZtVVM?oc=5"
+      "title": "女子スポーツにおけるACL損傷の増加とその背景",
+      "summary": "本記事では、女子スポーツ選手における前十字靭帯（ACL）損傷の増加傾向に焦点を当て、その原因を多角的に分析しています。特に、身体的差異、トレーニングの偏り、早期の専門化などがリスクを高めている可能性が指摘されています。具体的な研究結果として、女子選手は男子選手に比べて特定の動作パターンで膝への負担が大きいことが挙げられています。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV_5cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史的ミニレビュー",
-      "summary": "スプリント科学の歴史的な進展と、その中で確立されてきた主要な理論や研究手法をテーマ別に概観したミニレビューです。過去の研究がどのように現代のスプリントトレーニングやバイオメカニクスに影響を与えてきたかを考察し、今後の研究の方向性についても示唆を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZnpSbFczLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学の先駆者とパラダイム：歴史的ミニレビュー",
+      "summary": "この歴史的ミニレビューは、スプリント科学の進化における主要な先駆者とパラダイムに焦点を当てています。研究では、高速走行のバイオメカニクスに関する過去の重要な発見がまとめられ、トレーニング方法論の発展に与えた影響が考察されています。対象は主にスプリントパフォーマンスに関連する生物学的・物理的原理の理解です。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV_5cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "新しいACL手術アプローチにより、ほとんどの患者が活動に復帰",
-      "summary": "前十字靭帯（ACL）損傷に対する新しい手術アプローチが導入され、多くの患者が以前の活動レベルに安全に復帰できることが示されました。このアプローチは、術後の安定性と機能回復を促進し、長期的な再受傷リスクの低減に貢献すると期待されています。",
+      "title": "新しいACL手術アプローチがほとんどの患者の活動復帰を支援",
+      "summary": "新しい前十字靭帯(ACL)手術アプローチが、ほとんどの患者の術後活動復帰を成功させていると報じられています。この研究は、特定の外科的手法が患者の機能回復とスポーツ復帰率に与える影響を評価しました。結果として、このアプローチを受けた患者の大多数が、良好な膝関節機能を取り戻し、以前の活動レベルに戻ることができたと示されています。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo3S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレーヘルスシステム、アスリートの安全なパフォーマンス復帰を支援する『スポーツ復帰プログラム』を開始",
-      "summary": "Valley Health Systemが、負傷したアスリートが安全に最高のパフォーマンスレベルに戻るための「Return to Sport Program」を立ち上げました。このプログラムは、個々のニーズに合わせた評価、段階的なリハビリテーション、そしてスポーツ特有のトレーニングを通じて、アスリートの完全な機能回復を目指します。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
+      "title": "Valley Health Systemがアスリートの安全なピークパフォーマンス復帰を支援する「Return to Sportプログラム」を開始",
+      "summary": "Valley Health Systemが、アスリートが安全に最高のパフォーマンスを取り戻すための「Return to Sportプログラム」を立ち上げました。このプログラムは、怪我からの回復期にあるアスリートを対象に、身体的および精神的なコンディショニングを通じて、競技レベルへの完全な復帰を目指します。専門家チームによる個別化されたリハビリ計画と段階的なトレーニングが特徴です。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV_5cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno8Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手の反復性肩関節後方脱臼による疼痛管理に対する鍼灸併用療法：症例報告",
-      "summary": "反復性肩関節後方脱臼に苦しむ女子サッカー選手に対し、鍼と灸を併用した治療が行われた症例が報告されました。この治療は、選手の肩の痛みを効果的に軽減し、活動への復帰をサポートする可能性が示唆されています。東洋医学がスポーツ損傷の疼痛管理において補助的な役割を果たす可能性が示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
+      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理への鍼灸補助療法の症例報告",
+      "summary": "この症例報告は、反復性肩関節後方脱臼を抱える女子サッカー選手に対し、鍼灸補助療法が疼痛管理に有効であったケースを紹介しています。患者は通常の治療と併行して鍼治療と灸治療を受け、それにより肩の痛みが軽減され、機能改善が見られました。この結果は、鍼灸がスポーツ外傷の疼痛緩和に寄与する可能性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV_5cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDajNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xUkt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
-      "summary": "本記事では、クレアチン、カフェイン、スポーツジェル、L-カルニチンなど、アスリートに人気の9つのスポーツサプリメントについて、その効果、安全性、そしてパフォーマンスへの影響を詳細にレビューしています。科学的根拠に基づき、どのサプリメントが、どのような状況で、どのように役立つのかを解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
+      "title": "アスリートにとっての最高のサプリメントとは？",
+      "summary": "本記事では、アスリートのパフォーマンス向上と回復をサポートするための主要なサプリメントについて解説しています。クレアチン、カフェイン、プロテイン、BCAAなどが挙げられ、それぞれの効果、推奨摂取量、そして注意点について詳しく説明されています。研究に基づいた効果的なサプリメントの選び方と利用法が示されています。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJMTkyM0tUS2NpNGZHeEdsNE5CamlNNlFzVVEzT0ZjZDh2QjlJRlRwY09fMllKaXJZVkZpb3VnUk0xX2Q0UFBGa2lUSjJtRW9ESjhqUlZIZ0JNN2pKNHRQRVNBWQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートは、学業、スポーツのプレッシャー、ソーシャルライフのバランスを取る中で、メンタルヘルスの課題に直面しやすいことが指摘されています。本記事では、保護者やコーチが学生アスリートのメンタルヘルスをサポートするための具体的なヒントを提供し、早期にサインを認識し、適切な支援を提供する重要性を強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "学生アスリートのメンタルヘルスをサポートするための実践的なヒントを、保護者とコーチ向けに提供しています。学業、スポーツ、社会生活のプレッシャーに直面する若者のストレスサインを認識し、オープンなコミュニケーションを促進する方法が説明されています。具体的な介入策として、専門家への相談を促すことの重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV_5cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリステン・ホームズが語る、睡眠とリカバリーがいかにハイパフォーマンスを形成するか",
-      "summary": "パフォーマンスコーチのクリステン・ホームズ氏が、アスリートのハイパフォーマンス達成において睡眠とリカバリーがいかに不可欠であるかを解説しています。質の高い睡眠と適切なリカバリー戦略が、身体的および精神的な回復を促進し、トレーニング効果の最大化、怪我のリスク軽減、集中力の向上に繋がることを強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5MUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
+      "title": "マイケル・フェルプスのように回復、睡眠、メンタルヘルスに取り組む方法",
+      "summary": "記事では、史上最高のアスリートの一人であるマイケル・フェルプスが、いかに回復、睡眠、そしてメンタルヘルスを最適化してきたかを紹介しています。彼の戦略には、質の高い睡眠を確保するための厳格なルーティン、効果的な回復技術、そしてメンタルヘルス専門家との連携が含まれています。これらの要素が彼の競技パフォーマンスと長期的なキャリアを支えたと分析されています。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV_5cUxPUXEwOWVYQmFMSGc1NE1SbGN0M0Nmdm1oODdBb3NMZ25rbko3Sk1JbDA5aldSU0ItT3VyemNsSHFaVlY0VUU5X0NSTi1aLXZzV1RaMW9VQnJkbXpGQk85dXQwMmVVVjcwWlVoY2J1NDc5U01HNm1hOUFrSjNtZmIzSjVaUkdpQ0JRWNOWU03ZUgyUQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風7号(メーカラー)が関東の東で温帯低気圧に 千葉で6月の記録的大雨、観測史上最大も",
-      "summary": "台風7号メーカラーは関東の東で温帯低気圧に変わりました。しかし、千葉県では記録的な大雨となり、一部では6月の観測史上最大の雨量を記録。地盤の緩みや河川の増水に引き続き警戒が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1COUlVdTI3S3ZVdkg4THdIeGpCRmNoMEZjaHp2Zzh3bk1nS0lYMWhBTjZTSmJxeFVnT1hFdDYxdjdQZl9maFFBdHluR1E1azhRTmZ0cA?oc=5"
+      "category": "国際",
+      "title": "中国艦船、日本のEEZで護衛 海洋調査、「管轄権」行使 日比の境界画定交渉に対抗",
+      "summary": "中国艦船が日本の排他的経済水域（EEZ）内で、中国の海洋調査船を護衛する活動を行いました。これは中国が日本のEEZ内でも自国の「管轄権」を行使しようとするもので、日本とフィリピンの境界画定交渉への対抗措置と見られています。この行動は、東シナ海における緊張を高めるものとして警戒されています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZks0QmtjYkxrWjhLU3piSmlDT2FyS3J5eDZWZ2lCVTJzUW5Pc0l4S0NaLUNLNjVGM3FMTEx6cDBINkhQZzhpeDl4TTRIUDR0U3B6YWg0NzZlMHNLbnFvQ0lZbE5WaFJMVkhvLXhBMmlXSm00Mnc?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "青森・八戸市と岩手・普代村で震度５弱、震源は岩手県沖…津波の恐れなし",
-      "summary": "27日夜、青森県八戸市と岩手県普代村で震度５弱の地震を観測しました。震源は岩手県沖で、マグニチュードは5.0と推定されています。幸い津波の恐れはなく、大きな被害の報告は現時点ではありません。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ScXY1NWprMGFiM3hMbzFGdkI0ZmxGTkVaakZ6RENZU3V2bEw2bjRwd3R1VXZHRDNld2pscHNfY05NMHBocTFGXzV2c1ZQZGZhc1p6dkg3ekdNNnByYjFXRk1MYU9Tdw?oc=5"
+      "title": "倒れた人のそばにクマ 人身被害か／八甲田｜青森ニュース｜Web東奥",
+      "summary": "青森県の八甲田山系で、倒れている人のそばにクマがいるのが発見され、人身被害の可能性が浮上しています。警察と消防が現場に駆けつけ、状況確認と救助活動を行っています。地域住民や登山者に対し、クマへの注意喚起と安全確保が呼びかけられています。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNUFZ6VFFrV216NlhiWUtTNVZ1d1JUckRQc2hzemtLWjQwTzZ6ZTdwMW1iWkxUS3dMMVR1V1hlZ0xZcGJLMXVROFdhSldVLVVIV0pjbEZfSFI?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "トランプ氏、イランが「愚かな停戦違反」 商船に無人機、米軍は報復",
-      "summary": "トランプ前大統領が、イランによる「愚かな停戦違反」を非難する声明を発表しました。商船への無人機攻撃があったとされ、これに対し米軍が報復措置を取ったと報じられています。中東情勢の緊迫化が懸念されます。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlQWJJcXlKc0RlZm14NW15S2VnSkhHQ1kxQVVSeWpyNkZuLXFTbU44UGVQOE5Db3BXaUp4STNtMURFTXB1TGxVV2Y5alR2S0dUQXo1SkZhbU5hOEUyZi1BbTRVUQ?oc=5"
+      "title": "米イランが連日の攻撃応酬、ホルムズ海峡の管理権巡り緊迫…双方が相手の停戦合意違反を主張",
+      "summary": "米国とイランがホルムズ海峡の管理権を巡り、連日のように攻撃の応酬を続けており、情勢は緊迫しています。双方は相手側が停戦合意に違反していると主張し、互いに非難を繰り返しています。この対立は、中東地域の安定に深刻な影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjckhuRGlkLTN4NnhxbE5kWTdacVVuRk1ac0FiMHJ3ZFBDWDdXMWhMZXRJTkpuNkdUUFliUGxsdlgwdWNJNUJIeTZXRDZXWXRPdTFNc1ZlS2N2ZC1mQ2xIdXd3?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "山梨震度6弱、フィリピン海プレートの衝突が起因 政府調査委",
-      "summary": "山梨県で発生した震度6弱の地震について、政府の調査委員会はフィリピン海プレートと北米プレートの衝突が起因であるとの見解を示しました。この地域特有の地質構造が、このような内陸型地震を引き起こす可能性が高いと分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fdzJhLVNXRzlHYzJFOFpMdldVVGVuVm54VUVUM2Z3bi10RU5wOG1mYTBWWV9PUDVxeVZSelYyZ1pHc0EzcGJqeFAzUEVUR255OFdKTXhUcG1kTFFPQTBzdnZqMHpQZjF2d1djNA?oc=5"
+      "category": "環境・気候",
+      "title": "今日6月29日(月)の天気予報 関東は所々で雨 中部や西日本も急な雨に注意",
+      "summary": "本日6月29日(月)の天気予報によると、関東地方では所々で雨が降る見込みです。また、中部地方や西日本でも、局地的に急な雨や雷雨に注意が必要です。外出の際は、雨具の準備や最新の気象情報の確認が推奨されています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yckdtYWh3S0VOcUpZc0lpcll3WmlldmhNWTI3VDFyQ0V0VkwxUEZVcW5vT3BZcDROcEdyck9oNDM5a24xTEh3ZnlReG9DMk5CU0NxNg?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
       "category": "環境・気候",
-      "title": "台風接近で災害級の大雨に 6月1位の記録的雨量も 明日28日も土砂崩れに警戒を(気象予報士 伊藤 杏子 2026年06月27日)",
-      "summary": "台風接近に伴い、一部地域で災害級の大雨が降り、6月の月間降水量で1位を記録するほどの雨量となりました。気象予報士の伊藤杏子氏によると、明日28日も引き続き土砂災害や洪水に厳重な警戒が必要とのことです。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UaEllNmZ6Rnc1VkNvcEFMUzZkNXRSOXYybzFkcVJJWHNSMkY4bnoxSEgtTDRuSGpFZ1pFT3F2a2UtMk9Xck42RzlONXhrU3BXUnBHa1pObVI1aGFRYUFialFrS0w4RVHSAWxBVV95cUxNSUx1ZVhTNEFRbkFTWEk1VTkzNnF3aDBDTllRYW5INWVBeVo1WEFiSEZ3LXNScjI0UFp2QVNXU2MyclJ2RjhDcHhSOWlIMmtOYnNGUE90NWV1MFpFUEl2X09SaTE5bFVWMmQ1QjM?oc=5"
+      "title": "ヨーロッパで記録的高温 日本は去年ほどの高温なし(気象予報士 田畑　有佳子 2026年06月28日)",
+      "summary": "ヨーロッパでは記録的な高温が観測されており、地域によっては気温が41.7℃に達しています。一方、日本においては、去年に見られたような極端な高温は今のところ観測されていません。気象予報士の田畑有佳子氏が、この気象状況について解説しています。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OZGVZNzgtZ2JGRGpFa3dZWDFpNmd1bjB0ekx1ZlFxMnJzaDdYVGczZ2VFZHFGb1NDekM3SV9qX2VNRjBjSlRNVjd1LVI4MDZmbWxzU2l0QXpjSzhLVzQ3THNwSlpLa00xNGfSAW9BVV95cUxOcV96QlFxRW9paWhUb1dHNXZMRExzdkpjenNKZ09kQm9fRXJkeDJPb3I0U2xHMF93clgxNGttVGlwZnJOLVJPQWNNSktxbG1SLTFOSEtXcFRPM2V3SGVjTjF2OW5OQzFvVTVtZDd4Uk0?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Conflict",
-      "title": "ホルムズ海峡でタンカー被弾、イランと米国が和平合意以来最悪の攻撃応酬",
-      "summary": "ホルムズ海峡でタンカーが被弾し、イランと米国間で和平合意以来最悪の攻撃応酬が報じられました。この事態は中東地域の緊張をさらに高め、国際的な石油供給経路の安全保障に対する懸念を深めています。",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5"
+      "title": "米イラン間の攻撃激化が暫定平和合意を脅かす",
+      "summary": "米国とイランの間で攻撃がエスカレートしており、これまでの暫定平和合意が危機に瀕しています。両国間の緊張が高まる中、中東地域の安定に深刻な懸念が広がっています。国際社会は事態のさらなる悪化を防ぐため、両者に対し自制を求めています。",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV_5cUxNUjMzVkxxSXh2OVNqNEhNQ0V3Njh5cGdkYnE4VUdwaE5xRU1hRzdvXzRmQXpNQ1NmdE9BbDAwXzBWa05KbnlDU2xLRVRiY2NpdWN1T1RFSk16cHBjSlR6Q3lER1FNblpLd1ZJRlU1QmdTejNpTU12NGxYenRWRlB3aVREX21RRVdwaXkxdVBvM2doTEdZdXpJRE9kZVNMS01WZ2xfU2U1cVk?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "ベネズエラ付近でさらに強力なマグニチュード4.8の地震が発生",
-      "summary": "ベネズエラ付近でマグニチュード4.8の強力な地震が再び発生しました。この地域では地震活動が活発化しており、住民は警戒を強めています。当局は被害状況の確認と、住民への注意喚起を行っています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnRCTGlpNG5ZTV9kQTVKN3lHT1dOSVRNSDM2X2IyNE5zQU5CY3RLSFhNNDlOTkEzVllZZ29QSnMxV3lPOW9Xa1lQNXpOV2dqNDk5V2UzcExmeklvM0phSHJqZzN5ZE5KNkZ2ZmhuV2FkRm9vRDFnWGtKSjlpSGdaMFl2ODJnZHVsSTJWdkQ4ZE1OeHN6ZWVsOWx5MEV3SVdUbDhNadIBqgFBVV95cUxObko5aHEyZm1xcExJYkVWSkQwanc2TDdFY2Rwcmx0VWU1R3NKanhFWG8tTjhIQnJidTFUTWhNRXRoWFVMcjZILVl2cXZ5SDdxSG5TdGNkNFJ6VnAxUG9hUkRFX1FVdVVYSW13MXBJTFl3cjlKRnZxaUQzVmsijanQ4bDlxSEhtTGpJWE1sY3JRTjNaQ0djQUN5eXlTSFhKeS1DZVFoZjYwSDRhQQ?oc=5"
+      "category": "Society",
+      "title": "ベネズエラ地震後、33人が救助されるも数千人が依然行方不明",
+      "summary": "ベネズエラで発生した地震により、33人が救助されましたが、数千人が依然として行方不明となっています。大規模な捜索救助活動が続けられており、国際的な支援も求められています。被災地ではインフラが寸断され、人道危機が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV_5cUxObmhJQm00WWhEajZaTjRPWmRDWDVTcHhEVU1TQVBwVXRERjNpbUZkbVlydThPUGlxUXRiVXBaMkVjVUp2RGVxQUg4RHdqci1YSTFxamtkVFYzNlQtUmQwTURQdGdVX09Tb2p0cVgwZjM3YjRMaUEwekJIVGJyR0RXc1NWQ0pXTmV3VmtfdC05eEtnWWhic1E1QjBnR1VtblVRZkxfQjlxdV91VjgwLVVDTG1LNkRDUnNneWFsX2NvZlFxN05NYnN2bTY3WQ?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、元オクラホマ州警察官をICE長官に指名すると発言",
-      "summary": "ドナルド・トランプ前大統領が、元オクラホマ州警察官を国土安全保障省の移民税関執行局（ICE）長官に指名する意向を表明しました。この指名が実現すれば、移民政策において強硬な姿勢がさらに強化される可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUhtYXQwaFFLblNnNXJkeXp0UE1keGl1TVlsV01WT3MtNlhtSzNGT1V5dTgzOXJLaC0xQzBJQ3p2Vlplc3RFZk50N29ZXzYtR19va1JBdFBvR3l4WXpQQmhqUnRWbHFWVDZRYmp4ajlDUWNjQ0JqSHd4aFpSOWFaR1hicjZ1alFh?oc=5"
+      "category": "Climate",
+      "title": "ヨーロッパの熱波により1,300人が死亡、ドイツでは41.7℃を記録とWHOが発表",
+      "summary": "ヨーロッパを襲っている熱波により、これまでに1,300人もの死者が出たことが世界保健機関（WHO）によって報告されました。ドイツでは史上最高の41.7℃を記録するなど、各地で異常な高温が続いています。この熱波は、気候変動の影響を強く示唆しており、公衆衛生上の大きな課題となっています。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94QW5POUt5TFVPMzg4b0J3QnlycU40X2poZjVJN0wxblI2Rm4teTlINzJlVjY1cFZqZnlXQko2TFZPM2JxUm5qTndvVlZyQVBXMmpvX1B0bENIZw?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "米イラン合意の曖昧な文言が和平努力を妨げる",
-      "summary": "米国とイランの間の和平合意に含まれる曖昧な文言が、現在の和平努力を困難にしていると報じられました。特に最近のホルムズ海峡でのタンカー被弾事件を受けて、合意の解釈の相違が両国間の緊張を再燃させています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEV1VkkwbHg0bzNFdUQ1eVFITHJwUmY0eWhsT21xeVBkTV9rLUlqY1RPMFlEUnREclRzMU9YdWJrdnotV3VqLVFJV0VSc3RxT19DUFlMMi1aMUY2UE5oMnJqUzhwbWhSWDQxWmJ0bEowVURhS3FGSWhISW9TcFZzZzlWUWpESFpzbWpxQQ?oc=5"
+      "title": "壊滅的な討論会から1年、バイデン大統領がカジノで民主党支持者を集める",
+      "summary": "壊滅的と評された討論会から1周年を迎え、バイデン大統領がカジノで民主党支持者を集めて集会を開催しました。再選を目指す大統領は、支持者に向けて経済政策や今後の展望を語り、団結を呼びかけました。この集会は、今後の選挙戦に向けた重要な足がかりとなるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV_5cUxPUWNoaGpmWGExRnVUYWdxbHB0UURBN3JaWElydS1VWTZka3R6ZTEzeVhQNXBMbnExNjQwS01IVDQyeFgxTW9LbGlVZWVOOWVnWENfMlYzbmp2OG8xVDJ5VW9KYkI3SmttY25MWkFMZnpzNFNxbjQtTDhicExvSVJuNk9iYUlSOVRGQk5YR3FVVHV5SUMzdzRTUVh5TGJEZ0dkdjVLUzg0MjJ5M1hHTlV3?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "米国最大のユタ州の急速に広がる山火事により、さらに多くの森林が黒焦げに",
-      "summary": "米国最大の山火事であるユタ州での火災が急速に拡大し、さらに多くの森林地帯が焼失しています。住民には避難勧告が出されており、当局は消火活動を強化していますが、乾燥した気候と強風が活動を困難にしています。",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1p1dC1zQi1rWVFIbGVzYkJJSTZMWnEwdnJOS3JTZDVlMGRBN2t1UVpKQUJ2cnNjcUtEWGJEY3dvaGhCMXhQMERmVjlXRDRTRmtNSUFyR1U0VFpqOVQtV21sbUJYTDJrQmo1YzBFbzh0MGVrQzlaS2lKdDFIUVM4VUIzRWYxVWpxanAzdUdGNUhVMDBnQXlfM1l5blpMZzNvZWc?oc=5"
+      "category": "Politics",
+      "title": "リフレクティング・プールは「完全に利用可能」とトランプ氏がTruth Socialで長文投稿",
+      "summary": "ドナルド・トランプ前大統領が自身のソーシャルメディア「Truth Social」で長文を投稿し、ワシントンD.C.のリフレクティング・プールが「完全に利用可能」であると主張しました。この投稿は、最近の政治的議論や公共施設の利用状況に関する彼の見解を示すものとして注目されています。トランプ氏の発言は、しばしばメディアや国民の間で大きな反響を呼びます。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV_5cUxPU1lKSkpuWExLQ3RmeTJoNXJ0V3pWZTZ5WTNpeWJjLXlicmN3ZkxwRUJuQXhRNFB3VlNSazNzWHRnRWNZSTg2SFpibWF4cnNfcHpkekVzdFZOMjAzaUtuREFONm9FYzhkSTBhSWg4ZW9QLXVwSEpDWl80VUt6Sy1ULVUwWUJoRVN6dkxINmV0a1d5dm5OTFh1OU5NaWVYUQ?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "整形外科医が見過ごせないACL（前十字靭帯）予防のギャップ",
-      "summary": "前十字靭帯（ACL）損傷の予防において、スポーツ医学の進歩にもかかわらず、未だ大きなギャップが存在することが指摘されています。特に女性アスリートにおけるACL損傷率の増加は深刻な問題であり、現行の予防プログラムや介入策の効果を再評価し、さらなる改善が必要であるとされています。本記事は、整形外科医がこのギャップを認識し、予防戦略の強化に努めるべきであると警鐘を鳴らしています。",
+      "title": "整形外科が見過ごせないACL予防のギャップ",
+      "summary": "前十字靭帯（ACL）損傷の予防において、整形外科医が介入すべきギャップが存在することが指摘されています。特に女性アスリートにおけるACL損傷の増加傾向に対し、現状の予防プログラムや介入が十分ではない可能性が示唆されており、より包括的なアプローチが求められています。",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcnB6QnNoNGxmbU04cmRRS0NQZWFFQ3JoWk9GdC1rNDFDU0pSVUVwT25sX3NDNmYtQW1xeEVnQ3BGN2RjMkJ1Q0F4QmU2NlNBc0RNQzNPeFlKalZYUkJKRUliNHRMNXE0ZVJRaHhOaDNTVmhmUnZWQnhwWklfWE00N3c1WkNYcDRlTnoxZUZtVVM?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における先駆者とパラダイム：主題別歴史ミニレビュー",
-      "summary": "スプリント科学の歴史的発展をレビューし、その基礎を築いた先駆者たちの貢献と主要な理論的パラダイムを考察しています。過去の研究がどのようにスプリントパフォーマンスの理解を深め、トレーニング方法の進化に繋がったのかを包括的に分析しており、今後の研究方向性についても示唆を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNvbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史的ミニレビュー",
+      "summary": "スプリント科学の歴史的な進展と、その中で確立されてきた主要な理論や研究手法をテーマ別に概観したミニレビューです。過去の研究がどのように現代のスプリントトレーニングやバイオメカニクスに影響を与えてきたかを考察し、今後の研究の方向性についても示唆を与えています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZnpSbFczLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ]
 };
