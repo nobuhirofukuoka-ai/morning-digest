@@ -1,133 +1,133 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/07/04",
-  "generated_at": "2026-07-03T21:55:10.787Z",
+  "issue_date": "2026/07/05",
+  "generated_at": "2026-07-04T21:47:07.314Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "思春期バレーボール選手における神経筋トレーニングの二重の利点：膝関節損傷予防と運動能力向上は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
+      "title": "青少年バレーボール選手における神経筋トレーニングの二重のメリット：膝傷害予防と競技パフォーマンス向上は共通の力学的基盤を共有している",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5",
-      "abstract": "本レビューは、思春期のバレーボール選手に対する神経筋トレーニングが、膝関節損傷予防と運動能力向上という二重の利益をもたらすことを示唆しています。特に、両効果が共通のメカニズム的基盤、すなわち運動制御の改善に基づいていることを、構造化された物語レビューによって明らかにしました。このトレーニングは、着地時の衝撃吸収能力や方向転換時の安定性を高めることでACL損傷などのリスクを低減し、同時にジャンプ力や加速能力も向上させます。",
-      "insight": "青少年スポーツの指導者は、パフォーマンス向上だけでなく、長期的な健康維持のためにも、神経筋トレーニングを練習プログラムに積極的に組み込むべきです。特に、ACL損傷リスクの高い女子選手や高強度な動作が多い競技において、その効果は大きいでしょう。",
+      "abstract": "青少年バレーボール選手を対象に、神経筋トレーニング（NMT）の効果を検証した構造化ナラティブレビューです。NMTは、膝関節の傷害予防（特にACL損傷）において効果があるだけでなく、ジャンプ力や敏捷性などの競技パフォーマンス向上にも寄与することが実証されました。これらは、適切な関節制御やアライメント修正という共通の神経力学的メカニズムに基づいています。",
+      "insight": "傷害予防トレーニングを単なる「義務」とせず、競技力向上にも直結するアプローチとして指導計画に組み込むことで、選手の高いモチベーションを引き出せます。",
       "published_at": "2026-05-04T11:36:16.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "アリストテレスの腕振り仮説：オリンピックスプリンターにおける順動力学および逆動力学からの生体力学的証拠",
+      "title": "アリストテレスの腕振り仮説：オリンピック短距離選手における順力学および逆力学からのバイオメカニクス的証拠",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWp0Wnh4SlNtdTdWRUJ5ampyYkl6am1Ecy1aeXVBd3N3VDhoZEVqWWZObjh3MXV2aHhOd3FBZWdraS1aQVQxQjZVQk94R0k3d0ViRVBaTmYwUjVFNm8yLVhzS2x5V3h0TDR4ZWJtUlhuWEtRWHY0NGhZdm9nUGVkT0FmNEQtNG9NaVByR0JYVWNxMGtKUWwybF9NYTFEUmp6eHRRRA?oc=5",
-      "abstract": "オリンピックのスプリンターを対象とした研究で、アリストテレスの腕振り仮説、すなわち腕振りが走動作の推進力に寄与するという考え方が生体力学的に検証されました。順動力学および逆動力学解析を用いた結果、腕振りは身体のバランスと効率的な運動連鎖を最適化し、スプリント速度向上に不可欠な役割を果たすことが示されました。特に、地面反力と重心移動の効率化に貢献しています。",
-      "insight": "スプリントコーチは、単に速く走るだけでなく、効率的な腕振りのフォームを指導することで、選手がより高いパフォーマンスを発揮し、怪我のリスクを減らすことにも繋がります。腕振りを意識したドリルは、技術向上の一助となるでしょう。",
+      "abstract": "オリンピック短距離選手の走行データを基に、アリストテレスの腕振り仮説を最先端のバイオメカニクス技術で検証しました。順力学および逆力学シミュレーションを用い、腕振りが単なるバランス維持にとどまらず、骨盤の不要な回転を抑えて垂直方向の推進効率を高める役割を持つことを定量的に明らかにしました。",
+      "insight": "スプリント指導では「腕をただ振る」のではなく、下肢との連動による骨盤安定と推進力へのエネルギー転換を意識させることが効果的です。",
       "published_at": "2026-06-11T18:33:20.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "新しいACL手術アプローチがほとんどの患者の活動復帰を支援",
+      "title": "新たなACL手術アプローチにより、大半の患者が速やかな活動復帰を果たす",
       "source": "Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo7S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5",
-      "abstract": "新しい前十字靭帯（ACL）手術アプローチが、ほとんどの患者の活動復帰に貢献していると報告されました。このアプローチは、従来の再建術に加えて、残存するACL線維の温存や内側半月板前角の補強など、より生体力学的に優れた安定性を目指すものです。研究では、手術を受けた患者の高い割合が術後早期にスポーツ活動へと安全に復帰できることが示されています。",
-      "insight": "スポーツ整形外科医は、この最新のACL手術アプローチを検討することで、患者の術後早期の競技復帰を促進し、長期的な膝関節の安定性を高めることが期待されます。リハビリテーション専門家も、新しい術式に対応したプログラムを準備する必要があります。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo3S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5",
+      "abstract": "前十字靭帯（ACL）損傷に対する新しい再建手術アプローチについての臨床評価が行われました。この手法は、膝関節の解剖学的なアライメントと安定性をより高度に再現することで、患者の術後経過を改善し、術後早期のリハビリ開始および高い割合での安全なスポーツ復帰をサポートします。",
+      "insight": "新しい術式を採用したアスリートに対しては、執刀医のフィードバックを踏まえ、従来よりも早期から段階的かつ積極的な運動制御トレーニングを導入できます。",
       "published_at": "2026-05-14T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレー・ヘルス・システムがアスリートの最高のパフォーマンスへの安全な復帰を支援するスポーツ復帰プログラムを開始",
+      "title": "バレー・ヘルス・システムが、アスリートが最高のパフォーマンスで安全に復帰するための競技復帰プログラムを開始",
       "source": "Valley Health System",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5",
-      "abstract": "Valley Health Systemが、アスリートが安全に最高のパフォーマンスを再開できるよう支援する「スポーツ復帰プログラム」を開始しました。このプログラムは、怪我からの回復期にあるアスリートに対し、身体的なリハビリテーションだけでなく、心理的なサポートや競技復帰に向けた機能テストを包括的に提供することを目的としています。個別化されたアプローチにより、再負傷のリスクを最小限に抑えながら段階的な復帰を促します。",
-      "insight": "リハビリテーション施設やスポーツチームは、単なる身体的回復に留まらず、心理的側面や競技特異的な動きの再習得に重点を置いた包括的なスポーツ復帰プログラムの導入を検討すべきです。これにより、アスリートの自信回復と安全なパフォーマンス復帰をサポートできます。",
+      "abstract": "バレー・ヘルス・システムは、怪我をしたアスリートをサポートするための専門的な「リターン・トゥ・スポーツ」プログラムを新たに立ち上げました。本プログラムは、単に組織の回復を待つだけでなく、競技固有のバイオメカニクスや動作解析を用いた専門的な評価指標を用いて、選手を段階的かつ安全に完全復帰へと導く内容となっています。",
+      "insight": "再受傷リスクを極小化するために、医療機関や専門のリハビリ施設による客観的な競技特異的テストのクリアを復帰基準とすることが賢明です。",
       "published_at": "2026-05-11T07:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女性サッカー選手における再発性肩関節後方脱臼による疼痛管理のための補助的な鍼灸治療：症例報告",
-      "source": "Cureus",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
-      "abstract": "女性サッカー選手における再発性肩関節後方脱臼による疼痛管理に、鍼治療と灸治療を補助的に用いた症例が報告されました。この選手は、従来のリハビリテーションでは改善が見られなかった慢性的な肩の痛みを抱えていましたが、鍼灸治療の併用により痛みが有意に軽減し、肩関節の安定性と可動域が改善しました。本症例は、東洋医学がスポーツ選手の痛みに有効な選択肢となり得ることを示唆しています。",
-      "insight": "スポーツ医療の現場において、従来の治療法で改善が見られない慢性的な疼痛を抱えるアスリートに対し、鍼灸治療などの東洋医学的アプローチを補助療法として検討する価値があります。特に、投球動作やコンタクトスポーツでの肩関節問題に応用できる可能性があります。",
-      "published_at": "2026-03-18T07:00:00.000Z"
+      "title": "専門性の奪還：鍼灸師がドライニードリング分野をリードすべき理由",
+      "source": "Acupuncture Today",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlFvT0I5QmFQOGg3SWdIcWRNdEZiY0JCV1hOX19waXRwOWZiUUMxYTk1dGs4bm1Vd3owMlpKbWgzV2pKQXJ3bW1nR3FrMDJtQjBxUDRrU3c4OXpudUJSUTFJN25nX0FzQmJ3NXp6UHFQdW1WRXFQVHd0eVQ0TUltSFptaXdkMms0ZXRUT1g2dEtSemZ1ZnItNTRhd2F4djVXLXRPS2l4elBpLUlPYXdVSGRB?oc=5",
+      "abstract": "理学療法などの領域でも取り入れられているドライニードリングに関し、鍼の本来の専門家である鍼灸師が主導的な立場を担うべきであるとの提言です。解剖学的な知見および経穴・経絡理論に精通した鍼灸師が深く関わることで、筋筋膜性疼痛やトリガーポイント治療における安全性が高められると論じています。",
+      "insight": "アスリートの慢性的な筋の過緊張に対処する際、十分な専門資格を持ったプロフェッショナルによる施術を選択することで、より安全かつ確実な回復が期待できます。",
+      "published_at": "2025-12-01T17:45:29.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "クレアチンとプロテインパウダーを一緒に摂取すると体に何が起こるか",
-      "source": "EatingWell",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDJ1a2dZNk9zcjdvUjFsV3JfLXdCcWR5aEVQVllWSm5qOUxLanRmWXY0SFZXSTF0YUdIV0s1QjdyeExLSGFlQzJObWoyM21tTXBMNDlDa2FWUVFDTUxfU0xGZThKX04wcUJoX0VCWlVOWENBelhoUHFDRm1uZW94T1dDT2tmMllhM3pNag?oc=5",
-      "abstract": "クレアチンとプロテインパウダーを同時に摂取した場合の身体への影響について解説されました。クレアチンは筋肉内のATP生成を促進し、瞬発力や筋力向上に寄与する一方、プロテインは筋肉の修復と成長に必要なアミノ酸を供給します。両者を併用することで、トレーニング後の筋肉回復が促進され、筋力および筋肉量の増加が効率的に進む可能性が示唆されています。適切な摂取量とタイミングが重要です。",
-      "insight": "アスリートやトレーニーは、筋力・筋量アップと回復の効率化のために、クレアチンとプロテインパウダーの同時摂取を検討する価値があります。特に、トレーニング直後の摂取が効果的とされており、個々の目標に合わせて専門家と相談の上、摂取計画を立てるべきです。",
-      "published_at": "2026-05-17T07:00:00.000Z"
+      "title": "女性におけるクレアチンの6つのメリット",
+      "source": "Verywell Health",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rNndNTl9zaTNfU0dKa3N5TVVCWjh4YklnRWxQSEd1c19JdXVRUWwwQjJwR3Y2TmtQVHpKZW9Za29aNTVLT20wRU83TXpxMnFMS1JUOWhfQ1pleTRVaDlHTFJmMWtFUGd5QU1laWQwTnduWTlucjE1TzNB?oc=5",
+      "abstract": "男性用サプリメントと思われがちなクレアチンについて、女性にもたらされる効果を整理した解説です。筋力や無酸素運動能力の向上だけでなく、女性特有の生理周期に伴う疲労や認知機能低下の緩和、さらには更年期における骨量維持やメンタルヘルスの改善など多面的なメリットがあることが示されました。",
+      "insight": "女性アスリートや一般女性のコンディショニングプランにクレアチンを導入することで、身体面のみならず精神的な疲労回復や骨密度のサポートにも役立てられます。",
+      "published_at": "2026-07-02T07:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
+      "title": "学生アスリートのメンタルヘルス：保護者や指導者のためのヒント",
       "source": "Johns Hopkins Medicine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
-      "abstract": "学生アスリートのメンタルヘルスサポートに関する親とコーチへのヒントが提供されました。学業、競技、社交生活のプレッシャーにより、学生アスリートは精神的ストレスを抱えやすい状況にあります。記事では、オープンなコミュニケーションの促進、成功だけでなく努力を認めること、休息の重要性を強調し、専門家の助けを求めることの重要性を指摘しています。早期の兆候に気づくことが重要です。",
-      "insight": "ユーススポーツの指導者や保護者は、学生アスリートの身体的健康だけでなく、メンタルヘルスにも意識を向ける必要があります。ストレスの兆候を見逃さず、安心できる環境を提供し、必要に応じて専門家との連携を促すことが、アスリートの健全な成長を支える上で不可欠です。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
+      "abstract": "学生アスリートが抱える心理的ストレスや、過度なプレッシャーによる燃え尽き症候群（バーンアウト）の問題に焦点を当てています。ジョンズ・ホプキンス医学の専門家らは、指導者や親が子供のプレッシャーのサインに気づく重要性を述べ、適切な傾聴姿勢やバランスの取れた成長支援のアプローチを提示しています。",
+      "insight": "ジュニア選手の指導にあたっては、日頃から成績や勝敗だけでなく、努力のプロセスや学びを承認するポジティブな対話を習慣化することが、バーンアウトの予防につながります。",
       "published_at": "2026-05-05T15:36:18.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "パフォーマンスを超えたスポーツ科学：研究者が探求し続ける領域",
-      "source": "NFL Draft Diamonds",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVW55N0tXaFcwa25OSmdibldXa3VUbnpEaXlYTWs3Yi1DaGJ0UGpWcW5kdXAwaExTU1dfWmd4MlNWSF9KZU1keWtqSjc0a051X0V6dkMtcERkSzkxbTNnNzNhd0Y3VzBfaEFtcG9HM1pDOVRuRjhfcGp5Q3dQTWQ3b0txRHlUVTdEUGs3NkZ5bm5aV01MOE9tVjBLSkNscVlkRnBDa2txdWJYRko4c3w?oc=5",
-      "abstract": "スポーツ科学が単なるパフォーマンス向上を超え、研究者たちが探求を続ける新たな領域について論じられました。これには、睡眠の質が回復とパフォーマンスに与える影響、精神的強さやレジリエンスの育成、栄養戦略の個別化、ウェアラブル技術を用いたリアルタイムの生体データ分析などが含まれます。スポーツ科学は、アスリートの全体的な健康と長期的なキャリアサポートへと焦点を広げています。",
-      "insight": "スポーツ現場の専門家は、最新のスポーツ科学研究を取り入れ、単なる身体能力向上だけでなく、睡眠、メンタルヘルス、個別化された栄養など、アスリートの総合的なウェルネスをサポートする多角的なアプローチを実践すべきです。これにより、アスリートの持続可能な成功と健康を促進できます。",
-      "published_at": "2026-07-02T21:48:35.000Z"
+      "title": "社説：アスリートの回復の最適化：リカバリー戦略と睡眠がスポーツパフォーマンスに及ぼす影響",
+      "source": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5",
+      "abstract": "アスリートにおける多角的なリカバリー手法と睡眠の関係性をまとめた社説です。アイスバスやアクティブリカバリーといった物理的手段を講じる場合でも、基礎となる高品質な睡眠が伴わなければ最大の回復効果は得られないことが強調されており、睡眠時間が運動機能および認知機能の回復に決定的な影響を与えます。",
+      "insight": "どれほど高度なケアやマッサージを施しても、睡眠の質が低ければ筋肉や神経の修復は遅れます。そのため、生活習慣全体のなかに正しい睡眠衛生（スリープハイジーン）の指導を最優先として組み込む必要があります。",
+      "published_at": "2026-04-08T10:40:51.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
       "category": "国際",
-      "source": "読売新聞",
-      "title": "ペルー大統領選、ケイコ・フジモリ氏が４度目の挑戦で悲願達成…選管当局が当選発表",
-      "summary": "ペルーの大統領選で、ケイコ・フジモリ氏が4度目の挑戦にしてついに当選を果たしました。選管当局が3日、同氏の当選を正式に発表。長年の悲願達成となり、今後のペルー政局の動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vZlpJR01Qamo0eW5OVTZPb0h3dEhIMGpibjBmeml3RGhMQW5EVjFWSlMzaXRwU2xiNllEYVdSZHNHMzZ6a0w4WG9DakhYWW1CS01HdUpZUEFBQ3lWRVFrVkR3?oc=5",
-      "published_at": "2026-07-03T18:16:00.000Z"
+      "source": "47NEWS",
+      "title": "【速報】トランプ米大統領の演説始まる",
+      "summary": "アメリカ独立記念日を祝う式典にて、トランプ米大統領による演説が始まりました。アメリカ第一主義の成果や、今後の国内外の政策方針に関するメッセージが語られる見込みで、注目が集まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FUDNMR3JtWWUtcWxQbmhPZmNpU1JmY2RMUTNBYlFzTEc3RTdMTmV6a01qMWh1MkVOYVJxLWRQb19FRV8zT0FwX05ENA?oc=5",
+      "published_at": "2026-07-04T03:07:48.000Z"
     },
     {
       "id": "j002",
-      "category": "政治",
-      "source": "産経ニュース",
-      "title": "皇室典範改正案の審議入り模索も…野党、事実上の審議拒否 空転国会、見えぬ好転の兆し",
-      "summary": "皇室典範改正案の審議入りが模索される中、野党が事実上の審議拒否に転じ、国会の空転が続いています。政府・与党は協議を呼びかけていますが、打開策は見えず、国政の停滞に懸念が広がっています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ibFJmcnRjMEtYYlhjcVNMQU9lZU5kOExVblRjWTdOX3VBX3RSbHhvREFpRldTc2J0d3dxTHFQRU5EWTBuMWVwcGZUZGZIWjNHNE5ZZ0J0VGg1RlpXWm95TDFTNnpNQUZrN3I5Uk1KY3FFcnVCMUE?oc=5",
-      "published_at": "2026-07-03T11:35:19.000Z"
+      "category": "環境・気候",
+      "source": "ウェザーニュース",
+      "title": "猛烈な台風9号(バービー) グアムやサイパンは厳重警戒 進路は沖縄の南へ",
+      "summary": "猛烈な強さに発達した台風9号（バービー）がマリアナ諸島付近に位置しており、グアムやサイパンは厳重な警戒態勢が敷かれています。台風はその後、日本の南側である沖縄の南方面に向けて進む予報となっており、今後の動向に注意が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBVlNJYVh2dndqUGNucTRzMkFKNVg1N2w0T3JncGJvX0I5bmlrbnhvOGZjcDYtV0ZnaVdsMktPWlFLZGdwdkpCdkJrVjdtYzBEbWozSw?oc=5",
+      "published_at": "2026-07-04T13:27:00.000Z"
     },
     {
       "id": "j003",
       "category": "国際",
-      "source": "日本経済新聞",
-      "title": "アメリカ建国250年、お台場で祝賀イベント 小泉防衛相らが祝意",
-      "summary": "アメリカ建国250周年を祝うイベントがお台場で開催され、小泉防衛相をはじめとする要人らが祝意を述べました。日米両国の友好関係を象徴する催しとして、多くの参加者が集まりました。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rV25pOWdjVU5Rd1htRGN1dXhWY2JJOFJyaHdranpSa1E2Y1pmRXVTdXpCanRuUzN3OE5oNGJpTHNCeUVPTVdXRWg5enE4T0ZhQ0pTbHlCODZ0UEp2aWI2c3NLbVJkSDFaeXpDUw?oc=5",
-      "published_at": "2026-07-03T12:59:00.000Z"
+      "source": "時事ドットコム",
+      "title": "イラン葬儀、波乱の歴史 転げ出る遺体、要人暗殺計画も：時事ドットコム",
+      "summary": "イランにおける過去の大規模な葬儀に関連した波乱の歴史について検証しています。歴史的な葬儀中に起きた物理的な大混乱や、国を揺るがす要人の暗殺計画といった背景など、宗教・政治が交錯するイラン社会の特異な記録を追っています。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRc1BpYmN0c091QktpTzNvaTllU1UyZU9Jc3VVakh3SWFmM1RXbnprZ3NYZ28ta2NEYW41M1BWVXdyU1FNQzRxTzJvblBNdGYxS3BMenAwOG84ZUtQQ1FQWjFkWQ?oc=5",
+      "published_at": "2026-07-04T03:37:00.000Z"
     },
     {
       "id": "j004",
-      "category": "環境・気候",
-      "source": "Reuters",
-      "title": "アングル：欧州、熱波で気候変動への無防備さ露呈 「適応」対策が急務",
-      "summary": "欧州各地を襲う熱波により、気候変動への適応対策の遅れが浮き彫りになっています。各国は猛暑への対応に追われ、インフラ整備や住民への情報提供など、より抜本的な対策が急務とされています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KOF81dHVBTEtFMTVNUmlBZTdhTHZQZUNTdkNIWHVHcFdsd2kwNmNoeDdqNndxVDZmVlB3aUJhX3EyUnU5YUhoYnV1MUlXRVlkMl9wSFB2c3hMaGN4QS1WenZGRE9lejZpc1FVQV9EZGVHWHVnRFdIRzBkS3RwMmM?oc=5",
-      "published_at": "2026-07-03T04:41:00.000Z"
+      "category": "国際",
+      "source": "産経ニュース",
+      "title": "ロシア、ウクライナ東部要衝コスチャンチニウカ「制圧」と発表 事実ならウクライナ打撃",
+      "summary": "ロシア軍がウクライナ東部の主要要衝地であるコスチャンチニウカを制圧したと発表しました。この地点は地域の防御網における極めて重要な拠点であり、事実であればウクライナ軍の防御態勢において大きな損害となることが予想されます。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FdDk3ekZGeHZVd2dxLS05ek9lRTdxcjlNSVhTT1QwZVVtdGRsc2tDcU1xVlBqNnI1ZV81d2xockRrUzZiNUQ4QTRzMk9kOHI5MkdBSm9Ob3JrOURTRWtoUDN5cWJsZ0xoYXZnRFlFRllZYkJCRmc?oc=5",
+      "published_at": "2026-07-04T08:02:47.000Z"
     },
     {
       "id": "j005",
-      "category": "政治",
-      "source": "Bloomberg.com",
-      "title": "高市氏、モディ首相から「美しい妹」と紹介－「親密さ」をアピール",
-      "summary": "高市氏がインドのモディ首相から「美しい妹」と紹介され、両者の親密な関係性がアピールされました。この発言は外交の場で注目を集め、両国間の協力関係強化への期待が高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NSVUxdS05LURtZmltVUtzWDJXdnk3QmNVM2xmOXJyNjE1STZEdGFYZ3dTUHlwUzFQWklseHlvTENGUDVnVE9HYjI2Vi14aHVJS25fV3R5UG1sb0s3Z0xVcjV2eVVTaExTS3hWTHl0ZGNwY0hOMXJj?oc=5",
-      "published_at": "2026-07-03T08:55:58.000Z"
+      "category": "社会",
+      "source": "テレ朝NEWS",
+      "title": "東京・中野区の火災 午後5時過ぎに鎮圧 7軒に燃え広がり消防30台以上が出動",
+      "summary": "東京・中野区で発生した火災は、近隣の住宅などを含む合計7棟の建物に燃え広がり、一時緊迫した事態となりましたが、夕方5時過ぎにほぼ鎮圧されました。消火にあたるため、消防車両等30台以上が緊急動員されました。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBbGRWNzB1RVJTMWt1YVZRMU1mT3MteUx2TGJseWRZWWc5czk0OXZuMldQSjh3aDR4ZkJVRHVubU9DbjF3V05KdXFvZ2hfRFkwVmRvMVhrOVQtU21WR1xlN2sxeFBtTjJSSzRCWm1zVTM4UQ?oc=5",
+      "published_at": "2026-07-04T08:44:46.000Z"
     }
   ],
   "global_news": [
@@ -135,51 +135,51 @@ window.DIGEST_DATA = {
       "id": "g001",
       "category": "Climate",
       "region": "US",
-      "source": "The Washington Post",
-      "title": "米国の大規模な州見本市が熱波で一時閉鎖、その他の混乱も発生",
-      "summary": "米国を襲う熱波により、恒例の大規模な州見本市が一時的に閉鎖されるなど、各地で混乱が生じています。記録的な暑さが続く中、イベントの中止や交通機関への影響が報告されており、市民生活に大きな影響を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV09RTU1aRlBOaXV3bUE5N3hoUWhFVEN1ODZINm80anRMRzluNlRNbTFralo5Q01PbEVTZ19iMVNzSHFjaEZ0dWN3LXMtck1PSGsyRF9lalRkR1dITWFkS00xVDRvcUNFUzc1YTZCWVZ1RjlnZ3JsTDVGTUdaX1NKWU1Qd2J1clVWdEREZ0hoZ2lMSWpYSDA2c0F1RXVEMHdhel9HeURHd1RJT3pNSUxPVFQ4WmNmRTFVNGJCM2xvS0M?oc=5",
-      "published_at": "2026-07-03T20:20:40.000Z"
+      "source": "BBC",
+      "title": "熱波が祝典を混乱させる中、アメリカが建国250周年記念日を迎える",
+      "summary": "アメリカ建国250周年の節目となる独立記念日を迎えましたが、記録的な大熱波が全米各地を襲い、一部の公式行事の変更やイベントの中止を余儀なくされるなど、祝賀ムードのなかに熱中症対策への警戒が広まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VbjRQSWlVSHZhTS1RTVhnTWc3RUZWZG8za20wWExsT3R5SmpFRmxxSlJzSm9LQnVBdTBlUF8yYmhueHNTbml5R09IYXNXejhOendFdQ?oc=5",
+      "published_at": "2026-07-04T21:19:38.000Z"
     },
     {
       "id": "g002",
       "category": "Politics",
-      "region": "Middle East",
-      "source": "NBC News",
-      "title": "米国とイスラエルの攻撃数ヶ月後、イランはハメネイ師の盛大な葬儀を準備",
-      "summary": "米国とイスラエルの攻撃から数ヶ月後、イランでは最高指導者ハメネイ師の盛大な葬儀の準備が進められています。この動きは、地域の緊張が高まる中で、イランの政治的安定と後継者問題に注目が集まることを示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTVFUHMxN0FPbU51UVVxbE4yZmVjN19xN0JNY2Z4TVlFRXByZVJVa283U01kcTl2VkpDQWFmX21ZU0dIQV8zMnA1dTFWd3ZTVTJmMDM3djRzNnlQa1FpLWV4RFdMWENaWURYVENmRl9SVkJxdDdicGNOWWtfOGl6bVlHRGZGSGMwTFE?oc=5",
-      "published_at": "2026-07-03T18:09:13.000Z"
+      "region": "US",
+      "source": "NPR",
+      "title": "ラシュモア山での演説で、トランプ氏は米国の並外れた偉大さの称賛から共産主義への警告へと移行",
+      "summary": "トランプ大統領はラシュモア山で行った独立記念日演説で、アメリカ特有の国家の強さを誇る論調から一歩進めて、現代の社会動向における左傾化や共産主義の浸透に対する強い警告のメッセージを発しました。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFJvbXhBYl9GradxsUExGWkRvRDhPWDVJQi0zZEMwNW5VVHNHcnNZTDhkR0hSdTB5a1A3M0xwZW5lVklsVzBuZVlGSVlhY0FPWDU4bHUzMHhSNUVJa25rWk5LRmRWV2xzZlk5Snk4TUc0cGYwWnJncFhPNnRWZmlvX0RYSDFQdkI4?oc=5",
+      "published_at": "2026-07-04T20:34:31.000Z"
     },
     {
       "id": "g003",
-      "category": "Climate",
-      "region": "US",
-      "source": "AP News",
-      "title": "アメリカ建国250周年祝典が盛り上がる中、猛烈な熱波が襲来。トランプ氏がラシュモア山へ",
-      "summary": "アメリカ建国250周年を祝うイベントが各地で活発化する一方、国内では猛烈な熱波が猛威を振るっています。この状況下でトランプ氏がラシュモア山を訪れるなど、祝賀ムードと気候変動の影響が交錯する一日となりました。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblE3V2g1dE5UeTNfUkdDanpSbTdrbktXdjhDUUg5eXhycWtsSEFPcmpLOFZBMDd3ZzJwTFF3MkN5VGVROWhwd1ZTZjZ1OVVYdnZ0Sy10RlhzOVQ3WG5UV2x2Z2tTRHpFVXhpaTl1UWY1NXZrTUJPU3BVV04yTUdtdEpYbURxMkEyVXllMzlDWkpzamR6WXdDd3FFQ2FsYmth?oc=5",
-      "published_at": "2026-07-03T17:30:00.000Z"
+      "category": "Politics",
+      "region": "Middle East",
+      "source": "WSJ",
+      "title": "ハメネイ師の6日間にわたる国葬に向けて、テヘランに大群衆が集結",
+      "summary": "死去したイラン最高指導者ハメネイ師を追悼するため、テヘランにて6日間にわたる大規模な葬儀が始まり、市内には膨大な市民や支持者が詰めかけています。最高権力者の移行時期に直面した国家の節目として警戒も高められています。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlBtNmxSdjloaFlRV0VRSzh1Xzh4ZGRRMldwSjNMUWJhSVRwVTQ5U3gxZFVGUlBveHJGc2hiSnVaVHIybVRsX3JkNS1IOFdFX3FZZTF6UHE0Z2dxbkNXaXhtTFMwdHhnQklIR1Q0cVNTUXZralNwY29NU2lQTkdPdjNhYWI3OW5STWFN?oc=5",
+      "published_at": "2026-07-04T16:25:00.000Z"
     },
     {
       "id": "g004",
       "category": "Culture",
       "region": "US",
-      "source": "The New York Times",
-      "title": "「多数から一つへ、藻もまた然り：なぜ緑の池の汚泥は赤、白、青と同じくらいアメリカ的であるのか」",
-      "summary": "ニューヨーク・タイムズ紙は、米国の多様性を象徴するユニークな視点として、池の緑色の汚泥（藻類）を取り上げました。これは、赤・白・青の国旗の色と同様に、アメリカの広範な生態系と多様な景観の一部であるという文化的な考察を提示しています。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yUmlzNjdOVEhMLUFWak90S1B4R0VGS2VmMzM3VER3Y0J0WlJVZ3RRQjRndHNtREJZaEI5UDdIZGNVUFN1TkJIUklVUWhKbGJfVy1YSUU3QmRkVnRfT0pnUnNKNzhDN0FSQjR5Ym1NNDF3MEZIblNOQw?oc=5",
-      "published_at": "2026-07-03T09:03:12.000Z"
+      "source": "CBS News",
+      "title": "7月4日、全米が「アメリカの250歳の誕生日」を祝う：最新ライブ更新",
+      "summary": "アメリカ合衆国が250回目の独立記念日を迎え、全米各地で華やかなパレードや花火、催し物が行われています。歴史的アニバーサリーを盛大に祝う人々の熱気と各地の祝典状況が、リアルタイムに配信されています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EOW12REEyMjBEUGZYMnVwbVZPblgwemRaZF9Fb3FyMG9DcDc0dndOUmJRX2Iwa0c5N19ob0FLdXkwSl96R1VvWFAwV1hnaEpYb2FraXRmUHJHQmVTbUtsSmdMdl9DZTJsWXVWZzZxOThpbFJ5WXc?oc=5",
+      "published_at": "2026-07-04T20:30:00.000Z"
     },
     {
       "id": "g005",
       "category": "Culture",
       "region": "US",
-      "source": "NPR",
-      "title": "調査対象のアメリカ人の約半数が、建国250周年が何を記念するものかを知らない",
-      "summary": "NPRの調査によると、アメリカ人の約半数が、現在進行中のアメリカ建国250周年記念が何を祝うものなのかを認識していないことが明らかになりました。これは、重要な歴史的節目に対する国民の意識のギャップを示唆しており、啓発活動の必要性が指摘されています。",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2U4XzA2c29Db1N2TEktYWJnNEZmUnkyeGE3dTRKclFER1A5LTZJV0s0ampHRklpMFI1YThPUnY2NmQ0dmNORjNnWUduU1Q5aHRoYkxROWVmZVhvVWU5TnJyYXNITkI4Z19CNDhtclZQTGhtZTY4QlcwUnRISlRxMnZkTjV3XzljRzlxN1d1TmRWUEhzTHMtWndmdU1GVnBIaUpaU09fb2I2eURzbXc0LXZwTENHSGVhYmJSZg?oc=5",
-      "published_at": "2026-07-03T18:28:44.000Z"
+      "source": "New York Post",
+      "title": "帆船パレードがニューヨーク港を航行、建国250周年イベント「Sail4th 250」を盛大に演出：写真特集",
+      "summary": "建国250周年を祝う一連のプログラムの一環として、各国の美しい大型帆船が集まるパレードがニューヨーク港で行われました。独立記念日の空を背景に風を受け進むクラシックな帆船たちの様子が、多くの人々を魅了しました。",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVpmRWlwMmtZZElBNzdSek00cjNMNnhHWjJCajNFMUpjekRpMWNqdWRNR183dVZ1d3ptMlRFV2RwTWZBcEs3c3k3ek9XTWkzbi03X0RaTVNveTNNbVpPbi1uekdWTXkwaDNySVB3aTZiN212QTk2UmxaejU5TnE4V3N5bkxOVFA1SjFybUlqcVdoMm9oTENYdWhBb1k0OWFEQi1nMHJuYmg0NU9nZjc5UFBsdFVMUjgxTHljeXFydGE?oc=5",
+      "published_at": "2026-07-04T16:01:00.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,160 +187,160 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "思春期バレーボール選手における神経筋トレーニングの二重の利点：膝関節損傷予防と運動能力向上は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
-      "summary": "本レビューは、思春期のバレーボール選手に対する神経筋トレーニングが、膝関節損傷予防と運動能力向上という二重の利益をもたらすことを示唆しています。特に、両効果が共通のメカニズム的基盤、すなわち運動制御の改善に基づいていることを、構造化された物語レビューによって明らかにしました。このトレーニングは、着地時の衝撃吸収能力や方向転換時の安定性を高めることでACL損傷などのリスクを低減し、同時にジャンプ力や加速能力も向上させます。",
+      "title": "青少年バレーボール選手における神経筋トレーニングの二重のメリット：膝傷害予防と競技パフォーマンス向上は共通の力学的基盤を共有している",
+      "summary": "青少年バレーボール選手を対象に、神経筋トレーニング（NMT）の効果を検証した構造化ナラティブレビューです。NMTは、膝関節の傷害予防（特にACL損傷）において効果があるだけでなく、ジャンプ力や敏捷性などの競技パフォーマンス向上にも寄与することが実証されました。これらは、適切な関節制御やアライメント修正という共通の神経力学的メカニズムに基づいています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "アリストテレスの腕振り仮説：オリンピックスプリンターにおける順動力学および逆動力学からの生体力学的証拠",
-      "summary": "オリンピックのスプリンターを対象とした研究で、アリストテレスの腕振り仮説、すなわち腕振りが走動作の推進力に寄与するという考え方が生体力学的に検証されました。順動力学および逆動力学解析を用いた結果、腕振りは身体のバランスと効率的な運動連鎖を最適化し、スプリント速度向上に不可欠な役割を果たすことが示されました。特に、地面反力と重心移動の効率化に貢献しています。",
+      "title": "アリストテレスの腕振り仮説：オリンピック短距離選手における順力学および逆力学からのバイオメカニクス的証拠",
+      "summary": "オリンピック短距離選手の走行データを基に、アリストテレスの腕振り仮説を最先端のバイオメカニクス技術で検証しました。順力学および逆力学シミュレーションを用い、腕振りが単なるバランス維持にとどまらず、骨盤の不要な回転を抑えて垂直方向の推進効率を高める役割を持つことを定量的に明らかにしました。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWp0Wnh4SlNtdTdWRUJ5ampyYkl6am1Ecy1aeXVBd3N3VDhoZEVqWWZObjh3MXV2aHhOd3FBZWdraS1aQVQxQjZVQk94R0k3d0ViRVBaTmYwUjVFNm8yLVhzS2x5V3h0TDR4ZWJtUlhuWEtRWHY0NGhZdm9nUGVkT0FmNEQtNG9NaVByR0JYVWNxMGtKUWwybF9NYTFEUmp6eHRRRA?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "新しいACL手術アプローチがほとんどの患者の活動復帰を支援",
-      "summary": "新しい前十字靭帯（ACL）手術アプローチが、ほとんどの患者の活動復帰に貢献していると報告されました。このアプローチは、従来の再建術に加えて、残存するACL線維の温存や内側半月板前角の補強など、より生体力学的に優れた安定性を目指すものです。研究では、手術を受けた患者の高い割合が術後早期にスポーツ活動へと安全に復帰できることが示されています。",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo7S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5"
+      "title": "新たなACL手術アプローチにより、大半の患者が速やかな活動復帰を果たす",
+      "summary": "前十字靭帯（ACL）損傷に対する新しい再建手術アプローチについての臨床評価が行われました。この手法は、膝関節の解剖学的なアライメントと安定性をより高度に再現することで、患者の術後経過を改善し、術後早期のリハビリ開始および高い割合での安全なスポーツ復帰をサポートします。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo3S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレー・ヘルス・システムがアスリートの最高のパフォーマンスへの安全な復帰を支援するスポーツ復帰プログラムを開始",
-      "summary": "Valley Health Systemが、アスリートが安全に最高のパフォーマンスを再開できるよう支援する「スポーツ復帰プログラム」を開始しました。このプログラムは、怪我からの回復期にあるアスリートに対し、身体的なリハビリテーションだけでなく、心理的なサポートや競技復帰に向けた機能テストを包括的に提供することを目的としています。個別化されたアプローチにより、再負傷のリスクを最小限に抑えながら段階的な復帰を促します。",
+      "title": "バレー・ヘルス・システムが、アスリートが最高のパフォーマンスで安全に復帰するための競技復帰プログラムを開始",
+      "summary": "バレー・ヘルス・システムは、怪我をしたアスリートをサポートするための専門的な「リターン・トゥ・スポーツ」プログラムを新たに立ち上げました。本プログラムは、単に組織の回復を待つだけでなく、競技固有のバイオメカニクスや動作解析を用いた専門的な評価指標を用いて、選手を段階的かつ安全に完全復帰へと導く内容となっています。",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女性サッカー選手における再発性肩関節後方脱臼による疼痛管理のための補助的な鍼灸治療：症例報告",
-      "summary": "女性サッカー選手における再発性肩関節後方脱臼による疼痛管理に、鍼治療と灸治療を補助的に用いた症例が報告されました。この選手は、従来のリハビリテーションでは改善が見られなかった慢性的な肩の痛みを抱えていましたが、鍼灸治療の併用により痛みが有意に軽減し、肩関節の安定性と可動域が改善しました。本症例は、東洋医学がスポーツ選手の痛みに有効な選択肢となり得ることを示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
+      "title": "専門性の奪還：鍼灸師がドライニードリング分野をリードすべき理由",
+      "summary": "理学療法などの領域でも取り入れられているドライニードリングに関し、鍼の本来の専門家である鍼灸師が主導的な立場を担うべきであるとの提言です。解剖学的な知見および経穴・経絡理論に精通した鍼灸師が深く関わることで、筋筋膜性疼痛やトリガーポイント治療における安全性が高められると論じています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlFvT0I5QmFQOGg3SWdIcWRNdEZiY0JCV1hOX19waXRwOWZiUUMxYTk1dGs4bm1Vd3owMlpKbWgzV2pKQXJ3bW1nR3FrMDJtQjBxUDRrU3c4OXpudUJSUTFJN25nX0FzQmJ3NXp6UHFQdW1WRXFQVHd0eVQ0TUltSFptaXdkMms0ZXRUT1g2dEtSemZ1ZnItNTRhd2F4djVXLXRPS2l4elBpLUlPYXdVSGRB?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "クレアチンとプロテインパウダーを一緒に摂取すると体に何が起こるか",
-      "summary": "クレアチンとプロテインパウダーを同時に摂取した場合の身体への影響について解説されました。クレアチンは筋肉内のATP生成を促進し、瞬発力や筋力向上に寄与する一方、プロテインは筋肉の修復と成長に必要なアミノ酸を供給します。両者を併用することで、トレーニング後の筋肉回復が促進され、筋力および筋肉量の増加が効率的に進む可能性が示唆されています。適切な摂取量とタイミングが重要です。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDJ1a2dZNk9zcjdvUjFsV3JfLXdCcWR5aEVQVllWSm5qOUxLanRmWXY0SFZXSTF0YUdIV0s1QjdyeExLSGFlQzJObWoyM21tTXBMNDlDa2FWUVFDTUxfU0xGZThKX04wcUJoX0VCWlVOWENBelhoUHFDRm1uZW94T1dDT2tmMllhM3pNag?oc=5"
+      "title": "女性におけるクレアチンの6つのメリット",
+      "summary": "男性用サプリメントと思われがちなクレアチンについて、女性にもたらされる効果を整理した解説です。筋力や無酸素運動能力の向上だけでなく、女性特有の生理周期に伴う疲労や認知機能低下の緩和、さらには更年期における骨量維持やメンタルヘルスの改善など多面的なメリットがあることが示されました。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rNndNTl9zaTNfU0dKa3N5TVVCWjh4YklnRWxQSEd1c19JdXVRUWwwQjJwR3Y2TmtQVHpKZW9Za29aNTVLT20wRU83TXpxMnFMS1JUOWhfQ1pleTRVaDlHTFJmMWtFUGd5QU1laWQwTnduWTlucjE1TzNB?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートのメンタルヘルスサポートに関する親とコーチへのヒントが提供されました。学業、競技、社交生活のプレッシャーにより、学生アスリートは精神的ストレスを抱えやすい状況にあります。記事では、オープンなコミュニケーションの促進、成功だけでなく努力を認めること、休息の重要性を強調し、専門家の助けを求めることの重要性を指摘しています。早期の兆候に気づくことが重要です。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "title": "学生アスリートのメンタルヘルス：保護者や指導者のためのヒント",
+      "summary": "学生アスリートが抱える心理的ストレスや、過度なプレッシャーによる燃え尽き症候群（バーンアウト）の問題に焦点を当てています。ジョンズ・ホプキンス医学の専門家らは、指導者や親が子供のプレッシャーのサインに気づく重要性を述べ、適切な傾聴姿勢やバランスの取れた成長支援のアプローチを提示しています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "パフォーマンスを超えたスポーツ科学：研究者が探求し続ける領域",
-      "summary": "スポーツ科学が単なるパフォーマンス向上を超え、研究者たちが探求を続ける新たな領域について論じられました。これには、睡眠の質が回復とパフォーマンスに与える影響、精神的強さやレジリエンスの育成、栄養戦略の個別化、ウェアラブル技術を用いたリアルタイムの生体データ分析などが含まれます。スポーツ科学は、アスリートの全体的な健康と長期的なキャリアサポートへと焦点を広げています。",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVW55N0tXaFcwa25OSmdibldXa3VUbnpEaXlYTWs3Yi1DaGJ0UGpWcW5kdXAwaExTU1dfWmd4MlNWSF9KZU1keWtqSjc0a051X0V6dkMtcERkSzkxbTNnNzNhd0Y3VzBfaEFtcG9HM1pDOVRuRjhfcGp5Q3dQTWQ3b0txRHlUVTdEUGs3NkZ5bm5aV01MOE9tVjBLSkNscVlkRnBDa2txdWJYRko4c3w?oc=5"
+      "title": "社説：アスリートの回復の最適化：リカバリー戦略と睡眠がスポーツパフォーマンスに及ぼす影響",
+      "summary": "アスリートにおける多角的なリカバリー手法と睡眠の関係性をまとめた社説です。アイスバスやアクティブリカバリーといった物理的手段を講じる場合でも、基礎となる高品質な睡眠が伴わなければ最大の回復効果は得られないことが強調されており、睡眠時間が運動機能および認知機能の回復に決定的な影響を与えます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "ペルー大統領選、ケイコ・フジモリ氏が４度目の挑戦で悲願達成…選管当局が当選発表",
-      "summary": "ペルーの大統領選で、ケイコ・フジモリ氏が4度目の挑戦にしてついに当選を果たしました。選管当局が3日、同氏の当選を正式に発表。長年の悲願達成となり、今後のペルー政局の動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vZlpJR01Qamo0eW5OVTZPb0h3dEhIMGpibjBmeml3RGhMQW5EVjFWSlMzaXRwU2xiNllEYVdSZHNHMzZ6a0w4WG9DakhYWW1CS01HdUpZUEFBQ3lWRVFrVkR3?oc=5"
+      "title": "【速報】トランプ米大統領の演説始まる",
+      "summary": "アメリカ独立記念日を祝う式典にて、トランプ米大統領による演説が始まりました。アメリカ第一主義の成果や、今後の国内外の政策方針に関するメッセージが語られる見込みで、注目が集まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FUDNMR3JtWWUtcWxQbmhPZmNpU1JmY2RMUTNBYlFzTEc3RTdMTmV6a01qMWh1MkVOYVJxLWRQb19FRV8zT0FwX05ENA?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "皇室典範改正案の審議入り模索も…野党、事実上の審議拒否 空転国会、見えぬ好転の兆し",
-      "summary": "皇室典範改正案の審議入りが模索される中、野党が事実上の審議拒否に転じ、国会の空転が続いています。政府・与党は協議を呼びかけていますが、打開策は見えず、国政の停滞に懸念が広がっています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ibFJmcnRjMEtYYlhjcVNMQU9lZU5kOExVblRjWTdOX3VBX3RSbHhvREFpRldTc2J0d3dxTHFQRU5EWTBuMWVwcGZUZGZIWjNHNE5ZZ0J0VGg1RlpXWm95TDFTNnpNQUZrN3I5Uk1KY3FFcnVCMUE?oc=5"
+      "category": "環境・気候",
+      "title": "猛烈な台風9号(バービー) グアムやサイパンは厳重警戒 進路は沖縄の南へ",
+      "summary": "猛烈な強さに発達した台風9号（バービー）がマリアナ諸島付近に位置しており、グアムやサイパンは厳重な警戒態勢が敷かれています。台風はその後、日本の南側である沖縄の南方面に向けて進む予報となっており、今後の動向に注意が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBVlNJYVh2dndqUGNucTRzMkFKNVg1N2w0T3JncGJvX0I5bmlrbnhvOGZjcDYtV0ZnaVdsMktPWlFLZGdwdkpCdkJrVjdtYzBEbWozSw?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "アメリカ建国250年、お台場で祝賀イベント 小泉防衛相らが祝意",
-      "summary": "アメリカ建国250周年を祝うイベントがお台場で開催され、小泉防衛相をはじめとする要人らが祝意を述べました。日米両国の友好関係を象徴する催しとして、多くの参加者が集まりました。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rV25pOWdjVU5Rd1htRGN1dXhWY2JJOFJyaHdranpSa1E2Y1pmRXVTdXpCanRuUzN3OE5oNGJpTHNCeUVPTVdXRWg5enE4T0ZhQ0pTbHlCODZ0UEp2aWI2c3NLbVJkSDFaeXpDUw?oc=5"
+      "title": "イラン葬儀、波乱の歴史 転げ出る遺体、要人暗殺計画も：時事ドットコム",
+      "summary": "イランにおける過去の大規模な葬儀に関連した波乱の歴史について検証しています。歴史的な葬儀中に起きた物理的な大混乱や、国を揺るがす要人の暗殺計画といった背景など、宗教・政治が交錯するイラン社会の特異な記録を追っています。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRc1BpYmN0c091QktpTzNvaTllU1UyZU9Jc3VVakh3SWFmM1RXbnprZ3NYZ28ta2NEYW41M1BWVXdyU1FNQzRxTzJvblBNdGYxS3BMenAwOG84ZUtQQ1FQWjFkWQ?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "アングル：欧州、熱波で気候変動への無防備さ露呈 「適応」対策が急務",
-      "summary": "欧州各地を襲う熱波により、気候変動への適応対策の遅れが浮き彫りになっています。各国は猛暑への対応に追われ、インフラ整備や住民への情報提供など、より抜本的な対策が急務とされています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KOF81dHVBTEtFMTVNUmlBZTdhTHZQZUNTdkNIWHVHcFdsd2kwNmNoeDdqNndxVDZmVlB3aUJhX3EyUnU5YUhoYnV1MUlXRVlkMl9wSFB2c3hMaGN4QS1WenZGRE9lejZpc1FVQV9EZGVHWHVnRFdIRzBkS3RwMmM?oc=5"
+      "category": "国際",
+      "title": "ロシア、ウクライナ東部要衝コスチャンチニウカ「制圧」と発表 事実ならウクライナ打撃",
+      "summary": "ロシア軍がウクライナ東部の主要要衝地であるコスチャンチニウカを制圧したと発表しました。この地点は地域の防御網における極めて重要な拠点であり、事実であればウクライナ軍の防御態勢において大きな損害となることが予想されます。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FdDk3ekZGeHZVd2dxLS05ek9lRTdxcjlNSVhTT1QwZVVtdGRsc2tDcU1xVlBqNnI1ZV81d2xockRrUzZiNUQ4QTRzMk9kOHI5MkdBSm9Ob3JrOURTRWtoUDN5cWJsZ0xoYXZnRFlFRllZYkJCRmc?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "高市氏、モディ首相から「美しい妹」と紹介－「親密さ」をアピール",
-      "summary": "高市氏がインドのモディ首相から「美しい妹」と紹介され、両者の親密な関係性がアピールされました。この発言は外交の場で注目を集め、両国間の協力関係強化への期待が高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NSVUxdS05LURtZmltVUtzWDJXdnk3QmNVM2xmOXJyNjE1STZEdGFYZ3dTUHlwUzFQWklseHlvTENGUDVnVE9HYjI2Vi14aHVJS25fV3R5UG1sb0s3Z0xVcjV2eVVTaExTS3hWTHl0ZGNwY0hOMXJj?oc=5"
+      "category": "社会",
+      "title": "東京・中野区の火災 午後5時過ぎに鎮圧 7軒に燃え広がり消防30台以上が出動",
+      "summary": "東京・中野区で発生した火災は、近隣の住宅などを含む合計7棟の建物に燃え広がり、一時緊迫した事態となりましたが、夕方5時過ぎにほぼ鎮圧されました。消火にあたるため、消防車両等30台以上が緊急動員されました。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBbGRWNzB1RVJTMWt1YVZRMU1mT3MteUx2TGJseWRZWWc5czk0OXZuMldQSjh3aDR4ZkJVRHVubU9DbjF3V05KdXFvZ2hfRFkwVmRvMVhrOVQtU21WR1xlN2sxeFBtTjJSSzRCWm1zVTM4UQ?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Climate",
-      "title": "米国の大規模な州見本市が熱波で一時閉鎖、その他の混乱も発生",
-      "summary": "米国を襲う熱波により、恒例の大規模な州見本市が一時的に閉鎖されるなど、各地で混乱が生じています。記録的な暑さが続く中、イベントの中止や交通機関への影響が報告されており、市民生活に大きな影響を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV09RTU1aRlBOaXV3bUE5N3hoUWhFVEN1ODZINm80anRMRzluNlRNbTFralo5Q01PbEVTZ19iMVNzSHFjaEZ0dWN3LXMtck1PSGsyRF9lalRkR1dITWFkS00xVDRvcUNFUzc1YTZCWVZ1RjlnZ3JsTDVGTUdaX1NKWU1Qd2J1clVWdEREZ0hoZ2lMSWpYSDA2c0F1RXVEMHdhel9HeURHd1RJT3pNSUxPVFQ4WmNmRTFVNGJCM2xvS0M?oc=5"
+      "title": "熱波が祝典を混乱させる中、アメリカが建国250周年記念日を迎える",
+      "summary": "アメリカ建国250周年の節目となる独立記念日を迎えましたが、記録的な大熱波が全米各地を襲い、一部の公式行事の変更やイベントの中止を余儀なくされるなど、祝賀ムードのなかに熱中症対策への警戒が広まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VbjRQSWlVSHZhTS1RTVhnTWc3RUZWZG8za20wWExsT3R5SmpFRmxxSlJzSm9LQnVBdTBlUF8yYmhueHNTbml5R09IYXNXejhOendFdQ?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "米国とイスラエルの攻撃数ヶ月後、イランはハメネイ師の盛大な葬儀を準備",
-      "summary": "米国とイスラエルの攻撃から数ヶ月後、イランでは最高指導者ハメネイ師の盛大な葬儀の準備が進められています。この動きは、地域の緊張が高まる中で、イランの政治的安定と後継者問題に注目が集まることを示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTVFUHMxN0FPbU51UVVxbE4yZmVjN19xN0JNY2Z4TVlFRXByZVJVa283U01kcTl2VkpDQWFmX21ZU0dIQV8zMnA1dTFWd3ZTVTJmMDM3djRzNnlQa1FpLWV4RFdMWENaWURYVENmRl9SVkJxdDdicGNOWWtfOGl6bVlHRGZGSGMwTFE?oc=5"
+      "title": "ラシュモア山での演説で、トランプ氏は米国の並外れた偉大さの称賛から共産主義への警告へと移行",
+      "summary": "トランプ大統領はラシュモア山で行った独立記念日演説で、アメリカ特有の国家の強さを誇る論調から一歩進めて、現代の社会動向における左傾化や共産主義の浸透に対する強い警告のメッセージを発しました。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFJvbXhBYl9GradxsUExGWkRvRDhPWDVJQi0zZEMwNW5VVHNHcnNZTDhkR0hSdTB5a1A3M0xwZW5lVklsVzBuZVlGSVlhY0FPWDU4bHUzMHhSNUVJa25rWk5LRmRWV2xzZlk5Snk4TUc0cGYwWnJncFhPNnRWZmlvX0RYSDFQdkI4?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "アメリカ建国250周年祝典が盛り上がる中、猛烈な熱波が襲来。トランプ氏がラシュモア山へ",
-      "summary": "アメリカ建国250周年を祝うイベントが各地で活発化する一方、国内では猛烈な熱波が猛威を振るっています。この状況下でトランプ氏がラシュモア山を訪れるなど、祝賀ムードと気候変動の影響が交錯する一日となりました。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblE3V2g1dE5UeTNfUkdDanpSbTdrbktXdjhDUUg5eXhycWtsSEFPcmpLOFZBMDd3ZzJwTFF3MkN5VGVROWhwd1ZTZjZ1OVVYdnZ0Sy10RlhzOVQ3WG5UV2x2Z2tTRHpFVXhpaTl1UWY1NXZrTUJPU3BVV04yTUdtdEpYbURxMkEyVXllMzlDWkpzamR6WXdDd3FFQ2FsYmth?oc=5"
+      "category": "Politics",
+      "title": "ハメネイ師の6日間にわたる国葬に向けて、テヘランに大群衆が集結",
+      "summary": "死去したイラン最高指導者ハメネイ師を追悼するため、テヘランにて6日間にわたる大規模な葬儀が始まり、市内には膨大な市民や支持者が詰めかけています。最高権力者の移行時期に直面した国家の節目として警戒も高められています。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlBtNmxSdjloaFlRV0VRSzh1Xzh4ZGRRMldwSjNMUWJhSVRwVTQ5U3gxZFVGUlBveHJGc2hiSnVaVHIybVRsX3JkNS1IOFdFX3FZZTF6UHE0Z2dxbkNXaXhtTFMwdHhnQklIR1Q0cVNTUXZralNwY29NU2lQTkdPdjNhYWI3OW5STWFN?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Culture",
-      "title": "「多数から一つへ、藻もまた然り：なぜ緑の池の汚泥は赤、白、青と同じくらいアメリカ的であるのか」",
-      "summary": "ニューヨーク・タイムズ紙は、米国の多様性を象徴するユニークな視点として、池の緑色の汚泥（藻類）を取り上げました。これは、赤・白・青の国旗の色と同様に、アメリカの広範な生態系と多様な景観の一部であるという文化的な考察を提示しています。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yUmlzNjdOVEhMLUFWak90S1B4R0VGS2VmMzM3VER3Y0J0WlJVZ3RRQjRndHNtREJZaEI5UDdIZGNVUFN1TkJIUklVUWhKbGJfVy1YSUU3QmRkVnRfT0pnUnNKNzhDN0FSQjR5Ym1NNDF3MEZIblNOQw?oc=5"
+      "title": "7月4日、全米が「アメリカの250歳の誕生日」を祝う：最新ライブ更新",
+      "summary": "アメリカ合衆国が250回目の独立記念日を迎え、全米各地で華やかなパレードや花火、催し物が行われています。歴史的アニバーサリーを盛大に祝う人々の熱気と各地の祝典状況が、リアルタイムに配信されています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EOW12REEyMjBEUGZYMnVwbVZPblgwemRaZF9Fb3FyMG9DcDc0dndOUmJRX2Iwa0c5N19ob0FLdXkwSl96R1VvWFAwV1hnaEpYb2FraXRmUHJHQmVTbUtsSmdMdl9DZTJsWXVWZzZxOThpbFJ5WXc?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Culture",
-      "title": "調査対象のアメリカ人の約半数が、建国250周年が何を記念するものかを知らない",
-      "summary": "NPRの調査によると、アメリカ人の約半数が、現在進行中のアメリカ建国250周年記念が何を祝うものなのかを認識していないことが明らかになりました。これは、重要な歴史的節目に対する国民の意識のギャップを示唆しており、啓発活動の必要性が指摘されています。",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2U4XzA2c29Db1N2TEktYWJnNEZmUnkyeGE3dTRKclFER1A5LTZJV0s0ampHRklpMFI1YThPUnY2NmQ0dmNORjNnWUduU1Q5aHRoYkxROWVmZVhvVWU5TnJyYXNITkI4Z19CNDhtclZQTGhtZTY4QlcwUnRISlRxMnZkTjV3XzljRzlxN1d1TmRWUEhzTHMtWndmdU1GVnBIaUpaU09fb2I2eURzbXc0LXZwTENHSGVhYmJSZg?oc=5"
+      "title": "帆船パレードがニューヨーク港を航行、建国250周年イベント「Sail4th 250」を盛大に演出：写真特集",
+      "summary": "建国250周年を祝う一連のプログラムの一環として、各国の美しい大型帆船が集まるパレードがニューヨーク港で行われました。独立記念日の空を背景に風を受け進むクラシックな帆船たちの様子が、多くの人々を魅了しました。",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVpmRWlwMmtZZElBNzdSek00cjNMNnhHWjJCajNFMUpjekRpMWNqdWRNR183dVZ1d3ptMlRFV2RwTWZBcEs3c3k3ek9XTWkzbi03X0RaTVNveTNNbVpPbi1uekdWTXkwaDNySVB3aTZiN212QTk2UmxaejU5TnE4V3N5bkxOVFA1SjFybUlqcVdoMm9oTENYdWhBb1k0OWFEQi1nMHJuYmg0NU9nZjc5UFBsdFVMUjgxTHljeXFydGE?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツでACL損傷が増加している理由",
-      "summary": "女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向について分析した記事。生物学的要因（Qアングル、靭帯弛緩性など）や社会文化的要因（早期専門化、トレーニング不足など）が複合的に関与している可能性を指摘し、特に成長期の女子選手に対する予防策の重要性を強調している。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "思春期バレーボール選手における神経筋トレーニングの二重の利点：膝関節損傷予防と運動能力向上は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
+      "summary": "本レビューは、思春期のバレーボール選手に対する神経筋トレーニングが、膝関節損傷予防と運動能力向上という二重の利益をもたらすことを示唆しています。特に、両効果が共通のメカニズム的基盤、すなわち運動制御の改善に基づいていることを、構造化された物語レビューによって明らかにしました。このトレーニングは、着地時の衝撃吸収能力や方向転換時の安定性を高めることでACL損傷などのリスクを低減し、同時にジャンプ力や加速能力も向上させます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "アリストテレスの腕振り仮説：オリンピック短距離走選手における順動力学および逆動力学からの生体力学的証拠",
-      "summary": "アリストテレスが提唱した「腕振り」が走行パフォーマンスに与える影響について、オリンピック短距離走選手の生体力学的データを分析した研究。順動力学と逆動力学アプローチを用いて、腕振りが推進力生成とバランス維持にどのように寄与するかを明らかにしている。",
+      "title": "アリストテレスの腕振り仮説：オリンピックスプリンターにおける順動力学および逆動力学からの生体力学的証拠",
+      "summary": "オリンピックのスプリンターを対象とした研究で、アリストテレスの腕振り仮説、すなわち腕振りが走動作の推進力に寄与するという考え方が生体力学的に検証されました。順動力学および逆動力学解析を用いた結果、腕振りは身体のバランスと効率的な運動連鎖を最適化し、スプリント速度向上に不可欠な役割を果たすことが示されました。特に、地面反力と重心移動の効率化に貢献しています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWp0Wnh4SlNtdTdWRUJ5ampyYkl6am1Ecy1aeXVBd3N3VDhoZEVqWWZObjh3MXV2aHhOd3FBZWdraS1aQVQxQjZVQk94R0k3d0ViRVBaTmYwUjVFNm8yLVhzS2x5V3h0TDR4ZWJtUlhuWEtRWHY0NGhZdm9nUGVkT0FmNEQtNG9NaVByR0JYVWNxMGtKUWwybF9NYTFEUmp6eHRRRA?oc=5"
     }
   ],
@@ -349,160 +349,160 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "思春期バレーボール選手における神経筋トレーニングの二重の利点：膝関節損傷予防と運動能力向上は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
-      "summary": "本レビューは、思春期のバレーボール選手に対する神経筋トレーニングが、膝関節損傷予防と運動能力向上という二重の利益をもたらすことを示唆しています。特に、両効果が共通のメカニズム的基盤、すなわち運動制御の改善に基づいていることを、構造化された物語レビューによって明らかにしました。このトレーニングは、着地時の衝撃吸収能力や方向転換時の安定性を高めることでACL損傷などのリスクを低減し、同時にジャンプ力や加速能力も向上させます。",
+      "title": "青少年バレーボール選手における神経筋トレーニングの二重のメリット：膝傷害予防と競技パフォーマンス向上は共通の力学的基盤を共有している",
+      "summary": "青少年バレーボール選手を対象に、神経筋トレーニング（NMT）の効果を検証した構造化ナラティブレビューです。NMTは、膝関節の傷害予防（特にACL損傷）において効果があるだけでなく、ジャンプ力や敏捷性などの競技パフォーマンス向上にも寄与することが実証されました。これらは、適切な関節制御やアライメント修正という共通の神経力学的メカニズムに基づいています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "アリストテレスの腕振り仮説：オリンピックスプリンターにおける順動力学および逆動力学からの生体力学的証拠",
-      "summary": "オリンピックのスプリンターを対象とした研究で、アリストテレスの腕振り仮説、すなわち腕振りが走動作の推進力に寄与するという考え方が生体力学的に検証されました。順動力学および逆動力学解析を用いた結果、腕振りは身体のバランスと効率的な運動連鎖を最適化し、スプリント速度向上に不可欠な役割を果たすことが示されました。特に、地面反力と重心移動の効率化に貢献しています。",
+      "title": "アリストテレスの腕振り仮説：オリンピック短距離選手における順力学および逆力学からのバイオメカニクス的証拠",
+      "summary": "オリンピック短距離選手の走行データを基に、アリストテレスの腕振り仮説を最先端のバイオメカニクス技術で検証しました。順力学および逆力学シミュレーションを用い、腕振りが単なるバランス維持にとどまらず、骨盤の不要な回転を抑えて垂直方向の推進効率を高める役割を持つことを定量的に明らかにしました。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWp0Wnh4SlNtdTdWRUJ5ampyYkl6am1Ecy1aeXVBd3N3VDhoZEVqWWZObjh3MXV2aHhOd3FBZWdraS1aQVQxQjZVQk94R0k3d0ViRVBaTmYwUjVFNm8yLVhzS2x5V3h0TDR4ZWJtUlhuWEtRWHY0NGhZdm9nUGVkT0FmNEQtNG9NaVByR0JYVWNxMGtKUWwybF9NYTFEUmp6eHRRRA?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "新しいACL手術アプローチがほとんどの患者の活動復帰を支援",
-      "summary": "新しい前十字靭帯（ACL）手術アプローチが、ほとんどの患者の活動復帰に貢献していると報告されました。このアプローチは、従来の再建術に加えて、残存するACL線維の温存や内側半月板前角の補強など、より生体力学的に優れた安定性を目指すものです。研究では、手術を受けた患者の高い割合が術後早期にスポーツ活動へと安全に復帰できることが示されています。",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo7S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5"
+      "title": "新たなACL手術アプローチにより、大半の患者が速やかな活動復帰を果たす",
+      "summary": "前十字靭帯（ACL）損傷に対する新しい再建手術アプローチについての臨床評価が行われました。この手法は、膝関節の解剖学的なアライメントと安定性をより高度に再現することで、患者の術後経過を改善し、術後早期のリハビリ開始および高い割合での安全なスポーツ復帰をサポートします。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo3S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレー・ヘルス・システムがアスリートの最高のパフォーマンスへの安全な復帰を支援するスポーツ復帰プログラムを開始",
-      "summary": "Valley Health Systemが、アスリートが安全に最高のパフォーマンスを再開できるよう支援する「スポーツ復帰プログラム」を開始しました。このプログラムは、怪我からの回復期にあるアスリートに対し、身体的なリハビリテーションだけでなく、心理的なサポートや競技復帰に向けた機能テストを包括的に提供することを目的としています。個別化されたアプローチにより、再負傷のリスクを最小限に抑えながら段階的な復帰を促します。",
+      "title": "バレー・ヘルス・システムが、アスリートが最高のパフォーマンスで安全に復帰するための競技復帰プログラムを開始",
+      "summary": "バレー・ヘルス・システムは、怪我をしたアスリートをサポートするための専門的な「リターン・トゥ・スポーツ」プログラムを新たに立ち上げました。本プログラムは、単に組織の回復を待つだけでなく、競技固有のバイオメカニクスや動作解析を用いた専門的な評価指標を用いて、選手を段階的かつ安全に完全復帰へと導く内容となっています。",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女性サッカー選手における再発性肩関節後方脱臼による疼痛管理のための補助的な鍼灸治療：症例報告",
-      "summary": "女性サッカー選手における再発性肩関節後方脱臼による疼痛管理に、鍼治療と灸治療を補助的に用いた症例が報告されました。この選手は、従来のリハビリテーションでは改善が見られなかった慢性的な肩の痛みを抱えていましたが、鍼灸治療の併用により痛みが有意に軽減し、肩関節の安定性と可動域が改善しました。本症例は、東洋医学がスポーツ選手の痛みに有効な選択肢となり得ることを示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
+      "title": "専門性の奪還：鍼灸師がドライニードリング分野をリードすべき理由",
+      "summary": "理学療法などの領域でも取り入れられているドライニードリングに関し、鍼の本来の専門家である鍼灸師が主導的な立場を担うべきであるとの提言です。解剖学的な知見および経穴・経絡理論に精通した鍼灸師が深く関わることで、筋筋膜性疼痛やトリガーポイント治療における安全性が高められると論じています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlFvT0I5QmFQOGg3SWdIcWRNdEZiY0JCV1hOX19waXRwOWZiUUMxYTk1dGs4bm1Vd3owMlpKbWgzV2pKQXJ3bW1nR3FrMDJtQjBxUDRrU3c4OXpudUJSUTFJN25nX0FzQmJ3NXp6UHFQdW1WRXFQVHd0eVQ0TUltSFptaXdkMms0ZXRUT1g2dEtSemZ1ZnItNTRhd2F4djVXLXRPS2l4elBpLUlPYXdVSGRB?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "クレアチンとプロテインパウダーを一緒に摂取すると体に何が起こるか",
-      "summary": "クレアチンとプロテインパウダーを同時に摂取した場合の身体への影響について解説されました。クレアチンは筋肉内のATP生成を促進し、瞬発力や筋力向上に寄与する一方、プロテインは筋肉の修復と成長に必要なアミノ酸を供給します。両者を併用することで、トレーニング後の筋肉回復が促進され、筋力および筋肉量の増加が効率的に進む可能性が示唆されています。適切な摂取量とタイミングが重要です。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDJ1a2dZNk9zcjdvUjFsV3JfLXdCcWR5aEVQVllWSm5qOUxLanRmWXY0SFZXSTF0YUdIV0s1QjdyeExLSGFlQzJObWoyM21tTXBMNDlDa2FWUVFDTUxfU0xGZThKX04wcUJoX0VCWlVOWENBelhoUHFDRm1uZW94T1dDT2tmMllhM3pNag?oc=5"
+      "title": "女性におけるクレアチンの6つのメリット",
+      "summary": "男性用サプリメントと思われがちなクレアチンについて、女性にもたらされる効果を整理した解説です。筋力や無酸素運動能力の向上だけでなく、女性特有の生理周期に伴う疲労や認知機能低下の緩和、さらには更年期における骨量維持やメンタルヘルスの改善など多面的なメリットがあることが示されました。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rNndNTl9zaTNfU0dKa3N5TVVCWjh4YklnRWxQSEd1c19JdXVRUWwwQjJwR3Y2TmtQVHpKZW9Za29aNTVLT20wRU83TXpxMnFMS1JUOWhfQ1pleTRVaDlHTFJmMWtFUGd5QU1laWQwTnduWTlucjE1TzNB?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートのメンタルヘルスサポートに関する親とコーチへのヒントが提供されました。学業、競技、社交生活のプレッシャーにより、学生アスリートは精神的ストレスを抱えやすい状況にあります。記事では、オープンなコミュニケーションの促進、成功だけでなく努力を認めること、休息の重要性を強調し、専門家の助けを求めることの重要性を指摘しています。早期の兆候に気づくことが重要です。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "title": "学生アスリートのメンタルヘルス：保護者や指導者のためのヒント",
+      "summary": "学生アスリートが抱える心理的ストレスや、過度なプレッシャーによる燃え尽き症候群（バーンアウト）の問題に焦点を当てています。ジョンズ・ホプキンス医学の専門家らは、指導者や親が子供のプレッシャーのサインに気づく重要性を述べ、適切な傾聴姿勢やバランスの取れた成長支援のアプローチを提示しています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "パフォーマンスを超えたスポーツ科学：研究者が探求し続ける領域",
-      "summary": "スポーツ科学が単なるパフォーマンス向上を超え、研究者たちが探求を続ける新たな領域について論じられました。これには、睡眠の質が回復とパフォーマンスに与える影響、精神的強さやレジリエンスの育成、栄養戦略の個別化、ウェアラブル技術を用いたリアルタイムの生体データ分析などが含まれます。スポーツ科学は、アスリートの全体的な健康と長期的なキャリアサポートへと焦点を広げています。",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVW55N0tXaFcwa25OSmdibldXa3VUbnpEaXlYTWs3Yi1DaGJ0UGpWcW5kdXAwaExTU1dfWmd4MlNWSF9KZU1keWtqSjc0a051X0V6dkMtcERkSzkxbTNnNzNhd0Y3VzBfaEFtcG9HM1pDOVRuRjhfcGp5Q3dQTWQ3b0txRHlUVTdEUGs3NkZ5bm5aV01MOE9tVjBLSkNscVlkRnBDa2txdWJYRko4c3w?oc=5"
+      "title": "社説：アスリートの回復の最適化：リカバリー戦略と睡眠がスポーツパフォーマンスに及ぼす影響",
+      "summary": "アスリートにおける多角的なリカバリー手法と睡眠の関係性をまとめた社説です。アイスバスやアクティブリカバリーといった物理的手段を講じる場合でも、基礎となる高品質な睡眠が伴わなければ最大の回復効果は得られないことが強調されており、睡眠時間が運動機能および認知機能の回復に決定的な影響を与えます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "ペルー大統領選、ケイコ・フジモリ氏が４度目の挑戦で悲願達成…選管当局が当選発表",
-      "summary": "ペルーの大統領選で、ケイコ・フジモリ氏が4度目の挑戦にしてついに当選を果たしました。選管当局が3日、同氏の当選を正式に発表。長年の悲願達成となり、今後のペルー政局の動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vZlpJR01Qamo0eW5OVTZPb0h3dEhIMGpibjBmeml3RGhMQW5EVjFWSlMzaXRwU2xiNllEYVdSZHNHMzZ6a0w4WG9DakhYWW1CS01HdUpZUEFBQ3lWRVFrVkR3?oc=5"
+      "title": "【速報】トランプ米大統領の演説始まる",
+      "summary": "アメリカ独立記念日を祝う式典にて、トランプ米大統領による演説が始まりました。アメリカ第一主義の成果や、今後の国内外の政策方針に関するメッセージが語られる見込みで、注目が集まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FUDNMR3JtWWUtcWxQbmhPZmNpU1JmY2RMUTNBYlFzTEc3RTdMTmV6a01qMWh1MkVOYVJxLWRQb19FRV8zT0FwX05ENA?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "皇室典範改正案の審議入り模索も…野党、事実上の審議拒否 空転国会、見えぬ好転の兆し",
-      "summary": "皇室典範改正案の審議入りが模索される中、野党が事実上の審議拒否に転じ、国会の空転が続いています。政府・与党は協議を呼びかけていますが、打開策は見えず、国政の停滞に懸念が広がっています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ibFJmcnRjMEtYYlhjcVNMQU9lZU5kOExVblRjWTdOX3VBX3RSbHhvREFpRldTc2J0d3dxTHFQRU5EWTBuMWVwcGZUZGZIWjNHNE5ZZ0J0VGg1RlpXWm95TDFTNnpNQUZrN3I5Uk1KY3FFcnVCMUE?oc=5"
+      "category": "環境・気候",
+      "title": "猛烈な台風9号(バービー) グアムやサイパンは厳重警戒 進路は沖縄の南へ",
+      "summary": "猛烈な強さに発達した台風9号（バービー）がマリアナ諸島付近に位置しており、グアムやサイパンは厳重な警戒態勢が敷かれています。台風はその後、日本の南側である沖縄の南方面に向けて進む予報となっており、今後の動向に注意が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBVlNJYVh2dndqUGNucTRzMkFKNVg1N2w0T3JncGJvX0I5bmlrbnhvOGZjcDYtV0ZnaVdsMktPWlFLZGdwdkpCdkJrVjdtYzBEbWozSw?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "アメリカ建国250年、お台場で祝賀イベント 小泉防衛相らが祝意",
-      "summary": "アメリカ建国250周年を祝うイベントがお台場で開催され、小泉防衛相をはじめとする要人らが祝意を述べました。日米両国の友好関係を象徴する催しとして、多くの参加者が集まりました。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rV25pOWdjVU5Rd1htRGN1dXhWY2JJOFJyaHdranpSa1E2Y1pmRXVTdXpCanRuUzN3OE5oNGJpTHNCeUVPTVdXRWg5enE4T0ZhQ0pTbHlCODZ0UEp2aWI2c3NLbVJkSDFaeXpDUw?oc=5"
+      "title": "イラン葬儀、波乱の歴史 転げ出る遺体、要人暗殺計画も：時事ドットコム",
+      "summary": "イランにおける過去の大規模な葬儀に関連した波乱の歴史について検証しています。歴史的な葬儀中に起きた物理的な大混乱や、国を揺るがす要人の暗殺計画といった背景など、宗教・政治が交錯するイラン社会の特異な記録を追っています。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRc1BpYmN0c091QktpTzNvaTllU1UyZU9Jc3VVakh3SWFmM1RXbnprZ3NYZ28ta2NEYW41M1BWVXdyU1FNQzRxTzJvblBNdGYxS3BMenAwOG84ZUtQQ1FQWjFkWQ?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "アングル：欧州、熱波で気候変動への無防備さ露呈 「適応」対策が急務",
-      "summary": "欧州各地を襲う熱波により、気候変動への適応対策の遅れが浮き彫りになっています。各国は猛暑への対応に追われ、インフラ整備や住民への情報提供など、より抜本的な対策が急務とされています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KOF81dHVBTEtFMTVNUmlBZTdhTHZQZUNTdkNIWHVHcFdsd2kwNmNoeDdqNndxVDZmVlB3aUJhX3EyUnU5YUhoYnV1MUlXRVlkMl9wSFB2c3hMaGN4QS1WenZGRE9lejZpc1FVQV9EZGVHWHVnRFdIRzBkS3RwMmM?oc=5"
+      "category": "国際",
+      "title": "ロシア、ウクライナ東部要衝コスチャンチニウカ「制圧」と発表 事実ならウクライナ打撃",
+      "summary": "ロシア軍がウクライナ東部の主要要衝地であるコスチャンチニウカを制圧したと発表しました。この地点は地域の防御網における極めて重要な拠点であり、事実であればウクライナ軍の防御態勢において大きな損害となることが予想されます。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FdDk3ekZGeHZVd2dxLS05ek9lRTdxcjlNSVhTT1QwZVVtdGRsc2tDcU1xVlBqNnI1ZV81d2xockRrUzZiNUQ4QTRzMk9kOHI5MkdBSm9Ob3JrOURTRWtoUDN5cWJsZ0xoYXZnRFlFRllZYkJCRmc?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "高市氏、モディ首相から「美しい妹」と紹介－「親密さ」をアピール",
-      "summary": "高市氏がインドのモディ首相から「美しい妹」と紹介され、両者の親密な関係性がアピールされました。この発言は外交の場で注目を集め、両国間の協力関係強化への期待が高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NSVUxdS05LURtZmltVUtzWDJXdnk3QmNVM2xmOXJyNjE1STZEdGFYZ3dTUHlwUzFQWklseHlvTENGUDVnVE9HYjI2Vi14aHVJS25fV3R5UG1sb0s3Z0xVcjV2eVVTaExTS3hWTHl0ZGNwY0hOMXJj?oc=5"
+      "category": "社会",
+      "title": "東京・中野区の火災 午後5時過ぎに鎮圧 7軒に燃え広がり消防30台以上が出動",
+      "summary": "東京・中野区で発生した火災は、近隣の住宅などを含む合計7棟の建物に燃え広がり、一時緊迫した事態となりましたが、夕方5時過ぎにほぼ鎮圧されました。消火にあたるため、消防車両等30台以上が緊急動員されました。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBbGRWNzB1RVJTMWt1YVZRMU1mT3MteUx2TGJseWRZWWc5czk0OXZuMldQSjh3aDR4ZkJVRHVubU9DbjF3V05KdXFvZ2hfRFkwVmRvMVhrOVQtU21WR1xlN2sxeFBtTjJSSzRCWm1zVTM4UQ?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Climate",
-      "title": "米国の大規模な州見本市が熱波で一時閉鎖、その他の混乱も発生",
-      "summary": "米国を襲う熱波により、恒例の大規模な州見本市が一時的に閉鎖されるなど、各地で混乱が生じています。記録的な暑さが続く中、イベントの中止や交通機関への影響が報告されており、市民生活に大きな影響を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV09RTU1aRlBOaXV3bUE5N3hoUWhFVEN1ODZINm80anRMRzluNlRNbTFralo5Q01PbEVTZ19iMVNzSHFjaEZ0dWN3LXMtck1PSGsyRF9lalRkR1dITWFkS00xVDRvcUNFUzc1YTZCWVZ1RjlnZ3JsTDVGTUdaX1NKWU1Qd2J1clVWdEREZ0hoZ2lMSWpYSDA2c0F1RXVEMHdhel9HeURHd1RJT3pNSUxPVFQ4WmNmRTFVNGJCM2xvS0M?oc=5"
+      "title": "熱波が祝典を混乱させる中、アメリカが建国250周年記念日を迎える",
+      "summary": "アメリカ建国250周年の節目となる独立記念日を迎えましたが、記録的な大熱波が全米各地を襲い、一部の公式行事の変更やイベントの中止を余儀なくされるなど、祝賀ムードのなかに熱中症対策への警戒が広まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VbjRQSWlVSHZhTS1RTVhnTWc3RUZWZG8za20wWExsT3R5SmpFRmxxSlJzSm9LQnVBdTBlUF8yYmhueHNTbml5R09IYXNXejhOendFdQ?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "米国とイスラエルの攻撃数ヶ月後、イランはハメネイ師の盛大な葬儀を準備",
-      "summary": "米国とイスラエルの攻撃から数ヶ月後、イランでは最高指導者ハメネイ師の盛大な葬儀の準備が進められています。この動きは、地域の緊張が高まる中で、イランの政治的安定と後継者問題に注目が集まることを示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTVFUHMxN0FPbU51UVVxbE4yZmVjN19xN0JNY2Z4TVlFRXByZVJVa283U01kcTl2VkpDQWFmX21ZU0dIQV8zMnA1dTFWd3ZTVTJmMDM3djRzNnlQa1FpLWV4RFdMWENaWURYVENmRl9SVkJxdDdicGNOWWtfOGl6bVlHRGZGSGMwTFE?oc=5"
+      "title": "ラシュモア山での演説で、トランプ氏は米国の並外れた偉大さの称賛から共産主義への警告へと移行",
+      "summary": "トランプ大統領はラシュモア山で行った独立記念日演説で、アメリカ特有の国家の強さを誇る論調から一歩進めて、現代の社会動向における左傾化や共産主義の浸透に対する強い警告のメッセージを発しました。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFJvbXhBYl9GradxsUExGWkRvRDhPWDVJQi0zZEMwNW5VVHNHcnNZTDhkR0hSdTB5a1A3M0xwZW5lVklsVzBuZVlGSVlhY0FPWDU4bHUzMHhSNUVJa25rWk5LRmRWV2xzZlk5Snk4TUc0cGYwWnJncFhPNnRWZmlvX0RYSDFQdkI4?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "アメリカ建国250周年祝典が盛り上がる中、猛烈な熱波が襲来。トランプ氏がラシュモア山へ",
-      "summary": "アメリカ建国250周年を祝うイベントが各地で活発化する一方、国内では猛烈な熱波が猛威を振るっています。この状況下でトランプ氏がラシュモア山を訪れるなど、祝賀ムードと気候変動の影響が交錯する一日となりました。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblE3V2g1dE5UeTNfUkdDanpSbTdrbktXdjhDUUg5eXhycWtsSEFPcmpLOFZBMDd3ZzJwTFF3MkN5VGVROWhwd1ZTZjZ1OVVYdnZ0Sy10RlhzOVQ3WG5UV2x2Z2tTRHpFVXhpaTl1UWY1NXZrTUJPU3BVV04yTUdtdEpYbURxMkEyVXllMzlDWkpzamR6WXdDd3FFQ2FsYmth?oc=5"
+      "category": "Politics",
+      "title": "ハメネイ師の6日間にわたる国葬に向けて、テヘランに大群衆が集結",
+      "summary": "死去したイラン最高指導者ハメネイ師を追悼するため、テヘランにて6日間にわたる大規模な葬儀が始まり、市内には膨大な市民や支持者が詰めかけています。最高権力者の移行時期に直面した国家の節目として警戒も高められています。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlBtNmxSdjloaFlRV0VRSzh1Xzh4ZGRRMldwSjNMUWJhSVRwVTQ5U3gxZFVGUlBveHJGc2hiSnVaVHIybVRsX3JkNS1IOFdFX3FZZTF6UHE0Z2dxbkNXaXhtTFMwdHhnQklIR1Q0cVNTUXZralNwY29NU2lQTkdPdjNhYWI3OW5STWFN?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Culture",
-      "title": "「多数から一つへ、藻もまた然り：なぜ緑の池の汚泥は赤、白、青と同じくらいアメリカ的であるのか」",
-      "summary": "ニューヨーク・タイムズ紙は、米国の多様性を象徴するユニークな視点として、池の緑色の汚泥（藻類）を取り上げました。これは、赤・白・青の国旗の色と同様に、アメリカの広範な生態系と多様な景観の一部であるという文化的な考察を提示しています。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yUmlzNjdOVEhMLUFWak90S1B4R0VGS2VmMzM3VER3Y0J0WlJVZ3RRQjRndHNtREJZaEI5UDdIZGNVUFN1TkJIUklVUWhKbGJfVy1YSUU3QmRkVnRfT0pnUnNKNzhDN0FSQjR5Ym1NNDF3MEZIblNOQw?oc=5"
+      "title": "7月4日、全米が「アメリカの250歳の誕生日」を祝う：最新ライブ更新",
+      "summary": "アメリカ合衆国が250回目の独立記念日を迎え、全米各地で華やかなパレードや花火、催し物が行われています。歴史的アニバーサリーを盛大に祝う人々の熱気と各地の祝典状況が、リアルタイムに配信されています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EOW12REEyMjBEUGZYMnVwbVZPblgwemRaZF9Fb3FyMG9DcDc0dndOUmJRX2Iwa0c5N19ob0FLdXkwSl96R1VvWFAwV1hnaEpYb2FraXRmUHJHQmVTbUtsSmdMdl9DZTJsWXVWZzZxOThpbFJ5WXc?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Culture",
-      "title": "調査対象のアメリカ人の約半数が、建国250周年が何を記念するものかを知らない",
-      "summary": "NPRの調査によると、アメリカ人の約半数が、現在進行中のアメリカ建国250周年記念が何を祝うものなのかを認識していないことが明らかになりました。これは、重要な歴史的節目に対する国民の意識のギャップを示唆しており、啓発活動の必要性が指摘されています。",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2U4XzA2c29Db1N2TEktYWJnNEZmUnkyeGE3dTRKclFER1A5LTZJV0s0ampHRklpMFI1YThPUnY2NmQ0dmNORjNnWUduU1Q5aHRoYkxROWVmZVhvVWU5TnJyYXNITkI4Z19CNDhtclZQTGhtZTY4QlcwUnRISlRxMnZkTjV3XzljRzlxN1d1TmRWUEhzTHMtWndmdU1GVnBIaUpaU09fb2I2eURzbXc0LXZwTENHSGVhYmJSZg?oc=5"
+      "title": "帆船パレードがニューヨーク港を航行、建国250周年イベント「Sail4th 250」を盛大に演出：写真特集",
+      "summary": "建国250周年を祝う一連のプログラムの一環として、各国の美しい大型帆船が集まるパレードがニューヨーク港で行われました。独立記念日の空を背景に風を受け進むクラシックな帆船たちの様子が、多くの人々を魅了しました。",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVpmRWlwMmtZZElBNzdSek00cjNMNnhHWjJCajNFMUpjekRpMWNqdWRNR183dVZ1d3ptMlRFV2RwTWZBcEs3c3k3ek9XTWkzbi03X0RaTVNveTNNbVpPbi1uekdWTXkwaDNySVB3aTZiN212QTk2UmxaejU5TnE4V3N5bkxOVFA1SjFybUlqcVdoMm9oTENYdWhBb1k0OWFEQi1nMHJuYmg0NU9nZjc5UFBsdFVMUjgxTHljeXFydGE?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツでACL損傷が増加している理由",
-      "summary": "女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向について分析した記事。生物学的要因（Qアングル、靭帯弛緩性など）や社会文化的要因（早期専門化、トレーニング不足など）が複合的に関与している可能性を指摘し、特に成長期の女子選手に対する予防策の重要性を強調している。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "思春期バレーボール選手における神経筋トレーニングの二重の利点：膝関節損傷予防と運動能力向上は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
+      "summary": "本レビューは、思春期のバレーボール選手に対する神経筋トレーニングが、膝関節損傷予防と運動能力向上という二重の利益をもたらすことを示唆しています。特に、両効果が共通のメカニズム的基盤、すなわち運動制御の改善に基づいていることを、構造化された物語レビューによって明らかにしました。このトレーニングは、着地時の衝撃吸収能力や方向転換時の安定性を高めることでACL損傷などのリスクを低減し、同時にジャンプ力や加速能力も向上させます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "アリストテレスの腕振り仮説：オリンピック短距離走選手における順動力学および逆動力学からの生体力学的証拠",
-      "summary": "アリストテレスが提唱した「腕振り」が走行パフォーマンスに与える影響について、オリンピック短距離走選手の生体力学的データを分析した研究。順動力学と逆動力学アプローチを用いて、腕振りが推進力生成とバランス維持にどのように寄与するかを明らかにしている。",
+      "title": "アリストテレスの腕振り仮説：オリンピックスプリンターにおける順動力学および逆動力学からの生体力学的証拠",
+      "summary": "オリンピックのスプリンターを対象とした研究で、アリストテレスの腕振り仮説、すなわち腕振りが走動作の推進力に寄与するという考え方が生体力学的に検証されました。順動力学および逆動力学解析を用いた結果、腕振りは身体のバランスと効率的な運動連鎖を最適化し、スプリント速度向上に不可欠な役割を果たすことが示されました。特に、地面反力と重心移動の効率化に貢献しています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWp0Wnh4SlNtdTdWRUJ5ampyYkl6am1Ecy1aeXVBd3N3VDhoZEVqWWZObjh3MXV2aHhOd3FBZWdraS1aQVQxQjZVQk94R0k3d0ViRVBaTmYwUjVFNm8yLVhzS2x5V3h0TDR4ZWJtUlhuWEtRWHY0NGhZdm9nUGVkT0FmNEQtNG9NaVByR0JYVWNxMGtKUWwybF9NYTFEUmp6eHRRRA?oc=5"
     }
   ]
