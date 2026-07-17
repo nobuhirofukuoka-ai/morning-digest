@@ -1,65 +1,65 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/07/17",
-  "generated_at": "2026-07-16T21:54:37.210Z",
+  "issue_date": "2026/07/18",
+  "generated_at": "2026-07-17T21:40:58.814Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "青年期バレーボール選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
+      "title": "思春期バレーボール選手における神経筋トレーニングの二重の利点：膝傷害予防と運動パフォーマンスは共通のメカニズム的基盤を共有する：構造化されたナラティブレビュー",
       "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5",
-      "abstract": "このレビューは、青年期のバレーボール選手を対象とした神経筋トレーニングが膝の傷害予防と運動能力向上にどのように寄与するかを考察しています。研究によると、ジャンプ、着地、方向転換などの動作における身体制御の改善が、前十字靭帯（ACL）損傷のリスクを低減し、同時にスプリントやジャンプパフォーマンスも向上させることが示唆されています。両者は、運動単位の動員、筋力、協調性といった共通の生理学的・力学的要素に基づいています。",
-      "insight": "青年期のバレーボール選手に対し、ACL損傷予防プログラムの一環として神経筋トレーニングを導入することは、怪我のリスクを減らすだけでなく、競技パフォーマンスの向上にも直結します。特に、オフシーズンやプレシーズンに重点的に取り入れることで、怪我のリスクが高い時期に備えることができます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUQlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5",
+      "abstract": "本レビューは、思春期のバレーボール選手を対象とした神経筋トレーニングが、膝の傷害予防と運動パフォーマンス向上という二重の利点をもたらすことを示しています。これは、両者が共通の神経筋メカニズムに基づいているためであり、特にACL損傷予防とジャンプ能力向上に効果が期待されます。トレーニングプログラムは、特定の運動パターンと身体制御能力の改善に焦点を当てています。",
+      "insight": "思春期アスリートの指導者は、神経筋トレーニングを導入することで、ACL損傷リスクを低減しつつ、同時に競技パフォーマンスも向上させることができます。特にバレーボール選手には、ジャンプや着地動作の改善に重点を置いたプログラムが有効でしょう。",
       "published_at": "2026-05-04T11:36:16.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史ミニレビュー",
+      "title": "スプリント科学における先駆者とパラダイム：主題別歴史的ミニレビュー",
       "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZno0bVdzLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
-      "abstract": "このミニレビューは、スプリント科学の発展における主要な人物と概念を歴史的な視点から概観しています。初期の運動生理学から最新のバイオメカニクス研究に至るまで、スプリントパフォーマンスの理解がどのように進化してきたかを追跡。特に、ストライド長、ストライド頻度、地面反力といったキーとなるバイオメカニクス的要素が、高速走行の効率性とパワーにどのように影響するかを探ります。",
-      "insight": "スプリントコーチやアスリートは、スプリントの効率を最大化するための歴史的知見と現代科学的原則を理解することで、トレーニングプログラムをより洗練させることができます。特に、個々のアスリートのストライド特性を分析し、それに合わせた技術指導を行う際に役立ちます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
+      "abstract": "このミニレビューは、スプリント科学の歴史における主要な先駆者とパラダイムの変遷をテーマ別に探求しています。初期の研究から現代の高度なバイオメカニクス解析に至るまで、スプリントパフォーマンスの理解がどのように進化してきたかを概観しています。これにより、スプリントトレーニングや技術開発の基盤となる科学的知識の発展経路が明らかにされます。",
+      "insight": "スプリントコーチやアスリートは、スプリント科学の歴史的背景を理解することで、現在のトレーニング方法論や技術がどのような科学的根拠に基づいているかを深く把握できます。これにより、より効果的な指導や自己改善アプローチの確立に繋がるでしょう。",
       "published_at": "2026-04-30T16:58:11.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "新しいACL手術アプローチがほとんどの患者の活動復帰を支援",
+      "title": "新しいACL手術アプローチはほとんどの患者が活動に復帰するのに役立つ",
       "source": "Medical Xpress",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo3S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5",
-      "abstract": "最新の研究で、前十字靭帯（ACL）再建術における新たなアプローチが、患者のスポーツ活動への復帰率を大幅に向上させることが報告されました。この手術法は、靭帯の解剖学的構造をより忠実に再現し、関節の安定性を高めることを目的としています。術後のリハビリテーションプロトコルと組み合わせることで、多くの患者が安全かつ効果的に競技レベルの活動に戻れる可能性が示されています。",
-      "insight": "医療専門家は、ACL損傷を負ったアスリートに対して、この新しい手術オプションとその成功率について情報提供することができます。リハビリテーション専門家は、このアプローチの特性を理解し、手術後の回復を最大化するためのテーラーメイドなプログラムを設計する際に参考にできます。",
+      "abstract": "最新の研究によると、新しい前十字靭帯（ACL）手術のアプローチが、ほとんどの患者がスポーツ活動に安全に復帰できるよう支援しています。この手術法は、靭帯の安定性を高め、再損傷のリスクを低減することを目的としており、術後の回復期間と機能的アウトカムの改善に寄与しています。これにより、アスリートの早期競技復帰が期待されます。",
+      "insight": "ACL損傷を負ったアスリートやその医療チームにとって、この新しい手術アプローチは復帰への希望を与えます。手術の選択肢として検討し、より良い機能的結果と早期復帰を目指すための情報として活用できます。",
       "published_at": "2026-05-14T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "Valley Health Systemがアスリートの安全なピークパフォーマンス復帰を支援する「スポーツ復帰プログラム」を開始",
+      "title": "Valley Health Systemがアスリートが安全に最高のパフォーマンスを再開できるよう支援する「競技復帰プログラム」を開始",
       "source": "Valley Health System",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5",
-      "abstract": "Valley Health Systemは、スポーツ選手が怪我から回復し、安全に競技に復帰するための専門プログラムを立ち上げました。このプログラムは、身体能力の評価、個別化されたリハビリテーション計画、心理的なサポート、そして競技特異的なトレーニングを組み合わせることで、アスリートが最高の状態に戻ることを目指します。多職種連携アプローチにより、怪我の再発リスクを最小限に抑えながら、パフォーマンス向上を支援します。",
-      "insight": "怪我をしたアスリートのサポートに携わるコーチ、トレーナー、理学療法士は、このような包括的なスポーツ復帰プログラムの重要性を認識すべきです。単なる身体的回復だけでなく、精神的側面も重視したアプローチは、アスリートが自信を持って競技に戻るために不可欠です。",
+      "abstract": "Valley Health Systemは、スポーツ傷害から回復したアスリートが安全かつ最適な状態で競技に復帰できるよう設計された「競技復帰プログラム」を立ち上げました。このプログラムは、身体能力の評価、機能的トレーニング、精神的サポートを統合し、アスリートが自信を持って最高のパフォーマンスを取り戻せるよう多角的に支援します。専門の理学療法士とトレーナーが個別のプランを提供します。",
+      "insight": "スポーツ傷害からの復帰を目指すアスリートは、このような専門プログラムを活用することで、再受傷リスクを最小限に抑えつつ、安全かつ効率的に競技レベルに戻ることができます。特に、復帰への不安を抱える選手には、包括的なサポートが大きな助けとなるでしょう。",
       "published_at": "2026-05-11T07:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
-      "abstract": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の効果を評価しました。複数の研究を統合した結果、特定の運動器系疼痛、特に慢性的な筋骨格系疼痛に対して、鍼治療が痛みの軽減と機能改善に有効である可能性が示唆されています。これは、従来の治療法に加えて、補完的な選択肢となり得ると結論付けています。",
-      "insight": "スポーツ現場のトレーナーや医療従事者は、アスリートの疼痛管理戦略として、鍼治療が有効な補完療法となりうることを理解しておくべきです。特に、慢性的な痛みや薬物療法以外の選択肢を求めるアスリートに対して、適切な専門家と連携して導入を検討する価値があります。",
-      "published_at": "2026-02-03T18:00:13.000Z"
+      "title": "女性サッカー選手における反復性肩関節後方脱臼による疼痛管理への補助的な鍼灸・温灸療法：症例報告",
+      "source": "Cureus",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
+      "abstract": "本症例報告は、反復性肩関節後方脱臼に起因する疼痛を抱える女性サッカー選手に対し、通常の治療に加えて鍼灸・温灸療法を補助的に実施した効果を評価しています。治療により、選手の疼痛が顕著に軽減され、機能改善が認められました。東洋医学的アプローチがスポーツ傷害の疼痛管理に有効である可能性が示唆されます。",
+      "insight": "スポーツ選手が慢性的な痛みや特定の傷害で悩む場合、従来の治療法と並行して鍼灸や温灸といった東洋医学的アプローチを検討する価値があります。特に肩関節の不安定性による疼痛には、補助療法として有効な選択肢となり得ます。",
+      "published_at": "2026-03-18T07:00:00.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
+      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
       "source": "220 Triathlon",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5",
-      "abstract": "この記事では、アスリートが一般的に使用する9種類の主要なスポーツサプリメントについて、科学的根拠に基づいた情報を提供しています。クレアチン、カフェイン、エネルギーゲル、L-カルニチンなどが取り上げられ、それぞれの効果、推奨される摂取方法、潜在的な副作用、そして実際の競技パフォーマンスへの影響について詳しく解説されています。信頼性の高いサプリメント選びの指針となります。",
-      "insight": "アスリートやコーチは、サプリメントの摂取を検討する際に、科学的根拠と個々のニーズに基づいて選択することが重要です。この記事のような情報を活用し、パフォーマンス向上と健康維持を両立させるための賢明な判断を下すべきです。不適切なサプリメントは効果がないだけでなく、健康リスクにつながる可能性もあります。",
+      "abstract": "このレビュー記事では、アスリートに人気のある主要な9つのスポーツサプリメントについて、科学的根拠に基づいた真実を解説しています。クレアチン、カフェイン、エネルギージェル、L-カルニチンなどの効果、適切な摂取タイミング、安全性に関する情報が提供され、アスリートが自身のパフォーマンス向上と回復のために賢明な選択ができるよう支援します。",
+      "insight": "アスリートは、数多くのサプリメントの中から本当に効果のあるものを選ぶために、この情報を活用できます。科学的根拠に基づいてクレアチンやカフェインなどを適切に摂取することで、トレーニング効果の最大化や回復促進を図れるでしょう。",
       "published_at": "2026-04-19T07:00:00.000Z"
     },
     {
@@ -67,19 +67,19 @@ window.DIGEST_DATA = {
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
       "source": "Johns Hopkins Medicine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
-      "abstract": "学生アスリートのメンタルヘルスは、身体的健康と同様に重要であり、学業、競技パフォーマンス、そして全体的な幸福に大きな影響を与えます。この記事は、保護者やコーチが学生アスリートのメンタルヘルスをサポートするための具体的なヒントを提供しています。ストレスの兆候を見つける方法、オープンなコミュニケーションを促す方法、そして必要に応じて専門家の助けを求めることの重要性が強調されています。",
-      "insight": "若いアスリートに関わる全ての大人、特に保護者とコーチは、彼らのメンタルヘルスに対する意識を高める必要があります。勝利至上主義だけでなく、アスリート個人の精神的な安定と成長を促す環境作りが、長期的な成功と健康を支える鍵となります。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
+      "abstract": "ジョンズ・ホプキンス・メディスンは、学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けのヒントを公開しました。若年層のアスリートは学業、競技、社会的プレッシャーなど複数のストレス要因に直面しており、燃え尽き症候群や不安、うつ病のリスクがあります。記事では、オープンなコミュニケーションの促進、適切な休息の確保、専門家への相談の重要性が強調されています。",
+      "insight": "保護者やコーチは、学生アスリートの身体的健康だけでなく、精神的健康にも注意を払う必要があります。過度なプレッシャーを避け、選手が安心して感情を表現できる環境を作り、必要であれば早期に専門家のサポートを得ることが、彼らの健全な成長とパフォーマンス維持に不可欠です。",
       "published_at": "2026-05-05T15:36:18.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリステン・ホームズが語る、睡眠と回復がいかにハイパフォーマンスを形成するか",
+      "title": "クリステン・ホームズ氏と語る：睡眠と回復がいかにハイパフォーマンスを形成するか",
       "source": "WHOOP",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5",
-      "abstract": "WHOOPのクリステン・ホームズ氏が、アスリートのハイパフォーマンス達成において睡眠と回復がいかに不可欠であるかを解説しています。彼女は、単に長時間眠るだけでなく、質の高い睡眠、リカバリー戦略（栄養、アクティブリカバリー、ストレス管理など）が、身体的および精神的なパフォーマンスに深く関連していることを強調します。データに基づいたアプローチで、個々のアスリートに最適な回復プロトコルを見つける重要性を説いています。",
-      "insight": "アスリートや指導者は、トレーニング量だけでなく、睡眠と回復の質にも同等、あるいはそれ以上の注意を払うべきです。リカバリーは単なる休息ではなく、パフォーマンス向上に直結する戦略的要素として位置づけ、WHOOPのようなウェアラブルデバイスを活用して客観的なデータに基づいた回復管理を導入することが推奨されます。",
+      "abstract": "WHOOPのクリステン・ホームズ氏が、睡眠と回復がアスリートのハイパフォーマンスにいかに不可欠であるかについて解説しています。身体的トレーニングと同等に、質の高い睡眠と効果的な回復戦略が、疲労の軽減、怪我のリスク減少、認知機能の最適化に繋がり、結果として競技成績を向上させることが強調されています。データに基づいたパーソナライズされた回復アプローチの重要性も議論されています。",
+      "insight": "アスリートは、自身のトレーニング計画に睡眠と回復を戦略的に組み込むべきです。ウェアラブルデバイスなどを用いて睡眠パターンや回復度合いをモニタリングし、個々の状態に合わせた最適な回復戦略を実践することで、パフォーマンスの持続的な向上と怪我の予防に繋げられます。",
       "published_at": "2026-06-16T07:00:00.000Z"
     }
   ],
@@ -87,47 +87,47 @@ window.DIGEST_DATA = {
     {
       "id": "j001",
       "category": "国際",
-      "source": "ロイター",
-      "title": "米軍、イランに新たな攻撃 「軍事能力の一段の弱体化」狙う",
-      "summary": "ロイター通信によると、米軍はイランに対し新たな攻撃を実施しました。これは、イランの軍事能力をさらに弱体化させることを目的としていると報じられています。中東地域の緊張が高まる中で、今後の情勢に注視が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEcxcWV6aTd2cHpiSVlRQXpzN0VtN2x3RS1vZVQwZkNyUW8zbFItT1RpbjZYRF9hNGtVWmFhQXNHXzVVSzdSVUR4azZRTm5LSG1YUWZ2ajllZlQyVWctdEo3dGNnUVZ1b0VEYzdSekRpUlJyS1JvQi1zS25FUk45M3dB?oc=5",
-      "published_at": "2026-07-16T18:51:31.000Z"
+      "source": "読売新聞",
+      "title": "米軍は６日連続でイラン攻撃、インフラにも拡大…革命防衛隊はシリアの米軍通信施設を初めて攻撃",
+      "summary": "米軍がイランへの攻撃を6日連続で継続し、インフラへの攻撃範囲を拡大しています。これに対し、イラン革命防衛隊はシリアの米軍通信施設を初めて攻撃しました。中東情勢の緊張がさらに高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KaUV5NmhSNkxZZkpyZEFYemVtTDlseTBsODIxaEF2WHVYSTlTRk1YbGRjN3VXeWNHS1IteDlhZFRGMDRlTVoxZW5lZi02Ykx2QXI4aVRrVnFiRjlYQ09Tckx3?oc=5",
+      "published_at": "2026-07-17T12:33:00.000Z"
     },
     {
       "id": "j002",
       "category": "政治",
-      "source": "毎日新聞",
-      "title": "読む政治：国旗損壊罪は「後出しジャンケン」 違憲指摘も…学者4人の警鐘",
-      "summary": "毎日新聞は、検討されている国旗損壊罪について、「後出しジャンケン」であり違憲の可能性もあるとして、4人の学者からの警鐘を報じました。表現の自由との兼ね合いが議論の焦点となっています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fYUpaU19rVExVZjVXbFd0UjBvV1pZcXhkRXkwMUdxbGFSZkh1UXQ0WDlFcmFjMnFPNHQ2VjdZMndMWk9uS3RxS2ZKNWN3TWM0UGM3ZEM4UHhfdEtmUktwMHlQZmFHSHVy?oc=5",
-      "published_at": "2026-07-16T11:29:23.000Z"
+      "source": "産経ニュース",
+      "title": "自民大勝と野田氏の影響力低下 改正皇室典範成立の背景 水面下の攻防で動いた正副議長",
+      "summary": "自民党の大勝と野田氏の影響力低下が、改正皇室典範成立の背景にあると分析されています。水面下での政治的攻防において、正副議長の動きが法案成立に重要な役割を果たしたことが示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1namtEaTdpUHBNeFFfY25YTjVjYzdHaGhrMG5xeE1oeHlNSGtaTUZmVDVmZFhKREp6aFBFR01UNmxjU1ZOdVNYRUU2WlJZeDJqaXVwZzNBM2RnbVRUTG5Da0RPcVhVY0sxaTUwemNReWVEUmp4NWc?oc=5",
+      "published_at": "2026-07-17T12:26:04.000Z"
     },
     {
       "id": "j003",
-      "category": "経済",
-      "source": "読売新聞",
-      "title": "新給付制度の額や対象範囲は今後検討、財源「早期に結論を得る」…消費税減税「８月上旬目途」骨太に",
-      "summary": "新しい給付制度の具体的な内容や対象範囲は今後検討され、その財源については早期に結論を得る方針が示されました。また、消費税減税については8月上旬を目途に骨太の方針に盛り込まれる見込みです。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlMEdNenhmRGpJOVBsdEs3NVRvdXBUVWw4NUdkeVRUOFZpeWt4NDJZa1Uwd1NFTWptYkF6ZGp5X0pscEtwYjVtay00T3RPWjNfSGFjenFVTlUxU3dCdE9Hc3pxd1lOdw?oc=5",
-      "published_at": "2026-07-16T11:29:00.000Z"
+      "category": "社会",
+      "source": "Yahoo!ニュース",
+      "title": "点滴チューブに排せつ物で死亡の男性、おむつ替え巡り容疑者とトラブル…「担当者を替えてほしい」と訴え（読売新聞オンライン）",
+      "summary": "点滴チューブに排せつ物を混入させ、男性を死亡させた事件で、容疑者と被害男性の間におむつ替えを巡るトラブルがあったことが報じられました。被害男性は以前から担当者の変更を訴えていたといいます。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lNmJ3TjNWODFibTBKNUpSTXF6eG9PUllTVUp4RmFwYUpoN3JRcEJITUVVRTBkX1ZCaWpNQ3c4Wm92aG9ZbFdzcFZDX09VdE9fVS1LdWVqR3M2aEVjTHFBaEZfTHVJdnd2czM2YU0zZzFCTjcwNGthRjV6WnJNSjA?oc=5",
+      "published_at": "2026-07-17T15:49:16.000Z"
     },
     {
       "id": "j004",
-      "category": "社会",
-      "source": "千葉日報オンライン",
-      "title": "【速報】「命守りきれず、おわび」点滴チューブに大便混入 柏・入院患者殺害で病院謝罪 容疑者、担当外も部屋に複数回出入り",
-      "summary": "千葉県柏市で入院患者の点滴チューブに大便が混入され、殺害された事件で、病院側が「命を守りきれず、おわび」と謝罪しました。容疑者は担当外の部屋にも複数回出入りしていたと報じられており、事件の詳細な経緯解明が待たれます。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1abGZ3U0FxdzFUbGJCRm9sWWhZNjBxQkFxcl9CNUhEaWlGZGVMbTZHSFBzeUxRUkZUVlIxSjBqQnl6MjloU1FWVlkzWXZhemVSUExDdk9MZDY?oc=5",
-      "published_at": "2026-07-16T05:36:13.000Z"
+      "category": "経済",
+      "source": "47NEWS",
+      "title": "消費減税、協議打ち切りへ 国民会議、両論併記で調整",
+      "summary": "消費減税に関する国民会議での協議が打ち切られる方向で調整が進んでいます。会議では、消費減税の賛否両論が併記される形で結論が出される見込みです。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83c015dF9QdWlhQUNmQkpwSV80Q1R0SWkyMWxhQlRhR21jTkQ2RFhwdTZrLS12Sk5YY3pKTjJFTnNncmpobHFKazIxTQ?oc=5",
+      "published_at": "2026-07-17T12:21:00.000Z"
     },
     {
       "id": "j005",
       "category": "環境・気候",
-      "source": "ウェザーニュース",
-      "title": "今日7月17日(金)の天気予報 関東や東北は雷雨のおそれ 東海西部や近畿は猛暑に警戒",
-      "summary": "ウェザーニュースによると、今日7月17日(金)の天気は、関東や東北で雷雨のおそれがあり、東海西部や近畿では猛暑に警戒が必要です。熱中症対策を万全にし、急な天候の変化に注意してください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GQmQwQ0pkSmlXanVxWmlmX2lXR2dwWGJmRnpiYlJ3MGFhaFI5elpmanhlcDlFRENaclV6M3dMcGxjWjF5bk5UOGd5bE5wVHBPSVFfag?oc=5",
-      "published_at": "2026-07-16T20:20:00.000Z"
+      "source": "NHKニュース",
+      "title": "群馬 太田 利根川水系石田川に氾濫危険警報 厳重警戒を",
+      "summary": "群馬県太田市を流れる利根川水系石田川に、氾濫危険警報が発表されました。周辺住民に対し、自治体からの情報に注意し、厳重な警戒と適切な避難行動を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JR1Fsak9uY281cmVZVmtaQmJmR0xRUzNmSGpEOHFRRFFya21SVHoxT08tTkJpTm9uY2pWYk9rekxxM2paT3Joc3J6eGtObHhFb0xPOVRrdXVlQ0Y4cnJn?oc=5",
+      "published_at": "2026-07-17T15:59:19.000Z"
     }
   ],
   "global_news": [
@@ -135,51 +135,51 @@ window.DIGEST_DATA = {
       "id": "g001",
       "category": "Climate",
       "region": "US",
-      "source": "WGAL",
-      "title": "カナダの山火事の煙がペンシルベニア州に滞留し、コードレッドの大気質警報が発令",
-      "summary": "カナダの山火事による煙がペンシルベニア州に広がり、大気汚染のレベルが非常に危険な「コードレッド」に達し、大気質警報が発令されました。住民には外出を控え、健康への影響に警戒するよう呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzNMVDN6ZEt3b0tLZzh3VU1GcU9fT2ZORlh4T3E3WExmRWlhQlZ0ZEJ1RnplNlY5dHpMYWJhVkRXSzgxV19HTXFYcHMyMGx5OWdzdkkwbVplQXdwZ3VPdVhqZTRPZ0RfeHJ0M1o3a2JRVnNTVzdHai1lVmhLWU1uMGxTT1hialpkdlRLMlhWLXpUMGt2cWdHb09zUkJKOVBjTE5v?oc=5",
-      "published_at": "2026-07-16T19:12:00.000Z"
+      "source": "The Washington Post",
+      "title": "山火事の煙が今週末も滞留・拡散の見込み。影響を受ける都市はどこか。",
+      "summary": "今週末、米国の広範囲で山火事による煙が滞留し、さらに拡散すると予測されています。特に影響を受ける都市が報じられており、住民は健康被害に警戒する必要があるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRzJWQWlmLVIwLXZxcWpvMmZ3dmZYNnRYYk9iTHhXcThsWDcxVEFSR0EwS2NGTXJuWFI3enVhME45bllTSUdkZ3BSNWFfZzNsWEV2VURkWGNwLWt3NG1fOWF2TWRtOThYSDFXbEczZDN6b3JoamVuOFRZYTRpRjZEWG1NMHQ0SXllMEdUR0lndHU1MWxVT1hvYWxnVVNMUmczeGdkZ0dpNjV1T0phYjZydmx0UU5oUDVMZTBjLUpkbl9xdw?oc=5",
+      "published_at": "2026-07-17T20:03:09.000Z"
     },
     {
       "id": "g002",
       "category": "Politics",
       "region": "US",
-      "source": "Axios",
-      "title": "一部のテレビネットワークがトランプ氏の演説を生中継しない方針",
-      "summary": "Axiosの報道によると、一部の主要テレビネットワークがドナルド・トランプ氏の演説を生中継しない決定を下しました。これは、過去の発言内容や放送時間配分に関する懸念が背景にあるとみられています。",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BNnYtSTRXTE9YLW5FNG1rNmRDNmptbF9DRUtmMlpjem1LaWpUdDA5VVZUUjNDUTdJeVYwcWtwRW00amYxU2pmN0ZXU2NDVFlJY0VXLXlBUUJ3SzFZOTlmdXhYWjk4UzlITDJsUE9ZX3pHNEFqbHhr?oc=5",
-      "published_at": "2026-07-16T20:28:03.000Z"
+      "source": "NBC News",
+      "title": "マークウェイン・マリン国土安全保障長官が選挙に関して各州を威嚇",
+      "summary": "国土安全保障長官マークウェイン・マリン氏が、選挙の運営を巡って複数の州に対し威嚇的な発言を行ったと報じられています。これは米国内の政治的緊張をさらに高める可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUhBZ0c1VUl6SXBqNVRJbzhiS0ZXSHFsOUtWcGpVdllJQTNsZVZEZ2xVRUV2eDlORF8yanNxNTlxT0Y5cmQ0X2dNY1pnejlCT29pOVFDX2NIeEV6dFlNalpnQ3l3elZLVVp1bVc1UFlrcTVEV0ZQYVpoZ3F5Q3lrWGxsM2JVWlU2bURyR2tzOXVMaGs2NnF2eTFTUzJlVUozQjBuNm9FLVBqcGZFMm1Rc0RNYWRBNXhZMWRXUHVFOWZDZw?oc=5",
+      "published_at": "2026-07-17T18:23:55.000Z"
     },
     {
       "id": "g003",
-      "category": "Climate",
+      "category": "Politics",
       "region": "US",
-      "source": "CNN",
-      "title": "テキサス州ヒルカントリーで再び洪水が発生、少なくとも1人死亡との速報",
-      "summary": "CNNの速報によると、テキサス州ヒルカントリー地域で再び大規模な洪水が発生し、少なくとも1人が死亡しました。集中豪雨が原因とみられ、救助活動が進行中です。",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTjVsbzVWMnh2c0xwSGNzTjA3c3BOTXNzc3FTZmxMVGxqaWpzUlNpN2hqREx1c2F4ZXYwVTd2cVhrLW03VFl2aGNOSTVQMy10WDVrUUR0dFpwNTZhTXVncmNPaXA5eWpPZ3BfQmlzZmFmekc0c1lydDNuWDVBNTBxdV9tNklfNWZHalY5dk0xb1VBQms?oc=5",
-      "published_at": "2026-07-16T20:39:00.000Z"
+      "source": "Reuters",
+      "title": "FCC委員、トランプ氏のABC、NBCライセンス剥奪要求は違憲と発言",
+      "summary": "連邦通信委員会（FCC）の委員が、ドナルド・トランプ氏が主張するABCおよびNBCの放送ライセンス剥奪要求について、憲法違反であるとの見解を示しました。これはメディアの自由と政治的干渉に関する議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXVkTmVuMW9WWmhVNEkxVWt3anRHMzQ2RUFXQjA5czBqMER0RlUzOTBkbVEyWlpQY21qX3M4dm8xbXdaeVF0Ulg4aHZZcGtzM0tlMTl6TDZwdlpNU2RvNEp2QmR6aUpNdXlHVGdqLUdkTmxLbWtMLWpXR2ZJYmxZRDFaTl9IWWhqbGJOSnZ5ODNpRUJLNUthX2pEMU9URFdTb01DbHhtYkJZS0R4UDk1SFRnUTFva0MwejBabl9JRzFPaUNaVE80enp5eFdmc2lR?oc=5",
+      "published_at": "2026-07-17T18:37:09.000Z"
     },
     {
       "id": "g004",
-      "category": "Politics",
-      "region": "US",
-      "source": "Fox News",
-      "title": "トッド・ブランシュ氏が激しい公聴会でアダム・シフ氏を厳しく批判：「あなたは弁護士だ、規則を知っているだろう」",
-      "summary": "フォックスニュースによると、公聴会でトッド・ブランシュ氏がアダム・シフ氏に対し、「あなたは弁護士なのだから、規則を知っているはずだ」と激しく批判しました。緊迫したやり取りは、政治的な対立が深まっていることを示しています。",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblBMcnBFdzVRTm9VejVRMzV5T2hFWGl0aDloWkNrM1B1LTN5c2VoamYyT0x2RExsUWhUXzJkaFBnLVh0V2QtTTVsVXAxTjFfVV82Ym5pVUZYYTVOUXZhUGRuSHdVMlpaZWIwOGxfR3VEOXEyX3p3Z2FIdDAxUjVvY25IM0VEVEV1RE9IVzVzMzhFVVEtVUl1S2RXVnhndUFSUGFBZFJid3lmVjTSAbABQVVfeXFMUEVpc3liTUxFT2Y3dWJqbkNfN3BUZUhNX1NEanpUcFhRbE9ZX19hWWVJUkpDRkVMUkdFZE1OcTBmNzRpX1RLRmJqSHluRXFRQkJ4cVAwZjI5ZHpTemREOFFRTTYxRXNMMl9Nb0xyYVJtcWNnSlRON1dCYS1EdTJmaEdLblVKV0RLeWVDd3pSTkVGb2FHUy1ZTGRaVGpXX3pjVV90Q3IyeEhZS0E5UHpQeWc?oc=5",
-      "published_at": "2026-07-16T15:51:27.000Z"
+      "category": "Conflict",
+      "region": "Middle East",
+      "source": "The New York Times",
+      "title": "イラン戦争ライブ更新：米国がイラン南部で橋や港への空爆を拡大",
+      "summary": "米国がイランに対する空爆を拡大し、イラン南部の橋や港湾施設を標的にしていることが報じられました。これは中東地域における紛争の激化を示唆しており、国際社会の懸念が高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kMzBFRnhWbGIwdEpFcVJVd251LTBDMXRMS01VRmNFNUVaZlo0ZzlDWjhsOUlqVVdHYk95V2JJVFlvNWxCck0tWWRyMkhLNkZ0anVzM0dnM1BsUzZMYzNROWQ3SVRWNGNxOUU4VFdwV1JQaDJpWVE?oc=5",
+      "published_at": "2026-07-17T20:24:05.000Z"
     },
     {
       "id": "g005",
-      "category": "Culture",
+      "category": "Health",
       "region": "US",
-      "source": "The Washington Post",
-      "title": "リフレクティングプールの剥がれは施工不良が原因か、と専門家が指摘",
-      "summary": "ワシントンポストの報道によると、ワシントンD.C.のリフレクティングプールで発生している表面の剥がれについて、専門家が施工時の不具合が原因である可能性を指摘しました。歴史的建造物の維持管理に関する問題が浮上しています。",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS3hROTE3ZUtGelRNLTZfYktKdWVnRkhkdHBOamVST0JRSENRY2dmT0hBeXpSTWt3TWlwMlQ1b1VRZnI2Mk5Tbk9kV1RCakpvS2MzTnFBZmd1bHlPU0ZTRlZUVl9ET0RiY2t4UTFzZ043Y1VXUVdZejFXcGZ5bFpPWmNwSlh3RmJray0wemh6M1RoQTRmS1p6WUswdnhadEVKN0xKWnlVTHpBbXdVZDF1SXRYTTlnUFJHRE0xa29GOUlNX3V5N0NHRGs3b1Y5dEtZMzJlVGtwRQ?oc=5",
-      "published_at": "2026-07-16T18:32:10.000Z"
+      "source": "BBC",
+      "title": "米軍のテストステロン計画について、保健専門家が生殖能力リスクを警告",
+      "summary": "米軍が計画しているテストステロンに関連する措置について、保健専門家が生殖能力への潜在的なリスクを警告しています。この計画は兵士の健康と将来の生殖に関する倫理的な議論を提起しています。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQ2VUZkRqbGZ2aWhZdXFpcmQ0djBSMzlCX2Vnc0dHNW16WHF0Q092cldXT0p2bmhkRVZGMkc2VHRjYy1xc0t5NENxZkZVeUlUWnpPZVpBUXFWUQ?oc=5",
+      "published_at": "2026-07-17T16:39:35.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,48 +187,48 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "青年期バレーボール選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
-      "summary": "このレビューは、青年期のバレーボール選手を対象とした神経筋トレーニングが膝の傷害予防と運動能力向上にどのように寄与するかを考察しています。研究によると、ジャンプ、着地、方向転換などの動作における身体制御の改善が、前十字靭帯（ACL）損傷のリスクを低減し、同時にスプリントやジャンプパフォーマンスも向上させることが示唆されています。両者は、運動単位の動員、筋力、協調性といった共通の生理学的・力学的要素に基づいています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "title": "思春期バレーボール選手における神経筋トレーニングの二重の利点：膝傷害予防と運動パフォーマンスは共通のメカニズム的基盤を共有する：構造化されたナラティブレビュー",
+      "summary": "本レビューは、思春期のバレーボール選手を対象とした神経筋トレーニングが、膝の傷害予防と運動パフォーマンス向上という二重の利点をもたらすことを示しています。これは、両者が共通の神経筋メカニズムに基づいているためであり、特にACL損傷予防とジャンプ能力向上に効果が期待されます。トレーニングプログラムは、特定の運動パターンと身体制御能力の改善に焦点を当てています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUQlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史ミニレビュー",
-      "summary": "このミニレビューは、スプリント科学の発展における主要な人物と概念を歴史的な視点から概観しています。初期の運動生理学から最新のバイオメカニクス研究に至るまで、スプリントパフォーマンスの理解がどのように進化してきたかを追跡。特に、ストライド長、ストライド頻度、地面反力といったキーとなるバイオメカニクス的要素が、高速走行の効率性とパワーにどのように影響するかを探ります。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZno0bVdzLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学における先駆者とパラダイム：主題別歴史的ミニレビュー",
+      "summary": "このミニレビューは、スプリント科学の歴史における主要な先駆者とパラダイムの変遷をテーマ別に探求しています。初期の研究から現代の高度なバイオメカニクス解析に至るまで、スプリントパフォーマンスの理解がどのように進化してきたかを概観しています。これにより、スプリントトレーニングや技術開発の基盤となる科学的知識の発展経路が明らかにされます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "新しいACL手術アプローチがほとんどの患者の活動復帰を支援",
-      "summary": "最新の研究で、前十字靭帯（ACL）再建術における新たなアプローチが、患者のスポーツ活動への復帰率を大幅に向上させることが報告されました。この手術法は、靭帯の解剖学的構造をより忠実に再現し、関節の安定性を高めることを目的としています。術後のリハビリテーションプロトコルと組み合わせることで、多くの患者が安全かつ効果的に競技レベルの活動に戻れる可能性が示されています。",
+      "title": "新しいACL手術アプローチはほとんどの患者が活動に復帰するのに役立つ",
+      "summary": "最新の研究によると、新しい前十字靭帯（ACL）手術のアプローチが、ほとんどの患者がスポーツ活動に安全に復帰できるよう支援しています。この手術法は、靭帯の安定性を高め、再損傷のリスクを低減することを目的としており、術後の回復期間と機能的アウトカムの改善に寄与しています。これにより、アスリートの早期競技復帰が期待されます。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo3S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "Valley Health Systemがアスリートの安全なピークパフォーマンス復帰を支援する「スポーツ復帰プログラム」を開始",
-      "summary": "Valley Health Systemは、スポーツ選手が怪我から回復し、安全に競技に復帰するための専門プログラムを立ち上げました。このプログラムは、身体能力の評価、個別化されたリハビリテーション計画、心理的なサポート、そして競技特異的なトレーニングを組み合わせることで、アスリートが最高の状態に戻ることを目指します。多職種連携アプローチにより、怪我の再発リスクを最小限に抑えながら、パフォーマンス向上を支援します。",
+      "title": "Valley Health Systemがアスリートが安全に最高のパフォーマンスを再開できるよう支援する「競技復帰プログラム」を開始",
+      "summary": "Valley Health Systemは、スポーツ傷害から回復したアスリートが安全かつ最適な状態で競技に復帰できるよう設計された「競技復帰プログラム」を立ち上げました。このプログラムは、身体能力の評価、機能的トレーニング、精神的サポートを統合し、アスリートが自信を持って最高のパフォーマンスを取り戻せるよう多角的に支援します。専門の理学療法士とトレーナーが個別のプランを提供します。",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の効果を評価しました。複数の研究を統合した結果、特定の運動器系疼痛、特に慢性的な筋骨格系疼痛に対して、鍼治療が痛みの軽減と機能改善に有効である可能性が示唆されています。これは、従来の治療法に加えて、補完的な選択肢となり得ると結論付けています。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
+      "title": "女性サッカー選手における反復性肩関節後方脱臼による疼痛管理への補助的な鍼灸・温灸療法：症例報告",
+      "summary": "本症例報告は、反復性肩関節後方脱臼に起因する疼痛を抱える女性サッカー選手に対し、通常の治療に加えて鍼灸・温灸療法を補助的に実施した効果を評価しています。治療により、選手の疼痛が顕著に軽減され、機能改善が認められました。東洋医学的アプローチがスポーツ傷害の疼痛管理に有効である可能性が示唆されます。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
-      "summary": "この記事では、アスリートが一般的に使用する9種類の主要なスポーツサプリメントについて、科学的根拠に基づいた情報を提供しています。クレアチン、カフェイン、エネルギーゲル、L-カルニチンなどが取り上げられ、それぞれの効果、推奨される摂取方法、潜在的な副作用、そして実際の競技パフォーマンスへの影響について詳しく解説されています。信頼性の高いサプリメント選びの指針となります。",
+      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
+      "summary": "このレビュー記事では、アスリートに人気のある主要な9つのスポーツサプリメントについて、科学的根拠に基づいた真実を解説しています。クレアチン、カフェイン、エネルギージェル、L-カルニチンなどの効果、適切な摂取タイミング、安全性に関する情報が提供され、アスリートが自身のパフォーマンス向上と回復のために賢明な選択ができるよう支援します。",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
     },
     {
@@ -236,112 +236,112 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートのメンタルヘルスは、身体的健康と同様に重要であり、学業、競技パフォーマンス、そして全体的な幸福に大きな影響を与えます。この記事は、保護者やコーチが学生アスリートのメンタルヘルスをサポートするための具体的なヒントを提供しています。ストレスの兆候を見つける方法、オープンなコミュニケーションを促す方法、そして必要に応じて専門家の助けを求めることの重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "ジョンズ・ホプキンス・メディスンは、学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けのヒントを公開しました。若年層のアスリートは学業、競技、社会的プレッシャーなど複数のストレス要因に直面しており、燃え尽き症候群や不安、うつ病のリスクがあります。記事では、オープンなコミュニケーションの促進、適切な休息の確保、専門家への相談の重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリステン・ホームズが語る、睡眠と回復がいかにハイパフォーマンスを形成するか",
-      "summary": "WHOOPのクリステン・ホームズ氏が、アスリートのハイパフォーマンス達成において睡眠と回復がいかに不可欠であるかを解説しています。彼女は、単に長時間眠るだけでなく、質の高い睡眠、リカバリー戦略（栄養、アクティブリカバリー、ストレス管理など）が、身体的および精神的なパフォーマンスに深く関連していることを強調します。データに基づいたアプローチで、個々のアスリートに最適な回復プロトコルを見つける重要性を説いています。",
+      "title": "クリステン・ホームズ氏と語る：睡眠と回復がいかにハイパフォーマンスを形成するか",
+      "summary": "WHOOPのクリステン・ホームズ氏が、睡眠と回復がアスリートのハイパフォーマンスにいかに不可欠であるかについて解説しています。身体的トレーニングと同等に、質の高い睡眠と効果的な回復戦略が、疲労の軽減、怪我のリスク減少、認知機能の最適化に繋がり、結果として競技成績を向上させることが強調されています。データに基づいたパーソナライズされた回復アプローチの重要性も議論されています。",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "米軍、イランに新たな攻撃 「軍事能力の一段の弱体化」狙う",
-      "summary": "ロイター通信によると、米軍はイランに対し新たな攻撃を実施しました。これは、イランの軍事能力をさらに弱体化させることを目的としていると報じられています。中東地域の緊張が高まる中で、今後の情勢に注視が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEcxcWV6aTd2cHpiSVlRQXpzN0VtN2x3RS1vZVQwZkNyUW8zbFItT1RpbjZYRF9hNGtVWmFhQXNHXzVVSzdSVUR4azZRTm5LSG1YUWZ2ajllZlQyVWctdEo3dGNnUVZ1b0VEYzdSekRpUlJyS1JvQi1zS25FUk45M3dB?oc=5"
+      "title": "米軍は６日連続でイラン攻撃、インフラにも拡大…革命防衛隊はシリアの米軍通信施設を初めて攻撃",
+      "summary": "米軍がイランへの攻撃を6日連続で継続し、インフラへの攻撃範囲を拡大しています。これに対し、イラン革命防衛隊はシリアの米軍通信施設を初めて攻撃しました。中東情勢の緊張がさらに高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KaUV5NmhSNkxZZkpyZEFYemVtTDlseTBsODIxaEF2WHVYSTlTRk1YbGRjN3VXeWNHS1IteDlhZFRGMDRlTVoxZW5lZi02Ykx2QXI4aVRrVnFiRjlYQ09Tckx3?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "読む政治：国旗損壊罪は「後出しジャンケン」 違憲指摘も…学者4人の警鐘",
-      "summary": "毎日新聞は、検討されている国旗損壊罪について、「後出しジャンケン」であり違憲の可能性もあるとして、4人の学者からの警鐘を報じました。表現の自由との兼ね合いが議論の焦点となっています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fYUpaU19rVExVZjVXbFd0UjBvV1pZcXhkRXkwMUdxbGFSZkh1UXQ0WDlFcmFjMnFPNHQ2VjdZMndMWk9uS3RxS2ZKNWN3TWM0UGM3ZEM4UHhfdEtmUktwMHlQZmFHSHVy?oc=5"
+      "title": "自民大勝と野田氏の影響力低下 改正皇室典範成立の背景 水面下の攻防で動いた正副議長",
+      "summary": "自民党の大勝と野田氏の影響力低下が、改正皇室典範成立の背景にあると分析されています。水面下での政治的攻防において、正副議長の動きが法案成立に重要な役割を果たしたことが示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1namtEaTdpUHBNeFFfY25YTjVjYzdHaGhrMG5xeE1oeHlNSGtaTUZmVDVmZFhKREp6aFBFR01UNmxjU1ZOdVNYRUU2WlJZeDJqaXVwZzNBM2RnbVRUTG5Da0RPcVhVY0sxaTUwemNReWVEUmp4NWc?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "経済",
-      "title": "新給付制度の額や対象範囲は今後検討、財源「早期に結論を得る」…消費税減税「８月上旬目途」骨太に",
-      "summary": "新しい給付制度の具体的な内容や対象範囲は今後検討され、その財源については早期に結論を得る方針が示されました。また、消費税減税については8月上旬を目途に骨太の方針に盛り込まれる見込みです。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlMEdNenhmRGpJOVBsdEs3NVRvdXBUVWw4NUdkeVRUOFZpeWt4NDJZa1Uwd1NFTWptYkF6ZGp5X0pscEtwYjVtay00T3RPWjNfSGFjenFVTlUxU3dCdE9Hc3pxd1lOdw?oc=5"
+      "category": "社会",
+      "title": "点滴チューブに排せつ物で死亡の男性、おむつ替え巡り容疑者とトラブル…「担当者を替えてほしい」と訴え（読売新聞オンライン）",
+      "summary": "点滴チューブに排せつ物を混入させ、男性を死亡させた事件で、容疑者と被害男性の間におむつ替えを巡るトラブルがあったことが報じられました。被害男性は以前から担当者の変更を訴えていたといいます。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lNmJ3TjNWODFibTBKNUpSTXF6eG9PUllTVUp4RmFwYUpoN3JRcEJITUVVRTBkX1ZCaWpNQ3c4Wm92aG9ZbFdzcFZDX09VdE9fVS1LdWVqR3M2aEVjTHFBaEZfTHVJdnd2czM2YU0zZzFCTjcwNGthRjV6WnJNSjA?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "【速報】「命守りきれず、おわび」点滴チューブに大便混入 柏・入院患者殺害で病院謝罪 容疑者、担当外も部屋に複数回出入り",
-      "summary": "千葉県柏市で入院患者の点滴チューブに大便が混入され、殺害された事件で、病院側が「命を守りきれず、おわび」と謝罪しました。容疑者は担当外の部屋にも複数回出入りしていたと報じられており、事件の詳細な経緯解明が待たれます。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1abGZ3U0FxdzFUbGJCRm9sWWhZNjBxQkFxcl9CNUhEaWlGZGVMbTZHSFBzeUxRUkZUVlIxSjBqQnl6MjloU1FWVlkzWXZhemVSUExDdk9MZDY?oc=5"
+      "category": "経済",
+      "title": "消費減税、協議打ち切りへ 国民会議、両論併記で調整",
+      "summary": "消費減税に関する国民会議での協議が打ち切られる方向で調整が進んでいます。会議では、消費減税の賛否両論が併記される形で結論が出される見込みです。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83c015dF9QdWlhQUNmQkpwSV80Q1R0SWkyMWxhQlRhR21jTkQ2RFhwdTZrLS12Sk5YY3pKTjJFTnNncmpobHFKazIxTQ?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
       "category": "環境・気候",
-      "title": "今日7月17日(金)の天気予報 関東や東北は雷雨のおそれ 東海西部や近畿は猛暑に警戒",
-      "summary": "ウェザーニュースによると、今日7月17日(金)の天気は、関東や東北で雷雨のおそれがあり、東海西部や近畿では猛暑に警戒が必要です。熱中症対策を万全にし、急な天候の変化に注意してください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GQmQwQ0pkSmlXanVxWmlmX2lXR2dwWGJmRnpiYlJ3MGFhaFI5elpmanhlcDlFRENaclV6M3dMcGxjWjF5bk5UOGd5bE5wVHBPSVFfag?oc=5"
+      "title": "群馬 太田 利根川水系石田川に氾濫危険警報 厳重警戒を",
+      "summary": "群馬県太田市を流れる利根川水系石田川に、氾濫危険警報が発表されました。周辺住民に対し、自治体からの情報に注意し、厳重な警戒と適切な避難行動を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JR1Fsak9uY281cmVZVmtaQmJmR0xRUzNmSGpEOHFRRFFya21SVHoxT08tTkJpTm9uY2pWYk9rekxxM2paT3Joc3J6eGtObHhFb0xPOVRrdXVlQ0Y4cnJn?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Climate",
-      "title": "カナダの山火事の煙がペンシルベニア州に滞留し、コードレッドの大気質警報が発令",
-      "summary": "カナダの山火事による煙がペンシルベニア州に広がり、大気汚染のレベルが非常に危険な「コードレッド」に達し、大気質警報が発令されました。住民には外出を控え、健康への影響に警戒するよう呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzNMVDN6ZEt3b0tLZzh3VU1GcU9fT2ZORlh4T3E3WExmRWlhQlZ0ZEJ1RnplNlY5dHpMYWJhVkRXSzgxV19HTXFYcHMyMGx5OWdzdkkwbVplQXdwZ3VPdVhqZTRPZ0RfeHJ0M1o3a2JRVnNTVzdHai1lVmhLWU1uMGxTT1hialpkdlRLMlhWLXpUMGt2cWdHb09zUkJKOVBjTE5v?oc=5"
+      "title": "山火事の煙が今週末も滞留・拡散の見込み。影響を受ける都市はどこか。",
+      "summary": "今週末、米国の広範囲で山火事による煙が滞留し、さらに拡散すると予測されています。特に影響を受ける都市が報じられており、住民は健康被害に警戒する必要があるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRzJWQWlmLVIwLXZxcWpvMmZ3dmZYNnRYYk9iTHhXcThsWDcxVEFSR0EwS2NGTXJuWFI3enVhME45bllTSUdkZ3BSNWFfZzNsWEV2VURkWGNwLWt3NG1fOWF2TWRtOThYSDFXbEczZDN6b3JoamVuOFRZYTRpRjZEWG1NMHQ0SXllMEdUR0lndHU1MWxVT1hvYWxnVVNMUmczeGdkZ0dpNjV1T0phYjZydmx0UU5oUDVMZTBjLUpkbl9xdw?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "一部のテレビネットワークがトランプ氏の演説を生中継しない方針",
-      "summary": "Axiosの報道によると、一部の主要テレビネットワークがドナルド・トランプ氏の演説を生中継しない決定を下しました。これは、過去の発言内容や放送時間配分に関する懸念が背景にあるとみられています。",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BNnYtSTRXTE9YLW5FNG1rNmRDNmptbF9DRUtmMlpjem1LaWpUdDA5VVZUUjNDUTdJeVYwcWtwRW00amYxU2pmN0ZXU2NDVFlJY0VXLXlBUUJ3SzFZOTlmdXhYWjk4UzlITDJsUE9ZX3pHNEFqbHhr?oc=5"
+      "title": "マークウェイン・マリン国土安全保障長官が選挙に関して各州を威嚇",
+      "summary": "国土安全保障長官マークウェイン・マリン氏が、選挙の運営を巡って複数の州に対し威嚇的な発言を行ったと報じられています。これは米国内の政治的緊張をさらに高める可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUhBZ0c1VUl6SXBqNVRJbzhiS0ZXSHFsOUtWcGpVdllJQTNsZVZEZ2xVRUV2eDlORF8yanNxNTlxT0Y5cmQ0X2dNY1pnejlCT29pOVFDX2NIeEV6dFlNalpnQ3l3elZLVVp1bVc1UFlrcTVEV0ZQYVpoZ3F5Q3lrWGxsM2JVWlU2bURyR2tzOXVMaGs2NnF2eTFTUzJlVUozQjBuNm9FLVBqcGZFMm1Rc0RNYWRBNXhZMWRXUHVFOWZDZw?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "テキサス州ヒルカントリーで再び洪水が発生、少なくとも1人死亡との速報",
-      "summary": "CNNの速報によると、テキサス州ヒルカントリー地域で再び大規模な洪水が発生し、少なくとも1人が死亡しました。集中豪雨が原因とみられ、救助活動が進行中です。",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTjVsbzVWMnh2c0xwSGNzTjA3c3BOTXNzc3FTZmxMVGxqaWpzUlNpN2hqREx1c2F4ZXYwVTd2cVhrLW03VFl2aGNOSTVQMy10WDVrUUR0dFpwNTZhTXVncmNPaXA5eWpPZ3BfQmlzZmFmekc0c1lydDNuWDVBNTBxdV9tNklfNWZHalY5dk0xb1VBQms?oc=5"
+      "category": "Politics",
+      "title": "FCC委員、トランプ氏のABC、NBCライセンス剥奪要求は違憲と発言",
+      "summary": "連邦通信委員会（FCC）の委員が、ドナルド・トランプ氏が主張するABCおよびNBCの放送ライセンス剥奪要求について、憲法違反であるとの見解を示しました。これはメディアの自由と政治的干渉に関する議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXVkTmVuMW9WWmhVNEkxVWt3anRHMzQ2RUFXQjA5czBqMER0RlUzOTBkbVEyWlpQY21qX3M4dm8xbXdaeVF0Ulg4aHZZcGtzM0tlMTl6TDZwdlpNU2RvNEp2QmR6aUpNdXlHVGdqLUdkTmxLbWtMLWpXR2ZJYmxZRDFaTl9IWWhqbGJOSnZ5ODNpRUJLNUthX2pEMU9URFdTb01DbHhtYkJZS0R4UDk1SFRnUTFva0MwejBabl9JRzFPaUNaVE80enp5eFdmc2lR?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トッド・ブランシュ氏が激しい公聴会でアダム・シフ氏を厳しく批判：「あなたは弁護士だ、規則を知っているだろう」",
-      "summary": "フォックスニュースによると、公聴会でトッド・ブランシュ氏がアダム・シフ氏に対し、「あなたは弁護士なのだから、規則を知っているはずだ」と激しく批判しました。緊迫したやり取りは、政治的な対立が深まっていることを示しています。",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblBMcnBFdzVRTm9VejVRMzV5T2hFWGl0aDloWkNrM1B1LTN5c2VoamYyT0x2RExsUWhUXzJkaFBnLVh0V2QtTTVsVXAxTjFfVV82Ym5pVUZYYTVOUXZhUGRuSHdVMlpaZWIwOGxfR3VEOXEyX3p3Z2FIdDAxUjVvY25IM0VEVEV1RE9IVzVzMzhFVVEtVUl1S2RXVnhndUFSUGFBZFJid3lmVjTSAbABQVVfeXFMUEVpc3liTUxFT2Y3dWJqbkNfN3BUZUhNX1NEanpUcFhRbE9ZX19hWWVJUkpDRkVMUkdFZE1OcTBmNzRpX1RLRmJqSHluRXFRQkJ4cVAwZjI5ZHpTemREOFFRTTYxRXNMMl9Nb0xyYVJtcWNnSlRON1dCYS1EdTJmaEdLblVKV0RLeWVDd3pSTkVGb2FHUy1ZTGRaVGpXX3pjVV90Q3IyeEhZS0E5UHpQeWc?oc=5"
+      "category": "Conflict",
+      "title": "イラン戦争ライブ更新：米国がイラン南部で橋や港への空爆を拡大",
+      "summary": "米国がイランに対する空爆を拡大し、イラン南部の橋や港湾施設を標的にしていることが報じられました。これは中東地域における紛争の激化を示唆しており、国際社会の懸念が高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kMzBFRnhWbGIwdEpFcVJVd251LTBDMXRMS01VRmNFNUVaZlo0ZzlDWjhsOUlqVVdHYk95V2JJVFlvNWxCck0tWWRyMkhLNkZ0anVzM0dnM1BsUzZMYzNROWQ3SVRWNGNxOUU4VFdwV1JQaDJpWVE?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "リフレクティングプールの剥がれは施工不良が原因か、と専門家が指摘",
-      "summary": "ワシントンポストの報道によると、ワシントンD.C.のリフレクティングプールで発生している表面の剥がれについて、専門家が施工時の不具合が原因である可能性を指摘しました。歴史的建造物の維持管理に関する問題が浮上しています。",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS3hROTE3ZUtGelRNLTZfYktKdWVnRkhkdHBOamVST0JRSENRY2dmT0hBeXpSTWt3TWlwMlQ1b1VRZnI2Mk5Tbk9kV1RCakpvS2MzTnFBZmd1bHlPU0ZTRlZUVl9ET0RiY2t4UTFzZ043Y1VXUVdZejFXcGZ5bFpPWmNwSlh3RmJray0wemh6M1RoQTRmS1p6WUswdnhadEVKN0xKWnlVTHpBbXdVZDF1SXRYTTlnUFJHRE0xa29GOUlNX3V5N0NHRGs3b1Y5dEtZMzJlVGtwRQ?oc=5"
+      "category": "Health",
+      "title": "米軍のテストステロン計画について、保健専門家が生殖能力リスクを警告",
+      "summary": "米軍が計画しているテストステロンに関連する措置について、保健専門家が生殖能力への潜在的なリスクを警告しています。この計画は兵士の健康と将来の生殖に関する倫理的な議論を提起しています。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQ2VUZkRqbGZ2aWhZdXFpcmQ0djBSMzlCX2Vnc0dHNW16WHF0Q092cldXT0p2bmhkRVZGMkc2VHRjYy1xc0t5NENxZkZVeUlUWnpPZVpBUXFWUQ?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツでACL損傷が増加している理由",
-      "summary": "女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向について解説。解剖学的差異、ホルモンバランス、トレーニングの質といった要因が複合的に影響していると指摘されています。特に成長期における適切な指導の重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "青年期バレーボール選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
+      "summary": "このレビューは、青年期のバレーボール選手を対象とした神経筋トレーニングが膝の傷害予防と運動能力向上にどのように寄与するかを考察しています。研究によると、ジャンプ、着地、方向転換などの動作における身体制御の改善が、前十字靭帯（ACL）損傷のリスクを低減し、同時にスプリントやジャンプパフォーマンスも向上させることが示唆されています。両者は、運動単位の動員、筋力、協調性といった共通の生理学的・力学的要素に基づいています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "火曜日のトピック：ランニングバイオメカニクスの基礎",
-      "summary": "ランニングパフォーマンス向上と怪我予防のための基本的なバイオメカニクスについて解説。効率的なストライド、接地時間、ピッチなどの要素がランニングエコノミーにどう影響するかを説明しています。個々のランナーに合わせたフォーム改善の重要性も示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
+      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史ミニレビュー",
+      "summary": "このミニレビューは、スプリント科学の発展における主要な人物と概念を歴史的な視点から概観しています。初期の運動生理学から最新のバイオメカニクス研究に至るまで、スプリントパフォーマンスの理解がどのように進化してきたかを追跡。特に、ストライド長、ストライド頻度、地面反力といったキーとなるバイオメカニクス的要素が、高速走行の効率性とパワーにどのように影響するかを探ります。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZno0bVdzLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ],
   "monthly_top20": [
@@ -349,48 +349,48 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "青年期バレーボール選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
-      "summary": "このレビューは、青年期のバレーボール選手を対象とした神経筋トレーニングが膝の傷害予防と運動能力向上にどのように寄与するかを考察しています。研究によると、ジャンプ、着地、方向転換などの動作における身体制御の改善が、前十字靭帯（ACL）損傷のリスクを低減し、同時にスプリントやジャンプパフォーマンスも向上させることが示唆されています。両者は、運動単位の動員、筋力、協調性といった共通の生理学的・力学的要素に基づいています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "title": "思春期バレーボール選手における神経筋トレーニングの二重の利点：膝傷害予防と運動パフォーマンスは共通のメカニズム的基盤を共有する：構造化されたナラティブレビュー",
+      "summary": "本レビューは、思春期のバレーボール選手を対象とした神経筋トレーニングが、膝の傷害予防と運動パフォーマンス向上という二重の利点をもたらすことを示しています。これは、両者が共通の神経筋メカニズムに基づいているためであり、特にACL損傷予防とジャンプ能力向上に効果が期待されます。トレーニングプログラムは、特定の運動パターンと身体制御能力の改善に焦点を当てています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUQlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史ミニレビュー",
-      "summary": "このミニレビューは、スプリント科学の発展における主要な人物と概念を歴史的な視点から概観しています。初期の運動生理学から最新のバイオメカニクス研究に至るまで、スプリントパフォーマンスの理解がどのように進化してきたかを追跡。特に、ストライド長、ストライド頻度、地面反力といったキーとなるバイオメカニクス的要素が、高速走行の効率性とパワーにどのように影響するかを探ります。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZno0bVdzLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学における先駆者とパラダイム：主題別歴史的ミニレビュー",
+      "summary": "このミニレビューは、スプリント科学の歴史における主要な先駆者とパラダイムの変遷をテーマ別に探求しています。初期の研究から現代の高度なバイオメカニクス解析に至るまで、スプリントパフォーマンスの理解がどのように進化してきたかを概観しています。これにより、スプリントトレーニングや技術開発の基盤となる科学的知識の発展経路が明らかにされます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "新しいACL手術アプローチがほとんどの患者の活動復帰を支援",
-      "summary": "最新の研究で、前十字靭帯（ACL）再建術における新たなアプローチが、患者のスポーツ活動への復帰率を大幅に向上させることが報告されました。この手術法は、靭帯の解剖学的構造をより忠実に再現し、関節の安定性を高めることを目的としています。術後のリハビリテーションプロトコルと組み合わせることで、多くの患者が安全かつ効果的に競技レベルの活動に戻れる可能性が示されています。",
+      "title": "新しいACL手術アプローチはほとんどの患者が活動に復帰するのに役立つ",
+      "summary": "最新の研究によると、新しい前十字靭帯（ACL）手術のアプローチが、ほとんどの患者がスポーツ活動に安全に復帰できるよう支援しています。この手術法は、靭帯の安定性を高め、再損傷のリスクを低減することを目的としており、術後の回復期間と機能的アウトカムの改善に寄与しています。これにより、アスリートの早期競技復帰が期待されます。",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ejYyUFRSWEtlZTJCZ3F0LXo3S2l4eHByTWRBVWpOLXpTM2h1NW5kQkFhZV92UlVKdDZnWkRXWU16UG1MeFdKbnJMZ2hHN0M5dE8wRjRlUmZFQUY5cURUSkN5LWRtdHpfVnJ3Z0poTXFXNFpmVEVtUmgtTDh2UQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "Valley Health Systemがアスリートの安全なピークパフォーマンス復帰を支援する「スポーツ復帰プログラム」を開始",
-      "summary": "Valley Health Systemは、スポーツ選手が怪我から回復し、安全に競技に復帰するための専門プログラムを立ち上げました。このプログラムは、身体能力の評価、個別化されたリハビリテーション計画、心理的なサポート、そして競技特異的なトレーニングを組み合わせることで、アスリートが最高の状態に戻ることを目指します。多職種連携アプローチにより、怪我の再発リスクを最小限に抑えながら、パフォーマンス向上を支援します。",
+      "title": "Valley Health Systemがアスリートが安全に最高のパフォーマンスを再開できるよう支援する「競技復帰プログラム」を開始",
+      "summary": "Valley Health Systemは、スポーツ傷害から回復したアスリートが安全かつ最適な状態で競技に復帰できるよう設計された「競技復帰プログラム」を立ち上げました。このプログラムは、身体能力の評価、機能的トレーニング、精神的サポートを統合し、アスリートが自信を持って最高のパフォーマンスを取り戻せるよう多角的に支援します。専門の理学療法士とトレーナーが個別のプランを提供します。",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の効果を評価しました。複数の研究を統合した結果、特定の運動器系疼痛、特に慢性的な筋骨格系疼痛に対して、鍼治療が痛みの軽減と機能改善に有効である可能性が示唆されています。これは、従来の治療法に加えて、補完的な選択肢となり得ると結論付けています。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
+      "title": "女性サッカー選手における反復性肩関節後方脱臼による疼痛管理への補助的な鍼灸・温灸療法：症例報告",
+      "summary": "本症例報告は、反復性肩関節後方脱臼に起因する疼痛を抱える女性サッカー選手に対し、通常の治療に加えて鍼灸・温灸療法を補助的に実施した効果を評価しています。治療により、選手の疼痛が顕著に軽減され、機能改善が認められました。東洋医学的アプローチがスポーツ傷害の疼痛管理に有効である可能性が示唆されます。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
-      "summary": "この記事では、アスリートが一般的に使用する9種類の主要なスポーツサプリメントについて、科学的根拠に基づいた情報を提供しています。クレアチン、カフェイン、エネルギーゲル、L-カルニチンなどが取り上げられ、それぞれの効果、推奨される摂取方法、潜在的な副作用、そして実際の競技パフォーマンスへの影響について詳しく解説されています。信頼性の高いサプリメント選びの指針となります。",
+      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
+      "summary": "このレビュー記事では、アスリートに人気のある主要な9つのスポーツサプリメントについて、科学的根拠に基づいた真実を解説しています。クレアチン、カフェイン、エネルギージェル、L-カルニチンなどの効果、適切な摂取タイミング、安全性に関する情報が提供され、アスリートが自身のパフォーマンス向上と回復のために賢明な選択ができるよう支援します。",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
     },
     {
@@ -398,112 +398,112 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートのメンタルヘルスは、身体的健康と同様に重要であり、学業、競技パフォーマンス、そして全体的な幸福に大きな影響を与えます。この記事は、保護者やコーチが学生アスリートのメンタルヘルスをサポートするための具体的なヒントを提供しています。ストレスの兆候を見つける方法、オープンなコミュニケーションを促す方法、そして必要に応じて専門家の助けを求めることの重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "ジョンズ・ホプキンス・メディスンは、学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けのヒントを公開しました。若年層のアスリートは学業、競技、社会的プレッシャーなど複数のストレス要因に直面しており、燃え尽き症候群や不安、うつ病のリスクがあります。記事では、オープンなコミュニケーションの促進、適切な休息の確保、専門家への相談の重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoM3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリステン・ホームズが語る、睡眠と回復がいかにハイパフォーマンスを形成するか",
-      "summary": "WHOOPのクリステン・ホームズ氏が、アスリートのハイパフォーマンス達成において睡眠と回復がいかに不可欠であるかを解説しています。彼女は、単に長時間眠るだけでなく、質の高い睡眠、リカバリー戦略（栄養、アクティブリカバリー、ストレス管理など）が、身体的および精神的なパフォーマンスに深く関連していることを強調します。データに基づいたアプローチで、個々のアスリートに最適な回復プロトコルを見つける重要性を説いています。",
+      "title": "クリステン・ホームズ氏と語る：睡眠と回復がいかにハイパフォーマンスを形成するか",
+      "summary": "WHOOPのクリステン・ホームズ氏が、睡眠と回復がアスリートのハイパフォーマンスにいかに不可欠であるかについて解説しています。身体的トレーニングと同等に、質の高い睡眠と効果的な回復戦略が、疲労の軽減、怪我のリスク減少、認知機能の最適化に繋がり、結果として競技成績を向上させることが強調されています。データに基づいたパーソナライズされた回復アプローチの重要性も議論されています。",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "米軍、イランに新たな攻撃 「軍事能力の一段の弱体化」狙う",
-      "summary": "ロイター通信によると、米軍はイランに対し新たな攻撃を実施しました。これは、イランの軍事能力をさらに弱体化させることを目的としていると報じられています。中東地域の緊張が高まる中で、今後の情勢に注視が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEcxcWV6aTd2cHpiSVlRQXpzN0VtN2x3RS1vZVQwZkNyUW8zbFItT1RpbjZYRF9hNGtVWmFhQXNHXzVVSzdSVUR4azZRTm5LSG1YUWZ2ajllZlQyVWctdEo3dGNnUVZ1b0VEYzdSekRpUlJyS1JvQi1zS25FUk45M3dB?oc=5"
+      "title": "米軍は６日連続でイラン攻撃、インフラにも拡大…革命防衛隊はシリアの米軍通信施設を初めて攻撃",
+      "summary": "米軍がイランへの攻撃を6日連続で継続し、インフラへの攻撃範囲を拡大しています。これに対し、イラン革命防衛隊はシリアの米軍通信施設を初めて攻撃しました。中東情勢の緊張がさらに高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KaUV5NmhSNkxZZkpyZEFYemVtTDlseTBsODIxaEF2WHVYSTlTRk1YbGRjN3VXeWNHS1IteDlhZFRGMDRlTVoxZW5lZi02Ykx2QXI4aVRrVnFiRjlYQ09Tckx3?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "読む政治：国旗損壊罪は「後出しジャンケン」 違憲指摘も…学者4人の警鐘",
-      "summary": "毎日新聞は、検討されている国旗損壊罪について、「後出しジャンケン」であり違憲の可能性もあるとして、4人の学者からの警鐘を報じました。表現の自由との兼ね合いが議論の焦点となっています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fYUpaU19rVExVZjVXbFd0UjBvV1pZcXhkRXkwMUdxbGFSZkh1UXQ0WDlFcmFjMnFPNHQ2VjdZMndMWk9uS3RxS2ZKNWN3TWM0UGM3ZEM4UHhfdEtmUktwMHlQZmFHSHVy?oc=5"
+      "title": "自民大勝と野田氏の影響力低下 改正皇室典範成立の背景 水面下の攻防で動いた正副議長",
+      "summary": "自民党の大勝と野田氏の影響力低下が、改正皇室典範成立の背景にあると分析されています。水面下での政治的攻防において、正副議長の動きが法案成立に重要な役割を果たしたことが示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1namtEaTdpUHBNeFFfY25YTjVjYzdHaGhrMG5xeE1oeHlNSGtaTUZmVDVmZFhKREp6aFBFR01UNmxjU1ZOdVNYRUU2WlJZeDJqaXVwZzNBM2RnbVRUTG5Da0RPcVhVY0sxaTUwemNReWVEUmp4NWc?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "経済",
-      "title": "新給付制度の額や対象範囲は今後検討、財源「早期に結論を得る」…消費税減税「８月上旬目途」骨太に",
-      "summary": "新しい給付制度の具体的な内容や対象範囲は今後検討され、その財源については早期に結論を得る方針が示されました。また、消費税減税については8月上旬を目途に骨太の方針に盛り込まれる見込みです。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlMEdNenhmRGpJOVBsdEs3NVRvdXBUVWw4NUdkeVRUOFZpeWt4NDJZa1Uwd1NFTWptYkF6ZGp5X0pscEtwYjVtay00T3RPWjNfSGFjenFVTlUxU3dCdE9Hc3pxd1lOdw?oc=5"
+      "category": "社会",
+      "title": "点滴チューブに排せつ物で死亡の男性、おむつ替え巡り容疑者とトラブル…「担当者を替えてほしい」と訴え（読売新聞オンライン）",
+      "summary": "点滴チューブに排せつ物を混入させ、男性を死亡させた事件で、容疑者と被害男性の間におむつ替えを巡るトラブルがあったことが報じられました。被害男性は以前から担当者の変更を訴えていたといいます。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lNmJ3TjNWODFibTBKNUpSTXF6eG9PUllTVUp4RmFwYUpoN3JRcEJITUVVRTBkX1ZCaWpNQ3c4Wm92aG9ZbFdzcFZDX09VdE9fVS1LdWVqR3M2aEVjTHFBaEZfTHVJdnd2czM2YU0zZzFCTjcwNGthRjV6WnJNSjA?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "【速報】「命守りきれず、おわび」点滴チューブに大便混入 柏・入院患者殺害で病院謝罪 容疑者、担当外も部屋に複数回出入り",
-      "summary": "千葉県柏市で入院患者の点滴チューブに大便が混入され、殺害された事件で、病院側が「命を守りきれず、おわび」と謝罪しました。容疑者は担当外の部屋にも複数回出入りしていたと報じられており、事件の詳細な経緯解明が待たれます。",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1abGZ3U0FxdzFUbGJCRm9sWWhZNjBxQkFxcl9CNUhEaWlGZGVMbTZHSFBzeUxRUkZUVlIxSjBqQnl6MjloU1FWVlkzWXZhemVSUExDdk9MZDY?oc=5"
+      "category": "経済",
+      "title": "消費減税、協議打ち切りへ 国民会議、両論併記で調整",
+      "summary": "消費減税に関する国民会議での協議が打ち切られる方向で調整が進んでいます。会議では、消費減税の賛否両論が併記される形で結論が出される見込みです。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83c015dF9QdWlhQUNmQkpwSV80Q1R0SWkyMWxhQlRhR21jTkQ2RFhwdTZrLS12Sk5YY3pKTjJFTnNncmpobHFKazIxTQ?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
       "category": "環境・気候",
-      "title": "今日7月17日(金)の天気予報 関東や東北は雷雨のおそれ 東海西部や近畿は猛暑に警戒",
-      "summary": "ウェザーニュースによると、今日7月17日(金)の天気は、関東や東北で雷雨のおそれがあり、東海西部や近畿では猛暑に警戒が必要です。熱中症対策を万全にし、急な天候の変化に注意してください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GQmQwQ0pkSmlXanVxWmlmX2lXR2dwWGJmRnpiYlJ3MGFhaFI5elpmanhlcDlFRENaclV6M3dMcGxjWjF5bk5UOGd5bE5wVHBPSVFfag?oc=5"
+      "title": "群馬 太田 利根川水系石田川に氾濫危険警報 厳重警戒を",
+      "summary": "群馬県太田市を流れる利根川水系石田川に、氾濫危険警報が発表されました。周辺住民に対し、自治体からの情報に注意し、厳重な警戒と適切な避難行動を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JR1Fsak9uY281cmVZVmtaQmJmR0xRUzNmSGpEOHFRRFFya21SVHoxT08tTkJpTm9uY2pWYk9rekxxM2paT3Joc3J6eGtObHhFb0xPOVRrdXVlQ0Y4cnJn?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Climate",
-      "title": "カナダの山火事の煙がペンシルベニア州に滞留し、コードレッドの大気質警報が発令",
-      "summary": "カナダの山火事による煙がペンシルベニア州に広がり、大気汚染のレベルが非常に危険な「コードレッド」に達し、大気質警報が発令されました。住民には外出を控え、健康への影響に警戒するよう呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzNMVDN6ZEt3b0tLZzh3VU1GcU9fT2ZORlh4T3E3WExmRWlhQlZ0ZEJ1RnplNlY5dHpMYWJhVkRXSzgxV19HTXFYcHMyMGx5OWdzdkkwbVplQXdwZ3VPdVhqZTRPZ0RfeHJ0M1o3a2JRVnNTVzdHai1lVmhLWU1uMGxTT1hialpkdlRLMlhWLXpUMGt2cWdHb09zUkJKOVBjTE5v?oc=5"
+      "title": "山火事の煙が今週末も滞留・拡散の見込み。影響を受ける都市はどこか。",
+      "summary": "今週末、米国の広範囲で山火事による煙が滞留し、さらに拡散すると予測されています。特に影響を受ける都市が報じられており、住民は健康被害に警戒する必要があるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRzJWQWlmLVIwLXZxcWpvMmZ3dmZYNnRYYk9iTHhXcThsWDcxVEFSR0EwS2NGTXJuWFI3enVhME45bllTSUdkZ3BSNWFfZzNsWEV2VURkWGNwLWt3NG1fOWF2TWRtOThYSDFXbEczZDN6b3JoamVuOFRZYTRpRjZEWG1NMHQ0SXllMEdUR0lndHU1MWxVT1hvYWxnVVNMUmczeGdkZ0dpNjV1T0phYjZydmx0UU5oUDVMZTBjLUpkbl9xdw?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "一部のテレビネットワークがトランプ氏の演説を生中継しない方針",
-      "summary": "Axiosの報道によると、一部の主要テレビネットワークがドナルド・トランプ氏の演説を生中継しない決定を下しました。これは、過去の発言内容や放送時間配分に関する懸念が背景にあるとみられています。",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BNnYtSTRXTE9YLW5FNG1rNmRDNmptbF9DRUtmMlpjem1LaWpUdDA5VVZUUjNDUTdJeVYwcWtwRW00amYxU2pmN0ZXU2NDVFlJY0VXLXlBUUJ3SzFZOTlmdXhYWjk4UzlITDJsUE9ZX3pHNEFqbHhr?oc=5"
+      "title": "マークウェイン・マリン国土安全保障長官が選挙に関して各州を威嚇",
+      "summary": "国土安全保障長官マークウェイン・マリン氏が、選挙の運営を巡って複数の州に対し威嚇的な発言を行ったと報じられています。これは米国内の政治的緊張をさらに高める可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUhBZ0c1VUl6SXBqNVRJbzhiS0ZXSHFsOUtWcGpVdllJQTNsZVZEZ2xVRUV2eDlORF8yanNxNTlxT0Y5cmQ0X2dNY1pnejlCT29pOVFDX2NIeEV6dFlNalpnQ3l3elZLVVp1bVc1UFlrcTVEV0ZQYVpoZ3F5Q3lrWGxsM2JVWlU2bURyR2tzOXVMaGs2NnF2eTFTUzJlVUozQjBuNm9FLVBqcGZFMm1Rc0RNYWRBNXhZMWRXUHVFOWZDZw?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "テキサス州ヒルカントリーで再び洪水が発生、少なくとも1人死亡との速報",
-      "summary": "CNNの速報によると、テキサス州ヒルカントリー地域で再び大規模な洪水が発生し、少なくとも1人が死亡しました。集中豪雨が原因とみられ、救助活動が進行中です。",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTjVsbzVWMnh2c0xwSGNzTjA3c3BOTXNzc3FTZmxMVGxqaWpzUlNpN2hqREx1c2F4ZXYwVTd2cVhrLW03VFl2aGNOSTVQMy10WDVrUUR0dFpwNTZhTXVncmNPaXA5eWpPZ3BfQmlzZmFmekc0c1lydDNuWDVBNTBxdV9tNklfNWZHalY5dk0xb1VBQms?oc=5"
+      "category": "Politics",
+      "title": "FCC委員、トランプ氏のABC、NBCライセンス剥奪要求は違憲と発言",
+      "summary": "連邦通信委員会（FCC）の委員が、ドナルド・トランプ氏が主張するABCおよびNBCの放送ライセンス剥奪要求について、憲法違反であるとの見解を示しました。これはメディアの自由と政治的干渉に関する議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXVkTmVuMW9WWmhVNEkxVWt3anRHMzQ2RUFXQjA5czBqMER0RlUzOTBkbVEyWlpQY21qX3M4dm8xbXdaeVF0Ulg4aHZZcGtzM0tlMTl6TDZwdlpNU2RvNEp2QmR6aUpNdXlHVGdqLUdkTmxLbWtMLWpXR2ZJYmxZRDFaTl9IWWhqbGJOSnZ5ODNpRUJLNUthX2pEMU9URFdTb01DbHhtYkJZS0R4UDk1SFRnUTFva0MwejBabl9JRzFPaUNaVE80enp5eFdmc2lR?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トッド・ブランシュ氏が激しい公聴会でアダム・シフ氏を厳しく批判：「あなたは弁護士だ、規則を知っているだろう」",
-      "summary": "フォックスニュースによると、公聴会でトッド・ブランシュ氏がアダム・シフ氏に対し、「あなたは弁護士なのだから、規則を知っているはずだ」と激しく批判しました。緊迫したやり取りは、政治的な対立が深まっていることを示しています。",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblBMcnBFdzVRTm9VejVRMzV5T2hFWGl0aDloWkNrM1B1LTN5c2VoamYyT0x2RExsUWhUXzJkaFBnLVh0V2QtTTVsVXAxTjFfVV82Ym5pVUZYYTVOUXZhUGRuSHdVMlpaZWIwOGxfR3VEOXEyX3p3Z2FIdDAxUjVvY25IM0VEVEV1RE9IVzVzMzhFVVEtVUl1S2RXVnhndUFSUGFBZFJid3lmVjTSAbABQVVfeXFMUEVpc3liTUxFT2Y3dWJqbkNfN3BUZUhNX1NEanpUcFhRbE9ZX19hWWVJUkpDRkVMUkdFZE1OcTBmNzRpX1RLRmJqSHluRXFRQkJ4cVAwZjI5ZHpTemREOFFRTTYxRXNMMl9Nb0xyYVJtcWNnSlRON1dCYS1EdTJmaEdLblVKV0RLeWVDd3pSTkVGb2FHUy1ZTGRaVGpXX3pjVV90Q3IyeEhZS0E5UHpQeWc?oc=5"
+      "category": "Conflict",
+      "title": "イラン戦争ライブ更新：米国がイラン南部で橋や港への空爆を拡大",
+      "summary": "米国がイランに対する空爆を拡大し、イラン南部の橋や港湾施設を標的にしていることが報じられました。これは中東地域における紛争の激化を示唆しており、国際社会の懸念が高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kMzBFRnhWbGIwdEpFcVJVd251LTBDMXRMS01VRmNFNUVaZlo0ZzlDWjhsOUlqVVdHYk95V2JJVFlvNWxCck0tWWRyMkhLNkZ0anVzM0dnM1BsUzZMYzNROWQ3SVRWNGNxOUU4VFdwV1JQaDJpWVE?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "リフレクティングプールの剥がれは施工不良が原因か、と専門家が指摘",
-      "summary": "ワシントンポストの報道によると、ワシントンD.C.のリフレクティングプールで発生している表面の剥がれについて、専門家が施工時の不具合が原因である可能性を指摘しました。歴史的建造物の維持管理に関する問題が浮上しています。",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS3hROTE3ZUtGelRNLTZfYktKdWVnRkhkdHBOamVST0JRSENRY2dmT0hBeXpSTWt3TWlwMlQ1b1VRZnI2Mk5Tbk9kV1RCakpvS2MzTnFBZmd1bHlPU0ZTRlZUVl9ET0RiY2t4UTFzZ043Y1VXUVdZejFXcGZ5bFpPWmNwSlh3RmJray0wemh6M1RoQTRmS1p6WUswdnhadEVKN0xKWnlVTHpBbXdVZDF1SXRYTTlnUFJHRE0xa29GOUlNX3V5N0NHRGs3b1Y5dEtZMzJlVGtwRQ?oc=5"
+      "category": "Health",
+      "title": "米軍のテストステロン計画について、保健専門家が生殖能力リスクを警告",
+      "summary": "米軍が計画しているテストステロンに関連する措置について、保健専門家が生殖能力への潜在的なリスクを警告しています。この計画は兵士の健康と将来の生殖に関する倫理的な議論を提起しています。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQ2VUZkRqbGZ2aWhZdXFpcmQ0djBSMzlCX2Vnc0dHNW16WHF0Q092cldXT0p2bmhkRVZGMkc2VHRjYy1xc0t5NENxZkZVeUlUWnpPZVpBUXFWUQ?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツでACL損傷が増加している理由",
-      "summary": "女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向について解説。解剖学的差異、ホルモンバランス、トレーニングの質といった要因が複合的に影響していると指摘されています。特に成長期における適切な指導の重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "青年期バレーボール選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
+      "summary": "このレビューは、青年期のバレーボール選手を対象とした神経筋トレーニングが膝の傷害予防と運動能力向上にどのように寄与するかを考察しています。研究によると、ジャンプ、着地、方向転換などの動作における身体制御の改善が、前十字靭帯（ACL）損傷のリスクを低減し、同時にスプリントやジャンプパフォーマンスも向上させることが示唆されています。両者は、運動単位の動員、筋力、協調性といった共通の生理学的・力学的要素に基づいています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "火曜日のトピック：ランニングバイオメカニクスの基礎",
-      "summary": "ランニングパフォーマンス向上と怪我予防のための基本的なバイオメカニクスについて解説。効率的なストライド、接地時間、ピッチなどの要素がランニングエコノミーにどう影響するかを説明しています。個々のランナーに合わせたフォーム改善の重要性も示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
+      "title": "スプリント科学の先駆者とパラダイム：テーマ別歴史ミニレビュー",
+      "summary": "このミニレビューは、スプリント科学の発展における主要な人物と概念を歴史的な視点から概観しています。初期の運動生理学から最新のバイオメカニクス研究に至るまで、スプリントパフォーマンスの理解がどのように進化してきたかを追跡。特に、ストライド長、ストライド頻度、地面反力といったキーとなるバイオメカニクス的要素が、高速走行の効率性とパワーにどのように影響するかを探ります。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZno0bVdzLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ]
 };
