@@ -1,65 +1,65 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/07/21",
-  "generated_at": "2026-07-20T21:54:07.403Z",
+  "issue_date": "2026/07/22",
+  "generated_at": "2026-07-21T21:53:37.421Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツにおけるACL損傷の増加とその背景",
+      "title": "女子スポーツにおけるACL損傷の増加とその原因",
       "source": "WRUF",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSK2yWkZZTmhCRXFHRzZyYXlJX1E?oc=5",
-      "abstract": "女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が上昇している現状について解説しています。この増加は、幼少期からのスポーツ専門化、十分な筋力トレーニングの不足、不適切なバイオメカニクス、さらには性差による身体構造の違いなどが複合的に影響していると指摘されており、予防策の重要性が強調されています。",
-      "insight": "女子選手を指導するコーチや保護者は、早期のスポーツ専門化を避け、包括的な神経筋トレーニングプログラムを導入することで、ACL損傷のリスクを低減し、長期的なアスリートの健康を促進できます。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5",
+      "abstract": "最近の研究により、女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加していることが指摘されています。これは、身体構造、ホルモンバランス、トレーニング方法の違いなどが複合的に影響していると考えられています。特に、着地動作や方向転換時の力学的負荷が男子選手と異なる点が注目されています。",
+      "insight": "女子アスリートのACL損傷予防には、性差を考慮した神経筋トレーニングプログラムの導入が不可欠です。適切な着地、方向転換、バランス能力を向上させることで、怪我のリスクを軽減し、パフォーマンス向上にも繋がります。",
       "published_at": "2026-05-12T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "短距離走科学における先駆者とパラダイム：テーマ別歴史ミニレビュー",
+      "title": "スプリント科学におけるパイオニアとパラダイム：テーマ別歴史ミニレビュー",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
-      "abstract": "短距離走の科学的研究の歴史的発展を概観するレビューです。黎明期の研究から現代の高度なバイオメカニクス分析に至るまで、どのように技術と理解が進化してきたかをテーマ別に辿り、短距離走パフォーマンスの最適化に貢献した主要な発見や理論をまとめています。",
-      "insight": "スプリントコーチやトレーナーは、このレビューから短距離走トレーニングの理論的根拠を深く理解し、歴史的視点から現代のトレーニング方法の有効性を再評価することで、より効果的な指導戦略を構築できます。",
+      "abstract": "本レビューは、スプリント科学の歴史的発展における主要な研究者と理論的枠組みを体系的に概観しています。初期の運動生理学から現代のバイオメカニクス、神経科学的アプローチに至るまで、スプリントパフォーマンスの理解がどのように深化してきたかを探ります。特に、スプリント技術、トレーニング方法論、および測定技術の進化に焦点を当てています。",
+      "insight": "スプリントコーチやトレーナーは、このレビューから得られる歴史的洞察を基に、最新の科学的知見と過去の成功例を組み合わせたトレーニングプログラムを設計できます。特に、個々のアスリートの特性に合わせた技術指導や体力開発に役立つでしょう。",
       "published_at": "2026-04-30T16:58:11.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、シェア、予測、2034年",
+      "title": "人工腱および靭帯市場規模、シェア、予測、2034年",
       "source": "Fortune Business Insights",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5",
-      "abstract": "2034年までの人工腱・靭帯市場の動向と予測に関するレポートです。スポーツ医学分野での需要増加や技術革新により、この市場が急速に拡大していることが示されています。患者の回復期間短縮や再負傷リスクの低減に貢献する可能性が注目されています。",
-      "insight": "スポーツ整形外科医や医療機器開発者は、この市場動向を把握することで、将来の治療法開発や施設への投資計画を立てる上で重要な情報として活用できます。",
+      "abstract": "市場調査レポートによると、人工腱および靭帯の市場は2034年までに大幅な成長が見込まれています。スポーツ外傷や変性疾患の増加、再生医療技術の進歩が市場拡大の主要な要因です。これにより、より安全で効果的な治療選択肢が提供されることが期待されます。",
+      "insight": "スポーツ医学の専門家や整形外科医にとって、人工腱・靭帯の進化は、特に重度の損傷を負ったアスリートの治療において新たな選択肢をもたらします。これにより、より迅速かつ効果的な競技復帰が可能になる可能性があります。",
       "published_at": "2026-06-29T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレー・ヘルス・システム、アスリートの安全な競技復帰を支援する「スポーツ復帰プログラム」を開始",
-      "source": "Valley Health System",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5",
-      "abstract": "バレー・ヘルス・システムがアスリート向けに新たなスポーツ復帰プログラムを開始したと報じる記事です。このプログラムは、受傷後の身体的な回復だけでなく、心理的な側面も考慮し、個別化されたリハビリテーションを通じて選手が安全かつ最高のパフォーマンスで競技に復帰できるよう支援することを目的としています。",
-      "insight": "理学療法士やリハビリテーション専門家は、単なる機能回復に留まらず、心理的サポートを含む包括的なアプローチがアスリートの早期かつ安全な競技復帰に不可欠であることを再認識し、自身のプログラムに統合することができます。",
-      "published_at": "2026-05-11T07:00:00.000Z"
+      "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入",
+      "source": "The Sport Journal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5",
+      "abstract": "この研究は、スポーツリハビリテーションプログラムに非線形ピリオダイゼーション（NUP）を導入することの有効性を探るものです。NUPは、トレーニング負荷を週ごとに大きく変動させることで、選手の適応能力を高め、停滞を防ぎながら効率的な回復とパフォーマンス向上を目指します。特に、怪我からの復帰プロセスにおける筋力、パワー、持久力の向上に焦点を当てています。",
+      "insight": "理学療法士やリハビリトレーナーは、NUPを導入することで、アスリートの回復期においてより個別化された柔軟なトレーニング計画を提供できます。これにより、回復のモチベーション維持と、より高い競技レベルでの安全な復帰を促進することが可能になります。",
+      "published_at": "2026-07-21T19:24:17.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手の反復性肩関節後方脱臼による疼痛管理のための鍼灸補助療法：症例報告",
-      "source": "Cureus",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
-      "abstract": "反復性肩関節後方脱臼に苦しむ女子サッカー選手に対して、通常の治療に加えて鍼灸療法を併用した症例報告です。この補助療法が疼痛の軽減に有効であった可能性が示唆されており、アスリートの慢性疼痛管理における東洋医学的アプローチの有効性について考察されています。",
-      "insight": "鍼灸師やスポーツトレーナーは、一般的な治療法だけでは改善が難しいアスリートの慢性疼痛に対し、鍼灸が補完的な治療選択肢となり得ることを理解し、多角的なアプローチを検討する際の参考にできます。",
-      "published_at": "2026-03-18T07:00:00.000Z"
+      "title": "鍼治療市場規模は2035年までに1053.4億ドルに達する見込み",
+      "source": "Precedence Research",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUlViS0U1WHduTVFvMVlkUzk5b194Mzg3OTVGU1VXNFQ2VU5aOGFkRjJYel8tWHNXc2N2dGhJeHFEVUI2eXlFVVdYN3VsdkRiSElGa2RfNWNFUHRfdlQxeF9Kcw?oc=5",
+      "abstract": "市場調査レポートによると、鍼治療市場は2035年までに1053.4億ドルに達すると予測されており、急成長が期待されています。慢性疼痛管理、ストレス軽減、ウェルネス促進における鍼治療の有効性への認識が高まっていることが、この成長の主要な要因です。特に代替医療としての需要が増加しています。",
+      "insight": "スポーツ医学の現場では、伝統的な治療法に加えて、鍼治療を補完療法として活用することで、アスリートの疼痛管理や回復促進に新たな選択肢を提供できます。これにより、パフォーマンス向上と怪我からの早期復帰をサポートする体制を強化できるでしょう。",
+      "published_at": "2026-03-12T13:34:12.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリート向けトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
+      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
       "source": "220 Triathlon",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5",
-      "abstract": "アスリートがパフォーマンス向上や回復のために利用する主要なスポーツサプリメント、特にクレアチン、カフェイン、エナジージェル、L-カルニチンに焦点を当て、その科学的根拠、効果、適切な使用方法、安全性について解説しています。各サプリメントのメリットとデメリットが紹介されています。",
-      "insight": "スポーツ栄養士やアスリートは、この情報を基に、自身の目標やニーズに合ったサプリメントを科学的根拠に基づいて選択し、適切な量とタイミングで摂取することで、安全かつ効果的にパフォーマンス向上や回復をサポートできます。",
+      "abstract": "この記事では、アスリートがパフォーマンス向上と回復のために利用できる9つの主要なスポーツサプリメントについて詳細に解説しています。クレアチン、カフェイン、エネルギージェル、L-カルニチンなどの効果、推奨摂取量、安全性に関する科学的根拠を提示し、誤解を解き明かします。各サプリメントが特定の運動能力や回復プロセスにどのように作用するかが説明されています。",
+      "insight": "アスリートやコーチは、この情報をもとに、個々のトレーニング目標や健康状態に合わせたサプリメントの選択と摂取計画を立てることができます。エビデンスに基づいた適切な利用は、安全性を確保しつつ、競技力向上と回復の加速に貢献します。",
       "published_at": "2026-04-19T07:00:00.000Z"
     },
     {
@@ -67,19 +67,19 @@ window.DIGEST_DATA = {
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
       "source": "Johns Hopkins Medicine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMjdXUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
-      "abstract": "学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者やコーチが彼らをどのようにサポートすべきかについて具体的なヒントを提供しています。学業、競技、ソーシャルライフのバランスを取るプレッシャーが精神的健康に与える影響や、早期発見と介入の重要性が強調されています。",
-      "insight": "ユーススポーツのコーチや保護者は、学生アスリートの精神的ストレスサインに注意を払い、オープンなコミュニケーションを促すことで、彼らが健全な心身でスポーツを続けられるよう積極的な支援を行うことができます。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
+      "abstract": "ジョンズ・ホプキンス大学医学部からの記事は、学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けの具体的なヒントを提供しています。学業、競技、ソーシャルライフのプレッシャーに直面する若者が、どのようにストレスに対処し、精神的な健康を維持できるかに焦点を当てています。オープンなコミュニケーションとサポート体制の重要性が強調されています。",
+      "insight": "指導者や保護者は、このヒントを活用して、学生アスリートが身体的だけでなく精神的にも健康な状態で競技に臨めるよう支援できます。早期のサインに気づき、適切なサポートを提供することで、燃え尽き症候群やメンタルヘルス問題の予防に繋がります。",
       "published_at": "2026-05-05T15:36:18.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "睡眠とリカバリーがいかにハイパフォーマンスを形成するか：クリステン・ホームズ氏との対談",
+      "title": "クリステン・ホームズが語る、睡眠と回復がいかにハイパフォーマンスを形成するか",
       "source": "WHOOP",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5Mkk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5",
-      "abstract": "高度なパフォーマンスを実現するための睡眠とリカバリーの役割について、WHOOPの専門家であるクリステン・ホームズ氏との対談形式で深掘りしています。睡眠の質、リカバリー戦略、そしてこれらがアスリートの身体的・精神的パフォーマンスにどのように影響するかについて議論されています。",
-      "insight": "アスリートやトレーナーは、睡眠とリカバリーをトレーニングの不可欠な要素として捉え、ウェアラブルデバイスなどを用いて客観的にデータを管理することで、個々の状態に合わせた最適なリカバリー戦略を立て、パフォーマンス向上につなげることができます。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5MUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5",
+      "abstract": "この記事では、著名なパフォーマンス科学者であるクリステン・ホームズ氏が、睡眠と回復がアスリートのハイパフォーマンスに不可欠な要素である理由について解説しています。質の高い睡眠が身体的・精神的な回復、認知機能、怪我の予防にいかに影響するかを強調し、具体的な回復戦略の重要性を説いています。アスリートが最高の状態を維持するための実用的なアプローチが示されています。",
+      "insight": "アスリートやトレーナーは、睡眠と回復をトレーニングプランの重要な一部として位置づけるべきです。睡眠の質を向上させるためのルーティン導入や、回復戦略を個別に調整することで、パフォーマンスの最大化と怪我のリスク低減に繋がります。",
       "published_at": "2026-06-16T07:00:00.000Z"
     }
   ],
@@ -87,99 +87,99 @@ window.DIGEST_DATA = {
     {
       "id": "j001",
       "category": "国際",
-      "source": "ロイター",
-      "title": "イエメンのフーシ派、サウジに対し海上封鎖宣言 「不当な包囲」に対抗",
-      "summary": "イエメンのフーシ派は、サウジアラビアによる「不当な包囲」に対抗するため、サウジに対する海上封鎖を宣言しました。この動きは、中東地域の緊張をさらに高め、国際社会の懸念を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaWl4bk1YeDBoQjIxc0x5dkFyTnZ0NTNQTkVTMGptT1dzbDFjdnNzbXBtWWdtNTJKSmZLcWJxU2prazRhSzBqR1B3N0VkTkdwRzdSWjhCa3JLYjFJTVJHRUljNTdCbVhYUzRaNEpQYU5sa3VXcGhWZmRMcFFCOHU4NHhR?oc=5",
-      "published_at": "2026-07-20T20:53:04.000Z"
+      "source": "読売新聞",
+      "title": "トランプ米大統領、イラン中部のピックアックス山周辺を「近いうちに激しく攻撃する」…山の地下深くに核施設を建設中か",
+      "summary": "トランプ米大統領が、イラン中部のピックアックス山周辺を近く攻撃すると発言しました。\n同地の地下深くに核施設が建設されているとの情報があり、国際情勢の緊張が高まっています。\nこの発言は、中東地域の安全保障に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16WmE5bmNzZEFHb1RkSVJZOWRqWmVvdXJ6UU5NS0NsQWhIYW5YY2tHNGhHcVhjcENHSkItRzIyUFNMYzBZbDVfR0FZR040UFF3MFRhUFZXX3ZpcEtoTVpJemFB?oc=5",
+      "published_at": "2026-07-21T20:14:00.000Z"
     },
     {
       "id": "j002",
-      "category": "国際",
+      "category": "社会",
       "source": "読売新聞",
-      "title": "中露両軍、日本のＥＥＺ内で実弾用い実戦演習…小泉防衛相「中露の軍事連携は強化されている」と警鐘",
-      "summary": "中国とロシアの両軍が日本の排他的経済水域（EEZ）内で実弾を用いた実戦演習を実施しました。小泉防衛相は、中露の軍事連携が強化されているとして警鐘を鳴らし、日本の安全保障環境に対する懸念が高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZSVBCY2VaT2d6emlmaXpEdzlQTkI0UllpaUhvSzViRjRSMWVSZl9ZaXotT001UEQxYmhpdFcwcll6Vl84WlRxQVhiVkp6aEh0WnhHM2VXRTNUV0FxUE9SUDdVS0o0UQ?oc=5",
-      "published_at": "2026-07-20T14:22:00.000Z"
+      "title": "緑ナンバー貸し出し「白タク」させた疑い、中国籍の男逮捕…ドライバー十数人から計３８００万円受け取りか",
+      "summary": "緑ナンバー車両を貸し出し、無許可でタクシー営業を行う「白タク」行為をさせた疑いで、中国籍の男が逮捕されました。\nこの男は、十数人のドライバーから合計約3800万円を受け取っていたとみられています。\n違法な運送行為に対する取り締まりが強化されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RX0ZtQXZxem91ckk3cFFKWEZZYnRTaUtMMEdhaldLV3BaREpCUjN1ZUU3TWVuV1BxRUxRX19vdFI2dW1DU1ZKUVlvLUpOTFJsczlENVVtUWplU2J2TFlyLXZZRUM5QQ?oc=5",
+      "published_at": "2026-07-21T20:00:00.000Z"
     },
     {
       "id": "j003",
       "category": "国際",
-      "source": "朝日新聞",
-      "title": "Tシャツにジーンズ姿の「北部の王」 英国の新首相、バーナム氏とは",
-      "summary": "英国で新たに首相に就任したアンディ・バーナム氏について報じる記事です。Tシャツとジーンズ姿で知られる同氏は「北部の王」と称され、これまでの政治家像とは異なる親しみやすいイメージで国民の注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcGtHOEhQcnhOTGRyNGhjQm9Sc2otblEtNzNjd2UxX0Z1ZG9yV0RYUG5iSnBHV1hoYTdvTVdLYWZYajBCeml5QzNDQkpVblY0ZG9mSUluSFgya1dKNTRpUVNuTkJXM0U?oc=5",
-      "published_at": "2026-07-20T10:30:00.000Z"
+      "source": "ロイター",
+      "title": "紅海でサウジ産原油タンカー2隻がＵターン、フーシ派の警告受け",
+      "summary": "紅海を航行中のサウジアラビア産原油タンカー2隻が、フーシ派からの警告を受けてUターンしました。\nこの事態は、紅海における船舶の安全保障リスクの高さを示しており、原油供給ルートへの影響が懸念されます。\n地域情勢の不安定化が、エネルギー市場に波紋を広げています。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sLTItdFkyQk5ZM3AxSlNURlptbm10enViSUR3TnE1MDI2bTBLVTkwSWtBUVNqaDJSTUhrV0tnTDEwbWdfN2tud3hHZjQyclhjR3hGMUg2UE1HUVp6WnM3WXd0TUNCckJBjFU0MTQ0akE?oc=5",
+      "published_at": "2026-07-21T14:52:58.000Z"
     },
     {
       "id": "j004",
-      "category": "社会",
-      "source": "ウェザーニュース",
-      "title": "明日7月21日(火)の天気予報 関東から九州は猛暑が続く 熱中症に厳重警戒を",
-      "summary": "明日7月21日(火)の天気予報によると、関東から九州にかけて猛暑が続く見込みです。気象庁は、熱中症への厳重な警戒を呼びかけており、こまめな水分補給や適切な冷房の使用が不可欠です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50MWdJRUF6RlM0VGdOcTc1ZUsyLXdwUFYwbXVWZmFjMWFqMHZxZ3pNNmlTbExxM21SdXhwUVUwZzd3eXRhNmFBcnZHelpqWW9KQnJQRA?oc=5",
-      "published_at": "2026-07-20T07:55:00.000Z"
+      "category": "政治",
+      "source": "朝日新聞",
+      "title": "高市首相「0～3時間睡眠が常態化」 Xに投稿、「明け方まで資料」 [高市早苗首相 自民党総裁]",
+      "summary": "高市首相が自身のX（旧Twitter）で、睡眠時間が0～3時間になることが常態化していると投稿しました。\n連日明け方まで資料作成に取り組んでいることを示しており、激務ぶりがうかがえます。\n首相の健康状態や国政運営への影響が懸念されます。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwMzlWSTFTV2VNamkwb21DTV95R204bHJzdUFCVzA3UUxsWTd2MHZack1wWTJSOWg2XzNySE5nTW9JMmJXVmhIX3JMZWF6enJEdnJSdzhXYzZfVWx3LVZWU0VseDNrR2M?oc=5",
+      "published_at": "2026-07-21T11:32:06.000Z"
     },
     {
       "id": "j005",
-      "category": "国際",
-      "source": "産経ニュース",
-      "title": "米軍がイランを9日連続攻撃 米兵死亡に「非常に残念」とトランプ氏 戦闘エスカレートも",
-      "summary": "米軍がイランに対し9日連続で攻撃を行い、この作戦中に米兵が死亡したと報じられています。トランプ氏は米兵の死を「非常に残念」と表明し、事態がさらにエスカレートする可能性について懸念が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SzdVbXhNc3NxRU1WOU5DclQzalVfU3BiNE9rMmJQZExIMmNSMkVlZk5kNmFWLWstOXI3ZXZoajAySlZVdzNZNFh0bkk3NUdndmd2b01KeXBzRFNrVi1CcUFkeGs4WS00aW8wemMwRGhINDZMQUE?oc=5",
-      "published_at": "2026-07-20T03:09:02.000Z"
+      "category": "政治",
+      "source": "Yahoo!ニュース",
+      "title": "高市支持率急落≫「議会をわかってないのが国民にもバレた」「このままでは次の総裁選はない」突き進む副首都構想、混乱を招く減税案で党内からもため息（集英社オンライン）",
+      "summary": "高市首相の支持率が急落し、党内からも不安の声が上がっています。\n「議会を理解していない」との批判や、副首都構想と減税案が混乱を招いているとの指摘があります。\n次の総裁選での再選が危ぶまれる状況となり、政局の動向が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yaUZlZ3c5S3c1SjJFU25vRGtTYTA2MUo4Mmx1ZDlFbl90UkpnSkpLeVd1RWU3WEN4SU9ZeV9udFNEdG11a2JnWVVfdW5nM0Z6djZNMUNGWEM4TEVWeGM2S1EwMEFCU2plUjVJTnlRUmxpaEJIY1MwX3lVMGtIQ2c?oc=5",
+      "published_at": "2026-07-21T02:39:15.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
-      "category": "Economy",
+      "category": "Politics",
       "region": "US",
-      "source": "CNBC",
-      "title": "トランプ氏、貿易差別を理由に一部カナダ製品に50%の関税を課す",
-      "summary": "ドナルド・トランプ氏は、カナダによる貿易差別を理由に、一部のカナダ製品に対し50%の関税を課すと発表しました。この決定は、両国間の貿易関係に緊張をもたらし、国際経済に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVV3lxTFAxaGozbjBwLTV5cTRZNnFFYndqaGd0bHBSOFRJX1BIS293aGl0bENNNlYyN0VmcU1UZTUtRVJCOGl6emRIYm81UTluay1rY3QwWThwRkJqQ0t6WDRJazdYMk5MZ3VlOEZmRXlud1g4LXA?oc=5",
-      "published_at": "2026-07-20T21:00:39.000Z"
+      "source": "BBC",
+      "title": "ライブ速報: ピート・ヘグセス氏がイラン戦争資金について議員に証言",
+      "summary": "ピート・ヘグセス氏がイラン戦争資金に関する議会証言を行っています。\n彼の証言は、米国の外交政策と中東情勢に影響を与える可能性があります。\n詳細な審議の模様は随時更新されます。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SYjRmSHhvN1pNYnFaUUJnQ2c5NjFqOXJzeUxHc1FkNTMxTTJPYVZSSkhMNlFPcnV1Wno0aEU2MTF6N1A3WFY0bmktOUNZRlhnNEhyQw?oc=5",
+      "published_at": "2026-07-21T21:27:09.000Z"
     },
     {
       "id": "g002",
       "category": "Politics",
-      "region": "US",
-      "source": "Politico",
-      "title": "ナンシー・メイス氏、リンジー・グラム氏の上院議席には出馬しない意向",
-      "summary": "ナンシー・メイス議員が、リンジー・グラム氏の上院議席を巡る選挙に出馬しない意向を明らかにしました。この発表は、次期上院選におけるサウスカロライナ州の政治情勢に影響を与えるものと見られます。",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclNtLTlVU1VmVXg1OVYzc0RFOERYNnZhUUpaVXF3dEJsaHRsRWwwWkFEOVh3UmRZMHVVNFhmRUc3VGVwcXl2T1JwSzB4X1FfWWZPczdQMWFhVW44Vy1ncjNqRF9LX0lrd3VUR3ZrbF9NcWJOTGFjRXNCeHBPNjMtSjNIT0hrZw?oc=5",
-      "published_at": "2026-07-20T20:32:00.000Z"
+      "region": "Europe",
+      "source": "Financial Times",
+      "title": "ゼレンスキー大統領、2024年以来最大の軍再編でウクライナ軍トップを更迭",
+      "summary": "ウクライナのゼレンスキー大統領は、2024年以来最大規模となる軍の再編を実施し、軍の最高司令官を交代させました。\nこれは、進行中の紛争における新たな戦略的アプローチを示すものとみられています。\n今回の人事は、ウクライナの防衛態勢に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM245Yk5ZN1RYRDRpZk5hZk40WWtUZVNMOWhxaW50cmlkQTZHYjRqcjFEU1o4NlRJSUhLZWxDX3NabWxiamtmNWllSGY0Zk5qekJ0R3l6cUduQVdUa1J6dHc4V1pzajloVkI1bDhiaGNHNEtqYk15dXlhblFzNHlFSDJBekY?oc=5",
+      "published_at": "2026-07-21T19:42:20.000Z"
     },
     {
       "id": "g003",
-      "category": "Conflict",
+      "category": "Culture",
       "region": "US",
-      "source": "Reuters",
-      "title": "米軍兵士が死亡した週末を受け、トランプ氏がイランへの報復を誓う",
-      "summary": "米軍兵士が犠牲となった週末の事態を受け、ドナルド・トランプ氏はイランに対し報復を行うことを誓いました。中東地域における緊張がさらに高まる可能性があり、国際社会の動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnhXZVhURmd3ZGlYWXZfYUNSV3lOWkVuUUZPYlA0TVhUQmE5aDRUMVM5SncyVnBGdEdnN3dGMFlCUndzWG1jazFiUjhCU0hwaTJfVXloemlVLTRlcnNOUGdrREZ6SkVtVlliZ0dCVEV5Xzg1dFFObGN4ZGhNMF9iVGRFRDFHclJwMkNNc3RGRFQzdXJGaVI4LWlObVFEN0tlbHBQb3NWWVVyUmVGd3JmS2hpRU5fNm8?oc=5",
-      "published_at": "2026-07-20T20:19:43.000Z"
+      "source": "Breaking News, Latest News and Videos",
+      "title": "D4vd殺人事件：ロサンゼルスで数日にわたる予備審問が進行中",
+      "summary": "ロサンゼルスで発生したD4vd殺人事件に関する予備審問が数日間にわたり行われています。\nこの事件は世間の注目を集めており、詳細な証拠と証言が法廷で提示されています。\n審理の進展が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmlQNDVHUTVoSV9NZXU4dU5sT2JBRTBYenpNaExGLVFSZEtKR3dNakxOZlhOaC03VDlwOVNkTnd3MWFEdnU5U0NoazVlaUN2SkdXeXFFLUU1Zjc4eDVrbzZ3TFRuREJESzVHUlBLVWFjRk1OQTYwc2Y2T1NwNU5aVEN6SU5TM2d1TGRRLVIxWnRvSC1mcVFoalZpSnJYZ9IBowFBVV95cUxONE9oZWc3RzYtSmtFV2RkWnI3OWpzb1NHbmQtVjFJMVYtV0hMR3ZieWtQa2hGZl9nNm5IblhrdGZRNU5JX0RxLWlKNDRfbUhlVjYtYXhzV01WbkFqSWRITDFJNXZjN290bUdvTkl4OHBBLTV4OFJIc3NCU3Rzc2FxVkRteTRtNkVKbEJ2SGJqWkV1QkV0QjRydWk5a3RkQ1hEMDI0?oc=5",
+      "published_at": "2026-07-21T19:26:43.000Z"
     },
     {
       "id": "g004",
       "category": "Politics",
       "region": "US",
-      "source": "The Washington Post",
-      "title": "トランプ氏、カタールからの寄贈されたエアフォースワンの安全性懸念に対し「最大限活用する」と発言",
-      "summary": "ドナルド・トランプ氏は、カタールから寄贈されたエアフォースワンについて、安全性に関する懸念が浮上しているにもかかわらず、「最大限活用する」と述べました。この発言は、今後の大統領の移動手段や国際関係に議論を呼ぶ可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGoybDNEd2hlUi13ZUNiUFNWZzVKUS1sUnJWbHctc25hVXB0SVI0UEFQWDVBUVl1blBzRjQwekdVb3BsRHpWNGZfTVJpQ1l3cEctaElaNk1IeHEyeGh2YktxejktenhQS0dPai1xTG1RdFJ5M2hzeFhGcGVzSk52cWJDT0lIREt4c1BaOXFkbHVORGFnelhIajBzU2lqVW80Q2REUWJKc3VlaTZ6V2pGV0tIdTg0WU85NjBjcWl5SWdyQQ?oc=5",
-      "published_at": "2026-07-20T19:47:46.000Z"
+      "source": "Axios",
+      "title": "トランプ氏、休眠状態のスムート・ホーレー法権限を復活させる",
+      "summary": "トランプ氏が、かつての大恐慌時代の保護貿易法であるスムート・ホーレー法の権限を復活させました。\nこれは、貿易政策における保護主義的なアプローチを再び採用する意図を示すものです。\n国際貿易に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVV3lxTE5IRWZnUHh4QlhJMzFjRnNuNWpGN2kxNGVSeXJSNC1LVC04c216dW5Ya0FhMUhWd0xSUFdCZTNtOFF6WjZ5NHlPRjNoOUN0SkNfRVdIdzBLWmpxQTJMeFo5MzFyN29PTVhiZ0Y4VGpfQWUzc2t1?oc=5",
+      "published_at": "2026-07-21T19:02:39.000Z"
     },
     {
       "id": "g005",
       "category": "Politics",
-      "region": "Europe",
-      "source": "NBC News",
-      "title": "「北部の王」アンディ・バーナム氏、この10年で7人目の英国首相に就任",
-      "summary": "アンディ・バーナム氏が、この10年間で7人目となる英国の首相に就任しました。同氏は「北部の王」として知られ、英国政治の不安定な時代における新たなリーダーとして注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVo4WkxDRXpERlFob2ViRWpzaFdTWk9yNVZSRGJxU0w4Q05XekI3aXlBWWtUX2h6WFNUbEthVjJsdHJYcFRKOXpmcmllUjFHZVlvZ3doODE0RHp4S2dseTViOXI3Q2ZDMTU3MDZ2eHNsNzNTVWJmakZCTnM0Q0RXbVJRSVhYTHlWZDhwMFdrU1RHTWs2eEp5YmoyM2RFYUEwYmlnUTRGZWswQUNPLTJ4SnlLcl9qc1p0QmljNmFONVlCdw?oc=5",
-      "published_at": "2026-07-20T18:05:01.000Z"
+      "region": "US",
+      "source": "The Hill",
+      "title": "トランプ氏が選挙干渉について語らなかったこと",
+      "summary": "トランプ氏の最近の発言において、選挙干渉について言及されなかった点が注目されています。\nこれは、今後の政治戦略や選挙キャンペーンに何らかの意図がある可能性を示唆しています。\n彼の沈黙がどのような意味を持つのか、憶測を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlR3UktfOUlTYUQ5TE9XUTlLbllhWFlEazZGNmNuU1RyRTJ6Wk1FTU5OU1pWWVhrYUxhWi13ZXlnTGJxYWF2MlZJenRudGZyc2RWX0pBR19haXFoN1V3NnZmR05ILW1TbVZjVko2OFZBR1dCVnZmUzBYY1ktU0NNdERtcGzSAYoBQVVfeXFMTkJ6TG10THltU0lERHl6emotT2htcHhDcmVMcU95R1RSZzREUHdyeVZtUDBDd04yOFdCb0xNc1dkaTZ6QWR5UGpyb2JSLWZzVGVlWlNkd05nTVEwcWotei12cjBtTkM2bmVEeThqTVMxNG5lU2VkT3ZtMzBlM3hza3p6aGlabmIweE1n?oc=5",
+      "published_at": "2026-07-21T12:00:00.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,48 +187,48 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツにおけるACL損傷の増加とその背景",
-      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が上昇している現状について解説しています。この増加は、幼少期からのスポーツ専門化、十分な筋力トレーニングの不足、不適切なバイオメカニクス、さらには性差による身体構造の違いなどが複合的に影響していると指摘されており、予防策の重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSK2yWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "女子スポーツにおけるACL損傷の増加とその原因",
+      "summary": "最近の研究により、女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加していることが指摘されています。これは、身体構造、ホルモンバランス、トレーニング方法の違いなどが複合的に影響していると考えられています。特に、着地動作や方向転換時の力学的負荷が男子選手と異なる点が注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "短距離走科学における先駆者とパラダイム：テーマ別歴史ミニレビュー",
-      "summary": "短距離走の科学的研究の歴史的発展を概観するレビューです。黎明期の研究から現代の高度なバイオメカニクス分析に至るまで、どのように技術と理解が進化してきたかをテーマ別に辿り、短距離走パフォーマンスの最適化に貢献した主要な発見や理論をまとめています。",
+      "title": "スプリント科学におけるパイオニアとパラダイム：テーマ別歴史ミニレビュー",
+      "summary": "本レビューは、スプリント科学の歴史的発展における主要な研究者と理論的枠組みを体系的に概観しています。初期の運動生理学から現代のバイオメカニクス、神経科学的アプローチに至るまで、スプリントパフォーマンスの理解がどのように深化してきたかを探ります。特に、スプリント技術、トレーニング方法論、および測定技術の進化に焦点を当てています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、シェア、予測、2034年",
-      "summary": "2034年までの人工腱・靭帯市場の動向と予測に関するレポートです。スポーツ医学分野での需要増加や技術革新により、この市場が急速に拡大していることが示されています。患者の回復期間短縮や再負傷リスクの低減に貢献する可能性が注目されています。",
+      "title": "人工腱および靭帯市場規模、シェア、予測、2034年",
+      "summary": "市場調査レポートによると、人工腱および靭帯の市場は2034年までに大幅な成長が見込まれています。スポーツ外傷や変性疾患の増加、再生医療技術の進歩が市場拡大の主要な要因です。これにより、より安全で効果的な治療選択肢が提供されることが期待されます。",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレー・ヘルス・システム、アスリートの安全な競技復帰を支援する「スポーツ復帰プログラム」を開始",
-      "summary": "バレー・ヘルス・システムがアスリート向けに新たなスポーツ復帰プログラムを開始したと報じる記事です。このプログラムは、受傷後の身体的な回復だけでなく、心理的な側面も考慮し、個別化されたリハビリテーションを通じて選手が安全かつ最高のパフォーマンスで競技に復帰できるよう支援することを目的としています。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
+      "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入",
+      "summary": "この研究は、スポーツリハビリテーションプログラムに非線形ピリオダイゼーション（NUP）を導入することの有効性を探るものです。NUPは、トレーニング負荷を週ごとに大きく変動させることで、選手の適応能力を高め、停滞を防ぎながら効率的な回復とパフォーマンス向上を目指します。特に、怪我からの復帰プロセスにおける筋力、パワー、持久力の向上に焦点を当てています。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手の反復性肩関節後方脱臼による疼痛管理のための鍼灸補助療法：症例報告",
-      "summary": "反復性肩関節後方脱臼に苦しむ女子サッカー選手に対して、通常の治療に加えて鍼灸療法を併用した症例報告です。この補助療法が疼痛の軽減に有効であった可能性が示唆されており、アスリートの慢性疼痛管理における東洋医学的アプローチの有効性について考察されています。",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
+      "title": "鍼治療市場規模は2035年までに1053.4億ドルに達する見込み",
+      "summary": "市場調査レポートによると、鍼治療市場は2035年までに1053.4億ドルに達すると予測されており、急成長が期待されています。慢性疼痛管理、ストレス軽減、ウェルネス促進における鍼治療の有効性への認識が高まっていることが、この成長の主要な要因です。特に代替医療としての需要が増加しています。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUlViS0U1WHduTVFvMVlkUzk5b194Mzg3OTVGU1VXNFQ2VU5aOGFkRjJYel8tWHNXc2N2dGhJeHFEVUI2eXlFVVdYN3VsdkRiSElGa2RfNWNFUHRfdlQxeF9Kcw?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリート向けトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
-      "summary": "アスリートがパフォーマンス向上や回復のために利用する主要なスポーツサプリメント、特にクレアチン、カフェイン、エナジージェル、L-カルニチンに焦点を当て、その科学的根拠、効果、適切な使用方法、安全性について解説しています。各サプリメントのメリットとデメリットが紹介されています。",
+      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
+      "summary": "この記事では、アスリートがパフォーマンス向上と回復のために利用できる9つの主要なスポーツサプリメントについて詳細に解説しています。クレアチン、カフェイン、エネルギージェル、L-カルニチンなどの効果、推奨摂取量、安全性に関する科学的根拠を提示し、誤解を解き明かします。各サプリメントが特定の運動能力や回復プロセスにどのように作用するかが説明されています。",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
     },
     {
@@ -236,111 +236,111 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者やコーチが彼らをどのようにサポートすべきかについて具体的なヒントを提供しています。学業、競技、ソーシャルライフのバランスを取るプレッシャーが精神的健康に与える影響や、早期発見と介入の重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMjdXUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "ジョンズ・ホプキンス大学医学部からの記事は、学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けの具体的なヒントを提供しています。学業、競技、ソーシャルライフのプレッシャーに直面する若者が、どのようにストレスに対処し、精神的な健康を維持できるかに焦点を当てています。オープンなコミュニケーションとサポート体制の重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "睡眠とリカバリーがいかにハイパフォーマンスを形成するか：クリステン・ホームズ氏との対談",
-      "summary": "高度なパフォーマンスを実現するための睡眠とリカバリーの役割について、WHOOPの専門家であるクリステン・ホームズ氏との対談形式で深掘りしています。睡眠の質、リカバリー戦略、そしてこれらがアスリートの身体的・精神的パフォーマンスにどのように影響するかについて議論されています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5Mkk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
+      "title": "クリステン・ホームズが語る、睡眠と回復がいかにハイパフォーマンスを形成するか",
+      "summary": "この記事では、著名なパフォーマンス科学者であるクリステン・ホームズ氏が、睡眠と回復がアスリートのハイパフォーマンスに不可欠な要素である理由について解説しています。質の高い睡眠が身体的・精神的な回復、認知機能、怪我の予防にいかに影響するかを強調し、具体的な回復戦略の重要性を説いています。アスリートが最高の状態を維持するための実用的なアプローチが示されています。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5MUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "イエメンのフーシ派、サウジに対し海上封鎖宣言 「不当な包囲」に対抗",
-      "summary": "イエメンのフーシ派は、サウジアラビアによる「不当な包囲」に対抗するため、サウジに対する海上封鎖を宣言しました。この動きは、中東地域の緊張をさらに高め、国際社会の懸念を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaWl4bk1YeDBoQjIxc0x5dkFyTnZ0NTNQTkVTMGptT1dzbDFjdnNzbXBtWWdtNTJKSmZLcWJxU2prazRhSzBqR1B3N0VkTkdwRzdSWjhCa3JLYjFJTVJHRUljNTdCbVhYUzRaNEpQYU5sa3VXcGhWZmRMcFFCOHU4NHhR?oc=5"
+      "title": "トランプ米大統領、イラン中部のピックアックス山周辺を「近いうちに激しく攻撃する」…山の地下深くに核施設を建設中か",
+      "summary": "トランプ米大統領が、イラン中部のピックアックス山周辺を近く攻撃すると発言しました。\n同地の地下深くに核施設が建設されているとの情報があり、国際情勢の緊張が高まっています。\nこの発言は、中東地域の安全保障に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16WmE5bmNzZEFHb1RkSVJZOWRqWmVvdXJ6UU5NS0NsQWhIYW5YY2tHNGhHcVhjcENHSkItRzIyUFNMYzBZbDVfR0FZR040UFF3MFRhUFZXX3ZpcEtoTVpJemFB?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "中露両軍、日本のＥＥＺ内で実弾用い実戦演習…小泉防衛相「中露の軍事連携は強化されている」と警鐘",
-      "summary": "中国とロシアの両軍が日本の排他的経済水域（EEZ）内で実弾を用いた実戦演習を実施しました。小泉防衛相は、中露の軍事連携が強化されているとして警鐘を鳴らし、日本の安全保障環境に対する懸念が高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZSVBCY2VaT2d6emlmaXpEdzlQTkI0UllpaUhvSzViRjRSMWVSZl9ZaXotT001UEQxYmhpdFcwcll6Vl84WlRxQVhiVkp6aEh0WnhHM2VXRTNUV0FxUE9SUDdVS0o0UQ?oc=5"
+      "category": "社会",
+      "title": "緑ナンバー貸し出し「白タク」させた疑い、中国籍の男逮捕…ドライバー十数人から計３８００万円受け取りか",
+      "summary": "緑ナンバー車両を貸し出し、無許可でタクシー営業を行う「白タク」行為をさせた疑いで、中国籍の男が逮捕されました。\nこの男は、十数人のドライバーから合計約3800万円を受け取っていたとみられています。\n違法な運送行為に対する取り締まりが強化されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RX0ZtQXZxem91ckk3cFFKWEZZYnRTaUtMMEdhaldLV3BaREpCUjN1ZUU3TWVuV1BxRUxRX19vdFI2dW1DU1ZKUVlvLUpOTFJsczlENVVtUWplU2J2TFlyLXZZRUM5QQ?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "Tシャツにジーンズ姿の「北部の王」 英国の新首相、バーナム氏とは",
-      "summary": "英国で新たに首相に就任したアンディ・バーナム氏について報じる記事です。Tシャツとジーンズ姿で知られる同氏は「北部の王」と称され、これまでの政治家像とは異なる親しみやすいイメージで国民の注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcGtHOEhQcnhOTGRyNGhjQm9Sc2otblEtNzNjd2UxX0Z1ZG9yV0RYUG5iSnBHV1hoYTdvTVdLYWZYajBCeml5QzNDQkpVblY0ZG9mSUluSFgya1dKNTRpUVNuTkJXM0U?oc=5"
+      "title": "紅海でサウジ産原油タンカー2隻がＵターン、フーシ派の警告受け",
+      "summary": "紅海を航行中のサウジアラビア産原油タンカー2隻が、フーシ派からの警告を受けてUターンしました。\nこの事態は、紅海における船舶の安全保障リスクの高さを示しており、原油供給ルートへの影響が懸念されます。\n地域情勢の不安定化が、エネルギー市場に波紋を広げています。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sLTItdFkyQk5ZM3AxSlNURlptbm10enViSUR3TnE1MDI2bTBLVTkwSWtBUVNqaDJSTUhrV0tnTDEwbWdfN2tud3hHZjQyclhjR3hGMUg2UE1HUVp6WnM3WXd0TUNCckJBjFU0MTQ0akE?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "明日7月21日(火)の天気予報 関東から九州は猛暑が続く 熱中症に厳重警戒を",
-      "summary": "明日7月21日(火)の天気予報によると、関東から九州にかけて猛暑が続く見込みです。気象庁は、熱中症への厳重な警戒を呼びかけており、こまめな水分補給や適切な冷房の使用が不可欠です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50MWdJRUF6RlM0VGdOcTc1ZUsyLXdwUFYwbXVWZmFjMWFqMHZxZ3pNNmlTbExxM21SdXhwUVUwZzd3eXRhNmFBcnZHelpqWW9KQnJQRA?oc=5"
+      "category": "政治",
+      "title": "高市首相「0～3時間睡眠が常態化」 Xに投稿、「明け方まで資料」 [高市早苗首相 自民党総裁]",
+      "summary": "高市首相が自身のX（旧Twitter）で、睡眠時間が0～3時間になることが常態化していると投稿しました。\n連日明け方まで資料作成に取り組んでいることを示しており、激務ぶりがうかがえます。\n首相の健康状態や国政運営への影響が懸念されます。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwMzlWSTFTV2VNamkwb21DTV95R204bHJzdUFCVzA3UUxsWTd2MHZack1wWTJSOWg2XzNySE5nTW9JMmJXVmhIX3JMZWF6enJEdnJSdzhXYzZfVWx3LVZWU0VseDNrR2M?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "米軍がイランを9日連続攻撃 米兵死亡に「非常に残念」とトランプ氏 戦闘エスカレートも",
-      "summary": "米軍がイランに対し9日連続で攻撃を行い、この作戦中に米兵が死亡したと報じられています。トランプ氏は米兵の死を「非常に残念」と表明し、事態がさらにエスカレートする可能性について懸念が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SzdVbXhNc3NxRU1WOU5DclQzalVfU3BiNE9rMmJQZExIMmNSMkVlZk5kNmFWLWstOXI3ZXZoajAySlZVdzNZNFh0bkk3NUdndmd2b01KeXBzRFNrVi1CcUFkeGs4WS00aW8wemMwRGhINDZMQUE?oc=5"
+      "category": "政治",
+      "title": "高市支持率急落≫「議会をわかってないのが国民にもバレた」「このままでは次の総裁選はない」突き進む副首都構想、混乱を招く減税案で党内からもため息（集英社オンライン）",
+      "summary": "高市首相の支持率が急落し、党内からも不安の声が上がっています。\n「議会を理解していない」との批判や、副首都構想と減税案が混乱を招いているとの指摘があります。\n次の総裁選での再選が危ぶまれる状況となり、政局の動向が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yaUZlZ3c5S3c1SjJFU25vRGtTYTA2MUo4Mmx1ZDlFbl90UkpnSkpLeVd1RWU3WEN4SU9ZeV9udFNEdG11a2JnWVVfdW5nM0Z6djZNMUNGWEM4TEVWeGM2S1EwMEFCU2plUjVJTnlRUmxpaEJIY1MwX3lVMGtIQ2c?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Economy",
-      "title": "トランプ氏、貿易差別を理由に一部カナダ製品に50%の関税を課す",
-      "summary": "ドナルド・トランプ氏は、カナダによる貿易差別を理由に、一部のカナダ製品に対し50%の関税を課すと発表しました。この決定は、両国間の貿易関係に緊張をもたらし、国際経済に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVV3lxTFAxaGozbjBwLTV5cTRZNnFFYndqaGd0bHBSOFRJX1BIS293aGl0bENNNlYyN0VmcU1UZTUtRVJCOGl6emRIYm81UTluay1rY3QwWThwRkJqQ0t6WDRJazdYMk5MZ3VlOEZmRXlud1g4LXA?oc=5"
+      "category": "Politics",
+      "title": "ライブ速報: ピート・ヘグセス氏がイラン戦争資金について議員に証言",
+      "summary": "ピート・ヘグセス氏がイラン戦争資金に関する議会証言を行っています。\n彼の証言は、米国の外交政策と中東情勢に影響を与える可能性があります。\n詳細な審議の模様は随時更新されます。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SYjRmSHhvN1pNYnFaUUJnQ2c5NjFqOXJzeUxHc1FkNTMxTTJPYVZSSkhMNlFPcnV1Wno0aEU2MTF6N1A3WFY0bmktOUNZRlhnNEhyQw?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ナンシー・メイス氏、リンジー・グラム氏の上院議席には出馬しない意向",
-      "summary": "ナンシー・メイス議員が、リンジー・グラム氏の上院議席を巡る選挙に出馬しない意向を明らかにしました。この発表は、次期上院選におけるサウスカロライナ州の政治情勢に影響を与えるものと見られます。",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclNtLTlVU1VmVXg1OVYzc0RFOERYNnZhUUpaVXF3dEJsaHRsRWwwWkFEOVh3UmRZMHVVNFhmRUc3VGVwcXl2T1JwSzB4X1FfWWZPczdQMWFhVW44Vy1ncjNqRF9LX0lrd3VUR3ZrbF9NcWJOTGFjRXNCeHBPNjMtSjNIT0hrZw?oc=5"
+      "title": "ゼレンスキー大統領、2024年以来最大の軍再編でウクライナ軍トップを更迭",
+      "summary": "ウクライナのゼレンスキー大統領は、2024年以来最大規模となる軍の再編を実施し、軍の最高司令官を交代させました。\nこれは、進行中の紛争における新たな戦略的アプローチを示すものとみられています。\n今回の人事は、ウクライナの防衛態勢に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM245Yk5ZN1RYRDRpZk5hZk40WWtUZVNMOWhxaW50cmlkQTZHYjRqcjFEU1o4NlRJSUhLZWxDX3NabWxiamtmNWllSGY0Zk5qekJ0R3l6cUduQVdUa1J6dHc4V1pzajloVkI1bDhiaGNHNEtqYk15dXlhblFzNHlFSDJBekY?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "米軍兵士が死亡した週末を受け、トランプ氏がイランへの報復を誓う",
-      "summary": "米軍兵士が犠牲となった週末の事態を受け、ドナルド・トランプ氏はイランに対し報復を行うことを誓いました。中東地域における緊張がさらに高まる可能性があり、国際社会の動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnhXZVhURmd3ZGlYWXZfYUNSV3lOWkVuUUZPYlA0TVhUQmE5aDRUMVM5SncyVnBGdEdnN3dGMFlCUndzWG1jazFiUjhCU0hwaTJfVXloemlVLTRlcnNOUGdrREZ6SkVtVlliZ0dCVEV5Xzg1dFFObGN4ZGhNMF9iVGRFRDFHclJwMkNNc3RGRFQzdXJGaVI4LWlObVFEN0tlbHBQb3NWWVVyUmVGd3JmS2hpRU5fNm8?oc=5"
+      "category": "Culture",
+      "title": "D4vd殺人事件：ロサンゼルスで数日にわたる予備審問が進行中",
+      "summary": "ロサンゼルスで発生したD4vd殺人事件に関する予備審問が数日間にわたり行われています。\nこの事件は世間の注目を集めており、詳細な証拠と証言が法廷で提示されています。\n審理の進展が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmlQNDVHUTVoSV9NZXU4dU5sT2JBRTBYenpNaExGLVFSZEtKR3dNakxOZlhOaC03VDlwOVNkTnd3MWFEdnU5U0NoazVlaUN2SkdXeXFFLUU1Zjc4eDVrbzZ3TFRuREJESzVHUlBLVWFjRk1OQTYwc2Y2T1NwNU5aVEN6SU5TM2d1TGRRLVIxWnRvSC1mcVFoalZpSnJYZ9IBowFBVV95cUxONE9oZWc3RzYtSmtFV2RkWnI3OWpzb1NHbmQtVjFJMVYtV0hMR3ZieWtQa2hGZl9nNm5IblhrdGZRNU5JX0RxLWlKNDRfbUhlVjYtYXhzV01WbkFqSWRITDFJNXZjN290bUdvTkl4OHBBLTV4OFJIc3NCU3Rzc2FxVkRteTRtNkVKbEJ2SGJqWkV1QkV0QjRydWk5a3RkQ1hEMDI0?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏、カタールからの寄贈されたエアフォースワンの安全性懸念に対し「最大限活用する」と発言",
-      "summary": "ドナルド・トランプ氏は、カタールから寄贈されたエアフォースワンについて、安全性に関する懸念が浮上しているにもかかわらず、「最大限活用する」と述べました。この発言は、今後の大統領の移動手段や国際関係に議論を呼ぶ可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGoybDNEd2hlUi13ZUNiUFNWZzVKUS1sUnJWbHctc25hVXB0SVI0UEFQWDVBUVl1blBzRjQwekdVb3BsRHpWNGZfTVJpQ1l3cEctaElaNk1IeHEyeGh2YktxejktenhQS0dPai1xTG1RdFJ5M2hzeFhGcGVzSk52cWJDT0lIREt4c1BaOXFkbHVORGFnelhIajBzU2lqVW80Q2REUWJKc3VlaTZ6V2pGV0tIdTg0WU85NjBjcWl5SWdyQQ?oc=5"
+      "title": "トランプ氏、休眠状態のスムート・ホーレー法権限を復活させる",
+      "summary": "トランプ氏が、かつての大恐慌時代の保護貿易法であるスムート・ホーレー法の権限を復活させました。\nこれは、貿易政策における保護主義的なアプローチを再び採用する意図を示すものです。\n国際貿易に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVV3lxTE5IRWZnUHh4QlhJMzFjRnNuNWpGN2kxNGVSeXJSNC1LVC04c216dW5Ya0FhMUhWd0xSUFdCZTNtOFF6WjZ5NHlPRjNoOUN0SkNfRVdIdzBLWmpxQTJMeFo5MzFyN29PTVhiZ0Y4VGpfQWUzc2t1?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "「北部の王」アンディ・バーナム氏、この10年で7人目の英国首相に就任",
-      "summary": "アンディ・バーナム氏が、この10年間で7人目となる英国の首相に就任しました。同氏は「北部の王」として知られ、英国政治の不安定な時代における新たなリーダーとして注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVo4WkxDRXpERlFob2ViRWpzaFdTWk9yNVZSRGJxU0w4Q05XekI3aXlBWWtUX2h6WFNUbEthVjJsdHJYcFRKOXpmcmllUjFHZVlvZ3doODE0RHp4S2dseTViOXI3Q2ZDMTU3MDZ2eHNsNzNTVWJmakZCTnM0Q0RXbVJRSVhYTHlWZDhwMFdrU1RHTWs2eEp5YmoyM2RFYUEwYmlnUTRGZWswQUNPLTJ4SnlLcl9qc1p0QmljNmFONVlCdw?oc=5"
+      "title": "トランプ氏が選挙干渉について語らなかったこと",
+      "summary": "トランプ氏の最近の発言において、選挙干渉について言及されなかった点が注目されています。\nこれは、今後の政治戦略や選挙キャンペーンに何らかの意図がある可能性を示唆しています。\n彼の沈黙がどのような意味を持つのか、憶測を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlR3UktfOUlTYUQ5TE9XUTlLbllhWFlEazZGNmNuU1RyRTJ6Wk1FTU5OU1pWWVhrYUxhWi13ZXlnTGJxYWF2MlZJenRudGZyc2RWX0pBR19haXFoN1V3NnZmR05ILW1TbVZjVko2OFZBR1dCVnZmUzBYY1ktU0NNdERtcGzSAYoBQVVfeXFMTkJ6TG10THltU0lERHl6emotT2htcHhDcmVMcU95R1RSZzREUHdyeVZtUDBDd04yOFdCb0xNc1dkaTZ6QWR5UGpyb2JSLWZzVGVlWlNkd05nTVEwcWotei12cjBtTkM2bmVEeThqTVMxNG5lU2VkT3ZtMzBlM3hza3p6aGlabmIweE1n?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツでACL損傷が増加している理由",
-      "summary": "この記事は、女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向とその背景にある要因について探求しています。ホルモン、解剖学的構造、トレーニング方法の違いなどが複合的に影響している可能性が指摘されています。特に、着地動作や方向転換時の膝関節の不安定性がリスクを高めるとされています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "女子スポーツにおけるACL損傷の増加とその背景",
+      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が上昇している現状について解説しています。この増加は、幼少期からのスポーツ専門化、十分な筋力トレーニングの不足、不適切なバイオメカニクス、さらには性差による身体構造の違いなどが複合的に影響していると指摘されており、予防策の重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSK2yWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学のパイオニアとパラダイム：テーマ別歴史的ミニレビュー",
-      "summary": "このレビューは、スプリント科学の発展における主要な人物や理論的枠組みの歴史を概観しています。初期の運動学研究から現代のバイオメカニクス、生理学、コーチング理論に至るまで、スプリントパフォーマンスの理解がどのように深化してきたかを分析しています。これにより、過去の研究が現在のトレーニング実践に与える影響が示唆されています。",
+      "title": "短距離走科学における先駆者とパラダイム：テーマ別歴史ミニレビュー",
+      "summary": "短距離走の科学的研究の歴史的発展を概観するレビューです。黎明期の研究から現代の高度なバイオメカニクス分析に至るまで、どのように技術と理解が進化してきたかをテーマ別に辿り、短距離走パフォーマンスの最適化に貢献した主要な発見や理論をまとめています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ],
@@ -349,48 +349,48 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツにおけるACL損傷の増加とその背景",
-      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が上昇している現状について解説しています。この増加は、幼少期からのスポーツ専門化、十分な筋力トレーニングの不足、不適切なバイオメカニクス、さらには性差による身体構造の違いなどが複合的に影響していると指摘されており、予防策の重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSK2yWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "女子スポーツにおけるACL損傷の増加とその原因",
+      "summary": "最近の研究により、女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加していることが指摘されています。これは、身体構造、ホルモンバランス、トレーニング方法の違いなどが複合的に影響していると考えられています。特に、着地動作や方向転換時の力学的負荷が男子選手と異なる点が注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "短距離走科学における先駆者とパラダイム：テーマ別歴史ミニレビュー",
-      "summary": "短距離走の科学的研究の歴史的発展を概観するレビューです。黎明期の研究から現代の高度なバイオメカニクス分析に至るまで、どのように技術と理解が進化してきたかをテーマ別に辿り、短距離走パフォーマンスの最適化に貢献した主要な発見や理論をまとめています。",
+      "title": "スプリント科学におけるパイオニアとパラダイム：テーマ別歴史ミニレビュー",
+      "summary": "本レビューは、スプリント科学の歴史的発展における主要な研究者と理論的枠組みを体系的に概観しています。初期の運動生理学から現代のバイオメカニクス、神経科学的アプローチに至るまで、スプリントパフォーマンスの理解がどのように深化してきたかを探ります。特に、スプリント技術、トレーニング方法論、および測定技術の進化に焦点を当てています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、シェア、予測、2034年",
-      "summary": "2034年までの人工腱・靭帯市場の動向と予測に関するレポートです。スポーツ医学分野での需要増加や技術革新により、この市場が急速に拡大していることが示されています。患者の回復期間短縮や再負傷リスクの低減に貢献する可能性が注目されています。",
+      "title": "人工腱および靭帯市場規模、シェア、予測、2034年",
+      "summary": "市場調査レポートによると、人工腱および靭帯の市場は2034年までに大幅な成長が見込まれています。スポーツ外傷や変性疾患の増加、再生医療技術の進歩が市場拡大の主要な要因です。これにより、より安全で効果的な治療選択肢が提供されることが期待されます。",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "バレー・ヘルス・システム、アスリートの安全な競技復帰を支援する「スポーツ復帰プログラム」を開始",
-      "summary": "バレー・ヘルス・システムがアスリート向けに新たなスポーツ復帰プログラムを開始したと報じる記事です。このプログラムは、受傷後の身体的な回復だけでなく、心理的な側面も考慮し、個別化されたリハビリテーションを通じて選手が安全かつ最高のパフォーマンスで競技に復帰できるよう支援することを目的としています。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
+      "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入",
+      "summary": "この研究は、スポーツリハビリテーションプログラムに非線形ピリオダイゼーション（NUP）を導入することの有効性を探るものです。NUPは、トレーニング負荷を週ごとに大きく変動させることで、選手の適応能力を高め、停滞を防ぎながら効率的な回復とパフォーマンス向上を目指します。特に、怪我からの復帰プロセスにおける筋力、パワー、持久力の向上に焦点を当てています。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手の反復性肩関節後方脱臼による疼痛管理のための鍼灸補助療法：症例報告",
-      "summary": "反復性肩関節後方脱臼に苦しむ女子サッカー選手に対して、通常の治療に加えて鍼灸療法を併用した症例報告です。この補助療法が疼痛の軽減に有効であった可能性が示唆されており、アスリートの慢性疼痛管理における東洋医学的アプローチの有効性について考察されています。",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
+      "title": "鍼治療市場規模は2035年までに1053.4億ドルに達する見込み",
+      "summary": "市場調査レポートによると、鍼治療市場は2035年までに1053.4億ドルに達すると予測されており、急成長が期待されています。慢性疼痛管理、ストレス軽減、ウェルネス促進における鍼治療の有効性への認識が高まっていることが、この成長の主要な要因です。特に代替医療としての需要が増加しています。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUlViS0U1WHduTVFvMVlkUzk5b194Mzg3OTVGU1VXNFQ2VU5aOGFkRjJYel8tWHNXc2N2dGhJeHFEVUI2eXlFVVdYN3VsdkRiSElGa2RfNWNFUHRfdlQxeF9Kcw?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリート向けトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
-      "summary": "アスリートがパフォーマンス向上や回復のために利用する主要なスポーツサプリメント、特にクレアチン、カフェイン、エナジージェル、L-カルニチンに焦点を当て、その科学的根拠、効果、適切な使用方法、安全性について解説しています。各サプリメントのメリットとデメリットが紹介されています。",
+      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンに関する真実",
+      "summary": "この記事では、アスリートがパフォーマンス向上と回復のために利用できる9つの主要なスポーツサプリメントについて詳細に解説しています。クレアチン、カフェイン、エネルギージェル、L-カルニチンなどの効果、推奨摂取量、安全性に関する科学的根拠を提示し、誤解を解き明かします。各サプリメントが特定の運動能力や回復プロセスにどのように作用するかが説明されています。",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
     },
     {
@@ -398,111 +398,111 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者やコーチが彼らをどのようにサポートすべきかについて具体的なヒントを提供しています。学業、競技、ソーシャルライフのバランスを取るプレッシャーが精神的健康に与える影響や、早期発見と介入の重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMjdXUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "ジョンズ・ホプキンス大学医学部からの記事は、学生アスリートのメンタルヘルスをサポートするための保護者とコーチ向けの具体的なヒントを提供しています。学業、競技、ソーシャルライフのプレッシャーに直面する若者が、どのようにストレスに対処し、精神的な健康を維持できるかに焦点を当てています。オープンなコミュニケーションとサポート体制の重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "睡眠とリカバリーがいかにハイパフォーマンスを形成するか：クリステン・ホームズ氏との対談",
-      "summary": "高度なパフォーマンスを実現するための睡眠とリカバリーの役割について、WHOOPの専門家であるクリステン・ホームズ氏との対談形式で深掘りしています。睡眠の質、リカバリー戦略、そしてこれらがアスリートの身体的・精神的パフォーマンスにどのように影響するかについて議論されています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5Mkk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
+      "title": "クリステン・ホームズが語る、睡眠と回復がいかにハイパフォーマンスを形成するか",
+      "summary": "この記事では、著名なパフォーマンス科学者であるクリステン・ホームズ氏が、睡眠と回復がアスリートのハイパフォーマンスに不可欠な要素である理由について解説しています。質の高い睡眠が身体的・精神的な回復、認知機能、怪我の予防にいかに影響するかを強調し、具体的な回復戦略の重要性を説いています。アスリートが最高の状態を維持するための実用的なアプローチが示されています。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5MUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "イエメンのフーシ派、サウジに対し海上封鎖宣言 「不当な包囲」に対抗",
-      "summary": "イエメンのフーシ派は、サウジアラビアによる「不当な包囲」に対抗するため、サウジに対する海上封鎖を宣言しました。この動きは、中東地域の緊張をさらに高め、国際社会の懸念を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaWl4bk1YeDBoQjIxc0x5dkFyTnZ0NTNQTkVTMGptT1dzbDFjdnNzbXBtWWdtNTJKSmZLcWJxU2prazRhSzBqR1B3N0VkTkdwRzdSWjhCa3JLYjFJTVJHRUljNTdCbVhYUzRaNEpQYU5sa3VXcGhWZmRMcFFCOHU4NHhR?oc=5"
+      "title": "トランプ米大統領、イラン中部のピックアックス山周辺を「近いうちに激しく攻撃する」…山の地下深くに核施設を建設中か",
+      "summary": "トランプ米大統領が、イラン中部のピックアックス山周辺を近く攻撃すると発言しました。\n同地の地下深くに核施設が建設されているとの情報があり、国際情勢の緊張が高まっています。\nこの発言は、中東地域の安全保障に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16WmE5bmNzZEFHb1RkSVJZOWRqWmVvdXJ6UU5NS0NsQWhIYW5YY2tHNGhHcVhjcENHSkItRzIyUFNMYzBZbDVfR0FZR040UFF3MFRhUFZXX3ZpcEtoTVpJemFB?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "中露両軍、日本のＥＥＺ内で実弾用い実戦演習…小泉防衛相「中露の軍事連携は強化されている」と警鐘",
-      "summary": "中国とロシアの両軍が日本の排他的経済水域（EEZ）内で実弾を用いた実戦演習を実施しました。小泉防衛相は、中露の軍事連携が強化されているとして警鐘を鳴らし、日本の安全保障環境に対する懸念が高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZSVBCY2VaT2d6emlmaXpEdzlQTkI0UllpaUhvSzViRjRSMWVSZl9ZaXotT001UEQxYmhpdFcwcll6Vl84WlRxQVhiVkp6aEh0WnhHM2VXRTNUV0FxUE9SUDdVS0o0UQ?oc=5"
+      "category": "社会",
+      "title": "緑ナンバー貸し出し「白タク」させた疑い、中国籍の男逮捕…ドライバー十数人から計３８００万円受け取りか",
+      "summary": "緑ナンバー車両を貸し出し、無許可でタクシー営業を行う「白タク」行為をさせた疑いで、中国籍の男が逮捕されました。\nこの男は、十数人のドライバーから合計約3800万円を受け取っていたとみられています。\n違法な運送行為に対する取り締まりが強化されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RX0ZtQXZxem91ckk3cFFKWEZZYnRTaUtMMEdhaldLV3BaREpCUjN1ZUU3TWVuV1BxRUxRX19vdFI2dW1DU1ZKUVlvLUpOTFJsczlENVVtUWplU2J2TFlyLXZZRUM5QQ?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "Tシャツにジーンズ姿の「北部の王」 英国の新首相、バーナム氏とは",
-      "summary": "英国で新たに首相に就任したアンディ・バーナム氏について報じる記事です。Tシャツとジーンズ姿で知られる同氏は「北部の王」と称され、これまでの政治家像とは異なる親しみやすいイメージで国民の注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcGtHOEhQcnhOTGRyNGhjQm9Sc2otblEtNzNjd2UxX0Z1ZG9yV0RYUG5iSnBHV1hoYTdvTVdLYWZYajBCeml5QzNDQkpVblY0ZG9mSUluSFgya1dKNTRpUVNuTkJXM0U?oc=5"
+      "title": "紅海でサウジ産原油タンカー2隻がＵターン、フーシ派の警告受け",
+      "summary": "紅海を航行中のサウジアラビア産原油タンカー2隻が、フーシ派からの警告を受けてUターンしました。\nこの事態は、紅海における船舶の安全保障リスクの高さを示しており、原油供給ルートへの影響が懸念されます。\n地域情勢の不安定化が、エネルギー市場に波紋を広げています。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sLTItdFkyQk5ZM3AxSlNURlptbm10enViSUR3TnE1MDI2bTBLVTkwSWtBUVNqaDJSTUhrV0tnTDEwbWdfN2tud3hHZjQyclhjR3hGMUg2UE1HUVp6WnM3WXd0TUNCckJBjFU0MTQ0akE?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "明日7月21日(火)の天気予報 関東から九州は猛暑が続く 熱中症に厳重警戒を",
-      "summary": "明日7月21日(火)の天気予報によると、関東から九州にかけて猛暑が続く見込みです。気象庁は、熱中症への厳重な警戒を呼びかけており、こまめな水分補給や適切な冷房の使用が不可欠です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50MWdJRUF6RlM0VGdOcTc1ZUsyLXdwUFYwbXVWZmFjMWFqMHZxZ3pNNmlTbExxM21SdXhwUVUwZzd3eXRhNmFBcnZHelpqWW9KQnJQRA?oc=5"
+      "category": "政治",
+      "title": "高市首相「0～3時間睡眠が常態化」 Xに投稿、「明け方まで資料」 [高市早苗首相 自民党総裁]",
+      "summary": "高市首相が自身のX（旧Twitter）で、睡眠時間が0～3時間になることが常態化していると投稿しました。\n連日明け方まで資料作成に取り組んでいることを示しており、激務ぶりがうかがえます。\n首相の健康状態や国政運営への影響が懸念されます。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwMzlWSTFTV2VNamkwb21DTV95R204bHJzdUFCVzA3UUxsWTd2MHZack1wWTJSOWg2XzNySE5nTW9JMmJXVmhIX3JMZWF6enJEdnJSdzhXYzZfVWx3LVZWU0VseDNrR2M?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "米軍がイランを9日連続攻撃 米兵死亡に「非常に残念」とトランプ氏 戦闘エスカレートも",
-      "summary": "米軍がイランに対し9日連続で攻撃を行い、この作戦中に米兵が死亡したと報じられています。トランプ氏は米兵の死を「非常に残念」と表明し、事態がさらにエスカレートする可能性について懸念が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SzdVbXhNc3NxRU1WOU5DclQzalVfU3BiNE9rMmJQZExIMmNSMkVlZk5kNmFWLWstOXI3ZXZoajAySlZVdzNZNFh0bkk3NUdndmd2b01KeXBzRFNrVi1CcUFkeGs4WS00aW8wemMwRGhINDZMQUE?oc=5"
+      "category": "政治",
+      "title": "高市支持率急落≫「議会をわかってないのが国民にもバレた」「このままでは次の総裁選はない」突き進む副首都構想、混乱を招く減税案で党内からもため息（集英社オンライン）",
+      "summary": "高市首相の支持率が急落し、党内からも不安の声が上がっています。\n「議会を理解していない」との批判や、副首都構想と減税案が混乱を招いているとの指摘があります。\n次の総裁選での再選が危ぶまれる状況となり、政局の動向が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yaUZlZ3c5S3c1SjJFU25vRGtTYTA2MUo4Mmx1ZDlFbl90UkpnSkpLeVd1RWU3WEN4SU9ZeV9udFNEdG11a2JnWVVfdW5nM0Z6djZNMUNGWEM4TEVWeGM2S1EwMEFCU2plUjVJTnlRUmxpaEJIY1MwX3lVMGtIQ2c?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Economy",
-      "title": "トランプ氏、貿易差別を理由に一部カナダ製品に50%の関税を課す",
-      "summary": "ドナルド・トランプ氏は、カナダによる貿易差別を理由に、一部のカナダ製品に対し50%の関税を課すと発表しました。この決定は、両国間の貿易関係に緊張をもたらし、国際経済に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVV3lxTFAxaGozbjBwLTV5cTRZNnFFYndqaGd0bHBSOFRJX1BIS293aGl0bENNNlYyN0VmcU1UZTUtRVJCOGl6emRIYm81UTluay1rY3QwWThwRkJqQ0t6WDRJazdYMk5MZ3VlOEZmRXlud1g4LXA?oc=5"
+      "category": "Politics",
+      "title": "ライブ速報: ピート・ヘグセス氏がイラン戦争資金について議員に証言",
+      "summary": "ピート・ヘグセス氏がイラン戦争資金に関する議会証言を行っています。\n彼の証言は、米国の外交政策と中東情勢に影響を与える可能性があります。\n詳細な審議の模様は随時更新されます。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SYjRmSHhvN1pNYnFaUUJnQ2c5NjFqOXJzeUxHc1FkNTMxTTJPYVZSSkhMNlFPcnV1Wno0aEU2MTF6N1A3WFY0bmktOUNZRlhnNEhyQw?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ナンシー・メイス氏、リンジー・グラム氏の上院議席には出馬しない意向",
-      "summary": "ナンシー・メイス議員が、リンジー・グラム氏の上院議席を巡る選挙に出馬しない意向を明らかにしました。この発表は、次期上院選におけるサウスカロライナ州の政治情勢に影響を与えるものと見られます。",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclNtLTlVU1VmVXg1OVYzc0RFOERYNnZhUUpaVXF3dEJsaHRsRWwwWkFEOVh3UmRZMHVVNFhmRUc3VGVwcXl2T1JwSzB4X1FfWWZPczdQMWFhVW44Vy1ncjNqRF9LX0lrd3VUR3ZrbF9NcWJOTGFjRXNCeHBPNjMtSjNIT0hrZw?oc=5"
+      "title": "ゼレンスキー大統領、2024年以来最大の軍再編でウクライナ軍トップを更迭",
+      "summary": "ウクライナのゼレンスキー大統領は、2024年以来最大規模となる軍の再編を実施し、軍の最高司令官を交代させました。\nこれは、進行中の紛争における新たな戦略的アプローチを示すものとみられています。\n今回の人事は、ウクライナの防衛態勢に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM245Yk5ZN1RYRDRpZk5hZk40WWtUZVNMOWhxaW50cmlkQTZHYjRqcjFEU1o4NlRJSUhLZWxDX3NabWxiamtmNWllSGY0Zk5qekJ0R3l6cUduQVdUa1J6dHc4V1pzajloVkI1bDhiaGNHNEtqYk15dXlhblFzNHlFSDJBekY?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "米軍兵士が死亡した週末を受け、トランプ氏がイランへの報復を誓う",
-      "summary": "米軍兵士が犠牲となった週末の事態を受け、ドナルド・トランプ氏はイランに対し報復を行うことを誓いました。中東地域における緊張がさらに高まる可能性があり、国際社会の動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnhXZVhURmd3ZGlYWXZfYUNSV3lOWkVuUUZPYlA0TVhUQmE5aDRUMVM5SncyVnBGdEdnN3dGMFlCUndzWG1jazFiUjhCU0hwaTJfVXloemlVLTRlcnNOUGdrREZ6SkVtVlliZ0dCVEV5Xzg1dFFObGN4ZGhNMF9iVGRFRDFHclJwMkNNc3RGRFQzdXJGaVI4LWlObVFEN0tlbHBQb3NWWVVyUmVGd3JmS2hpRU5fNm8?oc=5"
+      "category": "Culture",
+      "title": "D4vd殺人事件：ロサンゼルスで数日にわたる予備審問が進行中",
+      "summary": "ロサンゼルスで発生したD4vd殺人事件に関する予備審問が数日間にわたり行われています。\nこの事件は世間の注目を集めており、詳細な証拠と証言が法廷で提示されています。\n審理の進展が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmlQNDVHUTVoSV9NZXU4dU5sT2JBRTBYenpNaExGLVFSZEtKR3dNakxOZlhOaC03VDlwOVNkTnd3MWFEdnU5U0NoazVlaUN2SkdXeXFFLUU1Zjc4eDVrbzZ3TFRuREJESzVHUlBLVWFjRk1OQTYwc2Y2T1NwNU5aVEN6SU5TM2d1TGRRLVIxWnRvSC1mcVFoalZpSnJYZ9IBowFBVV95cUxONE9oZWc3RzYtSmtFV2RkWnI3OWpzb1NHbmQtVjFJMVYtV0hMR3ZieWtQa2hGZl9nNm5IblhrdGZRNU5JX0RxLWlKNDRfbUhlVjYtYXhzV01WbkFqSWRITDFJNXZjN290bUdvTkl4OHBBLTV4OFJIc3NCU3Rzc2FxVkRteTRtNkVKbEJ2SGJqWkV1QkV0QjRydWk5a3RkQ1hEMDI0?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏、カタールからの寄贈されたエアフォースワンの安全性懸念に対し「最大限活用する」と発言",
-      "summary": "ドナルド・トランプ氏は、カタールから寄贈されたエアフォースワンについて、安全性に関する懸念が浮上しているにもかかわらず、「最大限活用する」と述べました。この発言は、今後の大統領の移動手段や国際関係に議論を呼ぶ可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGoybDNEd2hlUi13ZUNiUFNWZzVKUS1sUnJWbHctc25hVXB0SVI0UEFQWDVBUVl1blBzRjQwekdVb3BsRHpWNGZfTVJpQ1l3cEctaElaNk1IeHEyeGh2YktxejktenhQS0dPai1xTG1RdFJ5M2hzeFhGcGVzSk52cWJDT0lIREt4c1BaOXFkbHVORGFnelhIajBzU2lqVW80Q2REUWJKc3VlaTZ6V2pGV0tIdTg0WU85NjBjcWl5SWdyQQ?oc=5"
+      "title": "トランプ氏、休眠状態のスムート・ホーレー法権限を復活させる",
+      "summary": "トランプ氏が、かつての大恐慌時代の保護貿易法であるスムート・ホーレー法の権限を復活させました。\nこれは、貿易政策における保護主義的なアプローチを再び採用する意図を示すものです。\n国際貿易に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVV3lxTE5IRWZnUHh4QlhJMzFjRnNuNWpGN2kxNGVSeXJSNC1LVC04c216dW5Ya0FhMUhWd0xSUFdCZTNtOFF6WjZ5NHlPRjNoOUN0SkNfRVdIdzBLWmpxQTJMeFo5MzFyN29PTVhiZ0Y4VGpfQWUzc2t1?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "「北部の王」アンディ・バーナム氏、この10年で7人目の英国首相に就任",
-      "summary": "アンディ・バーナム氏が、この10年間で7人目となる英国の首相に就任しました。同氏は「北部の王」として知られ、英国政治の不安定な時代における新たなリーダーとして注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVo4WkxDRXpERlFob2ViRWpzaFdTWk9yNVZSRGJxU0w4Q05XekI3aXlBWWtUX2h6WFNUbEthVjJsdHJYcFRKOXpmcmllUjFHZVlvZ3doODE0RHp4S2dseTViOXI3Q2ZDMTU3MDZ2eHNsNzNTVWJmakZCTnM0Q0RXbVJRSVhYTHlWZDhwMFdrU1RHTWs2eEp5YmoyM2RFYUEwYmlnUTRGZWswQUNPLTJ4SnlLcl9qc1p0QmljNmFONVlCdw?oc=5"
+      "title": "トランプ氏が選挙干渉について語らなかったこと",
+      "summary": "トランプ氏の最近の発言において、選挙干渉について言及されなかった点が注目されています。\nこれは、今後の政治戦略や選挙キャンペーンに何らかの意図がある可能性を示唆しています。\n彼の沈黙がどのような意味を持つのか、憶測を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlR3UktfOUlTYUQ5TE9XUTlLbllhWFlEazZGNmNuU1RyRTJ6Wk1FTU5OU1pWWVhrYUxhWi13ZXlnTGJxYWF2MlZJenRudGZyc2RWX0pBR19haXFoN1V3NnZmR05ILW1TbVZjVko2OFZBR1dCVnZmUzBYY1ktU0NNdERtcGzSAYoBQVVfeXFMTkJ6TG10THltU0lERHl6emotT2htcHhDcmVMcU95R1RSZzREUHdyeVZtUDBDd04yOFdCb0xNc1dkaTZ6QWR5UGpyb2JSLWZzVGVlWlNkd05nTVEwcWotei12cjBtTkM2bmVEeThqTVMxNG5lU2VkT3ZtMzBlM3hza3p6aGlabmIweE1n?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツでACL損傷が増加している理由",
-      "summary": "この記事は、女子アスリートにおける前十字靭帯（ACL）損傷の増加傾向とその背景にある要因について探求しています。ホルモン、解剖学的構造、トレーニング方法の違いなどが複合的に影響している可能性が指摘されています。特に、着地動作や方向転換時の膝関節の不安定性がリスクを高めるとされています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "女子スポーツにおけるACL損傷の増加とその背景",
+      "summary": "女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が上昇している現状について解説しています。この増加は、幼少期からのスポーツ専門化、十分な筋力トレーニングの不足、不適切なバイオメカニクス、さらには性差による身体構造の違いなどが複合的に影響していると指摘されており、予防策の重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSK2yWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学のパイオニアとパラダイム：テーマ別歴史的ミニレビュー",
-      "summary": "このレビューは、スプリント科学の発展における主要な人物や理論的枠組みの歴史を概観しています。初期の運動学研究から現代のバイオメカニクス、生理学、コーチング理論に至るまで、スプリントパフォーマンスの理解がどのように深化してきたかを分析しています。これにより、過去の研究が現在のトレーニング実践に与える影響が示唆されています。",
+      "title": "短距離走科学における先駆者とパラダイム：テーマ別歴史ミニレビュー",
+      "summary": "短距離走の科学的研究の歴史的発展を概観するレビューです。黎明期の研究から現代の高度なバイオメカニクス分析に至るまで、どのように技術と理解が進化してきたかをテーマ別に辿り、短距離走パフォーマンスの最適化に貢献した主要な発見や理論をまとめています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ]
