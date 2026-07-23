@@ -1,185 +1,185 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/07/23",
-  "generated_at": "2026-07-22T21:55:49.240Z",
+  "issue_date": "2026/07/24",
+  "generated_at": "2026-07-23T21:55:27.145Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "思春期のバレーボール選手における神経筋トレーニングの二重の恩恵：膝の怪我予防と運動能力は共通のメカニズム的基盤を共有する：構造化されたナラティブレビュー",
+      "title": "思春期バレーボール選手における神経筋トレーニングの二重の恩恵：膝関節損傷予防と競技パフォーマンスは共通のメカニズム基盤を共有する：構造化ナラティブレビュー",
       "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxMaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5",
-      "abstract": "このレビューは、思春期のバレーボール選手に対する神経筋トレーニングが、膝の怪我予防と運動能力向上に二重の恩恵をもたらすことを示唆しています。両者は共通の生物学的・メカニズム的基盤を持っており、統合的なアプローチが有効です。特にACL損傷予防に焦点を当てています。",
-      "insight": "バレーボールのユース育成プログラムに神経筋トレーニングを早期から導入することで、選手の怪我リスクを低減し、同時にパフォーマンス向上も目指せます。指導者は、予防とパフォーマンスを両立させるトレーニングメニューを検討すべきです。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5",
+      "abstract": "このレビューは、思春期のバレーボール選手に対する神経筋トレーニング（NMT）が、膝関節の怪我予防と競技パフォーマンス向上という二重の利益をもたらすことを示唆しています。NMTがバランス、アジリティ、プライオメトリクスなどの要素を通じて、運動能力と同時に身体の安定性を高める共通のメカニズムに基づいていることが強調されています。",
+      "insight": "NMTプログラムは、若年アスリートの怪我予防だけでなく、実際の競技能力向上にも直結するため、トレーニング指導者は単なるリハビリとしてではなく、パフォーマンス向上の一環として積極的に導入すべきです。",
       "published_at": "2026-05-04T11:36:16.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における開拓者とパラダイム：テーマ別歴史ミニレビュー",
+      "title": "スプリント科学における先駆者とパラダイム：テーマ別歴史的ミニレビュー",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
-      "abstract": "この歴史的レビューは、スプリント科学の発展に貢献した主要な研究者と理論的枠組みをたどります。スプリントパフォーマンスを理解するための生物力学的原則やトレーニング方法論の進化について考察しています。過去の研究が現代のスプリントトレーニングにどのように影響を与えているかを示します。",
-      "insight": "スプリントコーチやトレーナーは、このレビューからスプリントパフォーマンスの科学的根拠を深く理解し、より効果的なトレーニングプログラム設計に役立てることができます。歴史的視点から最新のトレーニングトレンドを評価する知見が得られます。",
+      "abstract": "このミニレビューは、スプリント科学の歴史的発展をテーマ別に概観し、その分野を形成してきた主要な研究者と研究パラダイムに焦点を当てています。過去の画期的な発見が、現代のスプリントトレーニングやバイオメカニクスの理解にどのように貢献してきたかを分析しています。",
+      "insight": "陸上競技コーチやスポーツ科学者は、スプリントの技術やトレーニング理論の進化を理解することで、より根拠に基づいた指導法を構築し、選手のパフォーマンスを最大化するための新たな視点を得ることができます。",
       "published_at": "2026-04-30T16:58:11.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、シェア、予測、2034年",
-      "source": "Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5",
-      "abstract": "この市場予測レポートは、2034年までの人工腱・靭帯市場の成長を分析しています。スポーツ外傷や変性疾患の増加、技術革新が市場拡大を牽引していることを示しています。将来の整形外科治療における人工代替品の重要性が強調されています。",
-      "insight": "スポーツ医療従事者や施設は、将来の治療選択肢として人工腱・靭帯の利用が増加することを考慮し、最新の技術動向を把握する必要があります。患者への情報提供や設備投資の計画に役立ちます。",
-      "published_at": "2026-06-29T07:00:00.000Z"
+      "title": "人気急上昇中のペプチド：その実態と効果は？医師が注意を促す理由",
+      "source": "UCHealth",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
+      "abstract": "近年、スポーツ界で人気の高まるペプチドについて、その効果と安全性に関する包括的な情報を提供しています。医師たちは、未承認の製品や不適切な使用による健康リスクについて懸念を表明し、使用を検討する際には慎重な姿勢を求めています。",
+      "insight": "アスリートや一般のフィットネス愛好家は、ペプチドの使用を検討する前に、必ず専門医や薬剤師に相談し、科学的根拠に基づいた情報を確認することが重要です。",
+      "published_at": "2026-07-23T19:38:11.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
       "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入",
       "source": "The Sport Journal",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5",
-      "abstract": "この記事は、スポーツリハビリテーションプログラムにおいて非線形ピリオダイゼーションを適用する方法について考察しています。非線形アプローチは、リハビリの進行に合わせて負荷や種類を柔軟に変化させることで、アスリートの回復を促進し、パフォーマンスへの復帰をより効果的にサポートすることを目指します。",
-      "insight": "理学療法士やリハビリ担当者は、患者の状態に応じてトレーニング内容を適応させる非線形ピリオダイゼーションを導入することで、リハビリの停滞を防ぎ、より個別化された効果的な回復プランを提供できます。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5",
+      "abstract": "この研究は、スポーツリハビリテーションプログラムに非線形ピリオダイゼーション（NUP）を導入することの有効性を探っています。NUPは、リハビリテーションの進行に応じて負荷を柔軟に調整するアプローチであり、患者の回復度合いや反応に合わせてトレーニングを最適化する可能性を示しています。",
+      "insight": "理学療法士やリハビリトレーナーは、選手の回復状況に応じてトレーニング内容を日ごとに調整できるNUPを導入することで、より効果的で個別化されたリハビリを提供し、早期の競技復帰を支援できます。",
       "published_at": "2026-07-21T19:24:17.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理のための西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
-      "abstract": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングを含む）の効果を評価しています。多くの研究を分析した結果、特定の疼痛症状に対して鍼治療が有効な補完療法となる可能性が示されました。",
-      "insight": "スポーツ現場の医療チームは、慢性疼痛や特定の急性疼痛を抱えるアスリートに対し、既存の治療法と並行して西洋医学的鍼治療を検討する価値があります。エビデンスに基づいた疼痛管理の選択肢として活用できるでしょう。",
-      "published_at": "2026-02-03T18:00:13.000Z"
+      "title": "女性サッカー選手における再発性後方肩関節脱臼による疼痛管理への補助的鍼灸治療：症例報告",
+      "source": "Cureus",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
+      "abstract": "この症例報告は、再発性後方肩関節脱臼による慢性的な痛みに苦しむ女性サッカー選手に対し、通常の治療に加えて鍼灸治療を補助的に行った結果を報告しています。鍼治療と灸治療を併用することで、疼痛の軽減と機能改善が見られ、競技復帰に貢献した可能性が示唆されています。",
+      "insight": "スポーツドクターやリハビリ専門家は、従来の治療法に加え、鍼灸治療を補助的な疼痛管理および機能改善の選択肢として検討することで、特定のアスリートの回復を促進できる可能性があります。",
+      "published_at": "2026-03-18T07:00:00.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
-      "source": "220 Triathlon",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5",
-      "abstract": "この記事は、アスリートに人気のある9種類のスポーツサプリメントについて、その効果と科学的根拠を解説しています。クレアチンやカフェイン、エネルギー補給ジェル、L-カルニチンなどが、どのようなメカニズムで運動パフォーマンスや回復に影響を与えるかを掘り下げています。",
-      "insight": "アスリートやコーチは、この情報を基に、科学的根拠のあるサプリメントを適切に選び、パフォーマンス向上や回復促進に役立てることができます。誤情報に惑わされず、自身のニーズに合った選択をするための知識源となります。",
-      "published_at": "2026-04-19T07:00:00.000Z"
+      "title": "クレアチンとプロテインパウダーを一緒に摂取すると体に何が起こるか",
+      "source": "EatingWell",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDJ1a2dZNk9zcjdvUjFsV3JfLXdCcWR5aEVQVllWSm5qOUxLanRmWXY0SFZXSTF0YUdIV0s1QjdyeExLSGFlQzJObWo1M21tTXBMNDlDa2FWUVFDTUxfU0xGZThKX04wcUJoX0VCWlVOWENAzXhoUHFDRm1uZW94T1dDT2tmMllhM3pNag?oc=5",
+      "abstract": "この記事は、クレアチンとプロテインパウダーを同時に摂取した場合の身体への影響について解説しています。両者はそれぞれ異なるメカニズムで筋肉の成長と回復をサポートするため、併用することで相乗効果が期待できる可能性があると説明しています。",
+      "insight": "アスリートやトレーニングを行う個人は、クレアチンとプロテインを組み合わせて摂取することで、筋力向上、筋肉量増加、運動後の回復促進を効率的に図れる可能性がありますが、適切な摂取量とタイミングを専門家と相談することが推奨されます。",
+      "published_at": "2026-05-17T07:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
       "source": "Johns Hopkins Medicine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoNndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
-      "abstract": "この記事は、学生アスリートが直面するメンタルヘルスの課題に対処するための保護者とコーチ向けの具体的なヒントを提供しています。学業、競技プレッシャー、ソーシャルメディアの影響など、多岐にわたるストレス要因を認識し、適切なサポートとコミュニケーションの重要性を強調しています。",
-      "insight": "保護者やコーチは、アスリートの身体的健康だけでなく、精神的健康にも目を向け、早期に異変を察知し対応できる体制を整えるべきです。オープンな対話と専門家へのアクセスを促すことで、若手アスリートの健全な成長を支援できます。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
+      "abstract": "この記事は、学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者とコーチが彼らをサポートするための具体的なヒントを提供しています。学業、競技、ソーシャルライフのバランスの難しさから生じるストレスや不安に対処し、早期にサインを認識することの重要性が強調されています。",
+      "insight": "保護者やコーチは、学生アスリートの身体的な健康だけでなく、精神的な健康にも注意を払い、オープンなコミュニケーションを促し、必要に応じて専門家のサポートを求めることで、彼らが健全な成長を遂げ、最大限のパフォーマンスを発揮できるよう支援できます。",
       "published_at": "2026-05-05T15:36:18.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "論説：アスリートの回復の最適化：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVZ5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5",
-      "abstract": "この論説は、アスリートの回復において睡眠と適切な回復戦略が果たす重要な役割を強調しています。質の高い睡眠と効果的な回復プロトコルが、疲労の軽減、怪我のリスク減少、そして最終的な競技パフォーマンス向上にいかに不可欠であるかを論じています。",
-      "insight": "アスリートやチームは、トレーニング計画に回復戦略と睡眠の質を最適化する要素を積極的に組み込むべきです。睡眠のモニタリングやリカバリー方法の導入は、長期的なパフォーマンス維持と怪我予防に直結します。",
-      "published_at": "2026-04-08T10:40:51.000Z"
+      "title": "MCCHがMSU男子バスケットボールチーム向けに睡眠とパフォーマンスに関するプレゼンテーションを開催",
+      "source": "Murray Ledger and Times",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRjJNMjkzeXZWQ0JlaFR5MGlGQndnM3hqWXpBUmJaYTg0UkJBN1JyMHQ1N01CUjdJdUpYYS1Gb3hfeG9pSTJOa3RxNHhnb28tc3RESmZxSXdzSzhReUhtcE5VaWlJQlBIMlJYX3F1dzJYbzdLMFZ1OHJNUkN6N2RqLUx4T2lNSE9JTGFRX0hDQVpydTFoYi1CRWducmFtNjFQOTdOMjlsOTdmc0Y1RXVTXy1kbUZyVWllejh0Vnk2WF9KbUQyTjRzZTFrQmhXd050WG1Kenp5Q0RKYUQtMWRDRUVQN3ZuUTByVHFaTW1LSHV3RVMzQkd5dw?oc=5",
+      "abstract": "Murray-Calloway County Hospital (MCCH) が、Murray State University (MSU) の男子バスケットボールチームを対象に、睡眠がアスリートのパフォーマンスと回復に与える影響についてのプレゼンテーションを実施しました。十分な睡眠の重要性、睡眠習慣の最適化、そしてメンタルパフォーマンス向上への関連性が強調されました。",
+      "insight": "スポーツチームは、選手の睡眠習慣を改善するための教育プログラムやサポート体制を導入することで、身体的な回復を促進し、試合中の集中力や意思決定能力を高め、最終的にチーム全体のパフォーマンス向上に繋げることができます。",
+      "published_at": "2026-07-21T23:01:00.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "社会",
-      "source": "NHKニュース",
-      "title": "熊本 合志 公務執行妨害疑いの容疑者に警察官が発砲",
-      "summary": "熊本県合志市で、公務執行妨害の疑いのある容疑者に対し、警察官が拳銃を発砲する事案が発生しました。警察によると、容疑者は刃物のようなものを持って向かってきたため、警官が発砲に至ったとのことです。現在、容疑者の身柄は確保され、詳しい状況が調査されています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QQ3NYSGxGWkJKMjNtSk9aODFVbzhZMHFVY09qWkxkZ0FJVmgxWWtPUWhieU8weklZNnNyN2pKeDVIM2dKZ1U1dVRITmNZS3ZBR3gzWmJBV1hWdGhHMHlR?oc=5",
-      "published_at": "2026-07-22T19:44:36.000Z"
+      "category": "経済",
+      "source": "ロイター",
+      "title": "原油先物急騰、北海ブレント100ドル台 紅海のタンカー攻撃受け供給懸念",
+      "summary": "紅海でのタンカー攻撃を受け、原油先物価格が急騰し、北海ブレント原油は一時1バレルあたり100ドル台を突破しました。\n中東情勢の緊迫化が原油供給への懸念を高め、世界の市場に大きな影響を与えています。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iSkdTdVZFVHNYUU5EeUtWTkw4M2FBSGFZT2VKOEtuWkRWU21MOGZ0S1VMclRqdVlSazJ1Qno1MUlhRnBHbG1xSmZ6aUFSNGVGcGZkWVBKeWRUME42NkloVjNqZGxpSkhOYy1OTFh5a2lWaWMzaW5ILXdn?oc=5",
+      "published_at": "2026-07-23T20:09:17.000Z"
     },
     {
       "id": "j002",
-      "category": "国際",
-      "source": "日本経済新聞",
-      "title": "トランプ氏、サウジとの原子力協定承認と米報道 中東での核拡散懸念",
-      "summary": "米国のメディア報道によると、トランプ氏が大統領令によりサウジアラビアとの原子力協定を承認したと報じられました。これに対し、中東地域における核拡散への懸念が国際社会で高まっています。特にサウジがウラン濃縮を可能にする条項が含まれている点が問題視されています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVWXlxTE5NdGNPOElWUG9JRGd6Wl9STlBSTVl0di1LWWxYNkJTaU5OaGZiYzlNNjJHSzN2NGpRZDExeFlObmZSUVc0SFlIUy1VdzJhODVnN3J1VEE3dVlmdVRFOS1walVwVFJiU1JiZTF3Xw?oc=5",
-      "published_at": "2026-07-22T03:10:02.000Z"
+      "category": "社会",
+      "source": "読売新聞",
+      "title": "ドクターヘリ運航、東京・大阪・徳島で通年見通せず…整備士不足で「救える命救えなくなる恐れ」",
+      "summary": "東京、大阪、徳島の一部地域でドクターヘリの通年運航が整備士不足により困難な状況に陥っていることが判明しました。\nこれにより、救える命が救えなくなる恐れがあるとして、医療現場から深刻な懸念が表明されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UQm0za0R0cGRDTGFuQnJUVkZHQk54ZDJ4M2RTaVh6UURieVF4azY2QXd1QlNrdTRYV0xqdm5DZVRDYkFNN3VhZDIzX2x1QmJEUk9kcWZ4UENvQzd2OUhLU0ZBVVQ?oc=5",
+      "published_at": "2026-07-23T20:00:00.000Z"
     },
     {
       "id": "j003",
-      "category": "国際",
-      "source": "読売新聞",
-      "title": "アエロフロート東京支店長、ロシアのスパイ報道直後に出国…ウクライナが日本製品の輸出管理徹底を要請",
-      "summary": "ロシアのスパイと報じられたアエロフロート東京支店長が、報道直後に出国したことが明らかになりました。これを受け、ウクライナ側は日本政府に対し、ロシアへの日本製品の輸出管理を一層徹底するよう強く要請しています。国際情勢の緊張が高まる中、日本の対応が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMa2ZVbVlfanhJRlNNbHMxUHFuWWpCSDZEeXp5YTZ0OWc2YzhNVE8wUW9oZUhmRHFiMTduQjBzaUpzdEx6OC1BcW9kWC03MG5sTVQ1aXltQnljckM5MnpNaXd4NzlvQQ?oc=5",
-      "published_at": "2026-07-22T20:00:00.000Z"
+      "category": "社会",
+      "source": "朝日新聞",
+      "title": "岡本公三容疑者がレバノンで死亡 ロッド空港乱射事件の実行犯",
+      "summary": "1972年のロッド空港乱射事件の実行犯の一人である岡本公三容疑者が、レバノンで死亡したと朝日新聞が報じました。\n長年にわたり国際社会でその動向が注目されていましたが、彼の死去により一つの時代が幕を閉じました。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yaHlBSDdEYXpWRFFrQUJUY2d2MGViVTJzSkRjVXdWbEo1UUlhNGQycmRwclBTcTdiNTBMbTdBa2VRMXQwdnJlRWlQZ1JXZncwd09KZWtlaEtaejYxMjd0cU1rd084akk?oc=5",
+      "published_at": "2026-07-23T17:28:55.000Z"
     },
     {
       "id": "j004",
       "category": "政治",
-      "source": "日刊スポーツ",
-      "title": "【政界地獄耳】突出した現職大臣の発言 核保有に一番積極的な閣僚と言える - 政界地獄耳 - 社会コラム",
-      "summary": "ある現職大臣が核保有について突出して積極的な発言をしていると報じられました。これは日本が非核三原則を掲げている中で異例の姿勢であり、政界内外で波紋を呼んでいます。発言の背景や意図について、様々な憶測が飛び交っています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3lxMDBvYkI2MnFjUVdZT1dzb2t0cGJMaFc4S3dlM3Z6R08wVEZPbjhaQ3Y1cC1mc3ZoVmU4YWJEcWVicEg4N3B2S1UtR3FzeWtqTWFRVzVtQ3VtSDVCWFdBdDVISUFjNXBmc1ZNemNpSlVKUFBkaXJoLVFjN2prSDFpMFo1UU0?oc=5",
-      "published_at": "2026-07-21T23:00:00.000Z"
+      "source": "時事ドットコム",
+      "title": "高市首相と福岡県議長が懇談 金銭授受疑惑は言及せず",
+      "summary": "高市首相が福岡県議長と懇談を行いましたが、首相周辺で浮上している金銭授受疑惑については、懇談中に言及されなかったと時事通信が報じています。\n双方、地元政治の課題や協力体制について意見交換を行ったと伝えられています。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5dHdiYmVkUHN2VFp2UVplTmZLZEhTUEpGM2VMMERwVjgydFZYcExmRlpqaVBQU3k4R2pHNkUzS3pqNTAxYmN5dno1cnFjamJUZ2xOWWZ0M0R3Rmp6Q2pPRVE3QQ?oc=5",
+      "published_at": "2026-07-23T06:45:00.000Z"
     },
     {
       "id": "j005",
-      "category": "国際",
-      "source": "読売新聞",
-      "title": "イラン軍「核施設を攻撃すれば、戦争拡大とみなす」…ピックアックス山周辺の攻撃主張するトランプ氏をけん制",
-      "summary": "イラン軍は、もし核施設が攻撃されれば、それは戦争拡大とみなすと警告しました。これは、トランプ氏がピックアックス山周辺への攻撃を主張していることに対するけん制とみられます。中東情勢は緊迫の度を増しており、今後の展開が注視されています。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIQnJ1N0VnbmNsbzN6U0xUSV9QakU2clMyUTFTeTlIcllvekszUHZCVGlZWk1FOVlyNHZiNDE4SGJ4S0liSW0wUEVoS2RXMkpkTC1sdXFpb0xWTjlna3BGUWR3?oc=5",
-      "published_at": "2026-07-22T12:32:00.000Z"
+      "category": "政治",
+      "source": "産経ニュース",
+      "title": "副首都法案、自立国対委員長会談で24日の採決合意せず 野党は回答次第で判断",
+      "summary": "副首都法案を巡る与野党の国対委員長会談で、本日24日の採決について合意に至らなかったと産経ニュースが報じました。\n野党側は政府・与党の回答内容次第で、今後の対応を判断するとしており、法案の行方は依然不透明です。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wREZpVXFDTDZwSjNpZ3F6S1NPY0tsUEJndlQzbTlpdnBTMzJTVGxXV1lIUWRqaWdfZlVzaTVyT0lxenlkV01qcEVmZXBYSkdfQnVOV29lcm9iTmp2LURxZUhhV2ZLU2pieGgxVUhUNmZraEk3YUE?oc=5",
+      "published_at": "2026-07-23T12:05:34.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
-      "category": "Conflict",
-      "region": "Middle East",
-      "source": "The Guardian",
-      "title": "サウジアラビアと米国がウラン濃縮協定を締結したと報じられる",
-      "summary": "報道によると、サウジアラビアと米国が、サウジが国内でウランを濃縮することを可能にする原子力協定を締結した模様です。この動きは、中東地域における核拡散の懸念を再燃させており、国際社会の注目を集めています。協定の詳細はまだ不明ですが、地域安全保障に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUZCWjlBNzU2czZpTUNsWFBVQzFLaEl6eWUyTTZmQ05tcXRhMk5TZXl1eDJUY25oUUw1MUlpME9EZXEwRU41a1lUMjFFRW9HYnphYU9SSUpmaXVfdkFsYUk1VE44RWlSS01MM29iZ2F6bVllQjh3b0ltRTNyMlVySnJMVlZBSzc3Ynp5ejc4aG1wSkdfRnBNYzB4cmtIVGRyS19iN3VMVVRsNjVMaVE?oc=5",
-      "published_at": "2026-07-22T19:23:00.000Z"
+      "category": "Economy",
+      "region": "Global",
+      "source": "CNBC",
+      "title": "トランプ氏、グローバル関税期限切れに伴い60の貿易相手国に「広範囲な」新関税を課す方針",
+      "summary": "ドナルド・トランプ氏は、グローバル貿易協定に基づく関税の期限切れを機に、世界60カ国に対し新たな広範囲な関税を課す計画を明らかにしました。\nこの動きは、国際貿易に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oQTJac1RnQTRjX25YNTctQzNCTkpzZ05DVWJnOEE4QkJ2QWtvX3lHd3dJMUF4N0hPeVJJSUswVjBBd0VOV1B3NlN3Umtsc2RfZkdDME9KMGlHZnFQMHBvSTFxbnhsWjlBeGluRHdsdjdrTG_SAXhBVV95cUxNUjZPWkU4cFI5V1pTbFMzUmlNb056V2JIZl83ekJCOTBsY2VtbG5yYXM1U3NkVGFOUmRpa3NJUE1OSmlYOWx4alh2RjFjN1RyUTVRQWRaWnQ4bWs4U2ZDby1BdU1LVzNLdkpfSGdRd2xZcFA4b1NWa2c?oc=5",
+      "published_at": "2026-07-23T21:05:15.000Z"
     },
     {
       "id": "g002",
-      "category": "Conflict",
+      "category": "Politics",
       "region": "Middle East",
-      "source": "CNN",
-      "title": "ライブ更新：トランプ氏、イランがホルムズ海峡で船舶を攻撃するたびにイランの橋または発電所を攻撃すると公約",
-      "summary": "トランプ氏は、イランがホルムズ海峡で米国の船舶を攻撃するたびに、イラン国内の橋や発電所を標的に報復攻撃を行うと表明しました。この発言は、米国とイラン間の緊張が極度に高まっていることを示しており、中東地域の情勢を一層不安定化させる恐れがあります。国際社会は事態の推移を注視しています。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRMWdUYldNM3B6UDFrSXpEd21GbzRtVklxWEFtVi1vclBYVHlNN3NmVVVwcnZPUlY5aHVBN19vbTE4b0VJUXJWXzU4TTBJdVc1UGVSR3BBWWRDeVZIdTYydE1JU1dLcHVIYTZSZ0NsQ29Hdw?oc=5",
-      "published_at": "2026-07-22T20:34:00.000Z"
+      "source": "Al Jazeera",
+      "title": "トランプ氏、サウジアラビアの核合意はアブラハム合意への参加次第と発言",
+      "summary": "ドナルド・トランプ氏は、サウジアラビアとの核合意締結は、同国がアブラハム合意に参加することを条件とすると述べたと報じられました。\nこれは中東地域の地政学的なバランスに大きな影響を与える可能性のある発言です。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXBaMGVfMTRydGlwXzhxMFA2akw5M1lpaVNjcG5XVHFjU1dDNy0yc1dwNnRvTVBLUTQyQnhPSl9kUkpZT213S3RLQWlxV2pySkVXSmJsRm1Ob0Z4dDFyMDBBQkRmeTVjZUpfYkxwaEhETDQyOTRhMmczZG85QktCOUQ0Tk1kWjNILU9teE41Y1F5bDVwSlUyTE8zTmRnY3FSb0ZwR0NodUxUR0pxdXVDWkV30gG3AUFVX3lxTE5EM2VqSF9oM3NYdkVUdXFFQjJ1Mi1sYTBCNTBWUzFBMnlLWlJGZXlZSjhYa2dsakJ3SlFPNTItbndzVm5yOGhuNkR5N1lsU2o0Rl91dmVtZmFQOGtWZDA1dURyWmZVMjc1SEVlekxBdUhkekRGN2kyajRES2VfTjRVOXFyOVpVX0p0SEVLVjE0ZGlIaFVFZmF4dWYwbEVNTnphTVIxLXA0bHR3SHZGMEd0S3BkMXlxMA?oc=5",
+      "published_at": "2026-07-23T21:11:15.000Z"
     },
     {
       "id": "g003",
-      "category": "Climate",
+      "category": "Politics",
       "region": "US",
-      "source": "FOX Weather",
-      "title": "ライブ更新：熱帯暴風雨バーサがルイジアナ州に上陸、バージニア州とカロライナ州で洪水が発生",
-      "summary": "熱帯暴風雨バーサがルイジアナ州に上陸し、その影響でバージニア州とカロライナ州では広範囲で洪水が発生しています。沿岸地域では強風と大雨が続き、住民には避難勧告が出されています。救助活動が進行中であり、各地で甚大な被害が報告されています。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN0k0NUR6aF9GUlZxeGZhNGNLVlVwdmJZcEhRdDdlRDVmSEFYYlJjaktINXlsMnBuYjNscFBmaGdneFEwQ2VweEprb1RFcFp2NzBoNnU2VEpGa3VMbjhjYU8zWGljTDROMndvOWoxQzZSY2pLcVlnOWJCY0ZnblFQbXlSdEN5UFR1cWpETWpfWjNNOGc5QkFVZkZlSEVPQnA0ZXBwZWNDb1BRMWdQTnRHcHVnclhaajZMWWo1WDQ4MTBZMzhqOVVfTF9jbG9qSHdT?oc=5",
-      "published_at": "2026-07-22T19:41:21.000Z"
+      "source": "The New York Times",
+      "title": "米国、ニューヨーク・タイムズ記者に対する召喚状を取り下げへ",
+      "summary": "米国政府がニューヨーク・タイムズ紙の記者たちに発行していた召喚状を取り下げる方針を固めたと報じられました。\nこの決定は、報道の自由と政府の透明性に関する議論の中で注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRFk2NHNDQ2ZSN1FseWJMRDMwYVRTYkdTZFAwdDhlcWRHM1VCSVZITDh1VHFLaHduYkxjMDBDZ3VXVjZibzVpeVB1YTFsWUthWU5kcURLdzFLN0VFQzhxWVF4TExJOGdzdW9DQ3JIWjFxeVF3ZzBqUm1hOGJhNmFPVUV1ejhvTmMtYmc1dmhRQW5Mdw?oc=5",
+      "published_at": "2026-07-23T19:36:19.000Z"
     },
     {
       "id": "g004",
-      "category": "Conflict",
-      "region": "Middle East",
-      "source": "The Washington Post",
-      "title": "最新の戦闘死者数から、リスクがイラン国境から遠く離れた部隊に移ったことが示される",
-      "summary": "最新の戦闘による死者数は、中東地域における紛争のリスクがイラン国境付近だけでなく、より広範囲の地域に展開している部隊にも及んでいることを示唆しています。これは、代理勢力や非対称戦争の増加により、紛争の地理的範囲が拡大している可能性を指摘しています。米軍関係者の死者が遠隔地で報告されています。",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHYyRzZlSENBT2FnN0cxdHhtV0ZHREdqcVZDQ3Y0RGFScTVncFVEQW83amFpbXZJUVh3YzE2UldnZnVadlNDa05yTnlqOFJtMnlrUWUzM1ZZcVV6R212YjlCZEEwZ3ZveTZKQWR5ek1OeVJROWdmd1MteU81djF6T2h1dWpKSFhHT1NqWkVwT0ZEOWV6TjJuVkYteTNhNW5ubkRtMTZyUG5IMUIyV2dIU1Z5RGZNeU5ZTVR2aktKNzBHZzZRNGkxV0ZDY05xUVJZMVhwY2NKWQ?oc=5",
-      "published_at": "2026-07-22T19:42:49.000Z"
+      "category": "Politics",
+      "region": "US",
+      "source": "NBC News",
+      "title": "ミネソタ州議員とその夫殺害で男に終身刑2回",
+      "summary": "ミネソタ州の議員とその夫を殺害した男に対し、2度の終身刑が言い渡されました。\nこの事件は地元社会に大きな衝撃を与え、政治家の安全保障に関する議論を巻き起こしました。",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN1ZwRV9nZlJLb0NkTm9YdHJmWndBdDBZbGZGS0ZnT3M0bVg1bklXcWtHUEtwc1ZkaUFLMm1CcXlQWWpXOWVlWk5mcE1mMTUtNUtSclhWZ2FjYkplZTdKdjRNTzFsY0ZxRkMwUmZXTXg2RzhaQjZ0TzZGN05uUFZOQklIYnJkX2ZrTmhPRzhQRFhZWmlRTzBLOGtjaHk0V3ZrMWZFYk4tb2p2MlJsYnFuOFNXMTZwQmc0Znc?oc=5",
+      "published_at": "2026-07-23T18:23:33.000Z"
     },
     {
       "id": "g005",
-      "category": "Health",
-      "region": "US",
-      "source": "NBC News",
-      "title": "ノーラン・ウェルズの独立検死結果、「死因・死様不明」と発表",
-      "summary": "ノーラン・ウェルズ氏の独立した検死の結果が発表され、その死因と死様が「不明」とされました。これは、当初の公式発表とは異なる可能性を示唆しており、さらなる調査の必要性が浮上しています。事件の真相解明に向けて、関係者の間で様々な憶測が飛び交っています。",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblVZYm9ia1dVbDFJRVR4aV95bGFQY014M05DNHpCczg0XzE0S2xUWkl5MVhMaVNUYjdEX1JiMUJZaHB2VWo5dmQ2bU54eFRsXy00TEowb2JPN1gydXBLNUhsaFMyUTBHZmNONW1tSVBvZlFidEprUGZhMkw1MF9MbE5LMndPM1BDY0E3WU40TlBGOVZfTXU2WDJrSjZ5S1BYTGxIdUpXSkcxbUpoN2Foc3FacjBTRlFQdWc?oc=5",
-      "published_at": "2026-07-22T18:29:39.000Z"
+      "category": "Conflict",
+      "region": "Middle East",
+      "source": "Fox News",
+      "title": "米国、12夜連続の空爆によりイランの軍事能力を「さらに低下させる」と表明",
+      "summary": "米国がイランに対し12夜連続で空爆を実施し、これによりイランの軍事能力を「さらに低下させる」と表明したと報じられました。\n中東地域の緊張が極度に高まっており、国際社会の懸念が深まっています。",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkxqUm1DaHVzWGcyVXI0elhTNWRJNksxN0UwZlZ6Y1Y2bFpKTW1lNWgxYUs3bjc5M20zbU4yNDF4c0YxdGxucU1QUVAzRWNkNWhFdk4wVGdmZkZ3Rlp4eVNKRFl6OVVwZV9KVUlLdEFMRHBvQkt2ZkJPVFpzaGJoNg?oc=5",
+      "published_at": "2026-07-23T17:28:43.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,160 +187,160 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "思春期のバレーボール選手における神経筋トレーニングの二重の恩恵：膝の怪我予防と運動能力は共通のメカニズム的基盤を共有する：構造化されたナラティブレビュー",
-      "summary": "このレビューは、思春期のバレーボール選手に対する神経筋トレーニングが、膝の怪我予防と運動能力向上に二重の恩恵をもたらすことを示唆しています。両者は共通の生物学的・メカニズム的基盤を持っており、統合的なアプローチが有効です。特にACL損傷予防に焦点を当てています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxMaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "title": "思春期バレーボール選手における神経筋トレーニングの二重の恩恵：膝関節損傷予防と競技パフォーマンスは共通のメカニズム基盤を共有する：構造化ナラティブレビュー",
+      "summary": "このレビューは、思春期のバレーボール選手に対する神経筋トレーニング（NMT）が、膝関節の怪我予防と競技パフォーマンス向上という二重の利益をもたらすことを示唆しています。NMTがバランス、アジリティ、プライオメトリクスなどの要素を通じて、運動能力と同時に身体の安定性を高める共通のメカニズムに基づいていることが強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における開拓者とパラダイム：テーマ別歴史ミニレビュー",
-      "summary": "この歴史的レビューは、スプリント科学の発展に貢献した主要な研究者と理論的枠組みをたどります。スプリントパフォーマンスを理解するための生物力学的原則やトレーニング方法論の進化について考察しています。過去の研究が現代のスプリントトレーニングにどのように影響を与えているかを示します。",
+      "title": "スプリント科学における先駆者とパラダイム：テーマ別歴史的ミニレビュー",
+      "summary": "このミニレビューは、スプリント科学の歴史的発展をテーマ別に概観し、その分野を形成してきた主要な研究者と研究パラダイムに焦点を当てています。過去の画期的な発見が、現代のスプリントトレーニングやバイオメカニクスの理解にどのように貢献してきたかを分析しています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、シェア、予測、2034年",
-      "summary": "この市場予測レポートは、2034年までの人工腱・靭帯市場の成長を分析しています。スポーツ外傷や変性疾患の増加、技術革新が市場拡大を牽引していることを示しています。将来の整形外科治療における人工代替品の重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5"
+      "title": "人気急上昇中のペプチド：その実態と効果は？医師が注意を促す理由",
+      "summary": "近年、スポーツ界で人気の高まるペプチドについて、その効果と安全性に関する包括的な情報を提供しています。医師たちは、未承認の製品や不適切な使用による健康リスクについて懸念を表明し、使用を検討する際には慎重な姿勢を求めています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
       "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入",
-      "summary": "この記事は、スポーツリハビリテーションプログラムにおいて非線形ピリオダイゼーションを適用する方法について考察しています。非線形アプローチは、リハビリの進行に合わせて負荷や種類を柔軟に変化させることで、アスリートの回復を促進し、パフォーマンスへの復帰をより効果的にサポートすることを目指します。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
+      "summary": "この研究は、スポーツリハビリテーションプログラムに非線形ピリオダイゼーション（NUP）を導入することの有効性を探っています。NUPは、リハビリテーションの進行に応じて負荷を柔軟に調整するアプローチであり、患者の回復度合いや反応に合わせてトレーニングを最適化する可能性を示しています。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理のための西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングを含む）の効果を評価しています。多くの研究を分析した結果、特定の疼痛症状に対して鍼治療が有効な補完療法となる可能性が示されました。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
+      "title": "女性サッカー選手における再発性後方肩関節脱臼による疼痛管理への補助的鍼灸治療：症例報告",
+      "summary": "この症例報告は、再発性後方肩関節脱臼による慢性的な痛みに苦しむ女性サッカー選手に対し、通常の治療に加えて鍼灸治療を補助的に行った結果を報告しています。鍼治療と灸治療を併用することで、疼痛の軽減と機能改善が見られ、競技復帰に貢献した可能性が示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
-      "summary": "この記事は、アスリートに人気のある9種類のスポーツサプリメントについて、その効果と科学的根拠を解説しています。クレアチンやカフェイン、エネルギー補給ジェル、L-カルニチンなどが、どのようなメカニズムで運動パフォーマンスや回復に影響を与えるかを掘り下げています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
+      "title": "クレアチンとプロテインパウダーを一緒に摂取すると体に何が起こるか",
+      "summary": "この記事は、クレアチンとプロテインパウダーを同時に摂取した場合の身体への影響について解説しています。両者はそれぞれ異なるメカニズムで筋肉の成長と回復をサポートするため、併用することで相乗効果が期待できる可能性があると説明しています。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDJ1a2dZNk9zcjdvUjFsV3JfLXdCcWR5aEVQVllWSm5qOUxLanRmWXY0SFZXSTF0YUdIV0s1QjdyeExLSGFlQzJObWo1M21tTXBMNDlDa2FWUVFDTUxfU0xGZThKX04wcUJoX0VCWlVOWENAzXhoUHFDRm1uZW94T1dDT2tmMllhM3pNag?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "この記事は、学生アスリートが直面するメンタルヘルスの課題に対処するための保護者とコーチ向けの具体的なヒントを提供しています。学業、競技プレッシャー、ソーシャルメディアの影響など、多岐にわたるストレス要因を認識し、適切なサポートとコミュニケーションの重要性を強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoNndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "この記事は、学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者とコーチが彼らをサポートするための具体的なヒントを提供しています。学業、競技、ソーシャルライフのバランスの難しさから生じるストレスや不安に対処し、早期にサインを認識することの重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "論説：アスリートの回復の最適化：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
-      "summary": "この論説は、アスリートの回復において睡眠と適切な回復戦略が果たす重要な役割を強調しています。質の高い睡眠と効果的な回復プロトコルが、疲労の軽減、怪我のリスク減少、そして最終的な競技パフォーマンス向上にいかに不可欠であるかを論じています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVZ5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
+      "title": "MCCHがMSU男子バスケットボールチーム向けに睡眠とパフォーマンスに関するプレゼンテーションを開催",
+      "summary": "Murray-Calloway County Hospital (MCCH) が、Murray State University (MSU) の男子バスケットボールチームを対象に、睡眠がアスリートのパフォーマンスと回復に与える影響についてのプレゼンテーションを実施しました。十分な睡眠の重要性、睡眠習慣の最適化、そしてメンタルパフォーマンス向上への関連性が強調されました。",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRjJNMjkzeXZWQ0JlaFR5MGlGQndnM3hqWXpBUmJaYTg0UkJBN1JyMHQ1N01CUjdJdUpYYS1Gb3hfeG9pSTJOa3RxNHhnb28tc3RESmZxSXdzSzhReUhtcE5VaWlJQlBIMlJYX3F1dzJYbzdLMFZ1OHJNUkN6N2RqLUx4T2lNSE9JTGFRX0hDQVpydTFoYi1CRWducmFtNjFQOTdOMjlsOTdmc0Y1RXVTXy1kbUZyVWllejh0Vnk2WF9KbUQyTjRzZTFrQmhXd050WG1Kenp5Q0RKYUQtMWRDRUVQN3ZuUTByVHFaTW1LSHV3RVMzQkd5dw?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "熊本 合志 公務執行妨害疑いの容疑者に警察官が発砲",
-      "summary": "熊本県合志市で、公務執行妨害の疑いのある容疑者に対し、警察官が拳銃を発砲する事案が発生しました。警察によると、容疑者は刃物のようなものを持って向かってきたため、警官が発砲に至ったとのことです。現在、容疑者の身柄は確保され、詳しい状況が調査されています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QQ3NYSGxGWkJKMjNtSk9aODFVbzhZMHFVY09qWkxkZ0FJVmgxWWtPUWhieU8weklZNnNyN2pKeDVIM2dKZ1U1dVRITmNZS3ZBR3gzWmJBV1hWdGhHMHlR?oc=5"
+      "category": "経済",
+      "title": "原油先物急騰、北海ブレント100ドル台 紅海のタンカー攻撃受け供給懸念",
+      "summary": "紅海でのタンカー攻撃を受け、原油先物価格が急騰し、北海ブレント原油は一時1バレルあたり100ドル台を突破しました。\n中東情勢の緊迫化が原油供給への懸念を高め、世界の市場に大きな影響を与えています。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iSkdTdVZFVHNYUU5EeUtWTkw4M2FBSGFZT2VKOEtuWkRWU21MOGZ0S1VMclRqdVlSazJ1Qno1MUlhRnBHbG1xSmZ6aUFSNGVGcGZkWVBKeWRUME42NkloVjNqZGxpSkhOYy1OTFh5a2lWaWMzaW5ILXdn?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "トランプ氏、サウジとの原子力協定承認と米報道 中東での核拡散懸念",
-      "summary": "米国のメディア報道によると、トランプ氏が大統領令によりサウジアラビアとの原子力協定を承認したと報じられました。これに対し、中東地域における核拡散への懸念が国際社会で高まっています。特にサウジがウラン濃縮を可能にする条項が含まれている点が問題視されています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVWXlxTE5NdGNPOElWUG9JRGd6Wl9STlBSTVl0di1LWWxYNkJTaU5OaGZiYzlNNjJHSzN2NGpRZDExeFlObmZSUVc0SFlIUy1VdzJhODVnN3J1VEE3dVlmdVRFOS1walVwVFJiU1JiZTF3Xw?oc=5"
+      "category": "社会",
+      "title": "ドクターヘリ運航、東京・大阪・徳島で通年見通せず…整備士不足で「救える命救えなくなる恐れ」",
+      "summary": "東京、大阪、徳島の一部地域でドクターヘリの通年運航が整備士不足により困難な状況に陥っていることが判明しました。\nこれにより、救える命が救えなくなる恐れがあるとして、医療現場から深刻な懸念が表明されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UQm0za0R0cGRDTGFuQnJUVkZHQk54ZDJ4M2RTaVh6UURieVF4azY2QXd1QlNrdTRYV0xqdm5DZVRDYkFNN3VhZDIzX2x1QmJEUk9kcWZ4UENvQzd2OUhLU0ZBVVQ?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "アエロフロート東京支店長、ロシアのスパイ報道直後に出国…ウクライナが日本製品の輸出管理徹底を要請",
-      "summary": "ロシアのスパイと報じられたアエロフロート東京支店長が、報道直後に出国したことが明らかになりました。これを受け、ウクライナ側は日本政府に対し、ロシアへの日本製品の輸出管理を一層徹底するよう強く要請しています。国際情勢の緊張が高まる中、日本の対応が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMa2ZVbVlfanhJRlNNbHMxUHFuWWpCSDZEeXp5YTZ0OWc2YzhNVE8wUW9oZUhmRHFiMTduQjBzaUpzdEx6OC1BcW9kWC03MG5sTVQ1aXltQnljckM5MnpNaXd4NzlvQQ?oc=5"
+      "category": "社会",
+      "title": "岡本公三容疑者がレバノンで死亡 ロッド空港乱射事件の実行犯",
+      "summary": "1972年のロッド空港乱射事件の実行犯の一人である岡本公三容疑者が、レバノンで死亡したと朝日新聞が報じました。\n長年にわたり国際社会でその動向が注目されていましたが、彼の死去により一つの時代が幕を閉じました。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yaHlBSDdEYXpWRFFrQUJUY2d2MGViVTJzSkRjVXdWbEo1UUlhNGQycmRwclBTcTdiNTBMbTdBa2VRMXQwdnJlRWlQZ1JXZncwd09KZWtlaEtaejYxMjd0cU1rd084akk?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "【政界地獄耳】突出した現職大臣の発言 核保有に一番積極的な閣僚と言える - 政界地獄耳 - 社会コラム",
-      "summary": "ある現職大臣が核保有について突出して積極的な発言をしていると報じられました。これは日本が非核三原則を掲げている中で異例の姿勢であり、政界内外で波紋を呼んでいます。発言の背景や意図について、様々な憶測が飛び交っています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3lxMDBvYkI2MnFjUVdZT1dzb2t0cGJMaFc4S3dlM3Z6R08wVEZPbjhaQ3Y1cC1mc3ZoVmU4YWJEcWVicEg4N3B2S1UtR3FzeWtqTWFRVzVtQ3VtSDVCWFdBdDVISUFjNXBmc1ZNemNpSlVKUFBkaXJoLVFjN2prSDFpMFo1UU0?oc=5"
+      "title": "高市首相と福岡県議長が懇談 金銭授受疑惑は言及せず",
+      "summary": "高市首相が福岡県議長と懇談を行いましたが、首相周辺で浮上している金銭授受疑惑については、懇談中に言及されなかったと時事通信が報じています。\n双方、地元政治の課題や協力体制について意見交換を行ったと伝えられています。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5dHdiYmVkUHN2VFp2UVplTmZLZEhTUEpGM2VMMERwVjgydFZYcExmRlpqaVBQU3k4R2pHNkUzS3pqNTAxYmN5dno1cnFjamJUZ2xOWWZ0M0R3Rmp6Q2pPRVE3QQ?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "イラン軍「核施設を攻撃すれば、戦争拡大とみなす」…ピックアックス山周辺の攻撃主張するトランプ氏をけん制",
-      "summary": "イラン軍は、もし核施設が攻撃されれば、それは戦争拡大とみなすと警告しました。これは、トランプ氏がピックアックス山周辺への攻撃を主張していることに対するけん制とみられます。中東情勢は緊迫の度を増しており、今後の展開が注視されています。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIQnJ1N0VnbmNsbzN6U0xUSV9QakU2clMyUTFTeTlIcllvekszUHZCVGlZWk1FOVlyNHZiNDE4SGJ4S0liSW0wUEVoS2RXMkpkTC1sdXFpb0xWTjlna3BGUWR3?oc=5"
+      "category": "政治",
+      "title": "副首都法案、自立国対委員長会談で24日の採決合意せず 野党は回答次第で判断",
+      "summary": "副首都法案を巡る与野党の国対委員長会談で、本日24日の採決について合意に至らなかったと産経ニュースが報じました。\n野党側は政府・与党の回答内容次第で、今後の対応を判断するとしており、法案の行方は依然不透明です。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wREZpVXFDTDZwSjNpZ3F6S1NPY0tsUEJndlQzbTlpdnBTMzJTVGxXV1lIUWRqaWdfZlVzaTVyT0lxenlkV01qcEVmZXBYSkdfQnVOV29lcm9iTmp2LURxZUhhV2ZLU2pieGgxVUhUNmZraEk3YUE?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "サウジアラビアと米国がウラン濃縮協定を締結したと報じられる",
-      "summary": "報道によると、サウジアラビアと米国が、サウジが国内でウランを濃縮することを可能にする原子力協定を締結した模様です。この動きは、中東地域における核拡散の懸念を再燃させており、国際社会の注目を集めています。協定の詳細はまだ不明ですが、地域安全保障に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUZCWjlBNzU2czZpTUNsWFBVQzFLaEl6eWUyTTZmQ05tcXRhMk5TZXl1eDJUY25oUUw1MUlpME9EZXEwRU41a1lUMjFFRW9HYnphYU9SSUpmaXVfdkFsYUk1VE44RWlSS01MM29iZ2F6bVllQjh3b0ltRTNyMlVySnJMVlZBSzc3Ynp5ejc4aG1wSkdfRnBNYzB4cmtIVGRyS19iN3VMVVRsNjVMaVE?oc=5"
+      "category": "Economy",
+      "title": "トランプ氏、グローバル関税期限切れに伴い60の貿易相手国に「広範囲な」新関税を課す方針",
+      "summary": "ドナルド・トランプ氏は、グローバル貿易協定に基づく関税の期限切れを機に、世界60カ国に対し新たな広範囲な関税を課す計画を明らかにしました。\nこの動きは、国際貿易に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oQTJac1RnQTRjX25YNTctQzNCTkpzZ05DVWJnOEE4QkJ2QWtvX3lHd3dJMUF4N0hPeVJJSUswVjBBd0VOV1B3NlN3Umtsc2RfZkdDME9KMGlHZnFQMHBvSTFxbnhsWjlBeGluRHdsdjdrTG_SAXhBVV95cUxNUjZPWkU4cFI5V1pTbFMzUmlNb056V2JIZl83ekJCOTBsY2VtbG5yYXM1U3NkVGFOUmRpa3NJUE1OSmlYOWx4alh2RjFjN1RyUTVRQWRaWnQ4bWs4U2ZDby1BdU1LVzNLdkpfSGdRd2xZcFA4b1NWa2c?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "ライブ更新：トランプ氏、イランがホルムズ海峡で船舶を攻撃するたびにイランの橋または発電所を攻撃すると公約",
-      "summary": "トランプ氏は、イランがホルムズ海峡で米国の船舶を攻撃するたびに、イラン国内の橋や発電所を標的に報復攻撃を行うと表明しました。この発言は、米国とイラン間の緊張が極度に高まっていることを示しており、中東地域の情勢を一層不安定化させる恐れがあります。国際社会は事態の推移を注視しています。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRMWdUYldNM3B6UDFrSXpEd21GbzRtVklxWEFtVi1vclBYVHlNN3NmVVVwcnZPUlY5aHVBN19vbTE4b0VJUXJWXzU4TTBJdVc1UGVSR3BBWWRDeVZIdTYydE1JU1dLcHVIYTZSZ0NsQ29Hdw?oc=5"
+      "category": "Politics",
+      "title": "トランプ氏、サウジアラビアの核合意はアブラハム合意への参加次第と発言",
+      "summary": "ドナルド・トランプ氏は、サウジアラビアとの核合意締結は、同国がアブラハム合意に参加することを条件とすると述べたと報じられました。\nこれは中東地域の地政学的なバランスに大きな影響を与える可能性のある発言です。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXBaMGVfMTRydGlwXzhxMFA2akw5M1lpaVNjcG5XVHFjU1dDNy0yc1dwNnRvTVBLUTQyQnhPSl9kUkpZT213S3RLQWlxV2pySkVXSmJsRm1Ob0Z4dDFyMDBBQkRmeTVjZUpfYkxwaEhETDQyOTRhMmczZG85QktCOUQ0Tk1kWjNILU9teE41Y1F5bDVwSlUyTE8zTmRnY3FSb0ZwR0NodUxUR0pxdXVDWkV30gG3AUFVX3lxTE5EM2VqSF9oM3NYdkVUdXFFQjJ1Mi1sYTBCNTBWUzFBMnlLWlJGZXlZSjhYa2dsakJ3SlFPNTItbndzVm5yOGhuNkR5N1lsU2o0Rl91dmVtZmFQOGtWZDA1dURyWmZVMjc1SEVlekxBdUhkekRGN2kyajRES2VfTjRVOXFyOVpVX0p0SEVLVjE0ZGlIaFVFZmF4dWYwbEVNTnphTVIxLXA0bHR3SHZGMEd0S3BkMXlxMA?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "ライブ更新：熱帯暴風雨バーサがルイジアナ州に上陸、バージニア州とカロライナ州で洪水が発生",
-      "summary": "熱帯暴風雨バーサがルイジアナ州に上陸し、その影響でバージニア州とカロライナ州では広範囲で洪水が発生しています。沿岸地域では強風と大雨が続き、住民には避難勧告が出されています。救助活動が進行中であり、各地で甚大な被害が報告されています。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN0k0NUR6aF9GUlZxeGZhNGNLVlVwdmJZcEhRdDdlRDVmSEFYYlJjaktINXlsMnBuYjNscFBmaGdneFEwQ2VweEprb1RFcFp2NzBoNnU2VEpGa3VMbjhjYU8zWGljTDROMndvOWoxQzZSY2pLcVlnOWJCY0ZnblFQbXlSdEN5UFR1cWpETWpfWjNNOGc5QkFVZkZlSEVPQnA0ZXBwZWNDb1BRMWdQTnRHcHVnclhaajZMWWo1WDQ4MTBZMzhqOVVfTF9jbG9qSHdT?oc=5"
+      "category": "Politics",
+      "title": "米国、ニューヨーク・タイムズ記者に対する召喚状を取り下げへ",
+      "summary": "米国政府がニューヨーク・タイムズ紙の記者たちに発行していた召喚状を取り下げる方針を固めたと報じられました。\nこの決定は、報道の自由と政府の透明性に関する議論の中で注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRFk2NHNDQ2ZSN1FseWJMRDMwYVRTYkdTZFAwdDhlcWRHM1VCSVZITDh1VHFLaHduYkxjMDBDZ3VXVjZibzVpeVB1YTFsWUthWU5kcURLdzFLN0VFQzhxWVF4TExJOGdzdW9DQ3JIWjFxeVF3ZzBqUm1hOGJhNmFPVUV1ejhvTmMtYmc1dmhRQW5Mdw?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "最新の戦闘死者数から、リスクがイラン国境から遠く離れた部隊に移ったことが示される",
-      "summary": "最新の戦闘による死者数は、中東地域における紛争のリスクがイラン国境付近だけでなく、より広範囲の地域に展開している部隊にも及んでいることを示唆しています。これは、代理勢力や非対称戦争の増加により、紛争の地理的範囲が拡大している可能性を指摘しています。米軍関係者の死者が遠隔地で報告されています。",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHYyRzZlSENBT2FnN0cxdHhtV0ZHREdqcVZDQ3Y0RGFScTVncFVEQW83amFpbXZJUVh3YzE2UldnZnVadlNDa05yTnlqOFJtMnlrUWUzM1ZZcVV6R212YjlCZEEwZ3ZveTZKQWR5ek1OeVJROWdmd1MteU81djF6T2h1dWpKSFhHT1NqWkVwT0ZEOWV6TjJuVkYteTNhNW5ubkRtMTZyUG5IMUIyV2dIU1Z5RGZNeU5ZTVR2aktKNzBHZzZRNGkxV0ZDY05xUVJZMVhwY2NKWQ?oc=5"
+      "category": "Politics",
+      "title": "ミネソタ州議員とその夫殺害で男に終身刑2回",
+      "summary": "ミネソタ州の議員とその夫を殺害した男に対し、2度の終身刑が言い渡されました。\nこの事件は地元社会に大きな衝撃を与え、政治家の安全保障に関する議論を巻き起こしました。",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN1ZwRV9nZlJLb0NkTm9YdHJmWndBdDBZbGZGS0ZnT3M0bVg1bklXcWtHUEtwc1ZkaUFLMm1CcXlQWWpXOWVlWk5mcE1mMTUtNUtSclhWZ2FjYkplZTdKdjRNTzFsY0ZxRkMwUmZXTXg2RzhaQjZ0TzZGN05uUFZOQklIYnJkX2ZrTmhPRzhQRFhZWmlRTzBLOGtjaHk0V3ZrMWZFYk4tb2p2MlJsYnFuOFNXMTZwQmc0Znc?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Health",
-      "title": "ノーラン・ウェルズの独立検死結果、「死因・死様不明」と発表",
-      "summary": "ノーラン・ウェルズ氏の独立した検死の結果が発表され、その死因と死様が「不明」とされました。これは、当初の公式発表とは異なる可能性を示唆しており、さらなる調査の必要性が浮上しています。事件の真相解明に向けて、関係者の間で様々な憶測が飛び交っています。",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblVZYm9ia1dVbDFJRVR4aV95bGFQY014M05DNHpCczg0XzE0S2xUWkl5MVhMaVNUYjdEX1JiMUJZaHB2VWo5dmQ2bU54eFRsXy00TEowb2JPN1gydXBLNUhsaFMyUTBHZmNONW1tSVBvZlFidEprUGZhMkw1MF9MbE5LMndPM1BDY0E3WU40TlBGOVZfTXU2WDJrSjZ5S1BYTGxIdUpXSkcxbUpoN2Foc3FacjBTRlFQdWc?oc=5"
+      "category": "Conflict",
+      "title": "米国、12夜連続の空爆によりイランの軍事能力を「さらに低下させる」と表明",
+      "summary": "米国がイランに対し12夜連続で空爆を実施し、これによりイランの軍事能力を「さらに低下させる」と表明したと報じられました。\n中東地域の緊張が極度に高まっており、国際社会の懸念が深まっています。",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkxqUm1DaHVzWGcyVXI0elhTNWRJNksxN0UwZlZ6Y1Y2bFpKTW1lNWgxYUs3bjc5M20zbU4yNDF4c0YxdGxucU1QUVAzRWNkNWhFdk4wVGdmZkZ3Rlp4eVNKRFl6OVVwZV9KVUlLdEFMRHBvQkt2ZkJPVFpzaGJoNg?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツにおけるACL損傷の増加とその原因",
-      "summary": "最近の研究により、女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加していることが指摘されています。これは、身体構造、ホルモンバランス、トレーニング方法の違いなどが複合的に影響していると考えられています。特に、着地動作や方向転換時の力学的負荷が男子選手と異なる点が注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "思春期のバレーボール選手における神経筋トレーニングの二重の恩恵：膝の怪我予防と運動能力は共通のメカニズム的基盤を共有する：構造化されたナラティブレビュー",
+      "summary": "このレビューは、思春期のバレーボール選手に対する神経筋トレーニングが、膝の怪我予防と運動能力向上に二重の恩恵をもたらすことを示唆しています。両者は共通の生物学的・メカニズム的基盤を持っており、統合的なアプローチが有効です。特にACL損傷予防に焦点を当てています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxMaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学におけるパイオニアとパラダイム：テーマ別歴史ミニレビュー",
-      "summary": "本レビューは、スプリント科学の歴史的発展における主要な研究者と理論的枠組みを体系的に概観しています。初期の運動生理学から現代のバイオメカニクス、神経科学的アプローチに至るまで、スプリントパフォーマンスの理解がどのように深化してきたかを探ります。特に、スプリント技術、トレーニング方法論、および測定技術の進化に焦点を当てています。",
+      "title": "スプリント科学における開拓者とパラダイム：テーマ別歴史ミニレビュー",
+      "summary": "この歴史的レビューは、スプリント科学の発展に貢献した主要な研究者と理論的枠組みをたどります。スプリントパフォーマンスを理解するための生物力学的原則やトレーニング方法論の進化について考察しています。過去の研究が現代のスプリントトレーニングにどのように影響を与えているかを示します。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ],
@@ -349,160 +349,160 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "思春期のバレーボール選手における神経筋トレーニングの二重の恩恵：膝の怪我予防と運動能力は共通のメカニズム的基盤を共有する：構造化されたナラティブレビュー",
-      "summary": "このレビューは、思春期のバレーボール選手に対する神経筋トレーニングが、膝の怪我予防と運動能力向上に二重の恩恵をもたらすことを示唆しています。両者は共通の生物学的・メカニズム的基盤を持っており、統合的なアプローチが有効です。特にACL損傷予防に焦点を当てています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxMaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "title": "思春期バレーボール選手における神経筋トレーニングの二重の恩恵：膝関節損傷予防と競技パフォーマンスは共通のメカニズム基盤を共有する：構造化ナラティブレビュー",
+      "summary": "このレビューは、思春期のバレーボール選手に対する神経筋トレーニング（NMT）が、膝関節の怪我予防と競技パフォーマンス向上という二重の利益をもたらすことを示唆しています。NMTがバランス、アジリティ、プライオメトリクスなどの要素を通じて、運動能力と同時に身体の安定性を高める共通のメカニズムに基づいていることが強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における開拓者とパラダイム：テーマ別歴史ミニレビュー",
-      "summary": "この歴史的レビューは、スプリント科学の発展に貢献した主要な研究者と理論的枠組みをたどります。スプリントパフォーマンスを理解するための生物力学的原則やトレーニング方法論の進化について考察しています。過去の研究が現代のスプリントトレーニングにどのように影響を与えているかを示します。",
+      "title": "スプリント科学における先駆者とパラダイム：テーマ別歴史的ミニレビュー",
+      "summary": "このミニレビューは、スプリント科学の歴史的発展をテーマ別に概観し、その分野を形成してきた主要な研究者と研究パラダイムに焦点を当てています。過去の画期的な発見が、現代のスプリントトレーニングやバイオメカニクスの理解にどのように貢献してきたかを分析しています。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "人工腱・靭帯市場規模、シェア、予測、2034年",
-      "summary": "この市場予測レポートは、2034年までの人工腱・靭帯市場の成長を分析しています。スポーツ外傷や変性疾患の増加、技術革新が市場拡大を牽引していることを示しています。将来の整形外科治療における人工代替品の重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjJVRV9heEhSaWR2VVU3WkY2S1U4ZzVmV0pfeFF5YnRmQ0ZjR1h5QUJhUzhMcWN0dWZtNVRKVUJsZjVxQm9rT3dKT3I4R2tXVVp0a3VYSFVza2pPTzRfSkpSd3l0SF9OUzU3QVNsVDF6eHRSd2hnQW93RURqVGxJY1hPbUF3cWZETXVBNVJjdXZfeXE1dXN2RDRjaFBBbnZNM0Ftb05n?oc=5"
+      "title": "人気急上昇中のペプチド：その実態と効果は？医師が注意を促す理由",
+      "summary": "近年、スポーツ界で人気の高まるペプチドについて、その効果と安全性に関する包括的な情報を提供しています。医師たちは、未承認の製品や不適切な使用による健康リスクについて懸念を表明し、使用を検討する際には慎重な姿勢を求めています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
       "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入",
-      "summary": "この記事は、スポーツリハビリテーションプログラムにおいて非線形ピリオダイゼーションを適用する方法について考察しています。非線形アプローチは、リハビリの進行に合わせて負荷や種類を柔軟に変化させることで、アスリートの回復を促進し、パフォーマンスへの復帰をより効果的にサポートすることを目指します。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
+      "summary": "この研究は、スポーツリハビリテーションプログラムに非線形ピリオダイゼーション（NUP）を導入することの有効性を探っています。NUPは、リハビリテーションの進行に応じて負荷を柔軟に調整するアプローチであり、患者の回復度合いや反応に合わせてトレーニングを最適化する可能性を示しています。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理のための西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングを含む）の効果を評価しています。多くの研究を分析した結果、特定の疼痛症状に対して鍼治療が有効な補完療法となる可能性が示されました。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
+      "title": "女性サッカー選手における再発性後方肩関節脱臼による疼痛管理への補助的鍼灸治療：症例報告",
+      "summary": "この症例報告は、再発性後方肩関節脱臼による慢性的な痛みに苦しむ女性サッカー選手に対し、通常の治療に加えて鍼灸治療を補助的に行った結果を報告しています。鍼治療と灸治療を併用することで、疼痛の軽減と機能改善が見られ、競技復帰に貢献した可能性が示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートのためのトップ9スポーツサプリメント：クレアチン、カフェイン、ジェル、L-カルニチンの真実",
-      "summary": "この記事は、アスリートに人気のある9種類のスポーツサプリメントについて、その効果と科学的根拠を解説しています。クレアチンやカフェイン、エネルギー補給ジェル、L-カルニチンなどが、どのようなメカニズムで運動パフォーマンスや回復に影響を与えるかを掘り下げています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
+      "title": "クレアチンとプロテインパウダーを一緒に摂取すると体に何が起こるか",
+      "summary": "この記事は、クレアチンとプロテインパウダーを同時に摂取した場合の身体への影響について解説しています。両者はそれぞれ異なるメカニズムで筋肉の成長と回復をサポートするため、併用することで相乗効果が期待できる可能性があると説明しています。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDJ1a2dZNk9zcjdvUjFsV3JfLXdCcWR5aEVQVllWSm5qOUxLanRmWXY0SFZXSTF0YUdIV0s1QjdyeExLSGFlQzJObWo1M21tTXBMNDlDa2FWUVFDTUxfU0xGZThKX04wcUJoX0VCWlVOWENAzXhoUHFDRm1uZW94T1dDT2tmMllhM3pNag?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "この記事は、学生アスリートが直面するメンタルヘルスの課題に対処するための保護者とコーチ向けの具体的なヒントを提供しています。学業、競技プレッシャー、ソーシャルメディアの影響など、多岐にわたるストレス要因を認識し、適切なサポートとコミュニケーションの重要性を強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoNndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "summary": "この記事は、学生アスリートが直面するメンタルヘルスの課題に焦点を当て、保護者とコーチが彼らをサポートするための具体的なヒントを提供しています。学業、競技、ソーシャルライフのバランスの難しさから生じるストレスや不安に対処し、早期にサインを認識することの重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMndYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "論説：アスリートの回復の最適化：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
-      "summary": "この論説は、アスリートの回復において睡眠と適切な回復戦略が果たす重要な役割を強調しています。質の高い睡眠と効果的な回復プロトコルが、疲労の軽減、怪我のリスク減少、そして最終的な競技パフォーマンス向上にいかに不可欠であるかを論じています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVZ5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
+      "title": "MCCHがMSU男子バスケットボールチーム向けに睡眠とパフォーマンスに関するプレゼンテーションを開催",
+      "summary": "Murray-Calloway County Hospital (MCCH) が、Murray State University (MSU) の男子バスケットボールチームを対象に、睡眠がアスリートのパフォーマンスと回復に与える影響についてのプレゼンテーションを実施しました。十分な睡眠の重要性、睡眠習慣の最適化、そしてメンタルパフォーマンス向上への関連性が強調されました。",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRjJNMjkzeXZWQ0JlaFR5MGlGQndnM3hqWXpBUmJaYTg0UkJBN1JyMHQ1N01CUjdJdUpYYS1Gb3hfeG9pSTJOa3RxNHhnb28tc3RESmZxSXdzSzhReUhtcE5VaWlJQlBIMlJYX3F1dzJYbzdLMFZ1OHJNUkN6N2RqLUx4T2lNSE9JTGFRX0hDQVpydTFoYi1CRWducmFtNjFQOTdOMjlsOTdmc0Y1RXVTXy1kbUZyVWllejh0Vnk2WF9KbUQyTjRzZTFrQmhXd050WG1Kenp5Q0RKYUQtMWRDRUVQN3ZuUTByVHFaTW1LSHV3RVMzQkd5dw?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "熊本 合志 公務執行妨害疑いの容疑者に警察官が発砲",
-      "summary": "熊本県合志市で、公務執行妨害の疑いのある容疑者に対し、警察官が拳銃を発砲する事案が発生しました。警察によると、容疑者は刃物のようなものを持って向かってきたため、警官が発砲に至ったとのことです。現在、容疑者の身柄は確保され、詳しい状況が調査されています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QQ3NYSGxGWkJKMjNtSk9aODFVbzhZMHFVY09qWkxkZ0FJVmgxWWtPUWhieU8weklZNnNyN2pKeDVIM2dKZ1U1dVRITmNZS3ZBR3gzWmJBV1hWdGhHMHlR?oc=5"
+      "category": "経済",
+      "title": "原油先物急騰、北海ブレント100ドル台 紅海のタンカー攻撃受け供給懸念",
+      "summary": "紅海でのタンカー攻撃を受け、原油先物価格が急騰し、北海ブレント原油は一時1バレルあたり100ドル台を突破しました。\n中東情勢の緊迫化が原油供給への懸念を高め、世界の市場に大きな影響を与えています。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iSkdTdVZFVHNYUU5EeUtWTkw4M2FBSGFZT2VKOEtuWkRWU21MOGZ0S1VMclRqdVlSazJ1Qno1MUlhRnBHbG1xSmZ6aUFSNGVGcGZkWVBKeWRUME42NkloVjNqZGxpSkhOYy1OTFh5a2lWaWMzaW5ILXdn?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "トランプ氏、サウジとの原子力協定承認と米報道 中東での核拡散懸念",
-      "summary": "米国のメディア報道によると、トランプ氏が大統領令によりサウジアラビアとの原子力協定を承認したと報じられました。これに対し、中東地域における核拡散への懸念が国際社会で高まっています。特にサウジがウラン濃縮を可能にする条項が含まれている点が問題視されています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVWXlxTE5NdGNPOElWUG9JRGd6Wl9STlBSTVl0di1LWWxYNkJTaU5OaGZiYzlNNjJHSzN2NGpRZDExeFlObmZSUVc0SFlIUy1VdzJhODVnN3J1VEE3dVlmdVRFOS1walVwVFJiU1JiZTF3Xw?oc=5"
+      "category": "社会",
+      "title": "ドクターヘリ運航、東京・大阪・徳島で通年見通せず…整備士不足で「救える命救えなくなる恐れ」",
+      "summary": "東京、大阪、徳島の一部地域でドクターヘリの通年運航が整備士不足により困難な状況に陥っていることが判明しました。\nこれにより、救える命が救えなくなる恐れがあるとして、医療現場から深刻な懸念が表明されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UQm0za0R0cGRDTGFuQnJUVkZHQk54ZDJ4M2RTaVh6UURieVF4azY2QXd1QlNrdTRYV0xqdm5DZVRDYkFNN3VhZDIzX2x1QmJEUk9kcWZ4UENvQzd2OUhLU0ZBVVQ?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "アエロフロート東京支店長、ロシアのスパイ報道直後に出国…ウクライナが日本製品の輸出管理徹底を要請",
-      "summary": "ロシアのスパイと報じられたアエロフロート東京支店長が、報道直後に出国したことが明らかになりました。これを受け、ウクライナ側は日本政府に対し、ロシアへの日本製品の輸出管理を一層徹底するよう強く要請しています。国際情勢の緊張が高まる中、日本の対応が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMa2ZVbVlfanhJRlNNbHMxUHFuWWpCSDZEeXp5YTZ0OWc2YzhNVE8wUW9oZUhmRHFiMTduQjBzaUpzdEx6OC1BcW9kWC03MG5sTVQ1aXltQnljckM5MnpNaXd4NzlvQQ?oc=5"
+      "category": "社会",
+      "title": "岡本公三容疑者がレバノンで死亡 ロッド空港乱射事件の実行犯",
+      "summary": "1972年のロッド空港乱射事件の実行犯の一人である岡本公三容疑者が、レバノンで死亡したと朝日新聞が報じました。\n長年にわたり国際社会でその動向が注目されていましたが、彼の死去により一つの時代が幕を閉じました。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yaHlBSDdEYXpWRFFrQUJUY2d2MGViVTJzSkRjVXdWbEo1UUlhNGQycmRwclBTcTdiNTBMbTdBa2VRMXQwdnJlRWlQZ1JXZncwd09KZWtlaEtaejYxMjd0cU1rd084akk?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "【政界地獄耳】突出した現職大臣の発言 核保有に一番積極的な閣僚と言える - 政界地獄耳 - 社会コラム",
-      "summary": "ある現職大臣が核保有について突出して積極的な発言をしていると報じられました。これは日本が非核三原則を掲げている中で異例の姿勢であり、政界内外で波紋を呼んでいます。発言の背景や意図について、様々な憶測が飛び交っています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3lxMDBvYkI2MnFjUVdZT1dzb2t0cGJMaFc4S3dlM3Z6R08wVEZPbjhaQ3Y1cC1mc3ZoVmU4YWJEcWVicEg4N3B2S1UtR3FzeWtqTWFRVzVtQ3VtSDVCWFdBdDVISUFjNXBmc1ZNemNpSlVKUFBkaXJoLVFjN2prSDFpMFo1UU0?oc=5"
+      "title": "高市首相と福岡県議長が懇談 金銭授受疑惑は言及せず",
+      "summary": "高市首相が福岡県議長と懇談を行いましたが、首相周辺で浮上している金銭授受疑惑については、懇談中に言及されなかったと時事通信が報じています。\n双方、地元政治の課題や協力体制について意見交換を行ったと伝えられています。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5dHdiYmVkUHN2VFp2UVplTmZLZEhTUEpGM2VMMERwVjgydFZYcExmRlpqaVBQU3k4R2pHNkUzS3pqNTAxYmN5dno1cnFjamJUZ2xOWWZ0M0R3Rmp6Q2pPRVE3QQ?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "イラン軍「核施設を攻撃すれば、戦争拡大とみなす」…ピックアックス山周辺の攻撃主張するトランプ氏をけん制",
-      "summary": "イラン軍は、もし核施設が攻撃されれば、それは戦争拡大とみなすと警告しました。これは、トランプ氏がピックアックス山周辺への攻撃を主張していることに対するけん制とみられます。中東情勢は緊迫の度を増しており、今後の展開が注視されています。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIQnJ1N0VnbmNsbzN6U0xUSV9QakU2clMyUTFTeTlIcllvekszUHZCVGlZWk1FOVlyNHZiNDE4SGJ4S0liSW0wUEVoS2RXMkpkTC1sdXFpb0xWTjlna3BGUWR3?oc=5"
+      "category": "政治",
+      "title": "副首都法案、自立国対委員長会談で24日の採決合意せず 野党は回答次第で判断",
+      "summary": "副首都法案を巡る与野党の国対委員長会談で、本日24日の採決について合意に至らなかったと産経ニュースが報じました。\n野党側は政府・与党の回答内容次第で、今後の対応を判断するとしており、法案の行方は依然不透明です。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wREZpVXFDTDZwSjNpZ3F6S1NPY0tsUEJndlQzbTlpdnBTMzJTVGxXV1lIUWRqaWdfZlVzaTVyT0lxenlkV01qcEVmZXBYSkdfQnVOV29lcm9iTmp2LURxZUhhV2ZLU2pieGgxVUhUNmZraEk3YUE?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "サウジアラビアと米国がウラン濃縮協定を締結したと報じられる",
-      "summary": "報道によると、サウジアラビアと米国が、サウジが国内でウランを濃縮することを可能にする原子力協定を締結した模様です。この動きは、中東地域における核拡散の懸念を再燃させており、国際社会の注目を集めています。協定の詳細はまだ不明ですが、地域安全保障に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUZCWjlBNzU2czZpTUNsWFBVQzFLaEl6eWUyTTZmQ05tcXRhMk5TZXl1eDJUY25oUUw1MUlpME9EZXEwRU41a1lUMjFFRW9HYnphYU9SSUpmaXVfdkFsYUk1VE44RWlSS01MM29iZ2F6bVllQjh3b0ltRTNyMlVySnJMVlZBSzc3Ynp5ejc4aG1wSkdfRnBNYzB4cmtIVGRyS19iN3VMVVRsNjVMaVE?oc=5"
+      "category": "Economy",
+      "title": "トランプ氏、グローバル関税期限切れに伴い60の貿易相手国に「広範囲な」新関税を課す方針",
+      "summary": "ドナルド・トランプ氏は、グローバル貿易協定に基づく関税の期限切れを機に、世界60カ国に対し新たな広範囲な関税を課す計画を明らかにしました。\nこの動きは、国際貿易に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oQTJac1RnQTRjX25YNTctQzNCTkpzZ05DVWJnOEE4QkJ2QWtvX3lHd3dJMUF4N0hPeVJJSUswVjBBd0VOV1B3NlN3Umtsc2RfZkdDME9KMGlHZnFQMHBvSTFxbnhsWjlBeGluRHdsdjdrTG_SAXhBVV95cUxNUjZPWkU4cFI5V1pTbFMzUmlNb056V2JIZl83ekJCOTBsY2VtbG5yYXM1U3NkVGFOUmRpa3NJUE1OSmlYOWx4alh2RjFjN1RyUTVRQWRaWnQ4bWs4U2ZDby1BdU1LVzNLdkpfSGdRd2xZcFA4b1NWa2c?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "ライブ更新：トランプ氏、イランがホルムズ海峡で船舶を攻撃するたびにイランの橋または発電所を攻撃すると公約",
-      "summary": "トランプ氏は、イランがホルムズ海峡で米国の船舶を攻撃するたびに、イラン国内の橋や発電所を標的に報復攻撃を行うと表明しました。この発言は、米国とイラン間の緊張が極度に高まっていることを示しており、中東地域の情勢を一層不安定化させる恐れがあります。国際社会は事態の推移を注視しています。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRMWdUYldNM3B6UDFrSXpEd21GbzRtVklxWEFtVi1vclBYVHlNN3NmVVVwcnZPUlY5aHVBN19vbTE4b0VJUXJWXzU4TTBJdVc1UGVSR3BBWWRDeVZIdTYydE1JU1dLcHVIYTZSZ0NsQ29Hdw?oc=5"
+      "category": "Politics",
+      "title": "トランプ氏、サウジアラビアの核合意はアブラハム合意への参加次第と発言",
+      "summary": "ドナルド・トランプ氏は、サウジアラビアとの核合意締結は、同国がアブラハム合意に参加することを条件とすると述べたと報じられました。\nこれは中東地域の地政学的なバランスに大きな影響を与える可能性のある発言です。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXBaMGVfMTRydGlwXzhxMFA2akw5M1lpaVNjcG5XVHFjU1dDNy0yc1dwNnRvTVBLUTQyQnhPSl9kUkpZT213S3RLQWlxV2pySkVXSmJsRm1Ob0Z4dDFyMDBBQkRmeTVjZUpfYkxwaEhETDQyOTRhMmczZG85QktCOUQ0Tk1kWjNILU9teE41Y1F5bDVwSlUyTE8zTmRnY3FSb0ZwR0NodUxUR0pxdXVDWkV30gG3AUFVX3lxTE5EM2VqSF9oM3NYdkVUdXFFQjJ1Mi1sYTBCNTBWUzFBMnlLWlJGZXlZSjhYa2dsakJ3SlFPNTItbndzVm5yOGhuNkR5N1lsU2o0Rl91dmVtZmFQOGtWZDA1dURyWmZVMjc1SEVlekxBdUhkekRGN2kyajRES2VfTjRVOXFyOVpVX0p0SEVLVjE0ZGlIaFVFZmF4dWYwbEVNTnphTVIxLXA0bHR3SHZGMEd0S3BkMXlxMA?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "ライブ更新：熱帯暴風雨バーサがルイジアナ州に上陸、バージニア州とカロライナ州で洪水が発生",
-      "summary": "熱帯暴風雨バーサがルイジアナ州に上陸し、その影響でバージニア州とカロライナ州では広範囲で洪水が発生しています。沿岸地域では強風と大雨が続き、住民には避難勧告が出されています。救助活動が進行中であり、各地で甚大な被害が報告されています。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN0k0NUR6aF9GUlZxeGZhNGNLVlVwdmJZcEhRdDdlRDVmSEFYYlJjaktINXlsMnBuYjNscFBmaGdneFEwQ2VweEprb1RFcFp2NzBoNnU2VEpGa3VMbjhjYU8zWGljTDROMndvOWoxQzZSY2pLcVlnOWJCY0ZnblFQbXlSdEN5UFR1cWpETWpfWjNNOGc5QkFVZkZlSEVPQnA0ZXBwZWNDb1BRMWdQTnRHcHVnclhaajZMWWo1WDQ4MTBZMzhqOVVfTF9jbG9qSHdT?oc=5"
+      "category": "Politics",
+      "title": "米国、ニューヨーク・タイムズ記者に対する召喚状を取り下げへ",
+      "summary": "米国政府がニューヨーク・タイムズ紙の記者たちに発行していた召喚状を取り下げる方針を固めたと報じられました。\nこの決定は、報道の自由と政府の透明性に関する議論の中で注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRFk2NHNDQ2ZSN1FseWJMRDMwYVRTYkdTZFAwdDhlcWRHM1VCSVZITDh1VHFLaHduYkxjMDBDZ3VXVjZibzVpeVB1YTFsWUthWU5kcURLdzFLN0VFQzhxWVF4TExJOGdzdW9DQ3JIWjFxeVF3ZzBqUm1hOGJhNmFPVUV1ejhvTmMtYmc1dmhRQW5Mdw?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "最新の戦闘死者数から、リスクがイラン国境から遠く離れた部隊に移ったことが示される",
-      "summary": "最新の戦闘による死者数は、中東地域における紛争のリスクがイラン国境付近だけでなく、より広範囲の地域に展開している部隊にも及んでいることを示唆しています。これは、代理勢力や非対称戦争の増加により、紛争の地理的範囲が拡大している可能性を指摘しています。米軍関係者の死者が遠隔地で報告されています。",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHYyRzZlSENBT2FnN0cxdHhtV0ZHREdqcVZDQ3Y0RGFScTVncFVEQW83amFpbXZJUVh3YzE2UldnZnVadlNDa05yTnlqOFJtMnlrUWUzM1ZZcVV6R212YjlCZEEwZ3ZveTZKQWR5ek1OeVJROWdmd1MteU81djF6T2h1dWpKSFhHT1NqWkVwT0ZEOWV6TjJuVkYteTNhNW5ubkRtMTZyUG5IMUIyV2dIU1Z5RGZNeU5ZTVR2aktKNzBHZzZRNGkxV0ZDY05xUVJZMVhwY2NKWQ?oc=5"
+      "category": "Politics",
+      "title": "ミネソタ州議員とその夫殺害で男に終身刑2回",
+      "summary": "ミネソタ州の議員とその夫を殺害した男に対し、2度の終身刑が言い渡されました。\nこの事件は地元社会に大きな衝撃を与え、政治家の安全保障に関する議論を巻き起こしました。",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN1ZwRV9nZlJLb0NkTm9YdHJmWndBdDBZbGZGS0ZnT3M0bVg1bklXcWtHUEtwc1ZkaUFLMm1CcXlQWWpXOWVlWk5mcE1mMTUtNUtSclhWZ2FjYkplZTdKdjRNTzFsY0ZxRkMwUmZXTXg2RzhaQjZ0TzZGN05uUFZOQklIYnJkX2ZrTmhPRzhQRFhZWmlRTzBLOGtjaHk0V3ZrMWZFYk4tb2p2MlJsYnFuOFNXMTZwQmc0Znc?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Health",
-      "title": "ノーラン・ウェルズの独立検死結果、「死因・死様不明」と発表",
-      "summary": "ノーラン・ウェルズ氏の独立した検死の結果が発表され、その死因と死様が「不明」とされました。これは、当初の公式発表とは異なる可能性を示唆しており、さらなる調査の必要性が浮上しています。事件の真相解明に向けて、関係者の間で様々な憶測が飛び交っています。",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblVZYm9ia1dVbDFJRVR4aV95bGFQY014M05DNHpCczg0XzE0S2xUWkl5MVhMaVNUYjdEX1JiMUJZaHB2VWo5dmQ2bU54eFRsXy00TEowb2JPN1gydXBLNUhsaFMyUTBHZmNONW1tSVBvZlFidEprUGZhMkw1MF9MbE5LMndPM1BDY0E3WU40TlBGOVZfTXU2WDJrSjZ5S1BYTGxIdUpXSkcxbUpoN2Foc3FacjBTRlFQdWc?oc=5"
+      "category": "Conflict",
+      "title": "米国、12夜連続の空爆によりイランの軍事能力を「さらに低下させる」と表明",
+      "summary": "米国がイランに対し12夜連続で空爆を実施し、これによりイランの軍事能力を「さらに低下させる」と表明したと報じられました。\n中東地域の緊張が極度に高まっており、国際社会の懸念が深まっています。",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkxqUm1DaHVzWGcyVXI0elhTNWRJNksxN0UwZlZ6Y1Y2bFpKTW1lNWgxYUs3bjc5M20zbU4yNDF4c0YxdGxucU1QUVAzRWNkNWhFdk4wVGdmZkZ3Rlp4eVNKRFl6OVVwZV9KVUlLdEFMRHBvQkt2ZkJPVFpzaGJoNg?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "女子スポーツにおけるACL損傷の増加とその原因",
-      "summary": "最近の研究により、女子スポーツ選手における前十字靭帯（ACL）損傷の発生率が増加していることが指摘されています。これは、身体構造、ホルモンバランス、トレーニング方法の違いなどが複合的に影響していると考えられています。特に、着地動作や方向転換時の力学的負荷が男子選手と異なる点が注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVFjWXpZbGZKTGVQTGs2TnFnbzZpVnlGUnRPQjdjLVVmWW8xeXFLN1RJOTUydzR1TDA0ZDZDUmpsaURhekxFUi15WGRFcHlHQW9XVTJQSk9Pa19BcmJ2bjhTanZPblk0X2ExZFB0WmxuWHdNXzZZWkc0VHY4TUpJSEY5UlBEZ01TSzJyWkZZTmhCRXFHRzZyYXlJX1E?oc=5"
+      "title": "思春期のバレーボール選手における神経筋トレーニングの二重の恩恵：膝の怪我予防と運動能力は共通のメカニズム的基盤を共有する：構造化されたナラティブレビュー",
+      "summary": "このレビューは、思春期のバレーボール選手に対する神経筋トレーニングが、膝の怪我予防と運動能力向上に二重の恩恵をもたらすことを示唆しています。両者は共通の生物学的・メカニズム的基盤を持っており、統合的なアプローチが有効です。特にACL損傷予防に焦点を当てています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxMaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学におけるパイオニアとパラダイム：テーマ別歴史ミニレビュー",
-      "summary": "本レビューは、スプリント科学の歴史的発展における主要な研究者と理論的枠組みを体系的に概観しています。初期の運動生理学から現代のバイオメカニクス、神経科学的アプローチに至るまで、スプリントパフォーマンスの理解がどのように深化してきたかを探ります。特に、スプリント技術、トレーニング方法論、および測定技術の進化に焦点を当てています。",
+      "title": "スプリント科学における開拓者とパラダイム：テーマ別歴史ミニレビュー",
+      "summary": "この歴史的レビューは、スプリント科学の発展に貢献した主要な研究者と理論的枠組みをたどります。スプリントパフォーマンスを理解するための生物力学的原則やトレーニング方法論の進化について考察しています。過去の研究が現代のスプリントトレーニングにどのように影響を与えているかを示します。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ]
