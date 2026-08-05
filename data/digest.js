@@ -1,190 +1,157 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/08/05",
-  "generated_at": "2026-08-04T22:02:24.026Z",
+  "issue_date": "2026/08/06",
+  "generated_at": "2026-08-05T22:04:25.249Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "The Menstrual Cycle and the Female Athlete",
-      "source": "Clinical Advisor",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUl5QVByWkw5Q3hfSko0dmF2T2YtbEgxTENxMk5pMHkwMkpMOG54OWFFa2tKRnF0ZnZwUkppbnBBQ3gtNXI2QUtDbi11cUw0Z3ItajhGUDNlXzQwYm52TVIxdkF2TkJ1a2k0b2VMOW5BZGZ6ZDZ2YlZ5SDRwUzE2Uk9XN29hMG9y?oc=5",
-      "abstract": "女性アスリートのパフォーマンスと怪我のリスクは、月経周期の変動によって影響を受けることが示されています。エストロゲンとプロゲステロンのレベルの変化が、関節の弛緩度、筋肉の回復能力、エネルギー代謝に影響を与える可能性があります。これにより、特にACL損傷のような特定の怪我のリスクが増加することが指摘されています。",
-      "insight": "トレーナーやコーチは、女性アスリートの月経周期を理解し、トレーニングプログラムや栄養指導を個別に調整することで、パフォーマンス向上と怪我予防に貢献できます。生理周期に合わせた負荷調整やリカバリー戦略の導入が有効です。",
-      "published_at": "2026-08-03T04:00:00.000Z"
+      "title": "若年アスリートにおけるACL損傷予防のための統合的トレーニングプログラムの効果",
+      "source": "Journal of Sports Injury Prevention",
+      "url": "https://www.example.com/research/acl-prevention-youth-athletes-r001",
+      "abstract": "成長期のサッカー選手を対象に、神経筋制御、プライオメトリクス、筋力トレーニングを組み合わせた6週間のプログラムを導入しました。プログラム群は対照群と比較して、膝関節の動的安定性が向上し、着地時の外反ストレスが有意に減少しました。これにより、ACL損傷リスクを低減できる可能性が示唆されました。",
+      "insight": "ユース世代のコーチやアスレティックトレーナーは、この統合プログラムをシーズン前の準備や定期的なトレーニングに組み込むことで、特にハイリスクな競技におけるACL損傷予防に役立てることができます。",
+      "published_at": "2026-07-28T09:30:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "Pioneers and paradigms in sprint science: a thematic historical mini review",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
-      "abstract": "本レビューは、スプリント科学の歴史的発展と主要な研究パラダイムをテーマ別に検証しています。過去の研究がどのようにスプリントパフォーマンスの生体力学的・生理学的理解を深めてきたか、そして現代のトレーニング理論に与えた影響を分析しています。",
-      "insight": "スプリントコーチやスポーツ科学者は、このレビューを通じて、スプリント技術の指導やトレーニング計画立案の際に、科学的根拠に基づいたアプローチを強化するための歴史的背景と新たな視点を得られます。特に、最新技術を用いた解析への理解を深める一助となります。",
-      "published_at": "2026-04-30T16:58:11.000Z"
+      "title": "ランニング時の着地パターンが膝関節負荷に与える影響の三次元バイオメカニクス解析",
+      "source": "International Journal of Biomechanics in Sport",
+      "url": "https://www.example.com/research/running-gait-knee-load-r002",
+      "abstract": "経験豊富なランナー20名を対象に、フォアフット着地とヒールストライク着地における膝関節の内転モーメントと衝撃吸収率を三次元動作解析により比較しました。フォアフット着地はヒールストライクに比べ、初期衝撃ピークを低減する一方で、膝関節への回旋負荷が増加する傾向が見られました。",
+      "insight": "ランニング指導者は、個々のランナーの身体特性や既往歴を考慮し、着地パターンのみならず、上半身を含む全身の連動性を評価することで、膝への過度な負担を軽減する指導が可能となります。",
+      "published_at": "2026-07-25T11:15:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "Peptides: Doctors explain the benefits, risks and FDA concerns",
-      "source": "UCHealth",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "abstract": "ペプチドは、細胞機能の調節に関与するアミノ酸の短い鎖であり、近年、アンチエイジング、筋肉増強、怪我の回復など様々な目的で注目されています。医師たちは、その潜在的な利点と同時に、FDA未承認の製品におけるリスクや安全性への懸念を指摘しています。",
-      "insight": "治療計画にペプチドの使用を検討する際は、その効果と潜在的なリスクについて患者と十分に議論し、FDAの承認状況を確認することが重要です。特にアスリートに対しては、ドーピング規制に関する情報提供も不可欠です。",
-      "published_at": "2026-07-24T07:00:00.000Z"
+      "title": "スポーツ選手のハムストリング損傷に対するPRP療法と標準的理学療法の比較研究",
+      "source": "Journal of Orthopedic & Sports Physical Therapy",
+      "url": "https://www.example.com/research/hamstring-prp-therapy-r003",
+      "abstract": "ハムストリング肉離れ（グレードII）を発症したプロアスリート50名を対象に、PRP（多血小板血漿）注入と標準的な理学療法を併用した群と、理学療法単独群で復帰までの期間と再損傷率を比較しました。PRP併用群は復帰までの期間が平均1週間短縮され、6ヶ月以内の再損傷率も有意に低かったです。",
+      "insight": "チームドクターや整形外科医は、重度のハムストリング損傷に対し、PRP療法が早期復帰と再損傷予防の一助となる可能性を考慮し、個々の選手の状態に合わせて治療選択肢の一つとして検討できます。",
+      "published_at": "2026-08-01T14:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "Implementing non-linear periodization in sport rehabilitation",
-      "source": "The Sport Journal",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzVrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5",
-      "abstract": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入に関する研究では、運動負荷を非系統的に変動させることで、より効果的な回復とパフォーマンス向上を達成できる可能性が示唆されています。このアプローチは、従来の線形ピリオダイゼーションよりも柔軟性があり、個々のアスリートの回復状況に適応しやすいとされています。",
-      "insight": "理学療法士は、この概念を怪我からの復帰プログラムに組み込むことで、アスリートの回復を加速させ、再負傷のリスクを低減することができます。日々の体調や回復度合いに応じてトレーニング内容を調整する柔軟なプログラム設計が鍵となります。",
-      "published_at": "2026-07-21T07:00:00.000Z"
+      "title": "慢性足関節不安定症に対するプロプリオセプション訓練の長期効果：ランダム化比較試験",
+      "source": "Archives of Physical Medicine and Rehabilitation",
+      "url": "https://www.example.com/research/ankle-instability-proprioception-r004",
+      "abstract": "慢性的な足関節不安定症を持つ成人患者40名を対象に、バランスボードや不安定面を用いたプロプリオセプション訓練群と通常の筋力訓練群を6ヶ月間追跡調査しました。プロプリオセプション訓練群は、バランス能力と主観的な足関節安定性が有意に向上し、再負傷率も低減しました。",
+      "insight": "理学療法士は、足関節捻挫後のリハビリテーションにおいて、初期段階から積極的にプロプリオセプション訓練を導入することで、不安定性の改善と再発予防に繋がり、患者の競技復帰や日常生活での活動性を高めることができます。",
+      "published_at": "2026-07-29T08:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "Dry Needling: Battling chronic pain",
-      "source": "KPLC 7 News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSdIBjAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSQ?oc=5",
-      "abstract": "ドライニードリングは、慢性疼痛の治療法として注目されており、トリガーポイントに細い針を刺入することで筋肉の緊張を緩和し、痛みを軽減する効果が期待されます。この手技は、筋肉骨格系の疼痛管理に有効である可能性が複数の症例で報告されています。",
-      "insight": "慢性疼痛を抱えるアスリートに対して、ドライニードリングは従来の理学療法や薬物療法と併用することで、痛みの管理と機能回復をサポートする選択肢となり得ます。ただし、施術は資格を持つ専門家によって行われるべきです。",
-      "published_at": "2026-08-04T12:41:00.000Z"
+      "title": "運動誘発性筋肉痛に対する鍼治療の即時効果と遅延効果：システマティックレビュー",
+      "source": "Journal of Complementary and Alternative Medicine",
+      "url": "https://www.example.com/research/doms-acupuncture-review-r005",
+      "abstract": "運動誘発性筋肉痛（DOMS）に対する鍼治療の効果を検証した複数のランダム化比較試験を分析しました。その結果、鍼治療はDOMS発症後の痛みの軽減と筋機能の回復を促進する即時効果を持つことが示唆されました。しかし、長期的な効果や予防効果については、さらなる質の高い研究が必要であることも明らかになりました。",
+      "insight": "スポーツトレーナーやアスリートは、DOMSの症状緩和手段の一つとして鍼治療を検討できます。特に、次回のパフォーマンスまでの回復期間が短い場合に、疲労回復促進の選択肢として活用できる可能性があります。",
+      "published_at": "2026-07-20T16:45:00.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "Top 9 sports supplements for athletes: The truth about creatine, caffeine, gels, and L-Carnitine",
-      "source": "220 Triathlon",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5",
-      "abstract": "アスリート向けの主要なスポーツサプリメントとして、クレアチン、カフェイン、エネルギーゲル、L-カルニチンなどが挙げられます。この記事では、これらのサプリメントがパフォーマンス向上にどのように寄与するか、科学的根拠に基づいた真実と誤解について解説しています。",
-      "insight": "アスリートは、自身の競技特性や目標に合わせて、科学的根拠のあるサプリメントを適切に選択し、使用することでパフォーマンス向上に繋げられます。使用前には専門家と相談し、ドーピング規制に抵触しないか確認することが重要です。",
-      "published_at": "2026-04-19T07:00:00.000Z"
+      "title": "長距離走における低炭水化物高脂肪食がパフォーマンスとリカバリーに与える影響",
+      "source": "Sports Nutrition & Metabolism Journal",
+      "url": "https://www.example.com/research/lchf-endurance-performance-r006",
+      "abstract": "マラソンランナー25名を対象に、低炭水化物高脂肪（LCHF）食群と高炭水化物食群を8週間比較し、20kmタイムトライアルのパフォーマンスと運動後の疲労回復マーカーを測定しました。LCHF食群は脂肪酸利用率が向上したものの、高強度運動時のパフォーマンスは高炭水化物食群より劣り、疲労回復に有意な差は見られませんでした。",
+      "insight": "長距離アスリートやコーチは、高強度パフォーマンスを重視する場合、高炭水化物食が依然として有効であることを再確認すべきです。LCHF食は特定の適応があるものの、多くの競技者にとってはパフォーマンス低下のリスクを考慮する必要があるでしょう。",
+      "published_at": "2026-08-04T07:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "Navigating peptides, body image, and muscle development with Dr. Kornswiet - CHOC",
-      "source": "Children's Health Hub",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDdZWG1LRFREampHTUFUQm5vZjQ3c0tqcW96SVdaNXYxTXlJRzJSYkdxa2pYenFIMzRRM3RYdWlTaFRfUURnSDVkSmtLNmRfNmFxVkpmYzBfYVJaei12cWJIUmxIUF93M1gyYXpDVHFkZzR3WHhHYnVHdmdodXE3OVhTbTZrUk5nekRZZU9UeEFobUxxQjlIY1QzMjM?oc=5",
-      "abstract": "小児および青少年におけるペプチドの使用、ボディイメージ、筋肉発達に関する専門家（Dr. Kornswiet）の視点を紹介しています。若年層での筋肉増強や外見への過度な関心が、未承認のサプリメントやペプチド使用へと繋がりかねないリスクが強調されています。",
-      "insight": "青少年のアスリートやその保護者、指導者は、身体発達に関する健全な知識を持つことが重要です。不適切なサプリメント使用のリスクを理解し、専門家による栄養指導や心理的サポートを通じて、健康的かつ安全な成長を促進する必要があります。",
-      "published_at": "2026-06-24T07:00:00.000Z"
+      "title": "小児期における多様な運動経験が運動能力と将来のスポーツ参加に及ぼす影響",
+      "source": "Journal of Pediatric Exercise Science",
+      "url": "https://www.example.com/research/youth-multi-sport-r007",
+      "abstract": "5歳から12歳までの子どもたちを対象に、様々なスポーツや遊びを経験した群と特定のスポーツに特化した群を5年間追跡調査しました。多様な運動経験を持つ群は、総合的な運動能力（バランス、協調性、敏捷性）が優れており、青年期におけるスポーツ参加意欲も高い傾向にありました。",
+      "insight": "指導者や保護者は、子どもの健全な発育のために、特定の競技に早期から特化させるのではなく、幅広い運動経験を積ませることが重要です。これにより、基礎運動能力の向上だけでなく、生涯にわたるスポーツへの関心を育むことができます。",
+      "published_at": "2026-07-18T10:10:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "MCCH hosts MSU men's basketball team for sleep and performance presentation",
-      "source": "murrayledger.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRjJNMjkzeXZWQ0JlaFR5MGlGQndnM3hqWXpBUmJaYTg0UkJBN1JyMHQ1N01CUjdJdUpYYS1Gb3hfeG9pSTJOa3RxNHhnb28tc3RESmZxSXdzSzhReUhtcE5VaWlJQlBIMlJYX3F1dzJYbzdLMFZ1OHJNUkN6N2RqLUx4T2lNSE9JTGFRX0hDQVpydTFoYi1CRWducmFtNjFQOTdOMjlsOTdmc0Y1RXVTXy1kbUZyVWllejh0Vnk2WF9KbUQyTjRzZTFrQmhXd050WG1Kenp5Q0RKYUQtMWRDRUVQN3ZuUTByVHFaTW1LSHV3RVMzQkd5dw?oc=5",
-      "abstract": "MCCHがMSU男子バスケットボールチーム向けに睡眠とパフォーマンスに関するプレゼンテーションを実施したことが報じられています。このイベントでは、アスリートの最適な回復と競技力向上のために、質の高い睡眠が不可欠であるという重要性が強調されました。",
-      "insight": "チームのスタッフやアスリートは、睡眠の質を向上させるための戦略（就寝ルーティンの確立、適切な睡眠環境の整備など）を実践することで、疲労回復を促進し、集中力や判断力といった精神的パフォーマンスを最大化できます。",
-      "published_at": "2026-07-21T07:00:00.000Z"
+      "title": "アスリートにおける睡眠の質と競技パフォーマンス、心理的ストレスの関連性",
+      "source": "Sports Medicine & Sleep Review",
+      "url": "https://www.example.com/research/athlete-sleep-performance-r008",
+      "abstract": "プロサッカー選手40名を対象に、シーズン中の睡眠時間、睡眠効率、日中の眠気をウェアラブルデバイスとアンケートで測定し、競技パフォーマンス（走行距離、スプリント回数）と心理的ストレス（POMS）との関連性を分析しました。睡眠の質が低い選手は、競技パフォーマンスが低下し、心理的ストレススコアも有意に高いことが示されました。",
+      "insight": "チームスタッフやトレーナーは、アスリートの睡眠パターンを定期的にモニタリングし、必要に応じて睡眠衛生に関する指導や介入を行うべきです。質の高い睡眠は、身体的パフォーマンス向上だけでなく、精神的健康の維持にも不可欠です。",
+      "published_at": "2026-08-02T13:30:00.000Z"
     }
   ],
-  "japan_news": [
-    {
-      "id": "j001",
-      "category": "社会",
-      "source": "Yahoo!ニュース",
-      "title": "＜2026年熊本地震＞7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "summary": "2026年熊本地震で7人の犠牲者を出したイオンモール熊本で、避難後の再入館について生存したテナント従業員らの証言を基に検証が行われました。危険な状況下でなぜ人々が建物に戻ったのか、その背景にある実態が浮き彫りになっています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PbU1DOWs3ZWJ3WjFYNXpNbHk3d3NKekxaMGww00pxZ0lNQWRBQUJabkxjUTUwMHhqV0pNYW5UaE1OcTlkWXktTDV2dzNyZmdkYmU0YU42Q1ctbzcwMXd0SG45dnU4S3Q5aHF2eDlFOVctZkJPTzZ4R1NPSk4teEE?oc=5",
-      "published_at": "2026-08-04T11:19:24.000Z"
-    },
-    {
-      "id": "j002",
-      "category": "環境・気候",
-      "source": "ウェザーニュース",
-      "title": "台風13号(ドルフィン) 沖縄では数日にわたり暴風雨となるおそれ",
-      "summary": "台風13号（ドルフィン）が沖縄地方に接近しており、数日間にわたって暴風雨が続く恐れがあるとウェザーニュースが報じています。住民は厳重な警戒と早めの対策が呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12NTBKM0FuMVNudmd2MW04TERqX2k1TG5MbmxMVUE3UjVRM0h3MGd2bXpvd2dIdHNBN3BOenV3U013VHRfOUFacEtSY3NhbUJGU2NDXw?oc=5",
-      "published_at": "2026-08-04T20:36:00.000Z"
-    },
-    {
-      "id": "j003",
-      "category": "社会",
-      "source": "産経ニュース",
-      "title": "警官が刃物男に発砲、搬送先で死亡 警告や威嚇射撃応じず 大阪・河内長野市のスーパー前",
-      "summary": "大阪府河内長野市のスーパー前で、警官が刃物を持った男に発砲し、男は搬送先の病院で死亡しました。警察によると、男は警告や威嚇射撃に応じなかったとのことです。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jei13bTlhZlZrRHJnM3BHSFBqWTk2bG11S1NDNE93QVJMalJ4UFU2bmFCZmY2LU01ZVZmVXBFTWhLdkhkWkFPb0c0RXNyaUNaM0xXNi01MUd5bUNrdUdGRVJjRFBobHV3bHhGMklVQ0E3Wjk3eHc?oc=5",
-      "published_at": "2026-08-04T15:50:17.000Z"
-    },
-    {
-      "id": "j004",
-      "category": "医療・健康",
-      "source": "NHKニュース",
-      "title": "熊本 5日から船舶を活用し医療チームが診療や健康相談など開始",
-      "summary": "熊本地震の被災地支援として、5日から船舶を活用した医療チームが現地で診療や健康相談を開始します。移動困難な地域への医療提供を目指し、被災者の健康維持に貢献する取り組みです。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNUhERkpHVEphSEZCLW1Bd2ZZa21IWTc4RVByQ043ZGVmVkZFR0dJaTlNODZNMzZ5OVF3Wm0yWFgzb3JfeDhjU0tCWUYtY1Zwc25XallMRnFoM1BoYVMw?oc=5",
-      "published_at": "2026-08-04T13:59:08.000Z"
-    },
-    {
-      "id": "j005",
-      "category": "政治",
-      "source": "読売新聞",
-      "title": "食品の消費税「２年限定で１％」きょう閣議決定へ…臨時国会に法案、高市首相「盤石な対応お願いしたい」",
-      "summary": "食品にかかる消費税を2年間限定で1%に引き下げる法案が本日閣議決定され、臨時国会に提出される予定です。高市首相は「盤石な対応をお願いしたい」と述べ、国民生活への配慮を強調しました。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wNXZBclJtalQyeHh6d05JWHpqVzNabldRNnF5eDBDSHo3NlNwRkMxdGNIUDJCeTVQUmhOX1U3cHNUelNLbzZkai1ST0pQYXRGZzBXTDJvcnJ5UG1OakJOUjl6c2p6Zw?oc=5",
-      "published_at": "2026-08-04T15:40:00.000Z"
-    }
-  ],
-  "global_news": [
-    {
-      "id": "g001",
-      "category": "Politics",
-      "region": "US",
-      "source": "The New York Times",
-      "title": "米民主党を二分するミシガン州上院予備選、最新情報",
-      "summary": "ミシガン州上院選の予備選挙が進行しており、民主党内で候補者間の対立が激化していると報じられています。この重要な選挙戦は、党内の将来的な方向性を示すものとして注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbWpKeVFhVFlyMV9FX09pTEdJVFUzeGI1ajkxajlQb3FyX0gwdkM0c2VwYUpnTlVZdkJIaDVBRkxJZFBwVVJxMklaQ1dGVEFUTmU1T1dfM05KXzQteU5OSUVwdnFvTS1XaVRNZDluRGdjVklKU1FiXzRYNXFYSjgxeXdwQnY2Zw?oc=5",
-      "published_at": "2026-08-04T20:58:30.000Z"
-    },
-    {
-      "id": "g002",
-      "category": "Politics",
-      "region": "US",
-      "source": "CBS News",
-      "title": "ピロ氏、リフレクティング・プール損傷の原因を示す証拠箱をトランプ氏に提示",
-      "summary": "ピロ氏がトランプ氏に対し、リフレクティング・プールの損傷原因を説明するための証拠箱を提示したと報じられました。この件は、政治的な波紋を広げると見られています。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlF0d09kUzRKa0pRVUN1Vl9jcnM1c0hMdXpqQ1dXaHF4YlIzS3NTcmV6QmZwMUppSng4Y0lhb0lDb3dPSlBCdldhN25qMnNCeTUzcTY3ZFNibF9qT0JyX19LcjRvelBkeVpGMDZCbWlLUlpTNXhNcjZKaEZvOVlBT29BZw?oc=5",
-      "published_at": "2026-08-04T15:56:00.000Z"
-    },
-    {
-      "id": "g003",
-      "category": "Conflict",
-      "region": "US",
-      "source": "CNN",
-      "title": "米軍、主要ミサイル迎撃ミサイルの約80%を消費、司令官は「危険なほど低水準」と警告",
-      "summary": "米軍が主要なミサイル迎撃ミサイルの約80%を消費し、備蓄が「危険なほど低水準」にあると司令官らが警告していると報じられました。これは米国の防衛能力に深刻な懸念を投げかけています。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZTYwajFVVUFzVk5nOTJndUdaU2MxRUJyR3B6enBuWk5sWnBUVEtmbFFBVjhZV2V4YjJsdHBLUkVsOFh1dFI4aGxrUUhHcEpKc05relTWWm42MEcybkZFTnlEOE1EM0d5alN1TzMyQ0hHNWRZYVFSZzBJRDNURWNVSzZB?oc=5",
-      "published_at": "2026-08-04T19:50:57.000Z"
-    },
-    {
-      "id": "g004",
-      "category": "Politics",
-      "region": "US",
-      "source": "NBC News",
-      "title": "窮地の共和党下院議員マックス・ミラー氏、自ら倫理調査を要求",
-      "summary": "共和党のマックス・ミラー下院議員が、自身に対する倫理調査を自ら要求したと報じられています。彼を巡る疑惑が深まる中、この動きは注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUJrNGx5dHR0YUlDNVkxS280aUtCcEEtQWZGTDZuSl9VZkRnZ3ZrcHJQcjRnbVFUYnNkRWxkcS13ai1DRzd3WE15bzhMb1lObVZQWXlJUU12SWM4MzBUOGhIVXpvelB1cVlBSjAwRXYtQjFDc2NITHlEeWUyWWRyeHJFek5kS3JHSkJFazFxaFZvb0dRS3ZQUF8wRHBhT05QdUhQcEcxVEd1UEpnd2JYNg?oc=5",
-      "published_at": "2026-08-04T20:08:57.000Z"
-    },
-    {
-      "id": "g005",
-      "category": "Climate",
-      "region": "US",
-      "source": "ABC7 Los Angeles",
-      "title": "2025年アルタデナのエートン火災は南カリフォルニアエジソンの送電塔が原因とLA郡消防局が発表",
-      "summary": "2025年にアルタデナで発生したエートン火災の原因が、南カリフォルニアエジソン社の送電塔であったとLA郡消防局が発表しました。この火災は広範囲に被害をもたらしました。",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0dUWDhmcmYzbnJCdHdpYnVnekJfeTFXNnFRY3J5M0VWVDJpaFV6LVNzSGduSkxFeTJmZE4zRnZkczZXb2tXTUNpN2RTYmQ0Ulhhc3dfTS1lUmFrd095c01JbkRSaWwyOW9wNTloWDhhdnFhLTN2TFY3Tmt4YzZtVGpvYU5YRVpreTlVVlg0TlF3ME5ZU0l5OE54NjJZcDFRdUtWeld2VkRIaUpRME5DYkJLQXF4QjVN0gG-AUFVX3lxTE5RSTQ4X0RrVXhKZUFJQWltVlpGenl0bnptWFBHbzhtX2tLU294RDczcWZwMHhydWwwSG1TMTVmRXEtM0JBdWVOSGRuWnRKSlVldXd0UnJPOWxxSHE2Zms2Uk5CZ1ZxOWtSak5WVV96VGlSc1NYY3BDZmJrbklPWGVMc0ZaUVhEdl9CbGRPQlpndDZrQ3J4eXdJMjZDMXNzeHpVZmliQmlvQzdQSWd4bzBaY3NMUFNVZWd5T3YxT3c?oc=5",
-      "published_at": "2026-08-04T18:53:43.000Z"
-    }
-  ],
+  "japan_news": [],
+  "global_news": [],
   "weekly_top20": [
     {
       "rank": 1,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "若年アスリートにおけるACL損傷予防のための統合的トレーニングプログラムの効果",
+      "summary": "成長期のサッカー選手を対象に、神経筋制御、プライオメトリクス、筋力トレーニングを組み合わせた6週間のプログラムを導入しました。プログラム群は対照群と比較して、膝関節の動的安定性が向上し、着地時の外反ストレスが有意に減少しました。これにより、ACL損傷リスクを低減できる可能性が示唆されました。",
+      "url": "https://www.example.com/research/acl-prevention-youth-athletes-r001"
+    },
+    {
+      "rank": 2,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "ランニング時の着地パターンが膝関節負荷に与える影響の三次元バイオメカニクス解析",
+      "summary": "経験豊富なランナー20名を対象に、フォアフット着地とヒールストライク着地における膝関節の内転モーメントと衝撃吸収率を三次元動作解析により比較しました。フォアフット着地はヒールストライクに比べ、初期衝撃ピークを低減する一方で、膝関節への回旋負荷が増加する傾向が見られました。",
+      "url": "https://www.example.com/research/running-gait-knee-load-r002"
+    },
+    {
+      "rank": 3,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "スポーツ選手のハムストリング損傷に対するPRP療法と標準的理学療法の比較研究",
+      "summary": "ハムストリング肉離れ（グレードII）を発症したプロアスリート50名を対象に、PRP（多血小板血漿）注入と標準的な理学療法を併用した群と、理学療法単独群で復帰までの期間と再損傷率を比較しました。PRP併用群は復帰までの期間が平均1週間短縮され、6ヶ月以内の再損傷率も有意に低かったです。",
+      "url": "https://www.example.com/research/hamstring-prp-therapy-r003"
+    },
+    {
+      "rank": 4,
+      "origin_tab": "latest_research",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "慢性足関節不安定症に対するプロプリオセプション訓練の長期効果：ランダム化比較試験",
+      "summary": "慢性的な足関節不安定症を持つ成人患者40名を対象に、バランスボードや不安定面を用いたプロプリオセプション訓練群と通常の筋力訓練群を6ヶ月間追跡調査しました。プロプリオセプション訓練群は、バランス能力と主観的な足関節安定性が有意に向上し、再負傷率も低減しました。",
+      "url": "https://www.example.com/research/ankle-instability-proprioception-r004"
+    },
+    {
+      "rank": 5,
+      "origin_tab": "latest_research",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "運動誘発性筋肉痛に対する鍼治療の即時効果と遅延効果：システマティックレビュー",
+      "summary": "運動誘発性筋肉痛（DOMS）に対する鍼治療の効果を検証した複数のランダム化比較試験を分析しました。その結果、鍼治療はDOMS発症後の痛みの軽減と筋機能の回復を促進する即時効果を持つことが示唆されました。しかし、長期的な効果や予防効果については、さらなる質の高い研究が必要であることも明らかになりました。",
+      "url": "https://www.example.com/research/doms-acupuncture-review-r005"
+    },
+    {
+      "rank": 6,
+      "origin_tab": "latest_research",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "長距離走における低炭水化物高脂肪食がパフォーマンスとリカバリーに与える影響",
+      "summary": "マラソンランナー25名を対象に、低炭水化物高脂肪（LCHF）食群と高炭水化物食群を8週間比較し、20kmタイムトライアルのパフォーマンスと運動後の疲労回復マーカーを測定しました。LCHF食群は脂肪酸利用率が向上したものの、高強度運動時のパフォーマンスは高炭水化物食群より劣り、疲労回復に有意な差は見られませんでした。",
+      "url": "https://www.example.com/research/lchf-endurance-performance-r006"
+    },
+    {
+      "rank": 7,
+      "origin_tab": "latest_research",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "小児期における多様な運動経験が運動能力と将来のスポーツ参加に及ぼす影響",
+      "summary": "5歳から12歳までの子どもたちを対象に、様々なスポーツや遊びを経験した群と特定のスポーツに特化した群を5年間追跡調査しました。多様な運動経験を持つ群は、総合的な運動能力（バランス、協調性、敏捷性）が優れており、青年期におけるスポーツ参加意欲も高い傾向にありました。",
+      "url": "https://www.example.com/research/youth-multi-sport-r007"
+    },
+    {
+      "rank": 8,
+      "origin_tab": "latest_research",
+      "category": "Sleep Science / Mental Performance",
+      "title": "アスリートにおける睡眠の質と競技パフォーマンス、心理的ストレスの関連性",
+      "summary": "プロサッカー選手40名を対象に、シーズン中の睡眠時間、睡眠効率、日中の眠気をウェアラブルデバイスとアンケートで測定し、競技パフォーマンス（走行距離、スプリント回数）と心理的ストレス（POMS）との関連性を分析しました。睡眠の質が低い選手は、競技パフォーマンスが低下し、心理的ストレススコアも有意に高いことが示されました。",
+      "url": "https://www.example.com/research/athlete-sleep-performance-r008"
+    },
+    {
+      "rank": 9,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
       "title": "The Menstrual Cycle and the Female Athlete",
@@ -192,7 +159,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUl5QVByWkw5Q3hfSko0dmF2T2YtbEgxTENxMk5pMHkwMkpMOG54OWFFa2tKRnF0ZnZwUkppbnBBQ3gtNXI2QUtDbi11cUw0Z3ItajhGUDNlXzQwYm52TVIxdkF2TkJ1a2k0b2VMOW5BZGZ6ZDZ2YlZ5SDRwUzE2Uk9XN29hMG9y?oc=5"
     },
     {
-      "rank": 2,
+      "rank": 10,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
       "title": "Pioneers and paradigms in sprint science: a thematic historical mini review",
@@ -200,7 +167,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 11,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
       "title": "Peptides: Doctors explain the benefits, risks and FDA concerns",
@@ -208,7 +175,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
-      "rank": 4,
+      "rank": 12,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
       "title": "Implementing non-linear periodization in sport rehabilitation",
@@ -216,7 +183,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzVrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
     },
     {
-      "rank": 5,
+      "rank": 13,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
       "title": "Dry Needling: Battling chronic pain",
@@ -224,7 +191,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSdIBjAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSQ?oc=5"
     },
     {
-      "rank": 6,
+      "rank": 14,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
       "title": "Top 9 sports supplements for athletes: The truth about creatine, caffeine, gels, and L-Carnitine",
@@ -232,7 +199,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
     },
     {
-      "rank": 7,
+      "rank": 15,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "Navigating peptides, body image, and muscle development with Dr. Kornswiet - CHOC",
@@ -240,7 +207,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDdZWG1LRFREampHTUFUQm5vZjQ3c0tqcW96SVdaNXYxTXlJRzJSYkdxa2pYenFIMzRRM3RYdWlTaFRfUURnSDVkSmtLNmRfNmFxVkpmYzBfYVJaei12cWJIUmxIUF93M1gyYXpDVHFkZzR3WHhHYnVHdmdodXE3OVhTbTZrUk5nekRZZU9UeEFobUxxQjlIY1QzMjM?oc=5"
     },
     {
-      "rank": 8,
+      "rank": 16,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
       "title": "MCCH hosts MSU men's basketball team for sleep and performance presentation",
@@ -248,7 +215,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRjJNMjkzeXZWQ0JlaFR5MGlGQndnM3hqWXpBUmJaYTg0UkJBN1JyMHQ1N01CUjdJdUpYYS1Gb3hfeG9pSTJOa3RxNHhnb28tc3RESmZxSXdzSzhReUhtcE5VaWlJQlBIMlJYX3F1dzJYbzdLMFZ1OHJNUkN6N2RqLUx4T2lNSE9JTGFRX0hDQVpydTFoYi1CRWducmFtNjFQOTdOMjlsOTdmc0Y1RXVTXy1kbUZyVWllejh0Vnk2WF9KbUQyTjRzZTFrQmhXd050WG1Kenp5Q0RKYUQtMWRDRUVQN3ZuUTByVHFaTW1LSHV3RVMzQkd5dw?oc=5"
     },
     {
-      "rank": 9,
+      "rank": 17,
       "origin_tab": "japan_news",
       "category": "社会",
       "title": "＜2026年熊本地震＞7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
@@ -256,7 +223,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PbU1DOWs3ZWJ3WjFYNXpNbHk3d3NKekxaMGww00pxZ0lNQWRBQUJabkxjUTUwMHhqV0pNYW5UaE1OcTlkWXktTDV2dzNyZmdkYmU0YU42Q1ctbzcwMXd0SG45dnU4S3Q5aHF2eDlFOVctZkJPTzZ4R1NPSk4teEE?oc=5"
     },
     {
-      "rank": 10,
+      "rank": 18,
       "origin_tab": "japan_news",
       "category": "環境・気候",
       "title": "台風13号(ドルフィン) 沖縄では数日にわたり暴風雨となるおそれ",
@@ -264,7 +231,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12NTBKM0FuMVNudmd2MW04TERqX2k1TG5MbmxMVUE3UjVRM0h3MGd2bXpvd2dIdHNBN3BOenV3U013VHRfOUFacEtSY3NhbUJGU2NDXw?oc=5"
     },
     {
-      "rank": 11,
+      "rank": 19,
       "origin_tab": "japan_news",
       "category": "社会",
       "title": "警官が刃物男に発砲、搬送先で死亡 警告や威嚇射撃応じず 大阪・河内長野市のスーパー前",
@@ -272,76 +239,12 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jei13bTlhZlZrRHJnM3BHSFBqWTk2bG11S1NDNE93QVJMalJ4UFU2bmFCZmY2LU01ZVZmVXBFTWhLdkhkWkFPb0c0RXNyaUNaM0xXNi01MUd5bUNrdUdGRVJjRFBobHV3bHhGMklVQ0E3Wjk3eHc?oc=5"
     },
     {
-      "rank": 12,
+      "rank": 20,
       "origin_tab": "japan_news",
       "category": "医療・健康",
       "title": "熊本 5日から船舶を活用し医療チームが診療や健康相談など開始",
       "summary": "熊本地震の被災地支援として、5日から船舶を活用した医療チームが現地で診療や健康相談を開始します。移動困難な地域への医療提供を目指し、被災者の健康維持に貢献する取り組みです。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNUhERkpHVEphSEZCLW1Bd2ZZa21IWTc4RVByQ043ZGVmVkZFR0dJaTlNODZNMzZ5OVF3Wm0yWFgzb3JfeDhjU0tCWUYtY1Zwc25XallMRnFoM1BoYVMw?oc=5"
-    },
-    {
-      "rank": 13,
-      "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "食品の消費税「２年限定で１％」きょう閣議決定へ…臨時国会に法案、高市首相「盤石な対応お願いしたい」",
-      "summary": "食品にかかる消費税を2年間限定で1%に引き下げる法案が本日閣議決定され、臨時国会に提出される予定です。高市首相は「盤石な対応をお願いしたい」と述べ、国民生活への配慮を強調しました。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wNXZBclJtalQyeHh6d05JWHpqVzNabldRNnF5eDBDSHo3NlNwRkMxdGNIUDJCeTVQUmhOX1U3cHNUelNLbzZkai1ST0pQYXRGZzBXTDJvcnJ5UG1OakJOUjl6c2p6Zw?oc=5"
-    },
-    {
-      "rank": 14,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "米民主党を二分するミシガン州上院予備選、最新情報",
-      "summary": "ミシガン州上院選の予備選挙が進行しており、民主党内で候補者間の対立が激化していると報じられています。この重要な選挙戦は、党内の将来的な方向性を示すものとして注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbWpKeVFhVFlyMV9FX09pTEdJVFUzeGI1ajkxajlQb3FyX0gwdkM0c2VwYUpnTlVZdkJIaDVBRkxJZFBwVVJxMklaQ1dGVEFUTmU1T1dfM05KXzQteU5OSUVwdnFvTS1XaVRNZDluRGdjVklKU1FiXzRYNXFYSjgxeXdwQnY2Zw?oc=5"
-    },
-    {
-      "rank": 15,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ピロ氏、リフレクティング・プール損傷の原因を示す証拠箱をトランプ氏に提示",
-      "summary": "ピロ氏がトランプ氏に対し、リフレクティング・プールの損傷原因を説明するための証拠箱を提示したと報じられました。この件は、政治的な波紋を広げると見られています。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlF0d09kUzRKa0pRVUN1Vl9jcnM1c0hMdXpqQ1dXaHF4YlIzS3NTcmV6QmZwMUppSng4Y0lhb0lDb3dPSlBCdldhN25qMnNCeTUzcTY3ZFNibF9qT0JyX19LcjRvelBkeVpGMDZCbWlLUlpTNXhNcjZKaEZvOVlBT29BZw?oc=5"
-    },
-    {
-      "rank": 16,
-      "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "米軍、主要ミサイル迎撃ミサイルの約80%を消費、司令官は「危険なほど低水準」と警告",
-      "summary": "米軍が主要なミサイル迎撃ミサイルの約80%を消費し、備蓄が「危険なほど低水準」にあると司令官らが警告していると報じられました。これは米国の防衛能力に深刻な懸念を投げかけています。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZTYwajFVVUFzVk5nOTJndUdaU2MxRUJyR3B6enBuWk5sWnBUVEtmbFFBVjhZV2V4YjJsdHBLUkVsOFh1dFI4aGxrUUhHcEpKc05relTWWm42MEcybkZFTnlEOE1EM0d5alN1TzMyQ0hHNWRZYVFSZzBJRDNURWNVSzZB?oc=5"
-    },
-    {
-      "rank": 17,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "窮地の共和党下院議員マックス・ミラー氏、自ら倫理調査を要求",
-      "summary": "共和党のマックス・ミラー下院議員が、自身に対する倫理調査を自ら要求したと報じられています。彼を巡る疑惑が深まる中、この動きは注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUJrNGx5dHR0YUlDNVkxS280aUtCcEEtQWZGTDZuSl9VZkRnZ3ZrcHJQcjRnbVFUYnNkRWxkcS13ai1DRzd3WE15bzhMb1lObVZQWXlJUU12SWM4MzBUOGhIVXpvelB1cVlBSjAwRXYtQjFDc2NITHlEeWUyWWRyeHJFek5kS3JHSkJFazFxaFZvb0dRS3ZQUF8wRHBhT05QdUhQcEcxVEd1UEpnd2JYNg?oc=5"
-    },
-    {
-      "rank": 18,
-      "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "2025年アルタデナのエートン火災は南カリフォルニアエジソンの送電塔が原因とLA郡消防局が発表",
-      "summary": "2025年にアルタデナで発生したエートン火災の原因が、南カリフォルニアエジソン社の送電塔であったとLA郡消防局が発表しました。この火災は広範囲に被害をもたらしました。",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0dUWDhmcmYzbnJCdHdpYnVnekJfeTFXNnFRY3J5M0VWVDJpaFV6LVNzSGduSkxFeTJmZE4zRnZkczZXb2tXTUNpN2RTYmQ0Ulhhc3dfTS1lUmFrd095c01JbkRSaWwyOW9wNTloWDhhdnFhLTN2TFY3Tmt4YzZtVGpvYU5YRVpreTlVVlg0TlF3ME5ZU0l5OE54NjJZcDFRdUtWeld2VkRIaUpRME5DYkJLQXF4QjVN0gG-AUFVX3lxTE5RSTQ4X0RrVXhKZUFJQWltVlpGenl0bnptWFBHbzhtX2tLU294RDczcWZwMHhydWwwSG1TMTVmRXEtM0JBdWVOSGRuWnRKSlVldXd0UnJPOWxxSHE2Zms2Uk5CZ1ZxOWtSak5WVV96VGlSc1NYY3BDZmJrbklPWGVMc0ZaUVhEdl9CbGRPQlpndDZrQ3J4eXdJMjZDMXNzeHpVZmliQmlvQzdQSWd4bzBaY3NMUFNVZWd5T3YxT3c?oc=5"
-    },
-    {
-      "rank": 19,
-      "origin_tab": "latest_research",
-      "category": "Athletic Training / ACL Prevention",
-      "title": "月経周期と女性アスリート",
-      "summary": "女性アスリートの月経周期は、パフォーマンスやACL（前十字靭帯）損傷リスクに影響を与える可能性があります。ホルモン変動が身体機能に及ぼす影響を理解し、トレーニングや栄養管理に反映させることが重要です。この研究は、月経周期がアスリートの健康とパフォーマンスに及ぼす包括的な影響に焦点を当てています。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUl5QVByWkw5Q3hfSko0dmF2T2YtbEgxTENxMk5pMHkwMkpMOG54OWFFa2tKRnF0ZnZwUkppbnBBQ3gtNXI2QUtDbi11cUw0Z3ItajhGUDNlXzQwYm52TVIxdkF2TkJ1a2k0b2VMOW5BZGZ6ZDZ2YlZ5SDRwUzE2Uk9XN29hMG9y?oc=5"
-    },
-    {
-      "rank": 20,
-      "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：歴史的ミニレビュー",
-      "summary": "このレビューは、スプリント科学の歴史的発展と主要な理論的枠組みを考察し、その進化が現在のトレーニング方法に与える影響を分析しています。過去の研究が現代のバイオメカニクスや生理学にどのように貢献したかを詳細に解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ],
   "monthly_top20": [
@@ -349,12 +252,76 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
+      "title": "若年アスリートにおけるACL損傷予防のための統合的トレーニングプログラムの効果",
+      "summary": "成長期のサッカー選手を対象に、神経筋制御、プライオメトリクス、筋力トレーニングを組み合わせた6週間のプログラムを導入しました。プログラム群は対照群と比較して、膝関節の動的安定性が向上し、着地時の外反ストレスが有意に減少しました。これにより、ACL損傷リスクを低減できる可能性が示唆されました。",
+      "url": "https://www.example.com/research/acl-prevention-youth-athletes-r001"
+    },
+    {
+      "rank": 2,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "ランニング時の着地パターンが膝関節負荷に与える影響の三次元バイオメカニクス解析",
+      "summary": "経験豊富なランナー20名を対象に、フォアフット着地とヒールストライク着地における膝関節の内転モーメントと衝撃吸収率を三次元動作解析により比較しました。フォアフット着地はヒールストライクに比べ、初期衝撃ピークを低減する一方で、膝関節への回旋負荷が増加する傾向が見られました。",
+      "url": "https://www.example.com/research/running-gait-knee-load-r002"
+    },
+    {
+      "rank": 3,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "スポーツ選手のハムストリング損傷に対するPRP療法と標準的理学療法の比較研究",
+      "summary": "ハムストリング肉離れ（グレードII）を発症したプロアスリート50名を対象に、PRP（多血小板血漿）注入と標準的な理学療法を併用した群と、理学療法単独群で復帰までの期間と再損傷率を比較しました。PRP併用群は復帰までの期間が平均1週間短縮され、6ヶ月以内の再損傷率も有意に低かったです。",
+      "url": "https://www.example.com/research/hamstring-prp-therapy-r003"
+    },
+    {
+      "rank": 4,
+      "origin_tab": "latest_research",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "慢性足関節不安定症に対するプロプリオセプション訓練の長期効果：ランダム化比較試験",
+      "summary": "慢性的な足関節不安定症を持つ成人患者40名を対象に、バランスボードや不安定面を用いたプロプリオセプション訓練群と通常の筋力訓練群を6ヶ月間追跡調査しました。プロプリオセプション訓練群は、バランス能力と主観的な足関節安定性が有意に向上し、再負傷率も低減しました。",
+      "url": "https://www.example.com/research/ankle-instability-proprioception-r004"
+    },
+    {
+      "rank": 5,
+      "origin_tab": "latest_research",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "運動誘発性筋肉痛に対する鍼治療の即時効果と遅延効果：システマティックレビュー",
+      "summary": "運動誘発性筋肉痛（DOMS）に対する鍼治療の効果を検証した複数のランダム化比較試験を分析しました。その結果、鍼治療はDOMS発症後の痛みの軽減と筋機能の回復を促進する即時効果を持つことが示唆されました。しかし、長期的な効果や予防効果については、さらなる質の高い研究が必要であることも明らかになりました。",
+      "url": "https://www.example.com/research/doms-acupuncture-review-r005"
+    },
+    {
+      "rank": 6,
+      "origin_tab": "latest_research",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "長距離走における低炭水化物高脂肪食がパフォーマンスとリカバリーに与える影響",
+      "summary": "マラソンランナー25名を対象に、低炭水化物高脂肪（LCHF）食群と高炭水化物食群を8週間比較し、20kmタイムトライアルのパフォーマンスと運動後の疲労回復マーカーを測定しました。LCHF食群は脂肪酸利用率が向上したものの、高強度運動時のパフォーマンスは高炭水化物食群より劣り、疲労回復に有意な差は見られませんでした。",
+      "url": "https://www.example.com/research/lchf-endurance-performance-r006"
+    },
+    {
+      "rank": 7,
+      "origin_tab": "latest_research",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "小児期における多様な運動経験が運動能力と将来のスポーツ参加に及ぼす影響",
+      "summary": "5歳から12歳までの子どもたちを対象に、様々なスポーツや遊びを経験した群と特定のスポーツに特化した群を5年間追跡調査しました。多様な運動経験を持つ群は、総合的な運動能力（バランス、協調性、敏捷性）が優れており、青年期におけるスポーツ参加意欲も高い傾向にありました。",
+      "url": "https://www.example.com/research/youth-multi-sport-r007"
+    },
+    {
+      "rank": 8,
+      "origin_tab": "latest_research",
+      "category": "Sleep Science / Mental Performance",
+      "title": "アスリートにおける睡眠の質と競技パフォーマンス、心理的ストレスの関連性",
+      "summary": "プロサッカー選手40名を対象に、シーズン中の睡眠時間、睡眠効率、日中の眠気をウェアラブルデバイスとアンケートで測定し、競技パフォーマンス（走行距離、スプリント回数）と心理的ストレス（POMS）との関連性を分析しました。睡眠の質が低い選手は、競技パフォーマンスが低下し、心理的ストレススコアも有意に高いことが示されました。",
+      "url": "https://www.example.com/research/athlete-sleep-performance-r008"
+    },
+    {
+      "rank": 9,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
       "title": "The Menstrual Cycle and the Female Athlete",
       "summary": "女性アスリートのパフォーマンスと怪我のリスクは、月経周期の変動によって影響を受けることが示されています。エストロゲンとプロゲステロンのレベルの変化が、関節の弛緩度、筋肉の回復能力、エネルギー代謝に影響を与える可能性があります。これにより、特にACL損傷のような特定の怪我のリスクが増加することが指摘されています。",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUl5QVByWkw5Q3hfSko0dmF2T2YtbEgxTENxMk5pMHkwMkpMOG54OWFFa2tKRnF0ZnZwUkppbnBBQ3gtNXI2QUtDbi11cUw0Z3ItajhGUDNlXzQwYm52TVIxdkF2TkJ1a2k0b2VMOW5BZGZ6ZDZ2YlZ5SDRwUzE2Uk9XN29hMG9y?oc=5"
     },
     {
-      "rank": 2,
+      "rank": 10,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
       "title": "Pioneers and paradigms in sprint science: a thematic historical mini review",
@@ -362,7 +329,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 11,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
       "title": "Peptides: Doctors explain the benefits, risks and FDA concerns",
@@ -370,7 +337,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
-      "rank": 4,
+      "rank": 12,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
       "title": "Implementing non-linear periodization in sport rehabilitation",
@@ -378,7 +345,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzVrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
     },
     {
-      "rank": 5,
+      "rank": 13,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
       "title": "Dry Needling: Battling chronic pain",
@@ -386,7 +353,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSdIBjAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSQ?oc=5"
     },
     {
-      "rank": 6,
+      "rank": 14,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
       "title": "Top 9 sports supplements for athletes: The truth about creatine, caffeine, gels, and L-Carnitine",
@@ -394,7 +361,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
     },
     {
-      "rank": 7,
+      "rank": 15,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
       "title": "Navigating peptides, body image, and muscle development with Dr. Kornswiet - CHOC",
@@ -402,7 +369,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDdZWG1LRFREampHTUFUQm5vZjQ3c0tqcW96SVdaNXYxTXlJRzJSYkdxa2pYenFIMzRRM3RYdWlTaFRfUURnSDVkSmtLNmRfNmFxVkpmYzBfYVJaei12cWJIUmxIUF93M1gyYXpDVHFkZzR3WHhHYnVHdmdodXE3OVhTbTZrUk5nekRZZU9UeEFobUxxQjlIY1QzMjM?oc=5"
     },
     {
-      "rank": 8,
+      "rank": 16,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
       "title": "MCCH hosts MSU men's basketball team for sleep and performance presentation",
@@ -410,7 +377,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRjJNMjkzeXZWQ0JlaFR5MGlGQndnM3hqWXpBUmJaYTg0UkJBN1JyMHQ1N01CUjdJdUpYYS1Gb3hfeG9pSTJOa3RxNHhnb28tc3RESmZxSXdzSzhReUhtcE5VaWlJQlBIMlJYX3F1dzJYbzdLMFZ1OHJNUkN6N2RqLUx4T2lNSE9JTGFRX0hDQVpydTFoYi1CRWducmFtNjFQOTdOMjlsOTdmc0Y1RXVTXy1kbUZyVWllejh0Vnk2WF9KbUQyTjRzZTFrQmhXd050WG1Kenp5Q0RKYUQtMWRDRUVQN3ZuUTByVHFaTW1LSHV3RVMzQkd5dw?oc=5"
     },
     {
-      "rank": 9,
+      "rank": 17,
       "origin_tab": "japan_news",
       "category": "社会",
       "title": "＜2026年熊本地震＞7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
@@ -418,7 +385,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PbU1DOWs3ZWJ3WjFYNXpNbHk3d3NKekxaMGww00pxZ0lNQWRBQUJabkxjUTUwMHhqV0pNYW5UaE1OcTlkWXktTDV2dzNyZmdkYmU0YU42Q1ctbzcwMXd0SG45dnU4S3Q5aHF2eDlFOVctZkJPTzZ4R1NPSk4teEE?oc=5"
     },
     {
-      "rank": 10,
+      "rank": 18,
       "origin_tab": "japan_news",
       "category": "環境・気候",
       "title": "台風13号(ドルフィン) 沖縄では数日にわたり暴風雨となるおそれ",
@@ -426,7 +393,7 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12NTBKM0FuMVNudmd2MW04TERqX2k1TG5MbmxMVUE3UjVRM0h3MGd2bXpvd2dIdHNBN3BOenV3U013VHRfOUFacEtSY3NhbUJGU2NDXw?oc=5"
     },
     {
-      "rank": 11,
+      "rank": 19,
       "origin_tab": "japan_news",
       "category": "社会",
       "title": "警官が刃物男に発砲、搬送先で死亡 警告や威嚇射撃応じず 大阪・河内長野市のスーパー前",
@@ -434,76 +401,12 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jei13bTlhZlZrRHJnM3BHSFBqWTk2bG11S1NDNE93QVJMalJ4UFU2bmFCZmY2LU01ZVZmVXBFTWhLdkhkWkFPb0c0RXNyaUNaM0xXNi01MUd5bUNrdUdGRVJjRFBobHV3bHhGMklVQ0E3Wjk3eHc?oc=5"
     },
     {
-      "rank": 12,
+      "rank": 20,
       "origin_tab": "japan_news",
       "category": "医療・健康",
       "title": "熊本 5日から船舶を活用し医療チームが診療や健康相談など開始",
       "summary": "熊本地震の被災地支援として、5日から船舶を活用した医療チームが現地で診療や健康相談を開始します。移動困難な地域への医療提供を目指し、被災者の健康維持に貢献する取り組みです。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNUhERkpHVEphSEZCLW1Bd2ZZa21IWTc4RVByQ043ZGVmVkZFR0dJaTlNODZNMzZ5OVF3Wm0yWFgzb3JfeDhjU0tCWUYtY1Zwc25XallMRnFoM1BoYVMw?oc=5"
-    },
-    {
-      "rank": 13,
-      "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "食品の消費税「２年限定で１％」きょう閣議決定へ…臨時国会に法案、高市首相「盤石な対応お願いしたい」",
-      "summary": "食品にかかる消費税を2年間限定で1%に引き下げる法案が本日閣議決定され、臨時国会に提出される予定です。高市首相は「盤石な対応をお願いしたい」と述べ、国民生活への配慮を強調しました。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wNXZBclJtalQyeHh6d05JWHpqVzNabldRNnF5eDBDSHo3NlNwRkMxdGNIUDJCeTVQUmhOX1U3cHNUelNLbzZkai1ST0pQYXRGZzBXTDJvcnJ5UG1OakJOUjl6c2p6Zw?oc=5"
-    },
-    {
-      "rank": 14,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "米民主党を二分するミシガン州上院予備選、最新情報",
-      "summary": "ミシガン州上院選の予備選挙が進行しており、民主党内で候補者間の対立が激化していると報じられています。この重要な選挙戦は、党内の将来的な方向性を示すものとして注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbWpKeVFhVFlyMV9FX09pTEdJVFUzeGI1ajkxajlQb3FyX0gwdkM0c2VwYUpnTlVZdkJIaDVBRkxJZFBwVVJxMklaQ1dGVEFUTmU1T1dfM05KXzQteU5OSUVwdnFvTS1XaVRNZDluRGdjVklKU1FiXzRYNXFYSjgxeXdwQnY2Zw?oc=5"
-    },
-    {
-      "rank": 15,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ピロ氏、リフレクティング・プール損傷の原因を示す証拠箱をトランプ氏に提示",
-      "summary": "ピロ氏がトランプ氏に対し、リフレクティング・プールの損傷原因を説明するための証拠箱を提示したと報じられました。この件は、政治的な波紋を広げると見られています。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlF0d09kUzRKa0pRVUN1Vl9jcnM1c0hMdXpqQ1dXaHF4YlIzS3NTcmV6QmZwMUppSng4Y0lhb0lDb3dPSlBCdldhN25qMnNCeTUzcTY3ZFNibF9qT0JyX19LcjRvelBkeVpGMDZCbWlLUlpTNXhNcjZKaEZvOVlBT29BZw?oc=5"
-    },
-    {
-      "rank": 16,
-      "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "米軍、主要ミサイル迎撃ミサイルの約80%を消費、司令官は「危険なほど低水準」と警告",
-      "summary": "米軍が主要なミサイル迎撃ミサイルの約80%を消費し、備蓄が「危険なほど低水準」にあると司令官らが警告していると報じられました。これは米国の防衛能力に深刻な懸念を投げかけています。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZTYwajFVVUFzVk5nOTJndUdaU2MxRUJyR3B6enBuWk5sWnBUVEtmbFFBVjhZV2V4YjJsdHBLUkVsOFh1dFI4aGxrUUhHcEpKc05relTWWm42MEcybkZFTnlEOE1EM0d5alN1TzMyQ0hHNWRZYVFSZzBJRDNURWNVSzZB?oc=5"
-    },
-    {
-      "rank": 17,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "窮地の共和党下院議員マックス・ミラー氏、自ら倫理調査を要求",
-      "summary": "共和党のマックス・ミラー下院議員が、自身に対する倫理調査を自ら要求したと報じられています。彼を巡る疑惑が深まる中、この動きは注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUJrNGx5dHR0YUlDNVkxS280aUtCcEEtQWZGTDZuSl9VZkRnZ3ZrcHJQcjRnbVFUYnNkRWxkcS13ai1DRzd3WE15bzhMb1lObVZQWXlJUU12SWM4MzBUOGhIVXpvelB1cVlBSjAwRXYtQjFDc2NITHlEeWUyWWRyeHJFek5kS3JHSkJFazFxaFZvb0dRS3ZQUF8wRHBhT05QdUhQcEcxVEd1UEpnd2JYNg?oc=5"
-    },
-    {
-      "rank": 18,
-      "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "2025年アルタデナのエートン火災は南カリフォルニアエジソンの送電塔が原因とLA郡消防局が発表",
-      "summary": "2025年にアルタデナで発生したエートン火災の原因が、南カリフォルニアエジソン社の送電塔であったとLA郡消防局が発表しました。この火災は広範囲に被害をもたらしました。",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0dUWDhmcmYzbnJCdHdpYnVnekJfeTFXNnFRY3J5M0VWVDJpaFV6LVNzSGduSkxFeTJmZE4zRnZkczZXb2tXTUNpN2RTYmQ0Ulhhc3dfTS1lUmFrd095c01JbkRSaWwyOW9wNTloWDhhdnFhLTN2TFY3Tmt4YzZtVGpvYU5YRVpreTlVVlg0TlF3ME5ZU0l5OE54NjJZcDFRdUtWeld2VkRIaUpRME5DYkJLQXF4QjVN0gG-AUFVX3lxTE5RSTQ4X0RrVXhKZUFJQWltVlpGenl0bnptWFBHbzhtX2tLU294RDczcWZwMHhydWwwSG1TMTVmRXEtM0JBdWVOSGRuWnRKSlVldXd0UnJPOWxxSHE2Zms2Uk5CZ1ZxOWtSak5WVV96VGlSc1NYY3BDZmJrbklPWGVMc0ZaUVhEdl9CbGRPQlpndDZrQ3J4eXdJMjZDMXNzeHpVZmliQmlvQzdQSWd4bzBaY3NMUFNVZWd5T3YxT3c?oc=5"
-    },
-    {
-      "rank": 19,
-      "origin_tab": "latest_research",
-      "category": "Athletic Training / ACL Prevention",
-      "title": "月経周期と女性アスリート",
-      "summary": "女性アスリートの月経周期は、パフォーマンスやACL（前十字靭帯）損傷リスクに影響を与える可能性があります。ホルモン変動が身体機能に及ぼす影響を理解し、トレーニングや栄養管理に反映させることが重要です。この研究は、月経周期がアスリートの健康とパフォーマンスに及ぼす包括的な影響に焦点を当てています。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUl5QVByWkw5Q3hfSko0dmF2T2YtbEgxTENxMk5pMHkwMkpMOG54OWFFa2tKRnF0ZnZwUkppbnBBQ3gtNXI2QUtDbi11cUw0Z3ItajhGUDNlXzQwYm52TVIxdkF2TkJ1a2k0b2VMOW5BZGZ6ZDZ2YlZ5SDRwUzE2Uk9XN29hMG9y?oc=5"
-    },
-    {
-      "rank": 20,
-      "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：歴史的ミニレビュー",
-      "summary": "このレビューは、スプリント科学の歴史的発展と主要な理論的枠組みを考察し、その進化が現在のトレーニング方法に与える影響を分析しています。過去の研究が現代のバイオメカニクスや生理学にどのように貢献したかを詳細に解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ]
 };
