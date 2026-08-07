@@ -1,93 +1,334 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/08/06",
-  "generated_at": "2026-08-05T22:04:25.249Z",
+  "issue_date": "2026/08/07",
+  "generated_at": "2026-08-07T00:58:58.884Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "若年アスリートにおけるACL損傷予防のための統合的トレーニングプログラムの効果",
-      "source": "Journal of Sports Injury Prevention",
-      "url": "https://www.example.com/research/acl-prevention-youth-athletes-r001",
-      "abstract": "成長期のサッカー選手を対象に、神経筋制御、プライオメトリクス、筋力トレーニングを組み合わせた6週間のプログラムを導入しました。プログラム群は対照群と比較して、膝関節の動的安定性が向上し、着地時の外反ストレスが有意に減少しました。これにより、ACL損傷リスクを低減できる可能性が示唆されました。",
-      "insight": "ユース世代のコーチやアスレティックトレーナーは、この統合プログラムをシーズン前の準備や定期的なトレーニングに組み込むことで、特にハイリスクな競技におけるACL損傷予防に役立てることができます。",
-      "published_at": "2026-07-28T09:30:00.000Z"
+      "title": "バスケットボール選手のアジリティパフォーマンスと傷害予防に対する仮想現実支援神経筋トレーニングの効果：対照実験室研究",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
+      "abstract": "バスケットボール選手を対象とした管理された実験室研究で、仮想現実（VR）を活用した神経筋トレーニングがアジリティパフォーマンスとACL（前十字靭帯）損傷予防に与える影響を評価しました。VRを用いたトレーニングは、選手の反応速度や方向転換能力を向上させ、ACL損傷リスクを低減する可能性が示唆されました。",
+      "insight": "練習にVRを取り入れることで、選手はより安全かつ効果的にアジリティを向上させ、実践的なACL傷害予防トレーニングを行うことができます。特に高リスクのスポーツにおいて、技術向上と傷害予防を両立させる新たなアプローチとして期待されます。",
+      "published_at": "2026-08-05T00:49:01.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "ランニング時の着地パターンが膝関節負荷に与える影響の三次元バイオメカニクス解析",
-      "source": "International Journal of Biomechanics in Sport",
-      "url": "https://www.example.com/research/running-gait-knee-load-r002",
-      "abstract": "経験豊富なランナー20名を対象に、フォアフット着地とヒールストライク着地における膝関節の内転モーメントと衝撃吸収率を三次元動作解析により比較しました。フォアフット着地はヒールストライクに比べ、初期衝撃ピークを低減する一方で、膝関節への回旋負荷が増加する傾向が見られました。",
-      "insight": "ランニング指導者は、個々のランナーの身体特性や既往歴を考慮し、着地パターンのみならず、上半身を含む全身の連動性を評価することで、膝への過度な負担を軽減する指導が可能となります。",
-      "published_at": "2026-07-25T11:15:00.000Z"
+      "title": "スプリント科学における先駆者たちとパラダイム：主題別歴史ミニレビュー",
+      "source": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZno1T3l0QklmZ2hOVF94MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
+      "abstract": "このミニレビューは、スプリント科学の歴史的発展に貢献した主要な研究者と理論的枠組みを概観しています。スプリントパフォーマンスの理解とトレーニング方法の進化における重要なパラダイムシフトを主題別に分析しました。",
+      "insight": "スプリントの指導者は、過去の科学的知見を学ぶことで、現在のトレーニングアプローチの根拠を深く理解し、より効果的な指導戦略を構築できます。特に、バイオメカニクスに基づいた技術指導に役立ち、選手個々の特性に合わせたプログラム開発に繋がります。",
+      "published_at": "2026-04-30T16:58:11.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "スポーツ選手のハムストリング損傷に対するPRP療法と標準的理学療法の比較研究",
-      "source": "Journal of Orthopedic & Sports Physical Therapy",
-      "url": "https://www.example.com/research/hamstring-prp-therapy-r003",
-      "abstract": "ハムストリング肉離れ（グレードII）を発症したプロアスリート50名を対象に、PRP（多血小板血漿）注入と標準的な理学療法を併用した群と、理学療法単独群で復帰までの期間と再損傷率を比較しました。PRP併用群は復帰までの期間が平均1週間短縮され、6ヶ月以内の再損傷率も有意に低かったです。",
-      "insight": "チームドクターや整形外科医は、重度のハムストリング損傷に対し、PRP療法が早期復帰と再損傷予防の一助となる可能性を考慮し、個々の選手の状態に合わせて治療選択肢の一つとして検討できます。",
-      "published_at": "2026-08-01T14:00:00.000Z"
+      "title": "ペプチド：医師が利点、リスク、FDAの懸念を解説",
+      "source": "UCHealth",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
+      "abstract": "医師がペプチドの潜在的な利点、関連するリスク、および米国食品医薬品局（FDA）の懸念について詳細に解説しています。スポーツ医学分野でのペプチドの使用が増加する中で、その安全性と有効性に関する重要な情報を提供します。",
+      "insight": "アスリートや関係者は、ペプチドの補給を検討する際に、そのメリットとデメリット、そして規制当局の見解を正確に理解する必要があります。不適切な使用による健康リスクを避け、エビデンスに基づいた判断を促すことで、安全な競技力向上を目指せます。",
+      "published_at": "2026-07-24T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "慢性足関節不安定症に対するプロプリオセプション訓練の長期効果：ランダム化比較試験",
-      "source": "Archives of Physical Medicine and Rehabilitation",
-      "url": "https://www.example.com/research/ankle-instability-proprioception-r004",
-      "abstract": "慢性的な足関節不安定症を持つ成人患者40名を対象に、バランスボードや不安定面を用いたプロプリオセプション訓練群と通常の筋力訓練群を6ヶ月間追跡調査しました。プロプリオセプション訓練群は、バランス能力と主観的な足関節安定性が有意に向上し、再負傷率も低減しました。",
-      "insight": "理学療法士は、足関節捻挫後のリハビリテーションにおいて、初期段階から積極的にプロプリオセプション訓練を導入することで、不安定性の改善と再発予防に繋がり、患者の競技復帰や日常生活での活動性を高めることができます。",
-      "published_at": "2026-07-29T08:00:00.000Z"
+      "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの実装",
+      "source": "The Sport Journal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5",
+      "abstract": "スポーツリハビリテーションにおいて非線形ピリオダイゼーションをどのように導入するかについて考察しています。このアプローチは、固定された負荷や運動量のパターンに従うのではなく、個々の回復段階や進捗に応じてトレーニング強度や量を柔軟に変化させるものです。",
+      "insight": "理学療法士やリハビリテーション担当者は、非線形ピリオダイゼーションを導入することで、アスリートの回復状況に合わせた最適な負荷調整が可能となり、より迅速かつ安全な競技復帰をサポートできます。これにより、患者のモチベーション維持にも貢献し、再損傷リスクの低減も期待できます。",
+      "published_at": "2026-07-21T07:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "運動誘発性筋肉痛に対する鍼治療の即時効果と遅延効果：システマティックレビュー",
-      "source": "Journal of Complementary and Alternative Medicine",
-      "url": "https://www.example.com/research/doms-acupuncture-review-r005",
-      "abstract": "運動誘発性筋肉痛（DOMS）に対する鍼治療の効果を検証した複数のランダム化比較試験を分析しました。その結果、鍼治療はDOMS発症後の痛みの軽減と筋機能の回復を促進する即時効果を持つことが示唆されました。しかし、長期的な効果や予防効果については、さらなる質の高い研究が必要であることも明らかになりました。",
-      "insight": "スポーツトレーナーやアスリートは、DOMSの症状緩和手段の一つとして鍼治療を検討できます。特に、次回のパフォーマンスまでの回復期間が短い場合に、疲労回復促進の選択肢として活用できる可能性があります。",
-      "published_at": "2026-07-20T16:45:00.000Z"
+      "title": "ドライニーディング：慢性疼痛との闘い",
+      "source": "KPLC 7 News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSdIBjAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSQ?oc=5",
+      "abstract": "ドライニーディングが慢性痛の治療にどのように活用されているかを報じています。この手技では、筋肉内のトリガーポイントに細い針を刺すことで痛みを軽減し、機能改善を促すことが期待されます。",
+      "insight": "鍼灸師やスポーツトレーナーは、慢性的な筋肉痛や機能不全に悩むアスリートに対し、ドライニーディングを治療選択肢の一つとして検討できます。これにより、痛みの管理と運動機能の回復をサポートし、競技パフォーマンス向上に寄与する可能性があります。",
+      "published_at": "2026-08-04T12:41:00.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "長距離走における低炭水化物高脂肪食がパフォーマンスとリカバリーに与える影響",
-      "source": "Sports Nutrition & Metabolism Journal",
-      "url": "https://www.example.com/research/lchf-endurance-performance-r006",
-      "abstract": "マラソンランナー25名を対象に、低炭水化物高脂肪（LCHF）食群と高炭水化物食群を8週間比較し、20kmタイムトライアルのパフォーマンスと運動後の疲労回復マーカーを測定しました。LCHF食群は脂肪酸利用率が向上したものの、高強度運動時のパフォーマンスは高炭水化物食群より劣り、疲労回復に有意な差は見られませんでした。",
-      "insight": "長距離アスリートやコーチは、高強度パフォーマンスを重視する場合、高炭水化物食が依然として有効であることを再確認すべきです。LCHF食は特定の適応があるものの、多くの競技者にとってはパフォーマンス低下のリスクを考慮する必要があるでしょう。",
-      "published_at": "2026-08-04T07:00:00.000Z"
+      "title": "13歳アスリートのための食事プラン：成長を促進し、パフォーマンスを構築し、長期的な健康を維持する",
+      "source": "Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVUtDQV9yWDRZQ2laQWVGVUZDQ0U4TXVILWk0SXpwMW9jSkxHcjJoelZfX3ZDWWxITXNEYlJpRlZJTTNjdnE4dlZJaXhxMTY1NHF2Yl9CVGlfNjZyUTJjNHdDRUVicWQ1aHYyS09ydGpSUjkycUZOTWhUSHZ4Y0s3OTJNUWhrNnl3OG1JYXp5YndJOXBzbXgzbncweTdfZDc1U19MeWR1RTlpWDFYX2FBMEYyNUpmSnlJR1NqY2ctUDN6MTdwRG84dUZuTHBOc2xOQlF1cW9MbWxEUkNZX2xrMUJ3TkdmWW5DdlRkTWk0dEh0WGxGckFnbHZQRnZPc0NwOWp4NU1YSV8yWFhfWmo1T2k3OFhNelRTOFNyS1JZS3RhR2lIczBxMg?oc=5",
+      "abstract": "13歳のアスリート向けの食事プランに焦点を当て、成長の促進、パフォーマンスの構築、そして長期的な健康維持のための栄養戦略を解説しています。適切なカロリー摂取、マクロ栄養素のバランス、そして十分な水分補給の重要性が強調されています。",
+      "insight": "若年アスリートの保護者やコーチは、この食事プランを参考に、成長期に必要な栄養を確保し、トレーニング効果を最大化する食事を計画できます。これにより、将来の健康とパフォーマンスの基盤を築き、持続可能な競技活動をサポートします。",
+      "published_at": "2026-08-04T11:33:18.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "小児期における多様な運動経験が運動能力と将来のスポーツ参加に及ぼす影響",
-      "source": "Journal of Pediatric Exercise Science",
-      "url": "https://www.example.com/research/youth-multi-sport-r007",
-      "abstract": "5歳から12歳までの子どもたちを対象に、様々なスポーツや遊びを経験した群と特定のスポーツに特化した群を5年間追跡調査しました。多様な運動経験を持つ群は、総合的な運動能力（バランス、協調性、敏捷性）が優れており、青年期におけるスポーツ参加意欲も高い傾向にありました。",
-      "insight": "指導者や保護者は、子どもの健全な発育のために、特定の競技に早期から特化させるのではなく、幅広い運動経験を積ませることが重要です。これにより、基礎運動能力の向上だけでなく、生涯にわたるスポーツへの関心を育むことができます。",
-      "published_at": "2026-07-18T10:10:00.000Z"
+      "title": "アスリート健康・パフォーマンスセンターがユースサッカーにおける相対年齢効果を検証",
+      "source": "ECNL",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5",
+      "abstract": "アスリート健康・パフォーマンスセンターが、ユースサッカーにおける相対年齢効果（RAE）について調査した研究を報告しています。RAEとは、同じ年齢カテゴリー内でも生年月日の早い選手が身体的・精神的に有利になる現象を指します。",
+      "insight": "ユーススポーツのコーチや指導者は、相対年齢効果の存在を認識することで、選手の才能評価や育成において生年月日に基づく偏見を減らせます。全ての選手に公平な機会を提供し、長期的な視点での育成に繋がるアプローチを検討する上で重要な視点です。",
+      "published_at": "2026-08-04T00:14:22.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートにおける睡眠の質と競技パフォーマンス、心理的ストレスの関連性",
-      "source": "Sports Medicine & Sleep Review",
-      "url": "https://www.example.com/research/athlete-sleep-performance-r008",
-      "abstract": "プロサッカー選手40名を対象に、シーズン中の睡眠時間、睡眠効率、日中の眠気をウェアラブルデバイスとアンケートで測定し、競技パフォーマンス（走行距離、スプリント回数）と心理的ストレス（POMS）との関連性を分析しました。睡眠の質が低い選手は、競技パフォーマンスが低下し、心理的ストレススコアも有意に高いことが示されました。",
-      "insight": "チームスタッフやトレーナーは、アスリートの睡眠パターンを定期的にモニタリングし、必要に応じて睡眠衛生に関する指導や介入を行うべきです。質の高い睡眠は、身体的パフォーマンス向上だけでなく、精神的健康の維持にも不可欠です。",
-      "published_at": "2026-08-02T13:30:00.000Z"
+      "title": "論説：アスリートの回復を最適化する：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "source": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5",
+      "abstract": "アスリートの回復を最適化し、それがスポーツパフォーマンスに与える影響について考察した論説です。特に、多様な回復戦略と質の高い睡眠が競技力向上にいかに不可欠であるかを強調し、身体的・精神的な要素が密接に関連していることを指摘しています。",
+      "insight": "コーチやアスリートは、単にトレーニングだけでなく、質の高い睡眠や個別化された回復戦略をパフォーマンス向上プログラムに積極的に組み込むべきです。これにより、身体的・精神的な回復を促進し、継続的な高パフォーマンスの維持に貢献します。",
+      "published_at": "2026-04-08T10:40:51.000Z"
     }
   ],
-  "japan_news": [],
-  "global_news": [],
+  "japan_news": [
+    {
+      "id": "j001",
+      "category": "政治",
+      "source": "朝日新聞",
+      "title": "【社説】非核三原則「国は堅持」繰り返す首相 被爆地に広がる批判",
+      "summary": "首相が非核三原則の堅持を繰り返し表明していることに対し、被爆地で批判が広がっている現状を社説で報じています。核兵器を巡る国際情勢と日本の立場、そして被爆者の思いとの乖離が問題視されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WcTEtUlhKN1hJNU02MEM5X3l2STFmNEMzLTVIREtXZ3RJNEtvZkJkcGlkZ0ZLV003V1N3X3Q5YWl2VV9HNWpTWnlkQ09fZVJyRHR5R21hbEt1alE1dk1vekVxZndQSjA?oc=5",
+      "published_at": "2026-08-06T12:00:00.000Z"
+    },
+    {
+      "id": "j002",
+      "category": "国際",
+      "source": "ロイター",
+      "title": "イラン議会委、米・イスラエルなど「敵対的」船舶のホルムズ通航禁止を審議＝報道",
+      "summary": "イラン議会委員会が、米国やイスラエルなどの「敵対的」船舶に対し、ホルムズ海峡の通航を禁止する法案を審議していると報じられました。この動きは、中東地域の地政学的緊張をさらに高める可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2h1S2JnTlJ0ZHpSZUlPYk1SZEJucWUtbU84V2FXSVF1eEhzZUsxTUJTcENOMm1mcm9iR2hzdE1qTFZkbS1id3dKU1E3MnN3NnY0TjA2R3B4ZFhQM2NIUk8wMWo4VlJKZFhONFRvOFVIWmlwTExjc080U3NkamhhemlB?oc=5",
+      "published_at": "2026-08-06T17:40:55.000Z"
+    },
+    {
+      "id": "j003",
+      "category": "社会",
+      "source": "yomiuri.co.jp",
+      "title": "停電で「建物は暑くなり危険」、避難所の開設見送り…車中泊の女性死亡に氷川町長「真夏の災害の備え足りず」",
+      "summary": "停電により建物が高温になり危険と判断され、避難所の開設が見送られた結果、車中泊をしていた女性が死亡した事故が報じられました。氷川町長は、真夏の災害への備えが不十分だったと反省の弁を述べています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QdUVVSzd6Z2d6QnhwZjZqNFYtM2VlM2hzT3NsTUswZ09tUzQ3aktjVmc3OWEzSEJDNnJaa2VZd3RJVjFRdzAzLXAtdElkODVob1M1U3plcW5GVVg2U0toYUxyMXMydw?oc=5",
+      "published_at": "2026-08-06T20:00:00.000Z"
+    },
+    {
+      "id": "j004",
+      "category": "社会",
+      "source": "yomiuri.co.jp",
+      "title": "新御堂筋でせり上がった鋼鉄管、軟弱地盤との隙間埋める充填剤を使用せず…工事受注業者「深くお詫び」",
+      "summary": "新御堂筋で鋼鉄管がせり上がる事故が発生し、その原因が軟弱地盤との隙間を埋める充填剤が使用されていなかったことにあると報じられました。工事受注業者はこの事態に対し、深くお詫びの意を表明しています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43cEJHZnV4N2ZPT214bTh2YWZGbjVoV0RCTmFaZ3NqeEhHYzFkOHBlTl9wWGk0anc1OHpzUTRvekZpbm9zblUtamxXV3p3S3ZUdW4tVW5paTliNHdTLUk2VzJyNmVTQQ?oc=5",
+      "published_at": "2026-08-06T22:35:00.000Z"
+    },
+    {
+      "id": "j005",
+      "category": "環境・気候",
+      "source": "tenki.jp",
+      "title": "7日は台風13号が沖縄や奄美に最接近　線状降水帯発生のおそれ　長時間の暴風・高波(気象予報士 青山　亜紀子 2026年08月07日)",
+      "summary": "8月7日、台風13号が沖縄と奄美に最接近する見込みで、気象予報士は線状降水帯が発生する恐れがあると警告しています。長時間にわたる暴風や高波に厳重な警戒が必要とされており、住民への注意喚起が促されています。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PcEJOakxkQWo2T2ZScFh5djV4YVNWcnBpaEY5Rkt2NndTT0JBaHZtb1BXRVcxOU9PZ1J1TlZFLU5TWUFzcFo5TjZrLVpHV3VDdHJhZ29KUHNPUTdNSEhSMC1QMW1vRFRDdGfSAW9BVV95cUxQWGNuNUE5SzNfdmYzVDltTktGUE9yMVhrdEFoMl9JblM0eTdCblpod2VRdlpkSi1tSmtPelhBQVlyR01PVGtydlFzWG90RHJLakN4cllEZXFwcTE0QXp4aFgyeVBKd1BnMkI4UUhOQmc?oc=5",
+      "published_at": "2026-08-06T21:05:37.000Z"
+    }
+  ],
+  "global_news": [
+    {
+      "id": "g001",
+      "category": "Politics",
+      "region": "US",
+      "source": "The Guardian",
+      "title": "ACLU、トランプ氏の出生地主義に関する新命令を非難、裁判で失敗すると主張",
+      "summary": "アメリカ自由人権協会（ACLU）は、トランプ氏による出生地主義に関する新たな大統領令を強く批判し、裁判所での敗訴は避けられないと主張しています。これは、移民政策を巡る法廷闘争の激化を示唆しており、憲法上の権利に関する議論を巻き起こしています。",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZDlNZ2p5b2trMGtSdEZNLXNySC1YdXU3MC12NEhvcDhiRHhuQ2xZQ251V2JDSlFfdWxsZzNveXF1RzhUVVEtc3g2NUZaMmZibzBEQjItZ3NaWDdyWVpVR3RxVHpyeWQ3S0xJbUdad2JGQVpoNW5YaVFvV0hxek9ZbUFyVTAySHFNd3VSbi00Yy1qaVlsXzE4cFAxVGJlQXBfY3lRdElNS1h4QVcta0E0MUJpVFpiWnNMNjcwcUFTTGFrbm1EM3RZclM1NXVMa2o1TWloS24wVmRRYlZBaHNHQlhzUjNleE90Y0lLOHU5TTBoWkNfaFE?oc=5",
+      "published_at": "2026-08-06T22:46:02.000Z"
+    },
+    {
+      "id": "g002",
+      "category": "Politics",
+      "region": "US",
+      "source": "CNN",
+      "title": "トランプ氏、弾薬枯渇の報道に激怒 — イランとの交渉で自身を弱めると考える",
+      "summary": "トランプ氏が、米国の弾薬枯渇に関する報道に怒りを露わにしていると伝えられています。彼はこの情報が、イランとの核交渉において自身の立場を弱めると考えているようです。この報道は、安全保障政策に関する彼の見解と国際交渉への影響を浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxZVVjMXJGbmU0UzhMeUJ1UG5kYm9hZ0k4WV9LallRS21FaGdCYnlKYlRBZDZzQWJGSVRneXZ5NGlPSjU2cW1NWHRNalpIOXUyR1h4cldpRVhDOFRXcTFGVXQwa1VJcEUteGRaUjVWVnNxSTZOSnVsSl9xSQ?oc=5",
+      "published_at": "2026-08-06T17:32:12.000Z"
+    },
+    {
+      "id": "g003",
+      "category": "Politics",
+      "region": "US",
+      "source": "NBC News",
+      "title": "ミッチ・マコーネル上院議員、6月中旬の入院後、リハビリセンターを退院",
+      "summary": "6月中旬に入院していたミッチ・マコーネル上院議員が、リハビリセンターを退院したことが報じられました。彼の健康状態は、共和党のリーダーシップと今後の上院での活動に重要な影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE5JaEhpV0ZrYWFkWXpJWGFJVzM2N2V1cXJxb0tiVloyRkIwSEt0WGVoNFVSRnFmT2h5d0hOd1g0bDRfYVI5TTRtSTBHZkVZWmhGbFNpU3NuQnlkaTVCczQ1NkloZUlRVHBlN2NuTDhPMHJhemNJMk5ISGFFTnJMNU0yQ3dHYUxhMzVqQnlwcEJ2WjMxVElVbkVLR1BwUnI4UDZvQW1NRHJpUVJKQjVnS2N2VmtQREpt?oc=5",
+      "published_at": "2026-08-06T19:12:44.000Z"
+    },
+    {
+      "id": "g004",
+      "category": "Politics",
+      "region": "US",
+      "source": "NBC News",
+      "title": "IRS職員グループが1月6日の「裏金」訴訟に参加、トランプ氏の監査優遇措置阻止を求める",
+      "summary": "内国歳入庁（IRS）の職員グループが、2021年1月6日の議事堂襲撃事件に関連する「裏金」訴訟に参加し、トランプ氏に対する監査の優遇措置を阻止するよう求めています。この訴訟は、政治と税務の透明性、そして元大統領の財政に関する新たな議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTXZ3SWR3T0JRY21EODVGODlWSlZHZFBPLW1leGN1a2RMcTNaWndHbjAybUE2QXFkb2VRSE5HUmwwYUNCUTliMFVQWXgxRmpVWnhta29hVkFweDhzTEI0RzlJWTAyZ2gzclNJcC1iNFVhZkgwZmtPTUNiQ1pERTJNdWxfZ21yNE9YNU4xOWVBVzBKVFFQZ2lVV0xrZk1jRENvYzJUdGlJSERiR19kdmU1V3hkN2kwVTJBMmpmb2dWTnN6ODJSN044Ym1OX281Zw?oc=5",
+      "published_at": "2026-08-06T19:50:42.000Z"
+    },
+    {
+      "id": "g005",
+      "category": "Society",
+      "region": "US",
+      "source": "AP News",
+      "title": "リンジー・クランシー被告、幼い子供の検視写真が陪審員に提示される中、殺人裁判で泣き崩れる",
+      "summary": "殺人罪で裁判中のリンジー・クランシー被告が、自身の幼い子供たちの検視写真が陪審員に提示された際に法廷で泣き崩れたと報じられています。この痛ましい事件は、子殺しと精神衛生の問題に焦点を当て、広範な社会的な議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0kwZTRDRDNwdWJnyWlEamlndGxhRGxHZldyUEZZemlESnVJdWkwZnhZOFQtakZ0dkhiNm82am5KTTVWU3Iya1BweE9JX05IQXU3Z3oweV81eExJeVBIZmxXWEhXSHRpSnNsREM0OHd5NDdQNkdGQndJeWY1VGFXZFQ5X0k4NGhEb2pnZTBWeTl0OXVZX3J5WmZuMmdUaExEc3czXw?oc=5",
+      "published_at": "2026-08-06T20:34:00.000Z"
+    }
+  ],
   "weekly_top20": [
     {
       "rank": 1,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手のアジリティパフォーマンスと傷害予防に対する仮想現実支援神経筋トレーニングの効果：対照実験室研究",
+      "summary": "バスケットボール選手を対象とした管理された実験室研究で、仮想現実（VR）を活用した神経筋トレーニングがアジリティパフォーマンスとACL（前十字靭帯）損傷予防に与える影響を評価しました。VRを用いたトレーニングは、選手の反応速度や方向転換能力を向上させ、ACL損傷リスクを低減する可能性が示唆されました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "スプリント科学における先駆者たちとパラダイム：主題別歴史ミニレビュー",
+      "summary": "このミニレビューは、スプリント科学の歴史的発展に貢献した主要な研究者と理論的枠組みを概観しています。スプリントパフォーマンスの理解とトレーニング方法の進化における重要なパラダイムシフトを主題別に分析しました。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZno1T3l0QklmZ2hOVF94MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "ペプチド：医師が利点、リスク、FDAの懸念を解説",
+      "summary": "医師がペプチドの潜在的な利点、関連するリスク、および米国食品医薬品局（FDA）の懸念について詳細に解説しています。スポーツ医学分野でのペプチドの使用が増加する中で、その安全性と有効性に関する重要な情報を提供します。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "origin_tab": "latest_research",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの実装",
+      "summary": "スポーツリハビリテーションにおいて非線形ピリオダイゼーションをどのように導入するかについて考察しています。このアプローチは、固定された負荷や運動量のパターンに従うのではなく、個々の回復段階や進捗に応じてトレーニング強度や量を柔軟に変化させるものです。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "origin_tab": "latest_research",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "ドライニーディング：慢性疼痛との闘い",
+      "summary": "ドライニーディングが慢性痛の治療にどのように活用されているかを報じています。この手技では、筋肉内のトリガーポイントに細い針を刺すことで痛みを軽減し、機能改善を促すことが期待されます。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSdIBjAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSQ?oc=5"
+    },
+    {
+      "rank": 6,
+      "origin_tab": "latest_research",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "13歳アスリートのための食事プラン：成長を促進し、パフォーマンスを構築し、長期的な健康を維持する",
+      "summary": "13歳のアスリート向けの食事プランに焦点を当て、成長の促進、パフォーマンスの構築、そして長期的な健康維持のための栄養戦略を解説しています。適切なカロリー摂取、マクロ栄養素のバランス、そして十分な水分補給の重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVUtDQV9yWDRZQ2laQWVGVUZDQ0U4TXVILWk0SXpwMW9jSkxHcjJoelZfX3ZDWWxITXNEYlJpRlZJTTNjdnE4dlZJaXhxMTY1NHF2Yl9CVGlfNjZyUTJjNHdDRUVicWQ1aHYyS09ydGpSUjkycUZOTWhUSHZ4Y0s3OTJNUWhrNnl3OG1JYXp5YndJOXBzbXgzbncweTdfZDc1U19MeWR1RTlpWDFYX2FBMEYyNUpmSnlJR1NqY2ctUDN6MTdwRG84dUZuTHBOc2xOQlF1cW9MbWxEUkNZX2xrMUJ3TkdmWW5DdlRkTWk0dEh0WGxGckFnbHZQRnZPc0NwOWp4NU1YSV8yWFhfWmo1T2k3OFhNelRTOFNyS1JZS3RhR2lIczBxMg?oc=5"
+    },
+    {
+      "rank": 7,
+      "origin_tab": "latest_research",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "アスリート健康・パフォーマンスセンターがユースサッカーにおける相対年齢効果を検証",
+      "summary": "アスリート健康・パフォーマンスセンターが、ユースサッカーにおける相対年齢効果（RAE）について調査した研究を報告しています。RAEとは、同じ年齢カテゴリー内でも生年月日の早い選手が身体的・精神的に有利になる現象を指します。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
+    },
+    {
+      "rank": 8,
+      "origin_tab": "latest_research",
+      "category": "Sleep Science / Mental Performance",
+      "title": "論説：アスリートの回復を最適化する：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "summary": "アスリートの回復を最適化し、それがスポーツパフォーマンスに与える影響について考察した論説です。特に、多様な回復戦略と質の高い睡眠が競技力向上にいかに不可欠であるかを強調し、身体的・精神的な要素が密接に関連していることを指摘しています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "【社説】非核三原則「国は堅持」繰り返す首相 被爆地に広がる批判",
+      "summary": "首相が非核三原則の堅持を繰り返し表明していることに対し、被爆地で批判が広がっている現状を社説で報じています。核兵器を巡る国際情勢と日本の立場、そして被爆者の思いとの乖離が問題視されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WcTEtUlhKN1hJNU02MEM5X3l2STFmNEMzLTVIREtXZ3RJNEtvZkJkcGlkZ0ZLV003V1N3X3Q5YWl2VV9HNWpTWnlkQ09fZVJyRHR5R21hbEt1alE1dk1vekVxZndQSjA?oc=5"
+    },
+    {
+      "rank": 10,
+      "origin_tab": "japan_news",
+      "category": "国際",
+      "title": "イラン議会委、米・イスラエルなど「敵対的」船舶のホルムズ通航禁止を審議＝報道",
+      "summary": "イラン議会委員会が、米国やイスラエルなどの「敵対的」船舶に対し、ホルムズ海峡の通航を禁止する法案を審議していると報じられました。この動きは、中東地域の地政学的緊張をさらに高める可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2h1S2JnTlJ0ZHpSZUlPYk1SZEJucWUtbU84V2FXSVF1eEhzZUsxTUJTcENOMm1mcm9iR2hzdE1qTFZkbS1id3dKU1E3MnN3NnY0TjA2R3B4ZFhQM2NIUk8wMWo4VlJKZFhONFRvOFVIWmlwTExjc080U3NkamhhemlB?oc=5"
+    },
+    {
+      "rank": 11,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "停電で「建物は暑くなり危険」、避難所の開設見送り…車中泊の女性死亡に氷川町長「真夏の災害の備え足りず」",
+      "summary": "停電により建物が高温になり危険と判断され、避難所の開設が見送られた結果、車中泊をしていた女性が死亡した事故が報じられました。氷川町長は、真夏の災害への備えが不十分だったと反省の弁を述べています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QdUVVSzd6Z2d6QnhwZjZqNFYtM2VlM2hzT3NsTUswZ09tUzQ3aktjVmc3OWEzSEJDNnJaa2VZd3RJVjFRdzAzLXAtdElkODVob1M1U3plcW5GVVg2U0toYUxyMXMydw?oc=5"
+    },
+    {
+      "rank": 12,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "新御堂筋でせり上がった鋼鉄管、軟弱地盤との隙間埋める充填剤を使用せず…工事受注業者「深くお詫び」",
+      "summary": "新御堂筋で鋼鉄管がせり上がる事故が発生し、その原因が軟弱地盤との隙間を埋める充填剤が使用されていなかったことにあると報じられました。工事受注業者はこの事態に対し、深くお詫びの意を表明しています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43cEJHZnV4N2ZPT214bTh2YWZGbjVoV0RCTmFaZ3NqeEhHYzFkOHBlTl9wWGk0anc1OHpzUTRvekZpbm9zblUtamxXV3p3S3ZUdW4tVW5paTliNHdTLUk2VzJyNmVTQQ?oc=5"
+    },
+    {
+      "rank": 13,
+      "origin_tab": "japan_news",
+      "category": "環境・気候",
+      "title": "7日は台風13号が沖縄や奄美に最接近　線状降水帯発生のおそれ　長時間の暴風・高波(気象予報士 青山　亜紀子 2026年08月07日)",
+      "summary": "8月7日、台風13号が沖縄と奄美に最接近する見込みで、気象予報士は線状降水帯が発生する恐れがあると警告しています。長時間にわたる暴風や高波に厳重な警戒が必要とされており、住民への注意喚起が促されています。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PcEJOakxkQWo2T2ZScFh5djV4YVNWcnBpaEY5Rkt2NndTT0JBaHZtb1BXRVcxOU9PZ1J1TlZFLU5TWUFzcFo5TjZrLVpHV3VDdHJhZ29KUHNPUTdNSEhSMC1QMW1vRFRDdGfSAW9BVV95cUxQWGNuNUE5SzNfdmYzVDltTktGUE9yMVhrdEFoMl9JblM0eTdCblpod2VRdlpkSi1tSmtPelhBQVlyR01PVGtydlFzWG90RHJLakN4cllEZXFwcTE0QXp4aFgyeVBKd1BnMkI4UUhOQmc?oc=5"
+    },
+    {
+      "rank": 14,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ACLU、トランプ氏の出生地主義に関する新命令を非難、裁判で失敗すると主張",
+      "summary": "アメリカ自由人権協会（ACLU）は、トランプ氏による出生地主義に関する新たな大統領令を強く批判し、裁判所での敗訴は避けられないと主張しています。これは、移民政策を巡る法廷闘争の激化を示唆しており、憲法上の権利に関する議論を巻き起こしています。",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZDlNZ2p5b2trMGtSdEZNLXNySC1YdXU3MC12NEhvcDhiRHhuQ2xZQ251V2JDSlFfdWxsZzNveXF1RzhUVVEtc3g2NUZaMmZibzBEQjItZ3NaWDdyWVpVR3RxVHpyeWQ3S0xJbUdad2JGQVpoNW5YaVFvV0hxek9ZbUFyVTAySHFNd3VSbi00Yy1qaVlsXzE4cFAxVGJlQXBfY3lRdElNS1h4QVcta0E0MUJpVFpiWnNMNjcwcUFTTGFrbm1EM3RZclM1NXVMa2o1TWloS24wVmRRYlZBaHNHQlhzUjNleE90Y0lLOHU5TTBoWkNfaFE?oc=5"
+    },
+    {
+      "rank": 15,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "トランプ氏、弾薬枯渇の報道に激怒 — イランとの交渉で自身を弱めると考える",
+      "summary": "トランプ氏が、米国の弾薬枯渇に関する報道に怒りを露わにしていると伝えられています。彼はこの情報が、イランとの核交渉において自身の立場を弱めると考えているようです。この報道は、安全保障政策に関する彼の見解と国際交渉への影響を浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxZVVjMXJGbmU0UzhMeUJ1UG5kYm9hZ0k4WV9LallRS21FaGdCYnlKYlRBZDZzQWJGSVRneXZ5NGlPSjU2cW1NWHRNalpIOXUyR1h4cldpRVhDOFRXcTFGVXQwa1VJcEUteGRaUjVWVnNxSTZOSnVsSl9xSQ?oc=5"
+    },
+    {
+      "rank": 16,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ミッチ・マコーネル上院議員、6月中旬の入院後、リハビリセンターを退院",
+      "summary": "6月中旬に入院していたミッチ・マコーネル上院議員が、リハビリセンターを退院したことが報じられました。彼の健康状態は、共和党のリーダーシップと今後の上院での活動に重要な影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE5JaEhpV0ZrYWFkWXpJWGFJVzM2N2V1cXJxb0tiVloyRkIwSEt0WGVoNFVSRnFmT2h5d0hOd1g0bDRfYVI5TTRtSTBHZkVZWmhGbFNpU3NuQnlkaTVCczQ1NkloZUlRVHBlN2NuTDhPMHJhemNJMk5ISGFFTnJMNU0yQ3dHYUxhMzVqQnlwcEJ2WjMxVElVbkVLR1BwUnI4UDZvQW1NRHJpUVJKQjVnS2N2VmtQREpt?oc=5"
+    },
+    {
+      "rank": 17,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "IRS職員グループが1月6日の「裏金」訴訟に参加、トランプ氏の監査優遇措置阻止を求める",
+      "summary": "内国歳入庁（IRS）の職員グループが、2021年1月6日の議事堂襲撃事件に関連する「裏金」訴訟に参加し、トランプ氏に対する監査の優遇措置を阻止するよう求めています。この訴訟は、政治と税務の透明性、そして元大統領の財政に関する新たな議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTXZ3SWR3T0JRY21EODVGODlWSlZHZFBPLW1leGN1a2RMcTNaWndHbjAybUE2QXFkb2VRSE5HUmwwYUNCUTliMFVQWXgxRmpVWnhta29hVkFweDhzTEI0RzlJWTAyZ2gzclNJcC1iNFVhZkgwZmtPTUNiQ1pERTJNdWxfZ21yNE9YNU4xOWVBVzBKVFFQZ2lVV0xrZk1jRENvYzJUdGlJSERiR19kdmU1V3hkN2kwVTJBMmpmb2dWTnN6ODJSN044Ym1OX281Zw?oc=5"
+    },
+    {
+      "rank": 18,
+      "origin_tab": "global_news",
+      "category": "Society",
+      "title": "リンジー・クランシー被告、幼い子供の検視写真が陪審員に提示される中、殺人裁判で泣き崩れる",
+      "summary": "殺人罪で裁判中のリンジー・クランシー被告が、自身の幼い子供たちの検視写真が陪審員に提示された際に法廷で泣き崩れたと報じられています。この痛ましい事件は、子殺しと精神衛生の問題に焦点を当て、広範な社会的な議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0kwZTRDRDNwdWJnyWlEamlndGxhRGxHZldyUEZZemlESnVJdWkwZnhZOFQtakZ0dkhiNm82am5KTTVWU3Iya1BweE9JX05IQXU3Z3oweV81eExJeVBIZmxXWEhXSHRpSnNsREM0OHd5NDdQNkdGQndJeWY1VGFXZFQ5X0k4NGhEb2pnZTBWeTl0OXVZX3J5WmZuMmdUaExEc3czXw?oc=5"
+    },
+    {
+      "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
       "title": "若年アスリートにおけるACL損傷予防のための統合的トレーニングプログラムの効果",
@@ -95,156 +336,12 @@ window.DIGEST_DATA = {
       "url": "https://www.example.com/research/acl-prevention-youth-athletes-r001"
     },
     {
-      "rank": 2,
+      "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
       "title": "ランニング時の着地パターンが膝関節負荷に与える影響の三次元バイオメカニクス解析",
       "summary": "経験豊富なランナー20名を対象に、フォアフット着地とヒールストライク着地における膝関節の内転モーメントと衝撃吸収率を三次元動作解析により比較しました。フォアフット着地はヒールストライクに比べ、初期衝撃ピークを低減する一方で、膝関節への回旋負荷が増加する傾向が見られました。",
       "url": "https://www.example.com/research/running-gait-knee-load-r002"
-    },
-    {
-      "rank": 3,
-      "origin_tab": "latest_research",
-      "category": "Sports Medicine / Orthopedics",
-      "title": "スポーツ選手のハムストリング損傷に対するPRP療法と標準的理学療法の比較研究",
-      "summary": "ハムストリング肉離れ（グレードII）を発症したプロアスリート50名を対象に、PRP（多血小板血漿）注入と標準的な理学療法を併用した群と、理学療法単独群で復帰までの期間と再損傷率を比較しました。PRP併用群は復帰までの期間が平均1週間短縮され、6ヶ月以内の再損傷率も有意に低かったです。",
-      "url": "https://www.example.com/research/hamstring-prp-therapy-r003"
-    },
-    {
-      "rank": 4,
-      "origin_tab": "latest_research",
-      "category": "Rehabilitation / Physical Therapy",
-      "title": "慢性足関節不安定症に対するプロプリオセプション訓練の長期効果：ランダム化比較試験",
-      "summary": "慢性的な足関節不安定症を持つ成人患者40名を対象に、バランスボードや不安定面を用いたプロプリオセプション訓練群と通常の筋力訓練群を6ヶ月間追跡調査しました。プロプリオセプション訓練群は、バランス能力と主観的な足関節安定性が有意に向上し、再負傷率も低減しました。",
-      "url": "https://www.example.com/research/ankle-instability-proprioception-r004"
-    },
-    {
-      "rank": 5,
-      "origin_tab": "latest_research",
-      "category": "Oriental Medicine / Acupuncture",
-      "title": "運動誘発性筋肉痛に対する鍼治療の即時効果と遅延効果：システマティックレビュー",
-      "summary": "運動誘発性筋肉痛（DOMS）に対する鍼治療の効果を検証した複数のランダム化比較試験を分析しました。その結果、鍼治療はDOMS発症後の痛みの軽減と筋機能の回復を促進する即時効果を持つことが示唆されました。しかし、長期的な効果や予防効果については、さらなる質の高い研究が必要であることも明らかになりました。",
-      "url": "https://www.example.com/research/doms-acupuncture-review-r005"
-    },
-    {
-      "rank": 6,
-      "origin_tab": "latest_research",
-      "category": "Nutrition / Supplements / Recovery",
-      "title": "長距離走における低炭水化物高脂肪食がパフォーマンスとリカバリーに与える影響",
-      "summary": "マラソンランナー25名を対象に、低炭水化物高脂肪（LCHF）食群と高炭水化物食群を8週間比較し、20kmタイムトライアルのパフォーマンスと運動後の疲労回復マーカーを測定しました。LCHF食群は脂肪酸利用率が向上したものの、高強度運動時のパフォーマンスは高炭水化物食群より劣り、疲労回復に有意な差は見られませんでした。",
-      "url": "https://www.example.com/research/lchf-endurance-performance-r006"
-    },
-    {
-      "rank": 7,
-      "origin_tab": "latest_research",
-      "category": "Pediatric Exercise / Youth Development",
-      "title": "小児期における多様な運動経験が運動能力と将来のスポーツ参加に及ぼす影響",
-      "summary": "5歳から12歳までの子どもたちを対象に、様々なスポーツや遊びを経験した群と特定のスポーツに特化した群を5年間追跡調査しました。多様な運動経験を持つ群は、総合的な運動能力（バランス、協調性、敏捷性）が優れており、青年期におけるスポーツ参加意欲も高い傾向にありました。",
-      "url": "https://www.example.com/research/youth-multi-sport-r007"
-    },
-    {
-      "rank": 8,
-      "origin_tab": "latest_research",
-      "category": "Sleep Science / Mental Performance",
-      "title": "アスリートにおける睡眠の質と競技パフォーマンス、心理的ストレスの関連性",
-      "summary": "プロサッカー選手40名を対象に、シーズン中の睡眠時間、睡眠効率、日中の眠気をウェアラブルデバイスとアンケートで測定し、競技パフォーマンス（走行距離、スプリント回数）と心理的ストレス（POMS）との関連性を分析しました。睡眠の質が低い選手は、競技パフォーマンスが低下し、心理的ストレススコアも有意に高いことが示されました。",
-      "url": "https://www.example.com/research/athlete-sleep-performance-r008"
-    },
-    {
-      "rank": 9,
-      "origin_tab": "latest_research",
-      "category": "Athletic Training / ACL Prevention",
-      "title": "The Menstrual Cycle and the Female Athlete",
-      "summary": "女性アスリートのパフォーマンスと怪我のリスクは、月経周期の変動によって影響を受けることが示されています。エストロゲンとプロゲステロンのレベルの変化が、関節の弛緩度、筋肉の回復能力、エネルギー代謝に影響を与える可能性があります。これにより、特にACL損傷のような特定の怪我のリスクが増加することが指摘されています。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUl5QVByWkw5Q3hfSko0dmF2T2YtbEgxTENxMk5pMHkwMkpMOG54OWFFa2tKRnF0ZnZwUkppbnBBQ3gtNXI2QUtDbi11cUw0Z3ItajhGUDNlXzQwYm52TVIxdkF2TkJ1a2k0b2VMOW5BZGZ6ZDZ2YlZ5SDRwUzE2Uk9XN29hMG9y?oc=5"
-    },
-    {
-      "rank": 10,
-      "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "Pioneers and paradigms in sprint science: a thematic historical mini review",
-      "summary": "本レビューは、スプリント科学の歴史的発展と主要な研究パラダイムをテーマ別に検証しています。過去の研究がどのようにスプリントパフォーマンスの生体力学的・生理学的理解を深めてきたか、そして現代のトレーニング理論に与えた影響を分析しています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
-    },
-    {
-      "rank": 11,
-      "origin_tab": "latest_research",
-      "category": "Sports Medicine / Orthopedics",
-      "title": "Peptides: Doctors explain the benefits, risks and FDA concerns",
-      "summary": "ペプチドは、細胞機能の調節に関与するアミノ酸の短い鎖であり、近年、アンチエイジング、筋肉増強、怪我の回復など様々な目的で注目されています。医師たちは、その潜在的な利点と同時に、FDA未承認の製品におけるリスクや安全性への懸念を指摘しています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
-    },
-    {
-      "rank": 12,
-      "origin_tab": "latest_research",
-      "category": "Rehabilitation / Physical Therapy",
-      "title": "Implementing non-linear periodization in sport rehabilitation",
-      "summary": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入に関する研究では、運動負荷を非系統的に変動させることで、より効果的な回復とパフォーマンス向上を達成できる可能性が示唆されています。このアプローチは、従来の線形ピリオダイゼーションよりも柔軟性があり、個々のアスリートの回復状況に適応しやすいとされています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzVrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
-    },
-    {
-      "rank": 13,
-      "origin_tab": "latest_research",
-      "category": "Oriental Medicine / Acupuncture",
-      "title": "Dry Needling: Battling chronic pain",
-      "summary": "ドライニードリングは、慢性疼痛の治療法として注目されており、トリガーポイントに細い針を刺入することで筋肉の緊張を緩和し、痛みを軽減する効果が期待されます。この手技は、筋肉骨格系の疼痛管理に有効である可能性が複数の症例で報告されています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSdIBjAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSQ?oc=5"
-    },
-    {
-      "rank": 14,
-      "origin_tab": "latest_research",
-      "category": "Nutrition / Supplements / Recovery",
-      "title": "Top 9 sports supplements for athletes: The truth about creatine, caffeine, gels, and L-Carnitine",
-      "summary": "アスリート向けの主要なスポーツサプリメントとして、クレアチン、カフェイン、エネルギーゲル、L-カルニチンなどが挙げられます。この記事では、これらのサプリメントがパフォーマンス向上にどのように寄与するか、科学的根拠に基づいた真実と誤解について解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
-    },
-    {
-      "rank": 15,
-      "origin_tab": "latest_research",
-      "category": "Pediatric Exercise / Youth Development",
-      "title": "Navigating peptides, body image, and muscle development with Dr. Kornswiet - CHOC",
-      "summary": "小児および青少年におけるペプチドの使用、ボディイメージ、筋肉発達に関する専門家（Dr. Kornswiet）の視点を紹介しています。若年層での筋肉増強や外見への過度な関心が、未承認のサプリメントやペプチド使用へと繋がりかねないリスクが強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDdZWG1LRFREampHTUFUQm5vZjQ3c0tqcW96SVdaNXYxTXlJRzJSYkdxa2pYenFIMzRRM3RYdWlTaFRfUURnSDVkSmtLNmRfNmFxVkpmYzBfYVJaei12cWJIUmxIUF93M1gyYXpDVHFkZzR3WHhHYnVHdmdodXE3OVhTbTZrUk5nekRZZU9UeEFobUxxQjlIY1QzMjM?oc=5"
-    },
-    {
-      "rank": 16,
-      "origin_tab": "latest_research",
-      "category": "Sleep Science / Mental Performance",
-      "title": "MCCH hosts MSU men's basketball team for sleep and performance presentation",
-      "summary": "MCCHがMSU男子バスケットボールチーム向けに睡眠とパフォーマンスに関するプレゼンテーションを実施したことが報じられています。このイベントでは、アスリートの最適な回復と競技力向上のために、質の高い睡眠が不可欠であるという重要性が強調されました。",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRjJNMjkzeXZWQ0JlaFR5MGlGQndnM3hqWXpBUmJaYTg0UkJBN1JyMHQ1N01CUjdJdUpYYS1Gb3hfeG9pSTJOa3RxNHhnb28tc3RESmZxSXdzSzhReUhtcE5VaWlJQlBIMlJYX3F1dzJYbzdLMFZ1OHJNUkN6N2RqLUx4T2lNSE9JTGFRX0hDQVpydTFoYi1CRWducmFtNjFQOTdOMjlsOTdmc0Y1RXVTXy1kbUZyVWllejh0Vnk2WF9KbUQyTjRzZTFrQmhXd050WG1Kenp5Q0RKYUQtMWRDRUVQN3ZuUTByVHFaTW1LSHV3RVMzQkd5dw?oc=5"
-    },
-    {
-      "rank": 17,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "＜2026年熊本地震＞7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "summary": "2026年熊本地震で7人の犠牲者を出したイオンモール熊本で、避難後の再入館について生存したテナント従業員らの証言を基に検証が行われました。危険な状況下でなぜ人々が建物に戻ったのか、その背景にある実態が浮き彫りになっています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PbU1DOWs3ZWJ3WjFYNXpNbHk3d3NKekxaMGww00pxZ0lNQWRBQUJabkxjUTUwMHhqV0pNYW5UaE1OcTlkWXktTDV2dzNyZmdkYmU0YU42Q1ctbzcwMXd0SG45dnU4S3Q5aHF2eDlFOVctZkJPTzZ4R1NPSk4teEE?oc=5"
-    },
-    {
-      "rank": 18,
-      "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風13号(ドルフィン) 沖縄では数日にわたり暴風雨となるおそれ",
-      "summary": "台風13号（ドルフィン）が沖縄地方に接近しており、数日間にわたって暴風雨が続く恐れがあるとウェザーニュースが報じています。住民は厳重な警戒と早めの対策が呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12NTBKM0FuMVNudmd2MW04TERqX2k1TG5MbmxMVUE3UjVRM0h3MGd2bXpvd2dIdHNBN3BOenV3U013VHRfOUFacEtSY3NhbUJGU2NDXw?oc=5"
-    },
-    {
-      "rank": 19,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "警官が刃物男に発砲、搬送先で死亡 警告や威嚇射撃応じず 大阪・河内長野市のスーパー前",
-      "summary": "大阪府河内長野市のスーパー前で、警官が刃物を持った男に発砲し、男は搬送先の病院で死亡しました。警察によると、男は警告や威嚇射撃に応じなかったとのことです。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jei13bTlhZlZrRHJnM3BHSFBqWTk2bG11S1NDNE93QVJMalJ4UFU2bmFCZmY2LU01ZVZmVXBFTWhLdkhkWkFPb0c0RXNyaUNaM0xXNi01MUd5bUNrdUdGRVJjRFBobHV3bHhGMklVQ0E3Wjk3eHc?oc=5"
-    },
-    {
-      "rank": 20,
-      "origin_tab": "japan_news",
-      "category": "医療・健康",
-      "title": "熊本 5日から船舶を活用し医療チームが診療や健康相談など開始",
-      "summary": "熊本地震の被災地支援として、5日から船舶を活用した医療チームが現地で診療や健康相談を開始します。移動困難な地域への医療提供を目指し、被災者の健康維持に貢献する取り組みです。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNUhERkpHVEphSEZCLW1Bd2ZZa21IWTc4RVByQ043ZGVmVkZFR0dJaTlNODZNMzZ5OVF3Wm0yWFgzb3JfeDhjU0tCWUYtY1Zwc25XallMRnFoM1BoYVMw?oc=5"
     }
   ],
   "monthly_top20": [
@@ -252,161 +349,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "若年アスリートにおけるACL損傷予防のための統合的トレーニングプログラムの効果",
-      "summary": "成長期のサッカー選手を対象に、神経筋制御、プライオメトリクス、筋力トレーニングを組み合わせた6週間のプログラムを導入しました。プログラム群は対照群と比較して、膝関節の動的安定性が向上し、着地時の外反ストレスが有意に減少しました。これにより、ACL損傷リスクを低減できる可能性が示唆されました。",
-      "url": "https://www.example.com/research/acl-prevention-youth-athletes-r001"
+      "title": "バスケットボール選手のアジリティパフォーマンスと傷害予防に対する仮想現実支援神経筋トレーニングの効果：対照実験室研究",
+      "summary": "バスケットボール選手を対象とした管理された実験室研究で、仮想現実（VR）を活用した神経筋トレーニングがアジリティパフォーマンスとACL（前十字靭帯）損傷予防に与える影響を評価しました。VRを用いたトレーニングは、選手の反応速度や方向転換能力を向上させ、ACL損傷リスクを低減する可能性が示唆されました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "ランニング時の着地パターンが膝関節負荷に与える影響の三次元バイオメカニクス解析",
-      "summary": "経験豊富なランナー20名を対象に、フォアフット着地とヒールストライク着地における膝関節の内転モーメントと衝撃吸収率を三次元動作解析により比較しました。フォアフット着地はヒールストライクに比べ、初期衝撃ピークを低減する一方で、膝関節への回旋負荷が増加する傾向が見られました。",
-      "url": "https://www.example.com/research/running-gait-knee-load-r002"
+      "title": "スプリント科学における先駆者たちとパラダイム：主題別歴史ミニレビュー",
+      "summary": "このミニレビューは、スプリント科学の歴史的発展に貢献した主要な研究者と理論的枠組みを概観しています。スプリントパフォーマンスの理解とトレーニング方法の進化における重要なパラダイムシフトを主題別に分析しました。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZno1T3l0QklmZ2hOVF94MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "スポーツ選手のハムストリング損傷に対するPRP療法と標準的理学療法の比較研究",
-      "summary": "ハムストリング肉離れ（グレードII）を発症したプロアスリート50名を対象に、PRP（多血小板血漿）注入と標準的な理学療法を併用した群と、理学療法単独群で復帰までの期間と再損傷率を比較しました。PRP併用群は復帰までの期間が平均1週間短縮され、6ヶ月以内の再損傷率も有意に低かったです。",
-      "url": "https://www.example.com/research/hamstring-prp-therapy-r003"
+      "title": "ペプチド：医師が利点、リスク、FDAの懸念を解説",
+      "summary": "医師がペプチドの潜在的な利点、関連するリスク、および米国食品医薬品局（FDA）の懸念について詳細に解説しています。スポーツ医学分野でのペプチドの使用が増加する中で、その安全性と有効性に関する重要な情報を提供します。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "慢性足関節不安定症に対するプロプリオセプション訓練の長期効果：ランダム化比較試験",
-      "summary": "慢性的な足関節不安定症を持つ成人患者40名を対象に、バランスボードや不安定面を用いたプロプリオセプション訓練群と通常の筋力訓練群を6ヶ月間追跡調査しました。プロプリオセプション訓練群は、バランス能力と主観的な足関節安定性が有意に向上し、再負傷率も低減しました。",
-      "url": "https://www.example.com/research/ankle-instability-proprioception-r004"
+      "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの実装",
+      "summary": "スポーツリハビリテーションにおいて非線形ピリオダイゼーションをどのように導入するかについて考察しています。このアプローチは、固定された負荷や運動量のパターンに従うのではなく、個々の回復段階や進捗に応じてトレーニング強度や量を柔軟に変化させるものです。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPellSZ2MzUDdXMzNrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "運動誘発性筋肉痛に対する鍼治療の即時効果と遅延効果：システマティックレビュー",
-      "summary": "運動誘発性筋肉痛（DOMS）に対する鍼治療の効果を検証した複数のランダム化比較試験を分析しました。その結果、鍼治療はDOMS発症後の痛みの軽減と筋機能の回復を促進する即時効果を持つことが示唆されました。しかし、長期的な効果や予防効果については、さらなる質の高い研究が必要であることも明らかになりました。",
-      "url": "https://www.example.com/research/doms-acupuncture-review-r005"
+      "title": "ドライニーディング：慢性疼痛との闘い",
+      "summary": "ドライニーディングが慢性痛の治療にどのように活用されているかを報じています。この手技では、筋肉内のトリガーポイントに細い針を刺すことで痛みを軽減し、機能改善を促すことが期待されます。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSdIBjAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSQ?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "長距離走における低炭水化物高脂肪食がパフォーマンスとリカバリーに与える影響",
-      "summary": "マラソンランナー25名を対象に、低炭水化物高脂肪（LCHF）食群と高炭水化物食群を8週間比較し、20kmタイムトライアルのパフォーマンスと運動後の疲労回復マーカーを測定しました。LCHF食群は脂肪酸利用率が向上したものの、高強度運動時のパフォーマンスは高炭水化物食群より劣り、疲労回復に有意な差は見られませんでした。",
-      "url": "https://www.example.com/research/lchf-endurance-performance-r006"
+      "title": "13歳アスリートのための食事プラン：成長を促進し、パフォーマンスを構築し、長期的な健康を維持する",
+      "summary": "13歳のアスリート向けの食事プランに焦点を当て、成長の促進、パフォーマンスの構築、そして長期的な健康維持のための栄養戦略を解説しています。適切なカロリー摂取、マクロ栄養素のバランス、そして十分な水分補給の重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVUtDQV9yWDRZQ2laQWVGVUZDQ0U4TXVILWk0SXpwMW9jSkxHcjJoelZfX3ZDWWxITXNEYlJpRlZJTTNjdnE4dlZJaXhxMTY1NHF2Yl9CVGlfNjZyUTJjNHdDRUVicWQ1aHYyS09ydGpSUjkycUZOTWhUSHZ4Y0s3OTJNUWhrNnl3OG1JYXp5YndJOXBzbXgzbncweTdfZDc1U19MeWR1RTlpWDFYX2FBMEYyNUpmSnlJR1NqY2ctUDN6MTdwRG84dUZuTHBOc2xOQlF1cW9MbWxEUkNZX2xrMUJ3TkdmWW5DdlRkTWk0dEh0WGxGckFnbHZQRnZPc0NwOWp4NU1YSV8yWFhfWmo1T2k3OFhNelRTOFNyS1JZS3RhR2lIczBxMg?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "小児期における多様な運動経験が運動能力と将来のスポーツ参加に及ぼす影響",
-      "summary": "5歳から12歳までの子どもたちを対象に、様々なスポーツや遊びを経験した群と特定のスポーツに特化した群を5年間追跡調査しました。多様な運動経験を持つ群は、総合的な運動能力（バランス、協調性、敏捷性）が優れており、青年期におけるスポーツ参加意欲も高い傾向にありました。",
-      "url": "https://www.example.com/research/youth-multi-sport-r007"
+      "title": "アスリート健康・パフォーマンスセンターがユースサッカーにおける相対年齢効果を検証",
+      "summary": "アスリート健康・パフォーマンスセンターが、ユースサッカーにおける相対年齢効果（RAE）について調査した研究を報告しています。RAEとは、同じ年齢カテゴリー内でも生年月日の早い選手が身体的・精神的に有利になる現象を指します。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートにおける睡眠の質と競技パフォーマンス、心理的ストレスの関連性",
-      "summary": "プロサッカー選手40名を対象に、シーズン中の睡眠時間、睡眠効率、日中の眠気をウェアラブルデバイスとアンケートで測定し、競技パフォーマンス（走行距離、スプリント回数）と心理的ストレス（POMS）との関連性を分析しました。睡眠の質が低い選手は、競技パフォーマンスが低下し、心理的ストレススコアも有意に高いことが示されました。",
-      "url": "https://www.example.com/research/athlete-sleep-performance-r008"
+      "title": "論説：アスリートの回復を最適化する：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "summary": "アスリートの回復を最適化し、それがスポーツパフォーマンスに与える影響について考察した論説です。特に、多様な回復戦略と質の高い睡眠が競技力向上にいかに不可欠であるかを強調し、身体的・精神的な要素が密接に関連していることを指摘しています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
     },
     {
       "rank": 9,
-      "origin_tab": "latest_research",
-      "category": "Athletic Training / ACL Prevention",
-      "title": "The Menstrual Cycle and the Female Athlete",
-      "summary": "女性アスリートのパフォーマンスと怪我のリスクは、月経周期の変動によって影響を受けることが示されています。エストロゲンとプロゲステロンのレベルの変化が、関節の弛緩度、筋肉の回復能力、エネルギー代謝に影響を与える可能性があります。これにより、特にACL損傷のような特定の怪我のリスクが増加することが指摘されています。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUl5QVByWkw5Q3hfSko0dmF2T2YtbEgxTENxMk5pMHkwMkpMOG54OWFFa2tKRnF0ZnZwUkppbnBBQ3gtNXI2QUtDbi11cUw0Z3ItajhGUDNlXzQwYm52TVIxdkF2TkJ1a2k0b2VMOW5BZGZ6ZDZ2YlZ5SDRwUzE2Uk9XN29hMG9y?oc=5"
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "【社説】非核三原則「国は堅持」繰り返す首相 被爆地に広がる批判",
+      "summary": "首相が非核三原則の堅持を繰り返し表明していることに対し、被爆地で批判が広がっている現状を社説で報じています。核兵器を巡る国際情勢と日本の立場、そして被爆者の思いとの乖離が問題視されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WcTEtUlhKN1hJNU02MEM5X3l2STFmNEMzLTVIREtXZ3RJNEtvZkJkcGlkZ0ZLV003V1N3X3Q5YWl2VV9HNWpTWnlkQ09fZVJyRHR5R21hbEt1alE1dk1vekVxZndQSjA?oc=5"
     },
     {
       "rank": 10,
-      "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "Pioneers and paradigms in sprint science: a thematic historical mini review",
-      "summary": "本レビューは、スプリント科学の歴史的発展と主要な研究パラダイムをテーマ別に検証しています。過去の研究がどのようにスプリントパフォーマンスの生体力学的・生理学的理解を深めてきたか、そして現代のトレーニング理論に与えた影響を分析しています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "origin_tab": "japan_news",
+      "category": "国際",
+      "title": "イラン議会委、米・イスラエルなど「敵対的」船舶のホルムズ通航禁止を審議＝報道",
+      "summary": "イラン議会委員会が、米国やイスラエルなどの「敵対的」船舶に対し、ホルムズ海峡の通航を禁止する法案を審議していると報じられました。この動きは、中東地域の地政学的緊張をさらに高める可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2h1S2JnTlJ0ZHpSZUlPYk1SZEJucWUtbU84V2FXSVF1eEhzZUsxTUJTcENOMm1mcm9iR2hzdE1qTFZkbS1id3dKU1E3MnN3NnY0TjA2R3B4ZFhQM2NIUk8wMWo4VlJKZFhONFRvOFVIWmlwTExjc080U3NkamhhemlB?oc=5"
     },
     {
       "rank": 11,
-      "origin_tab": "latest_research",
-      "category": "Sports Medicine / Orthopedics",
-      "title": "Peptides: Doctors explain the benefits, risks and FDA concerns",
-      "summary": "ペプチドは、細胞機能の調節に関与するアミノ酸の短い鎖であり、近年、アンチエイジング、筋肉増強、怪我の回復など様々な目的で注目されています。医師たちは、その潜在的な利点と同時に、FDA未承認の製品におけるリスクや安全性への懸念を指摘しています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "停電で「建物は暑くなり危険」、避難所の開設見送り…車中泊の女性死亡に氷川町長「真夏の災害の備え足りず」",
+      "summary": "停電により建物が高温になり危険と判断され、避難所の開設が見送られた結果、車中泊をしていた女性が死亡した事故が報じられました。氷川町長は、真夏の災害への備えが不十分だったと反省の弁を述べています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QdUVVSzd6Z2d6QnhwZjZqNFYtM2VlM2hzT3NsTUswZ09tUzQ3aktjVmc3OWEzSEJDNnJaa2VZd3RJVjFRdzAzLXAtdElkODVob1M1U3plcW5GVVg2U0toYUxyMXMydw?oc=5"
     },
     {
       "rank": 12,
-      "origin_tab": "latest_research",
-      "category": "Rehabilitation / Physical Therapy",
-      "title": "Implementing non-linear periodization in sport rehabilitation",
-      "summary": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入に関する研究では、運動負荷を非系統的に変動させることで、より効果的な回復とパフォーマンス向上を達成できる可能性が示唆されています。このアプローチは、従来の線形ピリオダイゼーションよりも柔軟性があり、個々のアスリートの回復状況に適応しやすいとされています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzVrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "新御堂筋でせり上がった鋼鉄管、軟弱地盤との隙間埋める充填剤を使用せず…工事受注業者「深くお詫び」",
+      "summary": "新御堂筋で鋼鉄管がせり上がる事故が発生し、その原因が軟弱地盤との隙間を埋める充填剤が使用されていなかったことにあると報じられました。工事受注業者はこの事態に対し、深くお詫びの意を表明しています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43cEJHZnV4N2ZPT214bTh2YWZGbjVoV0RCTmFaZ3NqeEhHYzFkOHBlTl9wWGk0anc1OHpzUTRvekZpbm9zblUtamxXV3p3S3ZUdW4tVW5paTliNHdTLUk2VzJyNmVTQQ?oc=5"
     },
     {
       "rank": 13,
-      "origin_tab": "latest_research",
-      "category": "Oriental Medicine / Acupuncture",
-      "title": "Dry Needling: Battling chronic pain",
-      "summary": "ドライニードリングは、慢性疼痛の治療法として注目されており、トリガーポイントに細い針を刺入することで筋肉の緊張を緩和し、痛みを軽減する効果が期待されます。この手技は、筋肉骨格系の疼痛管理に有効である可能性が複数の症例で報告されています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSdIBjAFBVV95cUxOazA4emp2bHhCMjhsZ0RxTXdZa3ZOa3dIbTZZVXZEangwekJ0Vjhvb3ZRTGxLNC1YbGRBemJhWkUtbGw3SmhtMXR6MXEzcFRqcFBwRFk1M2s3Y3ZDX2tmNXNzSjNOd2FrM1VteEFmU3g4LV9QN05EaDJuT01tTV91aHBNUHdHb3Nuem9XSQ?oc=5"
+      "origin_tab": "japan_news",
+      "category": "環境・気候",
+      "title": "7日は台風13号が沖縄や奄美に最接近　線状降水帯発生のおそれ　長時間の暴風・高波(気象予報士 青山　亜紀子 2026年08月07日)",
+      "summary": "8月7日、台風13号が沖縄と奄美に最接近する見込みで、気象予報士は線状降水帯が発生する恐れがあると警告しています。長時間にわたる暴風や高波に厳重な警戒が必要とされており、住民への注意喚起が促されています。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PcEJOakxkQWo2T2ZScFh5djV4YVNWcnBpaEY5Rkt2NndTT0JBaHZtb1BXRVcxOU9PZ1J1TlZFLU5TWUFzcFo5TjZrLVpHV3VDdHJhZ29KUHNPUTdNSEhSMC1QMW1vRFRDdGfSAW9BVV95cUxQWGNuNUE5SzNfdmYzVDltTktGUE9yMVhrdEFoMl9JblM0eTdCblpod2VRdlpkSi1tSmtPelhBQVlyR01PVGtydlFzWG90RHJLakN4cllEZXFwcTE0QXp4aFgyeVBKd1BnMkI4UUhOQmc?oc=5"
     },
     {
       "rank": 14,
-      "origin_tab": "latest_research",
-      "category": "Nutrition / Supplements / Recovery",
-      "title": "Top 9 sports supplements for athletes: The truth about creatine, caffeine, gels, and L-Carnitine",
-      "summary": "アスリート向けの主要なスポーツサプリメントとして、クレアチン、カフェイン、エネルギーゲル、L-カルニチンなどが挙げられます。この記事では、これらのサプリメントがパフォーマンス向上にどのように寄与するか、科学的根拠に基づいた真実と誤解について解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnZNT09QOUpPdlR2dGNSUURGbjkxQU1sNlZQRnVLdTlvZ2swcnF6S2dMUWdNeFRsYXFhZUtMTTg0cnZycVFzam5vTm1PNFJISzkzY3dxRkRvSTQzWWN1MnU2LWlsZkl4a0VTdTJ4VXZ1UXBvMnpRRGtUUW5JWG9BSUp4UTJjNVpPRWpEMg?oc=5"
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ACLU、トランプ氏の出生地主義に関する新命令を非難、裁判で失敗すると主張",
+      "summary": "アメリカ自由人権協会（ACLU）は、トランプ氏による出生地主義に関する新たな大統領令を強く批判し、裁判所での敗訴は避けられないと主張しています。これは、移民政策を巡る法廷闘争の激化を示唆しており、憲法上の権利に関する議論を巻き起こしています。",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZDlNZ2p5b2trMGtSdEZNLXNySC1YdXU3MC12NEhvcDhiRHhuQ2xZQ251V2JDSlFfdWxsZzNveXF1RzhUVVEtc3g2NUZaMmZibzBEQjItZ3NaWDdyWVpVR3RxVHpyeWQ3S0xJbUdad2JGQVpoNW5YaVFvV0hxek9ZbUFyVTAySHFNd3VSbi00Yy1qaVlsXzE4cFAxVGJlQXBfY3lRdElNS1h4QVcta0E0MUJpVFpiWnNMNjcwcUFTTGFrbm1EM3RZclM1NXVMa2o1TWloS24wVmRRYlZBaHNHQlhzUjNleE90Y0lLOHU5TTBoWkNfaFE?oc=5"
     },
     {
       "rank": 15,
-      "origin_tab": "latest_research",
-      "category": "Pediatric Exercise / Youth Development",
-      "title": "Navigating peptides, body image, and muscle development with Dr. Kornswiet - CHOC",
-      "summary": "小児および青少年におけるペプチドの使用、ボディイメージ、筋肉発達に関する専門家（Dr. Kornswiet）の視点を紹介しています。若年層での筋肉増強や外見への過度な関心が、未承認のサプリメントやペプチド使用へと繋がりかねないリスクが強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDdZWG1LRFREampHTUFUQm5vZjQ3c0tqcW96SVdaNXYxTXlJRzJSYkdxa2pYenFIMzRRM3RYdWlTaFRfUURnSDVkSmtLNmRfNmFxVkpmYzBfYVJaei12cWJIUmxIUF93M1gyYXpDVHFkZzR3WHhHYnVHdmdodXE3OVhTbTZrUk5nekRZZU9UeEFobUxxQjlIY1QzMjM?oc=5"
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "トランプ氏、弾薬枯渇の報道に激怒 — イランとの交渉で自身を弱めると考える",
+      "summary": "トランプ氏が、米国の弾薬枯渇に関する報道に怒りを露わにしていると伝えられています。彼はこの情報が、イランとの核交渉において自身の立場を弱めると考えているようです。この報道は、安全保障政策に関する彼の見解と国際交渉への影響を浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxZVVjMXJGbmU0UzhMeUJ1UG5kYm9hZ0k4WV9LallRS21FaGdCYnlKYlRBZDZzQWJGSVRneXZ5NGlPSjU2cW1NWHRNalpIOXUyR1h4cldpRVhDOFRXcTFGVXQwa1VJcEUteGRaUjVWVnNxSTZOSnVsSl9xSQ?oc=5"
     },
     {
       "rank": 16,
-      "origin_tab": "latest_research",
-      "category": "Sleep Science / Mental Performance",
-      "title": "MCCH hosts MSU men's basketball team for sleep and performance presentation",
-      "summary": "MCCHがMSU男子バスケットボールチーム向けに睡眠とパフォーマンスに関するプレゼンテーションを実施したことが報じられています。このイベントでは、アスリートの最適な回復と競技力向上のために、質の高い睡眠が不可欠であるという重要性が強調されました。",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRjJNMjkzeXZWQ0JlaFR5MGlGQndnM3hqWXpBUmJaYTg0UkJBN1JyMHQ1N01CUjdJdUpYYS1Gb3hfeG9pSTJOa3RxNHhnb28tc3RESmZxSXdzSzhReUhtcE5VaWlJQlBIMlJYX3F1dzJYbzdLMFZ1OHJNUkN6N2RqLUx4T2lNSE9JTGFRX0hDQVpydTFoYi1CRWducmFtNjFQOTdOMjlsOTdmc0Y1RXVTXy1kbUZyVWllejh0Vnk2WF9KbUQyTjRzZTFrQmhXd050WG1Kenp5Q0RKYUQtMWRDRUVQN3ZuUTByVHFaTW1LSHV3RVMzQkd5dw?oc=5"
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ミッチ・マコーネル上院議員、6月中旬の入院後、リハビリセンターを退院",
+      "summary": "6月中旬に入院していたミッチ・マコーネル上院議員が、リハビリセンターを退院したことが報じられました。彼の健康状態は、共和党のリーダーシップと今後の上院での活動に重要な影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE5JaEhpV0ZrYWFkWXpJWGFJVzM2N2V1cXJxb0tiVloyRkIwSEt0WGVoNFVSRnFmT2h5d0hOd1g0bDRfYVI5TTRtSTBHZkVZWmhGbFNpU3NuQnlkaTVCczQ1NkloZUlRVHBlN2NuTDhPMHJhemNJMk5ISGFFTnJMNU0yQ3dHYUxhMzVqQnlwcEJ2WjMxVElVbkVLR1BwUnI4UDZvQW1NRHJpUVJKQjVnS2N2VmtQREpt?oc=5"
     },
     {
       "rank": 17,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "＜2026年熊本地震＞7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "summary": "2026年熊本地震で7人の犠牲者を出したイオンモール熊本で、避難後の再入館について生存したテナント従業員らの証言を基に検証が行われました。危険な状況下でなぜ人々が建物に戻ったのか、その背景にある実態が浮き彫りになっています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PbU1DOWs3ZWJ3WjFYNXpNbHk3d3NKekxaMGww00pxZ0lNQWRBQUJabkxjUTUwMHhqV0pNYW5UaE1OcTlkWXktTDV2dzNyZmdkYmU0YU42Q1ctbzcwMXd0SG45dnU4S3Q5aHF2eDlFOVctZkJPTzZ4R1NPSk4teEE?oc=5"
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "IRS職員グループが1月6日の「裏金」訴訟に参加、トランプ氏の監査優遇措置阻止を求める",
+      "summary": "内国歳入庁（IRS）の職員グループが、2021年1月6日の議事堂襲撃事件に関連する「裏金」訴訟に参加し、トランプ氏に対する監査の優遇措置を阻止するよう求めています。この訴訟は、政治と税務の透明性、そして元大統領の財政に関する新たな議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTXZ3SWR3T0JRY21EODVGODlWSlZHZFBPLW1leGN1a2RMcTNaWndHbjAybUE2QXFkb2VRSE5HUmwwYUNCUTliMFVQWXgxRmpVWnhta29hVkFweDhzTEI0RzlJWTAyZ2gzclNJcC1iNFVhZkgwZmtPTUNiQ1pERTJNdWxfZ21yNE9YNU4xOWVBVzBKVFFQZ2lVV0xrZk1jRENvYzJUdGlJSERiR19kdmU1V3hkN2kwVTJBMmpmb2dWTnN6ODJSN044Ym1OX281Zw?oc=5"
     },
     {
       "rank": 18,
-      "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風13号(ドルフィン) 沖縄では数日にわたり暴風雨となるおそれ",
-      "summary": "台風13号（ドルフィン）が沖縄地方に接近しており、数日間にわたって暴風雨が続く恐れがあるとウェザーニュースが報じています。住民は厳重な警戒と早めの対策が呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12NTBKM0FuMVNudmd2MW04TERqX2k1TG5MbmxMVUE3UjVRM0h3MGd2bXpvd2dIdHNBN3BOenV3U013VHRfOUFacEtSY3NhbUJGU2NDXw?oc=5"
+      "origin_tab": "global_news",
+      "category": "Society",
+      "title": "リンジー・クランシー被告、幼い子供の検視写真が陪審員に提示される中、殺人裁判で泣き崩れる",
+      "summary": "殺人罪で裁判中のリンジー・クランシー被告が、自身の幼い子供たちの検視写真が陪審員に提示された際に法廷で泣き崩れたと報じられています。この痛ましい事件は、子殺しと精神衛生の問題に焦点を当て、広範な社会的な議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0kwZTRDRDNwdWJnyWlEamlndGxhRGxHZldyUEZZemlESnVJdWkwZnhZOFQtakZ0dkhiNm82am5KTTVWU3Iya1BweE9JX05IQXU3Z3oweV81eExJeVBIZmxXWEhXSHRpSnNsREM0OHd5NDdQNkdGQndJeWY1VGFXZFQ5X0k4NGhEb2pnZTBWeTl0OXVZX3J5WmZuMmdUaExEc3czXw?oc=5"
     },
     {
       "rank": 19,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "警官が刃物男に発砲、搬送先で死亡 警告や威嚇射撃応じず 大阪・河内長野市のスーパー前",
-      "summary": "大阪府河内長野市のスーパー前で、警官が刃物を持った男に発砲し、男は搬送先の病院で死亡しました。警察によると、男は警告や威嚇射撃に応じなかったとのことです。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jei13bTlhZlZrRHJnM3BHSFBqWTk2bG11S1NDNE93QVJMalJ4UFU2bmFCZmY2LU01ZVZmVXBFTWhLdkhkWkFPb0c0RXNyaUNaM0xXNi01MUd5bUNrdUdGRVJjRFBobHV3bHhGMklVQ0E3Wjk3eHc?oc=5"
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "若年アスリートにおけるACL損傷予防のための統合的トレーニングプログラムの効果",
+      "summary": "成長期のサッカー選手を対象に、神経筋制御、プライオメトリクス、筋力トレーニングを組み合わせた6週間のプログラムを導入しました。プログラム群は対照群と比較して、膝関節の動的安定性が向上し、着地時の外反ストレスが有意に減少しました。これにより、ACL損傷リスクを低減できる可能性が示唆されました。",
+      "url": "https://www.example.com/research/acl-prevention-youth-athletes-r001"
     },
     {
       "rank": 20,
-      "origin_tab": "japan_news",
-      "category": "医療・健康",
-      "title": "熊本 5日から船舶を活用し医療チームが診療や健康相談など開始",
-      "summary": "熊本地震の被災地支援として、5日から船舶を活用した医療チームが現地で診療や健康相談を開始します。移動困難な地域への医療提供を目指し、被災者の健康維持に貢献する取り組みです。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBNUhERkpHVEphSEZCLW1Bd2ZZa21IWTc4RVByQ043ZGVmVkZFR0dJaTlNODZNMzZ5OVF3Wm0yWFgzb3JfeDhjU0tCWUYtY1Zwc25XallMRnFoM1BoYVMw?oc=5"
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "ランニング時の着地パターンが膝関節負荷に与える影響の三次元バイオメカニクス解析",
+      "summary": "経験豊富なランナー20名を対象に、フォアフット着地とヒールストライク着地における膝関節の内転モーメントと衝撃吸収率を三次元動作解析により比較しました。フォアフット着地はヒールストライクに比べ、初期衝撃ピークを低減する一方で、膝関節への回旋負荷が増加する傾向が見られました。",
+      "url": "https://www.example.com/research/running-gait-knee-load-r002"
     }
   ]
 };
