@@ -1,56 +1,56 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/08/13",
-  "generated_at": "2026-08-12T21:33:28.917Z",
+  "issue_date": "2026/08/14",
+  "generated_at": "2026-08-13T21:33:34.259Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手のアジリティ能力向上と傷害予防に対するVR支援神経筋トレーニングの効果：対照実験研究",
+      "title": "バスケットボール選手のアジリティ能力向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験研究",
       "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
-      "abstract": "この研究は、VRを活用した神経筋トレーニングがバスケットボール選手のアジリティ能力向上と前十字靭帯（ACL）損傷予防に与える影響を、対照実験を通じて検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、アジリティや神経筋制御の改善に有効である可能性が示唆されています。これにより、競技パフォーマンスの向上と傷害リスクの低減が期待されます。",
-      "insight": "実際の練習にVRを導入することで、選手はより安全かつ効果的にアジリティや反応速度を向上させ、ACL損傷のリスクを低減できる可能性があります。特に、怪我からの復帰後のリハビリテーションプログラムにも応用できるでしょう。",
+      "abstract": "バスケットボール選手を対象とした対照実験で、VR（バーチャルリアリティ）を用いた神経筋トレーニングがアジリティパフォーマンスの向上とACLを含む下肢傷害の予防に効果があることが示されました。この研究では、VR環境下での特定の運動課題を通じて、選手の素早い方向転換能力やバランスが改善されることが確認されています。VR技術が、スポーツ選手のパフォーマンス向上と傷害リスク低減のための新たなトレーニングツールとして期待されます。",
+      "insight": "VRを活用した神経筋トレーニングを導入することで、選手はより実践的でモチベーションを維持しやすい環境でアジリティとコーディネーションを鍛えることができます。特に、バスケットボールのように急な方向転換が多い競技において、効果的なACL傷害予防プログラムとして検討可能です。",
       "published_at": "2026-08-05T00:49:01.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "なぜエリートランナーは楽そうに見えるのか？彼らのように速く効率的に走るための4つの簡単な修正点",
+      "title": "なぜエリートランナーは楽そうに走るのか？彼らのように速く効率的に走るための4つのシンプルな調整",
       "source": "Runner's World",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5",
-      "abstract": "本記事は、エリートランナーが効率的かつ楽に走る理由を生物力学的な観点から分析し、一般のランナーがパフォーマンスを向上させるための4つのシンプルな調整方法を解説しています。接地時間、ピッチ、姿勢、腕の振りといった要素が、ランニングエコノミーに大きく影響すると指摘されています。",
-      "insight": "ランナーは、自身のフォームを分析し、接地時間の短縮やピッチの増加、正しい姿勢の維持、効率的な腕振りを意識することで、無駄なエネルギー消費を抑え、より速く長く走るための改善策を見出すことができます。",
-      "published_at": "2026-08-11T19:04:10.000Z"
+      "abstract": "エリートランナーが効率的に走る秘訣をバイオメカニクスの視点から分析し、一般ランナーが速く効率的に走るための4つの簡単な調整ポイントを解説しています。具体的には、姿勢、腕の振り、ピッチ、ストライドといった要素に焦点を当て、これらの改善がランニングエコノミーにどう影響するかを説明しています。これにより、無駄のない動きで疲労を軽減し、パフォーマンスを向上させる方法が提案されています。",
+      "insight": "ランニング指導において、エリートランナーのフォームを参考に、個々の選手に合わせた姿勢、腕の振り、ピッチ、ストライドの微調整を指導することで、ランニング効率を向上させ、パフォーマンスアップと傷害リスク軽減に貢献できます。",
+      "published_at": "2026-08-11T07:00:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチドの人気が急上昇中。それらは何で、効果はあるのか？医師が警告する理由。",
+      "title": "ペプチド：医師が解説するその利点、リスク、FDAの懸念",
       "source": "UCHealth",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "abstract": "ペプチドが健康増進やパフォーマンス向上に効果があるとして人気を集めていますが、本記事ではその正体と科学的根拠、そして医師が安全性について注意を促している背景を解説しています。まだ多くのペプチドについて十分な研究が不足しており、潜在的なリスクも考慮する必要があると強調されています。",
-      "insight": "アスリートは、ペプチド製品の使用を検討する際に、その効果や安全性に関するエビデンスを慎重に確認し、必ず専門医やスポーツ栄養士と相談することが重要です。安易な利用は健康リスクにつながる可能性があります。",
+      "abstract": "医師たちが、ペプチドが様々な健康やパフォーマンスの向上に寄与する可能性を認めつつも、その使用にはリスクが伴い、FDA（米国食品医薬品局）がその安全性と有効性について懸念を示している現状を解説しています。ペプチドは筋肉増強や回復促進に注目されていますが、未承認製品の市場流通や長期的な影響に関するデータ不足が指摘されています。専門家は、科学的根拠に基づいた適切な情報提供と規制の必要性を強調しています。",
+      "insight": "アスリートや一般の方々に対して、ペプチドに関する正確な情報を提供し、未承認のサプリメント使用に伴う潜在的な健康リスクについて注意喚起することが重要です。医師や専門家との相談を通じて、安全かつ効果的な栄養戦略を立てるよう指導しましょう。",
       "published_at": "2026-07-24T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
       "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入",
-      "source": "thesportjournal.org",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzVrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5",
-      "abstract": "この論文は、スポーツリハビリテーションプログラムにおいて非線形ピリオダイゼーションを効果的に導入する方法について議論しています。非線形ピリオダイゼーションは、トレーニングの強度と量を柔軟に変化させることで、アスリートの回復を最適化し、モチベーションを維持しながら、怪我からの復帰を促進する可能性が示されています。",
-      "insight": "理学療法士やアスレティックトレーナーは、アスリートの状態に合わせてトレーニング負荷を日々調整する非線形ピリオダイゼーションを取り入れることで、リハビリテーションの停滞を防ぎ、より効果的な復帰プランを立てることができます。",
+      "source": "The Sport Journal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPellSZ2MzUDdXMzVrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5",
+      "abstract": "スポーツリハビリテーションにおいて、従来の線形ピリオダイゼーションではなく、非線形ピリオダイゼーションを導入することの有効性が議論されています。非線形ピリオダイゼーションは、トレーニングの強度や量を日ごとに変化させることで、アスリートの回復状況や適応能力に応じて柔軟に対応し、より効率的な回復とパフォーマンス向上を目指すアプローチです。この研究では、その理論的背景と実践方法が示されています。",
+      "insight": "傷害からの復帰を目指すアスリートのリハビリテーションプログラムに、非線形ピリオダイゼーションの原則を取り入れることで、個々の回復度合いに応じた最適な負荷調整が可能になり、より早く安全に競技復帰できる可能性が高まります。",
       "published_at": "2026-07-21T07:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "梨状筋症候群に対する苓桂丹血鍼法と体外衝撃波療法の併用による臨床的有効性：前向き比較臨床研究",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTTFiVmZlOHFkWWNKckRFa25sLUJYSzBCUUFVUG5aQnVudG0tbEg3R2dpcVE5TDN6UHMyOFlwRllHejRwTi02blUwUnptTkNHZEFpaG85ZjlIb0NUcXRGbWdMM0xta2N6VjhYLURGanF2aktpXzdRdFY0NUcyQVNBN1d2a1FNd3VfNS16M3Rn?oc=5",
-      "abstract": "この前向き比較臨床研究では、梨状筋症候群の治療において、東洋医学の苓桂丹血鍼法と西洋医学の体外衝撃波療法を併用することの臨床的有効性が評価されました。両治療法を組み合わせることで、単独療法よりも痛みの軽減と機能改善において優れた結果が得られる可能性が示唆されています。",
-      "insight": "梨状筋症候群の患者に対して、鍼灸と体外衝撃波療法を組み合わせた統合的な治療アプローチを検討することで、より包括的な痛みの管理と機能回復を促進できるかもしれません。",
-      "published_at": "2026-07-20T12:48:43.000Z"
+      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理のための補助的な鍼治療と灸治療：症例報告",
+      "source": "Cureus",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
+      "abstract": "反復性肩関節後方脱臼を抱える女子サッカー選手に対し、標準的な治療に加えて鍼治療と灸治療を補助的に行った結果に関する症例報告です。この治療法が疼痛管理に有効であり、選手の不快感を軽減し、リハビリテーションを促進する可能性が示唆されています。東洋医学的アプローチがスポーツ傷害の回復過程に良い影響を与える可能性が探られました。",
+      "insight": "スポーツ傷害で慢性的な疼痛を抱えるアスリートに対し、西洋医学的治療と並行して、鍼灸治療を補助的な選択肢として提案することで、痛みの管理を強化し、精神的な側面も含めた回復をサポートできる可能性があります。",
+      "published_at": "2026-03-18T07:00:00.000Z"
     },
     {
       "id": "r006",
@@ -58,128 +58,128 @@ window.DIGEST_DATA = {
       "title": "スポーツ栄養市場",
       "source": "Future Market Insights",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnbEhEdFB2YWYwSWk1UXNjS21JbWIxRzlyam1HZHhDQXJBUXdURW4yZ2xHZE1ubUlTTE1faG5ZRTNIN0pfdlRfQmpBRjNYelBMS3BtQmtObDFIWEdzN2JjSC1hcDJ4Q2syaHh6OTRndE91WWNnNjFv?oc=5",
-      "abstract": "本記事は、世界のスポーツ栄養市場の現状と将来予測について分析しています。アスリートのパフォーマンス向上と回復への意識の高まり、そして一般消費者への健康志向の拡大が市場成長を牽引していることが示されています。今後も様々な製品開発と需要拡大が予測されています。",
-      "insight": "アスリートやスポーツ関係者は、最新の市場トレンドを把握することで、自身の栄養戦略や関連製品の選択に役立てることができます。市場の動向は、将来的な栄養指導の方向性にも影響を与える可能性があります。",
+      "abstract": "グローバルなスポーツ栄養市場に関するレポートで、市場規模、成長予測、主要トレンド、主要プレイヤーなどが分析されています。アスリートやフィットネス愛好家の間で、パフォーマンス向上、回復促進、健康維持を目的とした栄養補助食品や機能性食品への需要が高まっていることが示されています。今後も市場は拡大基調にあり、特にパーソナライズされた栄養ソリューションが注目されています。",
+      "insight": "スポーツ栄養の専門家として、最新の市場トレンドや製品情報を把握し、エビデンスに基づいた最適な栄養戦略をアスリートに提供することが重要です。市場の拡大に伴い、正しい情報発信と指導のニーズが高まっています。",
       "published_at": "2026-06-01T07:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
+      "title": "アスリート健康・パフォーマンスセンターがユースサッカーにおける相対年齢効果を検証",
       "source": "ECNL",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEh3YkdfUlJLa2RzOGZFeEhxdHlMVVl4MmFndw?oc=5",
-      "abstract": "アスリート健康パフォーマンスセンターの研究では、ユースサッカーにおける「相対的年齢効果（RAE）」、すなわち同学年内で誕生日が早い選手が、身体的成熟度から有利になる傾向がある現象を調査しました。この研究は、ユーススポーツの選抜や育成システムにおける公平性の課題を浮き彫りにしています。",
-      "insight": "ユーススポーツの指導者や保護者は、相対的年齢効果を理解し、単に身体能力だけでなく、技術や精神面など多様な評価基準を設けることで、より多くの才能が公平に評価され、育成される環境を整える必要があります。",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEg3V2JGX1JJWmtkczhGeUV4SHF0eExVWVgyeGd3?oc=5",
+      "abstract": "アスリート健康・パフォーマンスセンターがユースサッカー選手を対象に、相対年齢効果（RAE）の影響を検証した研究報告です。相対年齢効果とは、同じ選抜グループ内で生まれ月が早い選手が、身体的成熟度やコーチからの評価で有利になる現象を指します。この研究は、ユーススポーツにおける才能発掘や育成プログラムの公平性について重要な示唆を与えています。",
+      "insight": "ユーススポーツの指導者や保護者は、相対年齢効果の存在を認識し、選手の生まれ月だけでなく、長期的な成長と発達を考慮した評価・育成を行う必要があります。早期選抜の機会均等や、遅生まれの選手へのサポート体制を強化することが、才能の偏りなく全ての若手アスリートを育成するために不可欠です。",
       "published_at": "2026-08-03T07:00:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "若いアスリートのメンタルヘルスに対するソーシャルメディアの影響：横断研究",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGJWSGg4RkpQaGthbXd1VzhQVDJwZGhQaU5NWkJNcEdJZXFvbDd4Z2dtQnVvSklxUW16dHN4eEtpUFVvVmFPVkdMTHNxdFhwVklaeDlnWng1Z041bl80UU5tcXlvSmZmWkdSamV2d2Vac1dsMmkwOGJjT0VIM2NpaGt6UnhXa1d0ci1wWWVyb3NDZw?oc=5",
-      "abstract": "この横断研究は、若いアスリートのメンタルヘルスに対するソーシャルメディア利用の影響を調査しました。ソーシャルメディアの使用が、身体イメージへの懸念、比較によるストレス、睡眠の質の低下など、アスリートの精神的幸福に負の影響を与える可能性があることが示唆されています。",
-      "insight": "若いアスリートとその指導者は、ソーシャルメディアの適切な利用方法について認識を高める必要があります。ソーシャルメディアがメンタルヘルスに与える潜在的なリスクを理解し、デジタルデトックスや現実世界での交流を促すことで、精神的な健康を保護することが重要です。",
-      "published_at": "2026-05-18T14:57:21.000Z"
+      "title": "クリステン・ホームズが語る、睡眠と回復がいかにハイパフォーマンスを形成するか",
+      "source": "WHOOP",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5",
+      "abstract": "WHOOPのVPであるクリステン・ホームズ氏が、アスリートのハイパフォーマンスを維持するために睡眠と回復がいかに重要であるかを解説しています。彼女は、単なる休息ではなく、質の高い睡眠と適切な回復戦略が、身体的・精神的なコンディションを最適化し、トレーニング効果を最大化すると強調しています。データに基づいた睡眠管理が競技力向上に不可欠であることを示唆しています。",
+      "insight": "アスリートのパフォーマンス管理において、トレーニング負荷だけでなく、睡眠の質と回復状況を詳細にモニタリングし、個々の選手に合わせたリカバリープランを策定することが極めて重要です。睡眠習慣の改善指導は、傷害予防と競技力向上の両面で大きな効果をもたらします。",
+      "published_at": "2026-06-16T07:00:00.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "政治",
-      "source": "読売新聞",
-      "title": "今年５月に第２子出産発表、レビット米大統領報道官が退任へ…トランプ氏は「愛する子供たちや家族と時間を過ごすため」と説明",
-      "summary": "今年5月に第2子の出産を発表したレビット米大統領報道官が退任することが明らかになりました。トランプ大統領は、彼女が「愛する子供たちや家族と時間を過ごすため」と説明しており、家族との時間を優先する判断と見られます。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mNnFBX3A3UVIzUV80Vkw2ZUd1V3JfdjYyLXI2djNheUFBbmQzTUd6NVU4ajc2T21qeVJZTGpYTExGOWpWZHl1YlRiSHphOXdyM2xPV0VJQVAwdzhuWkI1OGVR?oc=5",
-      "published_at": "2026-08-12T20:31:00.000Z"
+      "category": "社会",
+      "source": "ウェザーニュース",
+      "title": "千葉県で線状降水帯による大雨 災害発生に厳重警戒",
+      "summary": "千葉県では線状降水帯が発生し、広い範囲で非常に激しい雨が降り続いています。気象庁は土砂災害や河川の氾濫、低い土地での浸水など、災害の発生に厳重な警戒を呼びかけています。地元住民には安全確保のための情報収集と早めの避難行動が求められています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdDhGenhXYVV4WXh6WGItV0NjU0J4WVBER1FVVG5KQjV0WmU0RUFyVmtydmxScHp5aGNIc3I4WFp1LS05RUxsM21ndndjck5HSUYzdA?oc=5",
+      "published_at": "2026-08-13T17:28:00.000Z"
     },
     {
       "id": "j002",
       "category": "国際",
-      "source": "時事ドットコム",
-      "title": "北方領土、ロシア領で確定 プーチン氏、日本が「立場変更」：時事ドットコム",
-      "summary": "ロシアのプーチン大統領は、北方領土がロシア領として確定したとの認識を示し、日本が「立場変更」したと発言しました。これは、長年の日露間の領土問題に新たな波紋を投げかけるものです。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BVkYxWjBCeHdaMmVkX2RRaExSX1otNFp5TWZ1RUpfTTVfTmowRDhWdmZOZF9lSXhwOE9DWUZxYlc4YUE4VU9hNWVyM0ZnTWIxc0k3aDA5aXVoUzhoLVg5bE1PZw?oc=5",
-      "published_at": "2026-08-12T09:39:00.000Z"
+      "source": "読売新聞",
+      "title": "プーチン大統領の択捉島訪問、米当局「日本の主権を長年認めてきた」「インド太平洋の平和と安定を損なおうとするいかなる行動にも強く反対」とコメント",
+      "summary": "プーチン大統領の択捉島訪問に対し、米当局が「日本の主権を長年認めてきた」との立場を表明し、ロシアの行動は「インド太平洋の平和と安定を損なう」として強く反対するコメントを出しました。この発言は、北方領土問題における米国の日本支持の姿勢を改めて示すものです。今後の日露関係および国際情勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iMlVWTlRZNWxBdjB5MnZRdXkxRmJRZFB1bUd0cWY2cVZPbGx2dXIwTVpJLVNmOVV4NFZMeFpIUUhMVlZGdVoxaTk4b1ZKbE1mMTg4ejFiLXlRelBRblFWc0RR?oc=5",
+      "published_at": "2026-08-13T18:09:00.000Z"
     },
     {
       "id": "j003",
-      "category": "環境・気候",
-      "source": "日テレNEWS NNN",
-      "title": "【解説】新たな台風17号が発生 週明けに本州へ近づくおそれ 気象予報士「晴れていても高い波に注意を」",
-      "summary": "新たな台風17号が発生し、週明けには本州に接近する恐れがあることが発表されました。気象予報士は、天候が晴れていても高波に警戒するよう注意を呼びかけています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UcFJDbVVBaGtwRG11dGJWaktOQUdfNUpNOXZSdk5KTVZNVGdSWU12cHpGejdBNDF3bDJDbXBucFdmQjVSTXFXdUp1Z3lLZjEtN2lFZmRwYkxVRm9MTVk3VG1WMkx6YTNmcGxwQWwyQm92Y2tMQm0xdllNSkk?oc=5",
-      "published_at": "2026-08-12T15:00:00.000Z"
+      "category": "政治",
+      "source": "Yahoo!ニュース",
+      "title": "トランプ氏SNS投稿から不協和音、声明から密かに「削除」された文言に非難相次ぐ、「ハマスはまた立ち上がる」支持層の投稿",
+      "summary": "トランプ氏のSNS投稿が再び波紋を呼んでいます。特に、以前の声明から「ハマスはまた立ち上がる」という支持層の投稿が密かに削除されたことが判明し、国内外から非難の声が相次いでいます。この動きは、次期大統領選に向けての外交政策や支持層との関係構築に影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jSHJZWVg1cV9MU3VpQVpvekZNb1l0QzNXbmYxX245eU4yR25yQmFheDJUR21WTGJHQzV2VzZrWXRPcWIwNkNkLTh1X2RIN2pubHlKVTBoTzVoOGFRX3llbzNybWtIUE9JbXBnX1gwbXRfQllleDRFNFAyNUFLblk?oc=5",
+      "published_at": "2026-08-13T20:10:48.000Z"
     },
     {
       "id": "j004",
-      "category": "政治",
-      "source": "47NEWS",
-      "title": "【速報】首相、靖国参拝見送りへ",
-      "summary": "首相が靖国神社への参拝を見送る方針であることが速報されました。この決定は、国内外の様々な情勢や関係国への配慮が背景にあると見られています。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTmY4aWQ3ZEF6cGItNm80UzA2LWF0TEdPb056b3RNQVhteC1rOFBObmcwcHB0c1ZjY05ZR2VhRXY4eDN4S2RhckdnSQ?oc=5",
-      "published_at": "2026-08-12T11:10:09.000Z"
+      "category": "社会",
+      "source": "日本経済新聞",
+      "title": "九州自動車道、14日朝に全線通行可能に 熊本地震で一時通行止め",
+      "summary": "熊本地震の影響で一部区間が一時通行止めとなっていた九州自動車道が、14日朝には全線で通行可能となる見込みです。これにより、九州地方の物流や交通の復旧が大きく前進すると期待されています。関係機関は安全確認を徹底し、通行再開に備えています。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlOVRYb1ZFS1NMdUo5RXRwZ3dTaUVRLTFTX3RrQUtNdExvY3ppcHFYSjBsUjJVY1NHZl83UVpzaFpweHpnQUR6WmVtVXkxckt4YU5EUkVkeEt4TXo0MnFnWU5obTFyd1NwcnNVbA?oc=5",
+      "published_at": "2026-08-13T09:02:30.000Z"
     },
     {
       "id": "j005",
-      "category": "社会",
-      "source": "NHKニュース",
-      "title": "【地震情報】熊本市で震度3 津波の心配なし",
-      "summary": "熊本市で震度3の地震が発生しましたが、津波の心配はないと発表されました。今後の余震情報に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBia2ZWVXVxME05ZDgwc1VrbElfc3RIWkNhd2ZraHgzdkVadEVCV3RMYXZlOHJVNlI3c1cxNmtCY3VRZzd4ODNYT3ZueXRiRks1NjdOUzhyQlhOWkpEcXZ3?oc=5",
-      "published_at": "2026-08-12T19:10:22.000Z"
+      "category": "政治",
+      "source": "47NEWS",
+      "title": "【独自】村山談話を機に「侵略」削る 終戦50年の国連安保理声明",
+      "summary": "終戦50年の国連安全保障理事会声明において、村山談話を機に「侵略」の文言が密かに削除されていたことが独自取材で明らかになりました。この事実は、歴史認識を巡る国際的な議論や外交上の駆け引きの一端を示すものであり、今後の歴史教育や政府の姿勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93UVgwYnMyS2N2bkpDcmlOVDdEb0s4LXdNZG9fQTdZZ3psSzVpT1ZKLUdvanRmcTA3WW40ZHRpRVl1cTBRSlp0RGo0Zw?oc=5",
+      "published_at": "2026-08-13T12:55:00.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
-      "category": "Politics",
-      "region": "US",
+      "category": "Conflict",
+      "region": "Middle East",
       "source": "NBC News",
-      "title": "ホワイトハウス報道官カロライン・レビット氏が辞任へ",
-      "summary": "ホワイトハウスのカロライン・レビット報道官が、今年5月に第2子の出産を発表した後に辞任することが明らかになりました。トランプ政権の主要な顔の一人であった彼女の退任は、今後の政権運営に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFFaanpFNXExbFBaWlczZmkwR2FESDFYSlRjakRvUnVXbzl1NU1aR0VrNEt3d1VyTk0za0xGREQxcVktYjZNUzNORC1HeGFNWTQ1bGNqOEdjbzdIUWoyOVJXU0FCVDR0WGNKR0YzcWxIVWtzWGF3TG0xRGR6WWtLa3lhajNJSUhMQjZuM0NwTjhGR2h4Z2llSy1oeE1uZUJVcnNIbE9kU3V6M2JwM1h0dWFn?oc=5",
-      "published_at": "2026-08-12T20:54:59.000Z"
+      "title": "中東に展開中の兵士の劣悪な環境を受け、空母エイブラハム・リンカーンが交代へ",
+      "summary": "米海軍の原子力空母USSエイブラハム・リンカーンが、中東に展開中の兵士の劣悪な生活環境を受けて交代されることが発表されました。これは、長期にわたる任務による乗員の疲弊と士気への影響が懸念されたためと報じられています。今回の交代は、米軍の兵士の福祉と準備態勢に対する関心の高まりを反映しています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1SabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5",
+      "published_at": "2026-08-13T19:49:34.000Z"
     },
     {
       "id": "g002",
       "category": "Politics",
       "region": "US",
-      "source": "Milwaukee Journal Sentinel",
-      "title": "デビッド・クロウリーがフランチェスカ・ホンに対して驚異的な逆転勝利を収める",
-      "summary": "デビッド・クロウリー氏がフランチェスカ・ホン氏に対する選挙戦で、驚くべき逆転勝利を収めました。この結果は、地域の政治情勢に大きな影響を与えることになり、今後の動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNemFLbWMtb3kyUHN3c2NkRXNFbVA2VmxTaDFDeU1QRWFXckRKVFF3SlJ0M05qVFZDaUVEYzVEN2EwZ1YtRmk2eWNjajUySW1hSW9Gc24wNE5ZbDBJdzFZRmhEQ29aYThQWnBDMm5LdFh6UGtFX0x0SGxiMTlqenJrMlNkMW9zU1VocUFyMWp4YzN3MWhIcEE2VGhvSzNJMjR0S2NEVk9YZm5TbEt2alduT18td0pILVJ1Zkl6bmxKWXJ0eEkydzZBUkg2NVNrSnlfSHlQUWNBVnUxNlQ0VUZfQldB?oc=5",
-      "published_at": "2026-08-12T18:34:00.000Z"
+      "source": "NPR",
+      "title": "ケネディ・センター理事会、主要建物の閉鎖とトランプ氏の名前再掲を再び採決",
+      "summary": "ケネディ・センターの理事会が、主要建物の閉鎖とドナルド・トランプ氏の名前を再び追加するという議題について再度の採決を行いました。これは、過去にトランプ氏の名前を冠する提案が物議を醸した経緯があり、政治と文化の間の複雑な関係性を浮き彫りにしています。この決定は、同センターの将来的な方針に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmVaZkROTm1ON0lZQTY1VVVxVk4zN2ZQN2R3eUNjb28tY0FCcUlWeVdQeGo1NU1RUnNxeG51aS1Ncks1TnU1WVJUWWEtSVI0cUVkT2FRY1FoZllTRDlySnpTTEJuMFdudnY0V2J2VmpLVGZmekN3WnMxU3RUT2dfRWJqM08tbVh6YzZvT2tMRQ?oc=5",
+      "published_at": "2026-08-13T18:55:30.000Z"
     },
     {
       "id": "g003",
       "category": "Politics",
       "region": "US",
-      "source": "BBC",
-      "title": "トランプ氏の静かな退去後、閣僚はデコイ機に残留",
-      "summary": "トランプ氏が静かに退去した後、彼の閣僚たちは陽動用の飛行機に留まっていたと報じられました。これは、大統領の安全確保のための複雑なプロトコルの一環であったと推測されます。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5",
-      "published_at": "2026-08-12T16:34:01.000Z"
+      "source": "Politico",
+      "title": "カロライン・リービット氏の後任人事を巡る舞台裏",
+      "summary": "政治メディア「Politico」が、カロライン・リービット氏の後任を巡る水面下の動きを報じています。この記事では、後任候補の選定プロセスや、有力候補たちの動向、そして党内における力学などが詳細に分析されています。この人事の行方は、今後の米国の政治情勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0RtY1Nxai0tSmNoY0ZKXzQwLUFoNHRkWUFNQWNvaDRlZXhMMUhLcmxPbDRxZGQxMk5ZWVE4dU40aDlkVkpqOVlmak5SZkRvWlk5d0RkVm9SanMyOEJWOWZuZzBKZDVTM3F2QlcwYU5qOXphUDJpUktjbXFtT3ZzN2ZPcVlpVXdsaU9SY3JIb3FfMlpUVGsxM1hhQQ?oc=5",
+      "published_at": "2026-08-13T20:39:00.000Z"
     },
     {
       "id": "g004",
-      "category": "Politics",
-      "region": "Middle East",
-      "source": "CBS News",
-      "title": "ライブアップデート：トランプ氏、米国はホルムズ海峡を「完全に掌握」しており「維持する可能性」と発言",
-      "summary": "トランプ氏が、米国がホルムズ海峡を「完全に掌握」しており、その支配を「維持する可能性もある」と発言したことがライブで報じられました。この発言は、中東地域の地政学的な緊張を高める可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNOYzlIQUFzd2ZmNXU5eEJzS0g1ZHNwcVo0Nm1HeUExa2RJQzNQSGJpSWFfZWdoSmxYLVZBMlkzMG10T0R0WWN1dWM1VG5fbjFkcGlBQUZtSWxzVTd4dEJtVUwzdVBRTTNMZWhURWF1Ry1SLW93bHdXOV9uZHBWbTZZV1REcW91ZGZ3YzZkak9wZTJWOG9HVEx3UUg0RURheVZyZWpFZkpFV1dqUmdWZQ?oc=5",
-      "published_at": "2026-08-12T20:00:00.000Z"
+      "category": "Technology",
+      "region": "US",
+      "source": "The Guardian",
+      "title": "ドナルド・トランプ氏、米民間企業にサイバー攻撃実施権限を付与",
+      "summary": "ドナルド・トランプ氏が、米国の民間企業に対し、特定の状況下でサイバー攻撃を実施する権限を付与する決定を下しました。この動きは、国家安全保障上の脅威に対処するための新たな戦略として注目される一方で、民間企業による攻撃のリスクや国際法上の問題について議論を呼んでいます。サイバーセキュリティ政策における重要な転換点となる可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTJGUEp1MFR2bHFHRUlWRnNmY1VibGIyLURKOW9OaXE3dkhZVGlQUzhQRlpiNXZBYXVRWGJHNWY4a1NhVjI4cVdOT3JXaFh4cVdrMGZlQzBKT2dLbERKSUZVblVxcEh3eFBodjRvNUh3TklnR3IxdDhVNnk2VWVxS21UQXY0Wm12bmljc0JvWmlsdXRDdXc?oc=5",
+      "published_at": "2026-08-13T19:42:00.000Z"
     },
     {
       "id": "g005",
-      "category": "Politics",
+      "category": "Technology",
       "region": "US",
-      "source": "TMZ",
-      "title": "トランプ政権、ホワイトハウス改修に9億ドル以上を支出へ",
-      "summary": "トランプ政権がホワイトハウスの改修に9億ドル以上を支出する予定であると報じられました。この大規模な改修計画は、施設の近代化とセキュリティ強化を目的としていると見られています。",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNlBGdGZhZzlnc2xTekRxNDFPbVFXd2ItRVkybTZVT004dE1BSExFaTQ2Nm5ZV29UbHpyTzZsMjk3eklLQkxrUDF3U2NSQm9Tc00xZHFvN2dVMFAzSHNSa1RTRU00em9xdUNSQ3BobXFUMlNMTGN3YTlBMEJqV0pIb1E1T1pGVFdhRlZj?oc=5",
-      "published_at": "2026-08-12T14:13:52.000Z"
+      "source": "The Washington Post",
+      "title": "Flock、警察による広範なカメラネットワーク乱用に関するPost紙の報道を受け変更を発表",
+      "summary": "広範な監視カメラネットワークを提供する企業Flockが、警察による同社システム乱用に関するThe Washington Post紙の報道を受け、方針変更を発表しました。これにより、市民のプライバシー保護を強化する措置が講じられる見込みです。この出来事は、監視技術の倫理的な使用と透明性の確保に向けた重要な一歩となります。",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWZYWFhqWkd3RHJ1cWtYcmNTM1N2RWRVLXRpaElvNEllUjIwVWNXWkg5ajE3R2h4WGhvT1VIX0ZaRktNb3llMmZBWXliWk9YYkFCSVVhcWwtLU56U3JYdHBoMHNncVpRcFl5T0lwaGYyOTFNVE5BWUpQYjJxdTgtX0dUcVF3Q0ZVSVdQcUpVT0VpZlprQlZnejJZU3BpTE1CZ3NxMVlDcFBPU2FKenRKckZWRjVlZEhKc3Z3?oc=5",
+      "published_at": "2026-08-13T18:52:56.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,24 +187,24 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手のアジリティ能力向上と傷害予防に対するVR支援神経筋トレーニングの効果：対照実験研究",
-      "summary": "この研究は、VRを活用した神経筋トレーニングがバスケットボール選手のアジリティ能力向上と前十字靭帯（ACL）損傷予防に与える影響を、対照実験を通じて検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、アジリティや神経筋制御の改善に有効である可能性が示唆されています。これにより、競技パフォーマンスの向上と傷害リスクの低減が期待されます。",
+      "title": "バスケットボール選手のアジリティ能力向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験研究",
+      "summary": "バスケットボール選手を対象とした対照実験で、VR（バーチャルリアリティ）を用いた神経筋トレーニングがアジリティパフォーマンスの向上とACLを含む下肢傷害の予防に効果があることが示されました。この研究では、VR環境下での特定の運動課題を通じて、選手の素早い方向転換能力やバランスが改善されることが確認されています。VR技術が、スポーツ選手のパフォーマンス向上と傷害リスク低減のための新たなトレーニングツールとして期待されます。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "なぜエリートランナーは楽そうに見えるのか？彼らのように速く効率的に走るための4つの簡単な修正点",
-      "summary": "本記事は、エリートランナーが効率的かつ楽に走る理由を生物力学的な観点から分析し、一般のランナーがパフォーマンスを向上させるための4つのシンプルな調整方法を解説しています。接地時間、ピッチ、姿勢、腕の振りといった要素が、ランニングエコノミーに大きく影響すると指摘されています。",
+      "title": "なぜエリートランナーは楽そうに走るのか？彼らのように速く効率的に走るための4つのシンプルな調整",
+      "summary": "エリートランナーが効率的に走る秘訣をバイオメカニクスの視点から分析し、一般ランナーが速く効率的に走るための4つの簡単な調整ポイントを解説しています。具体的には、姿勢、腕の振り、ピッチ、ストライドといった要素に焦点を当て、これらの改善がランニングエコノミーにどう影響するかを説明しています。これにより、無駄のない動きで疲労を軽減し、パフォーマンスを向上させる方法が提案されています。",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチドの人気が急上昇中。それらは何で、効果はあるのか？医師が警告する理由。",
-      "summary": "ペプチドが健康増進やパフォーマンス向上に効果があるとして人気を集めていますが、本記事ではその正体と科学的根拠、そして医師が安全性について注意を促している背景を解説しています。まだ多くのペプチドについて十分な研究が不足しており、潜在的なリスクも考慮する必要があると強調されています。",
+      "title": "ペプチド：医師が解説するその利点、リスク、FDAの懸念",
+      "summary": "医師たちが、ペプチドが様々な健康やパフォーマンスの向上に寄与する可能性を認めつつも、その使用にはリスクが伴い、FDA（米国食品医薬品局）がその安全性と有効性について懸念を示している現状を解説しています。ペプチドは筋肉増強や回復促進に注目されていますが、未承認製品の市場流通や長期的な影響に関するデータ不足が指摘されています。専門家は、科学的根拠に基づいた適切な情報提供と規制の必要性を強調しています。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
@@ -212,136 +212,136 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
       "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入",
-      "summary": "この論文は、スポーツリハビリテーションプログラムにおいて非線形ピリオダイゼーションを効果的に導入する方法について議論しています。非線形ピリオダイゼーションは、トレーニングの強度と量を柔軟に変化させることで、アスリートの回復を最適化し、モチベーションを維持しながら、怪我からの復帰を促進する可能性が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzVrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
+      "summary": "スポーツリハビリテーションにおいて、従来の線形ピリオダイゼーションではなく、非線形ピリオダイゼーションを導入することの有効性が議論されています。非線形ピリオダイゼーションは、トレーニングの強度や量を日ごとに変化させることで、アスリートの回復状況や適応能力に応じて柔軟に対応し、より効率的な回復とパフォーマンス向上を目指すアプローチです。この研究では、その理論的背景と実践方法が示されています。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPellSZ2MzUDdXMzVrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "梨状筋症候群に対する苓桂丹血鍼法と体外衝撃波療法の併用による臨床的有効性：前向き比較臨床研究",
-      "summary": "この前向き比較臨床研究では、梨状筋症候群の治療において、東洋医学の苓桂丹血鍼法と西洋医学の体外衝撃波療法を併用することの臨床的有効性が評価されました。両治療法を組み合わせることで、単独療法よりも痛みの軽減と機能改善において優れた結果が得られる可能性が示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTTFiVmZlOHFkWWNKckRFa25sLUJYSzBCUUFVUG5aQnVudG0tbEg3R2dpcVE5TDN6UHMyOFlwRllHejRwTi02blUwUnptTkNHZEFpaG85ZjlIb0NUcXRGbWdMM0xta2N6VjhYLURGanF2aktpXzdRdFY0NUcyQVNBN1d2a1FNd3VfNS16M3Rn?oc=5"
+      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理のための補助的な鍼治療と灸治療：症例報告",
+      "summary": "反復性肩関節後方脱臼を抱える女子サッカー選手に対し、標準的な治療に加えて鍼治療と灸治療を補助的に行った結果に関する症例報告です。この治療法が疼痛管理に有効であり、選手の不快感を軽減し、リハビリテーションを促進する可能性が示唆されています。東洋医学的アプローチがスポーツ傷害の回復過程に良い影響を与える可能性が探られました。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
       "title": "スポーツ栄養市場",
-      "summary": "本記事は、世界のスポーツ栄養市場の現状と将来予測について分析しています。アスリートのパフォーマンス向上と回復への意識の高まり、そして一般消費者への健康志向の拡大が市場成長を牽引していることが示されています。今後も様々な製品開発と需要拡大が予測されています。",
+      "summary": "グローバルなスポーツ栄養市場に関するレポートで、市場規模、成長予測、主要トレンド、主要プレイヤーなどが分析されています。アスリートやフィットネス愛好家の間で、パフォーマンス向上、回復促進、健康維持を目的とした栄養補助食品や機能性食品への需要が高まっていることが示されています。今後も市場は拡大基調にあり、特にパーソナライズされた栄養ソリューションが注目されています。",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnbEhEdFB2YWYwSWk1UXNjS21JbWIxRzlyam1HZHhDQXJBUXdURW4yZ2xHZE1ubUlTTE1faG5ZRTNIN0pfdlRfQmpBRjNYelBMS3BtQmtObDFIWEdzN2JjSC1hcDJ4Q2syaHh6OTRndE91WWNnNjFv?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
-      "summary": "アスリート健康パフォーマンスセンターの研究では、ユースサッカーにおける「相対的年齢効果（RAE）」、すなわち同学年内で誕生日が早い選手が、身体的成熟度から有利になる傾向がある現象を調査しました。この研究は、ユーススポーツの選抜や育成システムにおける公平性の課題を浮き彫りにしています。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEh3YkdfUlJLa2RzOGZFeEhxdHlMVVl4MmFndw?oc=5"
+      "title": "アスリート健康・パフォーマンスセンターがユースサッカーにおける相対年齢効果を検証",
+      "summary": "アスリート健康・パフォーマンスセンターがユースサッカー選手を対象に、相対年齢効果（RAE）の影響を検証した研究報告です。相対年齢効果とは、同じ選抜グループ内で生まれ月が早い選手が、身体的成熟度やコーチからの評価で有利になる現象を指します。この研究は、ユーススポーツにおける才能発掘や育成プログラムの公平性について重要な示唆を与えています。",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEg3V2JGX1JJWmtkczhGeUV4SHF0eExVWVgyeGd3?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "若いアスリートのメンタルヘルスに対するソーシャルメディアの影響：横断研究",
-      "summary": "この横断研究は、若いアスリートのメンタルヘルスに対するソーシャルメディア利用の影響を調査しました。ソーシャルメディアの使用が、身体イメージへの懸念、比較によるストレス、睡眠の質の低下など、アスリートの精神的幸福に負の影響を与える可能性があることが示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGJWSGg4RkpQaGthbXd1VzhQVDJwZGhQaU5NWkJNcEdJZXFvbDd4Z2dtQnVvSklxUW16dHN4eEtpUFVvVmFPVkdMTHNxdFhwVklaeDlnWng1Z041bl80UU5tcXlvSmZmWkdSamV2d2Vac1dsMmkwOGJjT0VIM2NpaGt6UnhXa1d0ci1wWWVyb3NDZw?oc=5"
+      "title": "クリステン・ホームズが語る、睡眠と回復がいかにハイパフォーマンスを形成するか",
+      "summary": "WHOOPのVPであるクリステン・ホームズ氏が、アスリートのハイパフォーマンスを維持するために睡眠と回復がいかに重要であるかを解説しています。彼女は、単なる休息ではなく、質の高い睡眠と適切な回復戦略が、身体的・精神的なコンディションを最適化し、トレーニング効果を最大化すると強調しています。データに基づいた睡眠管理が競技力向上に不可欠であることを示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "今年５月に第２子出産発表、レビット米大統領報道官が退任へ…トランプ氏は「愛する子供たちや家族と時間を過ごすため」と説明",
-      "summary": "今年5月に第2子の出産を発表したレビット米大統領報道官が退任することが明らかになりました。トランプ大統領は、彼女が「愛する子供たちや家族と時間を過ごすため」と説明しており、家族との時間を優先する判断と見られます。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mNnFBX3A3UVIzUV80Vkw2ZUd1V3JfdjYyLXI2djNheUFBbmQzTUd6NVU4ajc2T21qeVJZTGpYTExGOWpWZHl1YlRiSHphOXdyM2xPV0VJQVAwdzhuWkI1OGVR?oc=5"
+      "category": "社会",
+      "title": "千葉県で線状降水帯による大雨 災害発生に厳重警戒",
+      "summary": "千葉県では線状降水帯が発生し、広い範囲で非常に激しい雨が降り続いています。気象庁は土砂災害や河川の氾濫、低い土地での浸水など、災害の発生に厳重な警戒を呼びかけています。地元住民には安全確保のための情報収集と早めの避難行動が求められています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdDhGenhXYVV4WXh6WGItV0NjU0J4WVBER1FVVG5KQjV0WmU0RUFyVmtydmxScHp5aGNIc3I4WFp1LS05RUxsM21ndndjck5HSUYzdA?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "北方領土、ロシア領で確定 プーチン氏、日本が「立場変更」：時事ドットコム",
-      "summary": "ロシアのプーチン大統領は、北方領土がロシア領として確定したとの認識を示し、日本が「立場変更」したと発言しました。これは、長年の日露間の領土問題に新たな波紋を投げかけるものです。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BVkYxWjBCeHdaMmVkX2RRaExSX1otNFp5TWZ1RUpfTTVfTmowRDhWdmZOZF9lSXhwOE9DWUZxYlc4YUE4VU9hNWVyM0ZnTWIxc0k3aDA5aXVoUzhoLVg5bE1PZw?oc=5"
+      "title": "プーチン大統領の択捉島訪問、米当局「日本の主権を長年認めてきた」「インド太平洋の平和と安定を損なおうとするいかなる行動にも強く反対」とコメント",
+      "summary": "プーチン大統領の択捉島訪問に対し、米当局が「日本の主権を長年認めてきた」との立場を表明し、ロシアの行動は「インド太平洋の平和と安定を損なう」として強く反対するコメントを出しました。この発言は、北方領土問題における米国の日本支持の姿勢を改めて示すものです。今後の日露関係および国際情勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iMlVWTlRZNWxBdjB5MnZRdXkxRmJRZFB1bUd0cWY2cVZPbGx2dXIwTVpJLVNmOVV4NFZMeFpIUUhMVlZGdVoxaTk4b1ZKbE1mMTg4ejFiLXlRelBRblFWc0RR?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "【解説】新たな台風17号が発生 週明けに本州へ近づくおそれ 気象予報士「晴れていても高い波に注意を」",
-      "summary": "新たな台風17号が発生し、週明けには本州に接近する恐れがあることが発表されました。気象予報士は、天候が晴れていても高波に警戒するよう注意を呼びかけています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UcFJDbVVBaGtwRG11dGJWaktOQUdfNUpNOXZSdk5KTVZNVGdSWU12cHpGejdBNDF3bDJDbXBucFdmQjVSTXFXdUp1Z3lLZjEtN2lFZmRwYkxVRm9MTVk3VG1WMkx6YTNmcGxwQWwyQm92Y2tMQm0xdllNSkk?oc=5"
+      "category": "政治",
+      "title": "トランプ氏SNS投稿から不協和音、声明から密かに「削除」された文言に非難相次ぐ、「ハマスはまた立ち上がる」支持層の投稿",
+      "summary": "トランプ氏のSNS投稿が再び波紋を呼んでいます。特に、以前の声明から「ハマスはまた立ち上がる」という支持層の投稿が密かに削除されたことが判明し、国内外から非難の声が相次いでいます。この動きは、次期大統領選に向けての外交政策や支持層との関係構築に影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jSHJZWVg1cV9MU3VpQVpvekZNb1l0QzNXbmYxX245eU4yR25yQmFheDJUR21WTGJHQzV2VzZrWXRPcWIwNkNkLTh1X2RIN2pubHlKVTBoTzVoOGFRX3llbzNybWtIUE9JbXBnX1gwbXRfQllleDRFNFAyNUFLblk?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "【速報】首相、靖国参拝見送りへ",
-      "summary": "首相が靖国神社への参拝を見送る方針であることが速報されました。この決定は、国内外の様々な情勢や関係国への配慮が背景にあると見られています。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTmY4aWQ3ZEF6cGItNm80UzA2LWF0TEdPb056b3RNQVhteC1rOFBObmcwcHB0c1ZjY05ZR2VhRXY4eDN4S2RhckdnSQ?oc=5"
+      "category": "社会",
+      "title": "九州自動車道、14日朝に全線通行可能に 熊本地震で一時通行止め",
+      "summary": "熊本地震の影響で一部区間が一時通行止めとなっていた九州自動車道が、14日朝には全線で通行可能となる見込みです。これにより、九州地方の物流や交通の復旧が大きく前進すると期待されています。関係機関は安全確認を徹底し、通行再開に備えています。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlOVRYb1ZFS1NMdUo5RXRwZ3dTaUVRLTFTX3RrQUtNdExvY3ppcHFYSjBsUjJVY1NHZl83UVpzaFpweHpnQUR6WmVtVXkxckt4YU5EUkVkeEt4TXo0MnFnWU5obTFyd1NwcnNVbA?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "【地震情報】熊本市で震度3 津波の心配なし",
-      "summary": "熊本市で震度3の地震が発生しましたが、津波の心配はないと発表されました。今後の余震情報に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBia2ZWVXVxME05ZDgwc1VrbElfc3RIWkNhd2ZraHgzdkVadEVCV3RMYXZlOHJVNlI3c1cxNmtCY3VRZzd4ODNYT3ZueXRiRks1NjdOUzhyQlhOWkpEcXZ3?oc=5"
+      "category": "政治",
+      "title": "【独自】村山談話を機に「侵略」削る 終戦50年の国連安保理声明",
+      "summary": "終戦50年の国連安全保障理事会声明において、村山談話を機に「侵略」の文言が密かに削除されていたことが独自取材で明らかになりました。この事実は、歴史認識を巡る国際的な議論や外交上の駆け引きの一端を示すものであり、今後の歴史教育や政府の姿勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93UVgwYnMyS2N2bkpDcmlOVDdEb0s4LXdNZG9fQTdZZ3psSzVpT1ZKLUdvanRmcTA3WW40ZHRpRVl1cTBRSlp0RGo0Zw?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ホワイトハウス報道官カロライン・レビット氏が辞任へ",
-      "summary": "ホワイトハウスのカロライン・レビット報道官が、今年5月に第2子の出産を発表した後に辞任することが明らかになりました。トランプ政権の主要な顔の一人であった彼女の退任は、今後の政権運営に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFFaanpFNXExbFBaWlczZmkwR2FESDFYSlRjakRvUnVXbzl1NU1aR0VrNEt3d1VyTk0za0xGREQxcVktYjZNUzNORC1HeGFNWTQ1bGNqOEdjbzdIUWoyOVJXU0FCVDR0WGNKR0YzcWxIVWtzWGF3TG0xRGR6WWtLa3lhajNJSUhMQjZuM0NwTjhGR2h4Z2llSy1oeE1uZUJVcnNIbE9kU3V6M2JwM1h0dWFn?oc=5"
+      "category": "Conflict",
+      "title": "中東に展開中の兵士の劣悪な環境を受け、空母エイブラハム・リンカーンが交代へ",
+      "summary": "米海軍の原子力空母USSエイブラハム・リンカーンが、中東に展開中の兵士の劣悪な生活環境を受けて交代されることが発表されました。これは、長期にわたる任務による乗員の疲弊と士気への影響が懸念されたためと報じられています。今回の交代は、米軍の兵士の福祉と準備態勢に対する関心の高まりを反映しています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1SabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "デビッド・クロウリーがフランチェスカ・ホンに対して驚異的な逆転勝利を収める",
-      "summary": "デビッド・クロウリー氏がフランチェスカ・ホン氏に対する選挙戦で、驚くべき逆転勝利を収めました。この結果は、地域の政治情勢に大きな影響を与えることになり、今後の動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNemFLbWMtb3kyUHN3c2NkRXNFbVA2VmxTaDFDeU1QRWFXckRKVFF3SlJ0M05qVFZDaUVEYzVEN2EwZ1YtRmk2eWNjajUySW1hSW9Gc24wNE5ZbDBJdzFZRmhEQ29aYThQWnBDMm5LdFh6UGtFX0x0SGxiMTlqenJrMlNkMW9zU1VocUFyMWp4YzN3MWhIcEE2VGhvSzNJMjR0S2NEVk9YZm5TbEt2alduT18td0pILVJ1Zkl6bmxKWXJ0eEkydzZBUkg2NVNrSnlfSHlQUWNBVnUxNlQ0VUZfQldB?oc=5"
+      "title": "ケネディ・センター理事会、主要建物の閉鎖とトランプ氏の名前再掲を再び採決",
+      "summary": "ケネディ・センターの理事会が、主要建物の閉鎖とドナルド・トランプ氏の名前を再び追加するという議題について再度の採決を行いました。これは、過去にトランプ氏の名前を冠する提案が物議を醸した経緯があり、政治と文化の間の複雑な関係性を浮き彫りにしています。この決定は、同センターの将来的な方針に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmVaZkROTm1ON0lZQTY1VVVxVk4zN2ZQN2R3eUNjb28tY0FCcUlWeVdQeGo1NU1RUnNxeG51aS1Ncks1TnU1WVJUWWEtSVI0cUVkT2FRY1FoZllTRDlySnpTTEJuMFdudnY0V2J2VmpLVGZmekN3WnMxU3RUT2dfRWJqM08tbVh6YzZvT2tMRQ?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏の静かな退去後、閣僚はデコイ機に残留",
-      "summary": "トランプ氏が静かに退去した後、彼の閣僚たちは陽動用の飛行機に留まっていたと報じられました。これは、大統領の安全確保のための複雑なプロトコルの一環であったと推測されます。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5"
+      "title": "カロライン・リービット氏の後任人事を巡る舞台裏",
+      "summary": "政治メディア「Politico」が、カロライン・リービット氏の後任を巡る水面下の動きを報じています。この記事では、後任候補の選定プロセスや、有力候補たちの動向、そして党内における力学などが詳細に分析されています。この人事の行方は、今後の米国の政治情勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0RtY1Nxai0tSmNoY0ZKXzQwLUFoNHRkWUFNQWNvaDRlZXhMMUhLcmxPbDRxZGQxMk5ZWVE4dU40aDlkVkpqOVlmak5SZkRvWlk5d0RkVm9SanMyOEJWOWZuZzBKZDVTM3F2QlcwYU5qOXphUDJpUktjbXFtT3ZzN2ZPcVlpVXdsaU9SY3JIb3FfMlpUVGsxM1hhQQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ライブアップデート：トランプ氏、米国はホルムズ海峡を「完全に掌握」しており「維持する可能性」と発言",
-      "summary": "トランプ氏が、米国がホルムズ海峡を「完全に掌握」しており、その支配を「維持する可能性もある」と発言したことがライブで報じられました。この発言は、中東地域の地政学的な緊張を高める可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNOYzlIQUFzd2ZmNXU5eEJzS0g1ZHNwcVo0Nm1HeUExa2RJQzNQSGJpSWFfZWdoSmxYLVZBMlkzMG10T0R0WWN1dWM1VG5fbjFkcGlBQUZtSWxzVTd4dEJtVUwzdVBRTTNMZWhURWF1Ry1SLW93bHdXOV9uZHBWbTZZV1REcW91ZGZ3YzZkak9wZTJWOG9HVEx3UUg0RURheVZyZWpFZkpFV1dqUmdWZQ?oc=5"
+      "category": "Technology",
+      "title": "ドナルド・トランプ氏、米民間企業にサイバー攻撃実施権限を付与",
+      "summary": "ドナルド・トランプ氏が、米国の民間企業に対し、特定の状況下でサイバー攻撃を実施する権限を付与する決定を下しました。この動きは、国家安全保障上の脅威に対処するための新たな戦略として注目される一方で、民間企業による攻撃のリスクや国際法上の問題について議論を呼んでいます。サイバーセキュリティ政策における重要な転換点となる可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTJGUEp1MFR2bHFHRUlWRnNmY1VibGIyLURKOW9OaXE3dkhZVGlQUzhQRlpiNXZBYXVRWGJHNWY4a1NhVjI4cVdOT3JXaFh4cVdrMGZlQzBKT2dLbERKSUZVblVxcEh3eFBodjRvNUh3TklnR3IxdDhVNnk2VWVxS21UQXY0Wm12bmljc0JvWmlsdXRDdXc?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ政権、ホワイトハウス改修に9億ドル以上を支出へ",
-      "summary": "トランプ政権がホワイトハウスの改修に9億ドル以上を支出する予定であると報じられました。この大規模な改修計画は、施設の近代化とセキュリティ強化を目的としていると見られています。",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNlBGdGZhZzlnc2xTekRxNDFPbVFXd2ItRVkybTZVT004dE1BSExFaTQ2Nm5ZV29UbHpyTzZsMjk3eklLQkxrUDF3U2NSQm9Tc00xZHFvN2dVMFAzSHNSa1RTRU00em9xdUNSQ3BobXFUMlNMTGN3YTlBMEJqV0pIb1E1T1pGVFdhRlZj?oc=5"
+      "category": "Technology",
+      "title": "Flock、警察による広範なカメラネットワーク乱用に関するPost紙の報道を受け変更を発表",
+      "summary": "広範な監視カメラネットワークを提供する企業Flockが、警察による同社システム乱用に関するThe Washington Post紙の報道を受け、方針変更を発表しました。これにより、市民のプライバシー保護を強化する措置が講じられる見込みです。この出来事は、監視技術の倫理的な使用と透明性の確保に向けた重要な一歩となります。",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWZYWFhqWkd3RHJ1cWtYcmNTM1N2RWRVLXRpaElvNEllUjIwVWNXWkg5ajE3R2h4WGhvT1VIX0ZaRktNb3llMmZBWXliWk9YYkFCSVVhcWwtLU56U3JYdHBoMHNncVpRcFl5T0lwaGYyOTFNVE5BWUpQYjJxdTgtX0dUcVF3Q0ZVSVdQcUpVT0VpZlprQlZnejJZU3BpTE1CZ3NxMVlDcFBPU2FKenRKckZWRjVlZEhKc3Z3?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "VRを活用した神経筋トレーニングがバスケットボール選手のアジリティパフォーマンスと傷害予防に与える影響：対照実験",
-      "summary": "この研究は、バスケットボール選手を対象に、VR（仮想現実）を活用した神経筋トレーニングがアジリティ能力と怪我予防に与える影響を検証しました。実験の結果、VRトレーニンググループは、従来の方法と比較してアジリティパフォーマンスの有意な改善が見られ、膝前十字靭帯（ACL）損傷のリスク軽減にも効果的な可能性が示されました。",
+      "title": "バスケットボール選手のアジリティ能力向上と傷害予防に対するVR支援神経筋トレーニングの効果：対照実験研究",
+      "summary": "この研究は、VRを活用した神経筋トレーニングがバスケットボール選手のアジリティ能力向上と前十字靭帯（ACL）損傷予防に与える影響を、対照実験を通じて検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、アジリティや神経筋制御の改善に有効である可能性が示唆されています。これにより、競技パフォーマンスの向上と傷害リスクの低減が期待されます。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：歴史的ミニレビュー",
-      "summary": "このレビューは、スプリント科学における先駆的な研究者と主要なパラダイムシフトの歴史を概観しています。初期の運動生理学から、現代のバイオメカニクスや神経科学の統合に至るまで、スプリントパフォーマンスの理解がどのように進化してきたかをまとめています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZUxSMlczLTFWMXMxSTB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "なぜエリートランナーは楽そうに見えるのか？彼らのように速く効率的に走るための4つの簡単な修正点",
+      "summary": "本記事は、エリートランナーが効率的かつ楽に走る理由を生物力学的な観点から分析し、一般のランナーがパフォーマンスを向上させるための4つのシンプルな調整方法を解説しています。接地時間、ピッチ、姿勢、腕の振りといった要素が、ランニングエコノミーに大きく影響すると指摘されています。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
     }
   ],
   "monthly_top20": [
@@ -349,24 +349,24 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手のアジリティ能力向上と傷害予防に対するVR支援神経筋トレーニングの効果：対照実験研究",
-      "summary": "この研究は、VRを活用した神経筋トレーニングがバスケットボール選手のアジリティ能力向上と前十字靭帯（ACL）損傷予防に与える影響を、対照実験を通じて検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、アジリティや神経筋制御の改善に有効である可能性が示唆されています。これにより、競技パフォーマンスの向上と傷害リスクの低減が期待されます。",
+      "title": "バスケットボール選手のアジリティ能力向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験研究",
+      "summary": "バスケットボール選手を対象とした対照実験で、VR（バーチャルリアリティ）を用いた神経筋トレーニングがアジリティパフォーマンスの向上とACLを含む下肢傷害の予防に効果があることが示されました。この研究では、VR環境下での特定の運動課題を通じて、選手の素早い方向転換能力やバランスが改善されることが確認されています。VR技術が、スポーツ選手のパフォーマンス向上と傷害リスク低減のための新たなトレーニングツールとして期待されます。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "なぜエリートランナーは楽そうに見えるのか？彼らのように速く効率的に走るための4つの簡単な修正点",
-      "summary": "本記事は、エリートランナーが効率的かつ楽に走る理由を生物力学的な観点から分析し、一般のランナーがパフォーマンスを向上させるための4つのシンプルな調整方法を解説しています。接地時間、ピッチ、姿勢、腕の振りといった要素が、ランニングエコノミーに大きく影響すると指摘されています。",
+      "title": "なぜエリートランナーは楽そうに走るのか？彼らのように速く効率的に走るための4つのシンプルな調整",
+      "summary": "エリートランナーが効率的に走る秘訣をバイオメカニクスの視点から分析し、一般ランナーが速く効率的に走るための4つの簡単な調整ポイントを解説しています。具体的には、姿勢、腕の振り、ピッチ、ストライドといった要素に焦点を当て、これらの改善がランニングエコノミーにどう影響するかを説明しています。これにより、無駄のない動きで疲労を軽減し、パフォーマンスを向上させる方法が提案されています。",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチドの人気が急上昇中。それらは何で、効果はあるのか？医師が警告する理由。",
-      "summary": "ペプチドが健康増進やパフォーマンス向上に効果があるとして人気を集めていますが、本記事ではその正体と科学的根拠、そして医師が安全性について注意を促している背景を解説しています。まだ多くのペプチドについて十分な研究が不足しており、潜在的なリスクも考慮する必要があると強調されています。",
+      "title": "ペプチド：医師が解説するその利点、リスク、FDAの懸念",
+      "summary": "医師たちが、ペプチドが様々な健康やパフォーマンスの向上に寄与する可能性を認めつつも、その使用にはリスクが伴い、FDA（米国食品医薬品局）がその安全性と有効性について懸念を示している現状を解説しています。ペプチドは筋肉増強や回復促進に注目されていますが、未承認製品の市場流通や長期的な影響に関するデータ不足が指摘されています。専門家は、科学的根拠に基づいた適切な情報提供と規制の必要性を強調しています。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
@@ -374,136 +374,136 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
       "title": "スポーツリハビリテーションにおける非線形ピリオダイゼーションの導入",
-      "summary": "この論文は、スポーツリハビリテーションプログラムにおいて非線形ピリオダイゼーションを効果的に導入する方法について議論しています。非線形ピリオダイゼーションは、トレーニングの強度と量を柔軟に変化させることで、アスリートの回復を最適化し、モチベーションを維持しながら、怪我からの復帰を促進する可能性が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPzellSZ2MzUDdXMzVrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
+      "summary": "スポーツリハビリテーションにおいて、従来の線形ピリオダイゼーションではなく、非線形ピリオダイゼーションを導入することの有効性が議論されています。非線形ピリオダイゼーションは、トレーニングの強度や量を日ごとに変化させることで、アスリートの回復状況や適応能力に応じて柔軟に対応し、より効率的な回復とパフォーマンス向上を目指すアプローチです。この研究では、その理論的背景と実践方法が示されています。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWI4dHhadDQxTVplM0t3V2NjQjIwMmxiOXVNdExMRjh6Z0pVS3JrQnpNbjhUU0xiNjloSTdCNEdPellSZ2MzUDdXMzVrZnIzcjdGdklhZy0wZ2g4ZTRQMVhOXzlydGllQmY2UjFpaHAtZkdFR29iNnpxeXl6RkRIQnM5ZTNmVmlBc0lvYi1wdmxyOGM2QURTdmRtUGh6SDQ?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "梨状筋症候群に対する苓桂丹血鍼法と体外衝撃波療法の併用による臨床的有効性：前向き比較臨床研究",
-      "summary": "この前向き比較臨床研究では、梨状筋症候群の治療において、東洋医学の苓桂丹血鍼法と西洋医学の体外衝撃波療法を併用することの臨床的有効性が評価されました。両治療法を組み合わせることで、単独療法よりも痛みの軽減と機能改善において優れた結果が得られる可能性が示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTTFiVmZlOHFkWWNKckRFa25sLUJYSzBCUUFVUG5aQnVudG0tbEg3R2dpcVE5TDN6UHMyOFlwRllHejRwTi02blUwUnptTkNHZEFpaG85ZjlIb0NUcXRGbWdMM0xta2N6VjhYLURGanF2aktpXzdRdFY0NUcyQVNBN1d2a1FNd3VfNS16M3Rn?oc=5"
+      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理のための補助的な鍼治療と灸治療：症例報告",
+      "summary": "反復性肩関節後方脱臼を抱える女子サッカー選手に対し、標準的な治療に加えて鍼治療と灸治療を補助的に行った結果に関する症例報告です。この治療法が疼痛管理に有効であり、選手の不快感を軽減し、リハビリテーションを促進する可能性が示唆されています。東洋医学的アプローチがスポーツ傷害の回復過程に良い影響を与える可能性が探られました。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
       "title": "スポーツ栄養市場",
-      "summary": "本記事は、世界のスポーツ栄養市場の現状と将来予測について分析しています。アスリートのパフォーマンス向上と回復への意識の高まり、そして一般消費者への健康志向の拡大が市場成長を牽引していることが示されています。今後も様々な製品開発と需要拡大が予測されています。",
+      "summary": "グローバルなスポーツ栄養市場に関するレポートで、市場規模、成長予測、主要トレンド、主要プレイヤーなどが分析されています。アスリートやフィットネス愛好家の間で、パフォーマンス向上、回復促進、健康維持を目的とした栄養補助食品や機能性食品への需要が高まっていることが示されています。今後も市場は拡大基調にあり、特にパーソナライズされた栄養ソリューションが注目されています。",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnbEhEdFB2YWYwSWk1UXNjS21JbWIxRzlyam1HZHhDQXJBUXdURW4yZ2xHZE1ubUlTTE1faG5ZRTNIN0pfdlRfQmpBRjNYelBMS3BtQmtObDFIWEdzN2JjSC1hcDJ4Q2syaHh6OTRndE91WWNnNjFv?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
-      "summary": "アスリート健康パフォーマンスセンターの研究では、ユースサッカーにおける「相対的年齢効果（RAE）」、すなわち同学年内で誕生日が早い選手が、身体的成熟度から有利になる傾向がある現象を調査しました。この研究は、ユーススポーツの選抜や育成システムにおける公平性の課題を浮き彫りにしています。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEh3YkdfUlJLa2RzOGZFeEhxdHlMVVl4MmFndw?oc=5"
+      "title": "アスリート健康・パフォーマンスセンターがユースサッカーにおける相対年齢効果を検証",
+      "summary": "アスリート健康・パフォーマンスセンターがユースサッカー選手を対象に、相対年齢効果（RAE）の影響を検証した研究報告です。相対年齢効果とは、同じ選抜グループ内で生まれ月が早い選手が、身体的成熟度やコーチからの評価で有利になる現象を指します。この研究は、ユーススポーツにおける才能発掘や育成プログラムの公平性について重要な示唆を与えています。",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEg3V2JGX1JJWmtkczhGeUV4SHF0eExVWVgyeGd3?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "若いアスリートのメンタルヘルスに対するソーシャルメディアの影響：横断研究",
-      "summary": "この横断研究は、若いアスリートのメンタルヘルスに対するソーシャルメディア利用の影響を調査しました。ソーシャルメディアの使用が、身体イメージへの懸念、比較によるストレス、睡眠の質の低下など、アスリートの精神的幸福に負の影響を与える可能性があることが示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGJWSGg4RkpQaGthbXd1VzhQVDJwZGhQaU5NWkJNcEdJZXFvbDd4Z2dtQnVvSklxUW16dHN4eEtpUFVvVmFPVkdMTHNxdFhwVklaeDlnWng1Z041bl80UU5tcXlvSmZmWkdSamV2d2Vac1dsMmkwOGJjT0VIM2NpaGt6UnhXa1d0ci1wWWVyb3NDZw?oc=5"
+      "title": "クリステン・ホームズが語る、睡眠と回復がいかにハイパフォーマンスを形成するか",
+      "summary": "WHOOPのVPであるクリステン・ホームズ氏が、アスリートのハイパフォーマンスを維持するために睡眠と回復がいかに重要であるかを解説しています。彼女は、単なる休息ではなく、質の高い睡眠と適切な回復戦略が、身体的・精神的なコンディションを最適化し、トレーニング効果を最大化すると強調しています。データに基づいた睡眠管理が競技力向上に不可欠であることを示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "今年５月に第２子出産発表、レビット米大統領報道官が退任へ…トランプ氏は「愛する子供たちや家族と時間を過ごすため」と説明",
-      "summary": "今年5月に第2子の出産を発表したレビット米大統領報道官が退任することが明らかになりました。トランプ大統領は、彼女が「愛する子供たちや家族と時間を過ごすため」と説明しており、家族との時間を優先する判断と見られます。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mNnFBX3A3UVIzUV80Vkw2ZUd1V3JfdjYyLXI2djNheUFBbmQzTUd6NVU4ajc2T21qeVJZTGpYTExGOWpWZHl1YlRiSHphOXdyM2xPV0VJQVAwdzhuWkI1OGVR?oc=5"
+      "category": "社会",
+      "title": "千葉県で線状降水帯による大雨 災害発生に厳重警戒",
+      "summary": "千葉県では線状降水帯が発生し、広い範囲で非常に激しい雨が降り続いています。気象庁は土砂災害や河川の氾濫、低い土地での浸水など、災害の発生に厳重な警戒を呼びかけています。地元住民には安全確保のための情報収集と早めの避難行動が求められています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdDhGenhXYVV4WXh6WGItV0NjU0J4WVBER1FVVG5KQjV0WmU0RUFyVmtydmxScHp5aGNIc3I4WFp1LS05RUxsM21ndndjck5HSUYzdA?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "北方領土、ロシア領で確定 プーチン氏、日本が「立場変更」：時事ドットコム",
-      "summary": "ロシアのプーチン大統領は、北方領土がロシア領として確定したとの認識を示し、日本が「立場変更」したと発言しました。これは、長年の日露間の領土問題に新たな波紋を投げかけるものです。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BVkYxWjBCeHdaMmVkX2RRaExSX1otNFp5TWZ1RUpfTTVfTmowRDhWdmZOZF9lSXhwOE9DWUZxYlc4YUE4VU9hNWVyM0ZnTWIxc0k3aDA5aXVoUzhoLVg5bE1PZw?oc=5"
+      "title": "プーチン大統領の択捉島訪問、米当局「日本の主権を長年認めてきた」「インド太平洋の平和と安定を損なおうとするいかなる行動にも強く反対」とコメント",
+      "summary": "プーチン大統領の択捉島訪問に対し、米当局が「日本の主権を長年認めてきた」との立場を表明し、ロシアの行動は「インド太平洋の平和と安定を損なう」として強く反対するコメントを出しました。この発言は、北方領土問題における米国の日本支持の姿勢を改めて示すものです。今後の日露関係および国際情勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iMlVWTlRZNWxBdjB5MnZRdXkxRmJRZFB1bUd0cWY2cVZPbGx2dXIwTVpJLVNmOVV4NFZMeFpIUUhMVlZGdVoxaTk4b1ZKbE1mMTg4ejFiLXlRelBRblFWc0RR?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "【解説】新たな台風17号が発生 週明けに本州へ近づくおそれ 気象予報士「晴れていても高い波に注意を」",
-      "summary": "新たな台風17号が発生し、週明けには本州に接近する恐れがあることが発表されました。気象予報士は、天候が晴れていても高波に警戒するよう注意を呼びかけています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UcFJDbVVBaGtwRG11dGJWaktOQUdfNUpNOXZSdk5KTVZNVGdSWU12cHpGejdBNDF3bDJDbXBucFdmQjVSTXFXdUp1Z3lLZjEtN2lFZmRwYkxVRm9MTVk3VG1WMkx6YTNmcGxwQWwyQm92Y2tMQm0xdllNSkk?oc=5"
+      "category": "政治",
+      "title": "トランプ氏SNS投稿から不協和音、声明から密かに「削除」された文言に非難相次ぐ、「ハマスはまた立ち上がる」支持層の投稿",
+      "summary": "トランプ氏のSNS投稿が再び波紋を呼んでいます。特に、以前の声明から「ハマスはまた立ち上がる」という支持層の投稿が密かに削除されたことが判明し、国内外から非難の声が相次いでいます。この動きは、次期大統領選に向けての外交政策や支持層との関係構築に影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jSHJZWVg1cV9MU3VpQVpvekZNb1l0QzNXbmYxX245eU4yR25yQmFheDJUR21WTGJHQzV2VzZrWXRPcWIwNkNkLTh1X2RIN2pubHlKVTBoTzVoOGFRX3llbzNybWtIUE9JbXBnX1gwbXRfQllleDRFNFAyNUFLblk?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "【速報】首相、靖国参拝見送りへ",
-      "summary": "首相が靖国神社への参拝を見送る方針であることが速報されました。この決定は、国内外の様々な情勢や関係国への配慮が背景にあると見られています。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTmY4aWQ3ZEF6cGItNm80UzA2LWF0TEdPb056b3RNQVhteC1rOFBObmcwcHB0c1ZjY05ZR2VhRXY4eDN4S2RhckdnSQ?oc=5"
+      "category": "社会",
+      "title": "九州自動車道、14日朝に全線通行可能に 熊本地震で一時通行止め",
+      "summary": "熊本地震の影響で一部区間が一時通行止めとなっていた九州自動車道が、14日朝には全線で通行可能となる見込みです。これにより、九州地方の物流や交通の復旧が大きく前進すると期待されています。関係機関は安全確認を徹底し、通行再開に備えています。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlOVRYb1ZFS1NMdUo5RXRwZ3dTaUVRLTFTX3RrQUtNdExvY3ppcHFYSjBsUjJVY1NHZl83UVpzaFpweHpnQUR6WmVtVXkxckt4YU5EUkVkeEt4TXo0MnFnWU5obTFyd1NwcnNVbA?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "【地震情報】熊本市で震度3 津波の心配なし",
-      "summary": "熊本市で震度3の地震が発生しましたが、津波の心配はないと発表されました。今後の余震情報に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBia2ZWVXVxME05ZDgwc1VrbElfc3RIWkNhd2ZraHgzdkVadEVCV3RMYXZlOHJVNlI3c1cxNmtCY3VRZzd4ODNYT3ZueXRiRks1NjdOUzhyQlhOWkpEcXZ3?oc=5"
+      "category": "政治",
+      "title": "【独自】村山談話を機に「侵略」削る 終戦50年の国連安保理声明",
+      "summary": "終戦50年の国連安全保障理事会声明において、村山談話を機に「侵略」の文言が密かに削除されていたことが独自取材で明らかになりました。この事実は、歴史認識を巡る国際的な議論や外交上の駆け引きの一端を示すものであり、今後の歴史教育や政府の姿勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93UVgwYnMyS2N2bkpDcmlOVDdEb0s4LXdNZG9fQTdZZ3psSzVpT1ZKLUdvanRmcTA3WW40ZHRpRVl1cTBRSlp0RGo0Zw?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ホワイトハウス報道官カロライン・レビット氏が辞任へ",
-      "summary": "ホワイトハウスのカロライン・レビット報道官が、今年5月に第2子の出産を発表した後に辞任することが明らかになりました。トランプ政権の主要な顔の一人であった彼女の退任は、今後の政権運営に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFFaanpFNXExbFBaWlczZmkwR2FESDFYSlRjakRvUnVXbzl1NU1aR0VrNEt3d1VyTk0za0xGREQxcVktYjZNUzNORC1HeGFNWTQ1bGNqOEdjbzdIUWoyOVJXU0FCVDR0WGNKR0YzcWxIVWtzWGF3TG0xRGR6WWtLa3lhajNJSUhMQjZuM0NwTjhGR2h4Z2llSy1oeE1uZUJVcnNIbE9kU3V6M2JwM1h0dWFn?oc=5"
+      "category": "Conflict",
+      "title": "中東に展開中の兵士の劣悪な環境を受け、空母エイブラハム・リンカーンが交代へ",
+      "summary": "米海軍の原子力空母USSエイブラハム・リンカーンが、中東に展開中の兵士の劣悪な生活環境を受けて交代されることが発表されました。これは、長期にわたる任務による乗員の疲弊と士気への影響が懸念されたためと報じられています。今回の交代は、米軍の兵士の福祉と準備態勢に対する関心の高まりを反映しています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFdVXzh0UWVKOEhqYzJkY0JTQ3V6QlFybFl2Wk16b2hBc1SabnZVcjlDR3VWLUliRW1ublNiWVN0cE5VZnRhSk1QZzc2SWJEeUlOM1Y4NmE3SzdrWHF3YXhIc2ptaVpuQ2hFV2FkZ1o4R3BKVTFpT0NhQU51THk5S0thWlN1M0VuTllmanJXNjR5N0JXSXJLMFhVQzFjUklQTnl6OUl6ZlJENHVMcmJQaUZ3?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "デビッド・クロウリーがフランチェスカ・ホンに対して驚異的な逆転勝利を収める",
-      "summary": "デビッド・クロウリー氏がフランチェスカ・ホン氏に対する選挙戦で、驚くべき逆転勝利を収めました。この結果は、地域の政治情勢に大きな影響を与えることになり、今後の動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNemFLbWMtb3kyUHN3c2NkRXNFbVA2VmxTaDFDeU1QRWFXckRKVFF3SlJ0M05qVFZDaUVEYzVEN2EwZ1YtRmk2eWNjajUySW1hSW9Gc24wNE5ZbDBJdzFZRmhEQ29aYThQWnBDMm5LdFh6UGtFX0x0SGxiMTlqenJrMlNkMW9zU1VocUFyMWp4YzN3MWhIcEE2VGhvSzNJMjR0S2NEVk9YZm5TbEt2alduT18td0pILVJ1Zkl6bmxKWXJ0eEkydzZBUkg2NVNrSnlfSHlQUWNBVnUxNlQ0VUZfQldB?oc=5"
+      "title": "ケネディ・センター理事会、主要建物の閉鎖とトランプ氏の名前再掲を再び採決",
+      "summary": "ケネディ・センターの理事会が、主要建物の閉鎖とドナルド・トランプ氏の名前を再び追加するという議題について再度の採決を行いました。これは、過去にトランプ氏の名前を冠する提案が物議を醸した経緯があり、政治と文化の間の複雑な関係性を浮き彫りにしています。この決定は、同センターの将来的な方針に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmVaZkROTm1ON0lZQTY1VVVxVk4zN2ZQN2R3eUNjb28tY0FCcUlWeVdQeGo1NU1RUnNxeG51aS1Ncks1TnU1WVJUWWEtSVI0cUVkT2FRY1FoZllTRDlySnpTTEJuMFdudnY0V2J2VmpLVGZmekN3WnMxU3RUT2dfRWJqM08tbVh6YzZvT2tMRQ?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏の静かな退去後、閣僚はデコイ機に残留",
-      "summary": "トランプ氏が静かに退去した後、彼の閣僚たちは陽動用の飛行機に留まっていたと報じられました。これは、大統領の安全確保のための複雑なプロトコルの一環であったと推測されます。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZmZ4bDlLLUVlX0xWOV9DYmExMUljdnNhbDRDQWhrUThxTmlhaWVER2V6ZHByaERLeXhZU3RLNFZrdl94SWdNNm5UOGc0Umo4NGI0cFBiQmg4QQ?oc=5"
+      "title": "カロライン・リービット氏の後任人事を巡る舞台裏",
+      "summary": "政治メディア「Politico」が、カロライン・リービット氏の後任を巡る水面下の動きを報じています。この記事では、後任候補の選定プロセスや、有力候補たちの動向、そして党内における力学などが詳細に分析されています。この人事の行方は、今後の米国の政治情勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0RtY1Nxai0tSmNoY0ZKXzQwLUFoNHRkWUFNQWNvaDRlZXhMMUhLcmxPbDRxZGQxMk5ZWVE4dU40aDlkVkpqOVlmak5SZkRvWlk5d0RkVm9SanMyOEJWOWZuZzBKZDVTM3F2QlcwYU5qOXphUDJpUktjbXFtT3ZzN2ZPcVlpVXdsaU9SY3JIb3FfMlpUVGsxM1hhQQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ライブアップデート：トランプ氏、米国はホルムズ海峡を「完全に掌握」しており「維持する可能性」と発言",
-      "summary": "トランプ氏が、米国がホルムズ海峡を「完全に掌握」しており、その支配を「維持する可能性もある」と発言したことがライブで報じられました。この発言は、中東地域の地政学的な緊張を高める可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNOYzlIQUFzd2ZmNXU5eEJzS0g1ZHNwcVo0Nm1HeUExa2RJQzNQSGJpSWFfZWdoSmxYLVZBMlkzMG10T0R0WWN1dWM1VG5fbjFkcGlBQUZtSWxzVTd4dEJtVUwzdVBRTTNMZWhURWF1Ry1SLW93bHdXOV9uZHBWbTZZV1REcW91ZGZ3YzZkak9wZTJWOG9HVEx3UUg0RURheVZyZWpFZkpFV1dqUmdWZQ?oc=5"
+      "category": "Technology",
+      "title": "ドナルド・トランプ氏、米民間企業にサイバー攻撃実施権限を付与",
+      "summary": "ドナルド・トランプ氏が、米国の民間企業に対し、特定の状況下でサイバー攻撃を実施する権限を付与する決定を下しました。この動きは、国家安全保障上の脅威に対処するための新たな戦略として注目される一方で、民間企業による攻撃のリスクや国際法上の問題について議論を呼んでいます。サイバーセキュリティ政策における重要な転換点となる可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTJGUEp1MFR2bHFHRUlWRnNmY1VibGIyLURKOW9OaXE3dkhZVGlQUzhQRlpiNXZBYXVRWGJHNWY4a1NhVjI4cVdOT3JXaFh4cVdrMGZlQzBKT2dLbERKSUZVblVxcEh3eFBodjRvNUh3TklnR3IxdDhVNnk2VWVxS21UQXY0Wm12bmljc0JvWmlsdXRDdXc?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ政権、ホワイトハウス改修に9億ドル以上を支出へ",
-      "summary": "トランプ政権がホワイトハウスの改修に9億ドル以上を支出する予定であると報じられました。この大規模な改修計画は、施設の近代化とセキュリティ強化を目的としていると見られています。",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNlBGdGZhZzlnc2xTekRxNDFPbVFXd2ItRVkybTZVT004dE1BSExFaTQ2Nm5ZV29UbHpyTzZsMjk3eklLQkxrUDF3U2NSQm9Tc00xZHFvN2dVMFAzSHNSa1RTRU00em9xdUNSQ3BobXFUMlNMTGN3YTlBMEJqV0pIb1E1T1pGVFdhRlZj?oc=5"
+      "category": "Technology",
+      "title": "Flock、警察による広範なカメラネットワーク乱用に関するPost紙の報道を受け変更を発表",
+      "summary": "広範な監視カメラネットワークを提供する企業Flockが、警察による同社システム乱用に関するThe Washington Post紙の報道を受け、方針変更を発表しました。これにより、市民のプライバシー保護を強化する措置が講じられる見込みです。この出来事は、監視技術の倫理的な使用と透明性の確保に向けた重要な一歩となります。",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWZYWFhqWkd3RHJ1cWtYcmNTM1N2RWRVLXRpaElvNEllUjIwVWNXWkg5ajE3R2h4WGhvT1VIX0ZaRktNb3llMmZBWXliWk9YYkFCSVVhcWwtLU56U3JYdHBoMHNncVpRcFl5T0lwaGYyOTFNVE5BWUpQYjJxdTgtX0dUcVF3Q0ZVSVdQcUpVT0VpZlprQlZnejJZU3BpTE1CZ3NxMVlDcFBPU2FKenRKckZWRjVlZEhKc3Z3?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "VRを活用した神経筋トレーニングがバスケットボール選手のアジリティパフォーマンスと傷害予防に与える影響：対照実験",
-      "summary": "この研究は、バスケットボール選手を対象に、VR（仮想現実）を活用した神経筋トレーニングがアジリティ能力と怪我予防に与える影響を検証しました。実験の結果、VRトレーニンググループは、従来の方法と比較してアジリティパフォーマンスの有意な改善が見られ、膝前十字靭帯（ACL）損傷のリスク軽減にも効果的な可能性が示されました。",
+      "title": "バスケットボール選手のアジリティ能力向上と傷害予防に対するVR支援神経筋トレーニングの効果：対照実験研究",
+      "summary": "この研究は、VRを活用した神経筋トレーニングがバスケットボール選手のアジリティ能力向上と前十字靭帯（ACL）損傷予防に与える影響を、対照実験を通じて検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、アジリティや神経筋制御の改善に有効である可能性が示唆されています。これにより、競技パフォーマンスの向上と傷害リスクの低減が期待されます。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学の先駆者とパラダイム：歴史的ミニレビュー",
-      "summary": "このレビューは、スプリント科学における先駆的な研究者と主要なパラダイムシフトの歴史を概観しています。初期の運動生理学から、現代のバイオメカニクスや神経科学の統合に至るまで、スプリントパフォーマンスの理解がどのように進化してきたかをまとめています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZUxSMlczLTFWMXMxSTB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "なぜエリートランナーは楽そうに見えるのか？彼らのように速く効率的に走るための4つの簡単な修正点",
+      "summary": "本記事は、エリートランナーが効率的かつ楽に走る理由を生物力学的な観点から分析し、一般のランナーがパフォーマンスを向上させるための4つのシンプルな調整方法を解説しています。接地時間、ピッチ、姿勢、腕の振りといった要素が、ランニングエコノミーに大きく影響すると指摘されています。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
     }
   ]
 };
