@@ -1,133 +1,133 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/08/15",
-  "generated_at": "2026-08-14T21:14:42.759Z",
+  "issue_date": "2026/08/16",
+  "generated_at": "2026-08-15T21:10:16.821Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
       "title": "バスケットボール選手のアジリティ能力向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験",
-      "source": "Nature",
+      "source": "nature.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
-      "abstract": "本研究は、バスケットボール選手を対象にVR（仮想現実）を活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を検証しました。結果、VRを用いたトレーニングは選手のアジリティパフォーマンスを顕著に向上させ、特にACL（前十字靭帯）損傷リスクの軽減に寄与することが示されました。これは、リアルタイムのフィードバックと多様なトレーニング環境の提供が奏功したためと考えられます。",
-      "insight": "VRを活用した神経筋トレーニングは、バスケットボール選手のアジリティ強化とACL損傷予防プログラムに組み込むことで、より効果的な結果をもたらす可能性があります。特に、怪我からの復帰期やパフォーマンス向上を目指すアスリートにとって、実践的な選択肢となるでしょう。",
+      "abstract": "この研究は、バスケットボール選手を対象に、VR（バーチャルリアリティ）を活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を実験的に検証しました。結果として、VRを用いたトレーニング群は、従来の方法と比較して、アジリティパフォーマンスの有意な向上と特定傷害のリスク軽減が観察されました。VRは、運動学習の質を高め、より実践的な状況での反応能力を向上させることが示唆されています。",
+      "insight": "VR技術をスポーツの神経筋トレーニングに導入することで、特にアジリティが求められる競技において、選手のパフォーマンス向上とACLなどの傷害予防を効果的に両立できる可能性があります。",
       "published_at": "2026-08-05T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "エリートランナーが楽に走る理由とは？より速く効率的に走るための4つの簡単な調整",
+      "title": "なぜエリートランナーは楽に見えるのか？速く効率的に走るための4つのシンプルな調整",
       "source": "Runner's World",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5",
-      "abstract": "エリートランナーの効率的な走りを分析し、一般ランナーがパフォーマンスを向上させるための4つの重要なバイオメカニクス的調整点を提示しています。具体的には、姿勢、腕の振り、ピッチ、接地といった要素に焦点を当て、これらの微調整がランニングエコノミーと速度にどう影響するかを解説しています。",
-      "insight": "ランナーは、自身のフォームを意識的に見直し、姿勢の改善、腕振りの最適化、ピッチの調整、効率的な接地を心がけることで、怪我のリスクを減らしつつ、より少ない力で速く走るためのヒントを得られるでしょう。",
+      "abstract": "エリートランナーの「楽に見える」走りの秘密は、効率的な生体力学に基づいています。本記事では、彼らの走法から学ぶべき4つのシンプルな調整点を解説。具体的には、姿勢、腕の振り、ピッチ、そして着地方法が、ランニング効率と速度に大きく影響することが強調されています。",
+      "insight": "ランナーは、ランニングフォームの微調整によって、疲労を抑えつつ速度と効率を向上させることができます。特に姿勢やピッチを意識することで、より怪我のリスクを減らし、パフォーマンスを高めることが期待されます。",
       "published_at": "2026-08-11T07:00:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を解説",
+      "title": "ペプチド：医師が説明するメリット、リスク、FDAの懸念",
       "source": "UCHealth",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "abstract": "ペプチドがスポーツ医学分野で注目される中、医師がその潜在的な健康効果、関連するリスク、そして米国FDA（食品医薬品局）の規制に関する懸念について詳しく説明しています。特に、成長ホルモン分泌促進や回復促進といったアスリートへの利点が挙げられる一方で、その安全性や長期的な影響についてはまだ研究途上であることが強調されています。",
-      "insight": "アスリートや指導者は、ペプチドの使用を検討する際に、その効果だけでなく、潜在的な副作用や法的な問題（ドーピング規制など）を十分に理解し、専門医と相談しながら慎重な判断を行う必要があります。",
+      "abstract": "近年注目されるペプチド療法の、運動能力向上や回復促進といったメリットと、それに伴う潜在的なリスクやFDA（アメリカ食品医薬品局）の規制に関する医師の見解が紹介されています。未承認のペプチドの使用は予期せぬ副作用や健康被害につながる可能性があり、慎重な検討が求められます。",
+      "insight": "アスリートやスポーツ愛好家は、ペプチド製品の利用を検討する際、医師や専門家と相談し、メリットとリスクを十分に理解した上で、FDAの承認状況などを確認することが重要です。",
       "published_at": "2026-07-24T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "ニュージャージー州のスポーツ傷害リハビリセンター ベスト10",
+      "title": "ニュージャージー州のスポーツ傷害リハビリテーションセンター トップ10",
       "source": "Best of NJ",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5",
-      "abstract": "ニュージャージー州内における優れたスポーツ傷害リハビリテーションセンターを10ヶ所紹介し、各センターが提供する専門的な治療法、設備、アプローチを比較しています。記事では、最新の技術と経験豊富な専門家による個別化されたケアが、アスリートの早期回復と競技復帰に不可欠であると指摘しています。",
-      "insight": "傷害を負ったアスリートは、自身の怪我の特性や競技レベルに合った専門的なリハビリセンターを選ぶことが重要です。紹介されているような質の高い施設は、最適な回復プランと精神的サポートを提供し、安全かつ確実に競技復帰をサポートします。",
+      "abstract": "ニュージャージー州内で最高のスポーツ傷害リハビリテーションセンターを10カ所紹介しています。これらの施設は、最先端の設備、専門的なセラピスト、個別化された治療計画を提供し、アスリートの競技復帰を強力にサポートしています。各センターの専門分野や特徴についても詳細に説明されています。",
+      "insight": "スポーツ傷害からの回復を目指すアスリートは、自身のニーズに合った専門性の高いリハビリテーション施設を選ぶことが、安全かつ迅速な競技復帰に不可欠です。",
       "published_at": "2026-08-14T12:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理への補助的鍼灸治療：症例報告",
-      "source": "cureus.com",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVlek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xUkt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
-      "abstract": "本症例報告は、反復性肩関節後方脱臼に苦しむ女子サッカー選手に対して、西洋医学的治療に加えて鍼灸治療を補助的に行った結果、疼痛が効果的に管理されたケースを詳述しています。鍼と灸の併用が、肩の炎症軽減と機能回復に寄与し、選手の競技復帰をサポートした可能性が示唆されました。",
-      "insight": "スポーツ傷害、特に慢性的な痛みを伴うケースにおいて、従来の治療法と並行して鍼灸治療を導入することは、疼痛緩和と回復促進のための有効なアプローチとなる可能性があります。特に、薬物療法に抵抗があるアスリートには一考の価値があるでしょう。",
-      "published_at": "2026-03-18T07:00:00.000Z"
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療の有効性：システマティックレビューとメタアナリシス",
+      "source": "frontiersin.org",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
+      "abstract": "このシステマティックレビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の有効性を評価しました。複数の研究を統合した結果、特定のスポーツ関連痛に対して鍼治療が有意な疼痛軽減効果を示すことが確認されましたが、さらなる大規模な研究が必要であると結論付けられています。",
+      "insight": "鍼治療は、スポーツ選手が抱える慢性的な痛みや急性期の痛みの補助療法として有効な選択肢となり得ます。理学療法士やトレーナーは、西洋医学的アプローチと組み合わせることで、治療効果の最大化を図れるかもしれません。",
+      "published_at": "2026-02-03T18:00:13.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
       "title": "オリーブポリフェノールサプリメント",
-      "source": "trendhunter.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CODUxLXVTdTJnZ3puNnVzaHVnLTM2UnFLWHdvb2xKeWZYS1NiMGViNGFBZTFuRVJoZG84R1JCRmk5LTN3NUtXMlFYdllNZllLLUNDT0pDYzBYbkZKOGFQY3pYU3Y2b1dQ0gFoQVVfeXFMT0I4NTEtdVN1Mmdnem42dXNodWctMzZScUtYd29vbEp5ZlhLU2IwZWI0YUFlMW5FUmhkbzhHUkJqazktM3c1S1cyUVh2YU1mWUstQ0NPSkNjMFhuRko4YVBjelhTdjZvV1A?oc=5",
-      "abstract": "オリーブポリフェノールを主成分とするサプリメントの最新トレンドと、その健康への潜在的な利点について紹介しています。これらのサプリメントは、抗酸化作用や抗炎症作用が期待され、スポーツにおけるリカバリーや全体的な健康維持に役立つ可能性があるとされています。",
-      "insight": "アスリートのリカバリーや免疫力維持、抗炎症対策として、オリーブポリフェノールサプリメントは有用な選択肢となるかもしれません。特にトレーニング負荷が高い時期には、これらの抗酸化物質の摂取を検討する価値があります。",
+      "source": "Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CODUxLXVTdTJnZ3puNnVzaHVnLTM2UnFLWHdvb2xKeWZYS1NiMGViNGFBZTFuRVJoZG84R1JCams5LTN3NUtXMlFYdllNZllLLUNDT0pDYzBYbkZKOGFQY3pYU3Y2b1dQ0gFoQVVfeXFMT0I4NTEtdVN1Mmdnem42dXNodWctMzZScUtYd29vbEp5ZlhLU2IwZWI0YUFlMW5FUmhkbzhHUkJqazktM3c1S1cyUVh2WU1mWUstQ0NPSkNjMFhuRko4YVBjelhTdjZvV1A?oc=5",
+      "abstract": "オリーブポリフェノールを配合した最新のサプリメントが紹介されています。これらのサプリメントは、抗酸化作用や抗炎症作用を通じて、運動後の回復促進、心血管健康のサポート、全体的なウェルネス向上を目指しています。特に、高強度運動を行うアスリートの疲労軽減に貢献すると期待されています。",
+      "insight": "アスリートや活動的な人々は、オリーブポリフェノールサプリメントを日々の栄養補助食品として取り入れることで、炎症の抑制や回復の加速をサポートし、持続的なパフォーマンス維持に役立てることができます。",
       "published_at": "2026-08-14T01:03:21.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
+      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
       "source": "ECNL",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEg3V2JGX1JJWmtkczhGeUV4SHF0eExVWVgyeGd3?oc=5",
-      "abstract": "アスリート健康パフォーマンスセンターが行った研究で、ユースサッカーにおける相対的年齢効果（RAE）の影響が調査されました。RAEとは、同じ選抜グループ内で生まれ月が早い選手が、身体的成熟度やコーチからの期待値の違いにより、より有利な立場に置かれる現象を指します。この研究は、ユーススポーツにおける才能発掘と育成の公平性に関する重要な示唆を与えています。",
-      "insight": "ユース年代の指導者や保護者は、相対的年齢効果が選手の成長と心理に与える影響を理解し、生まれ月に関わらず、すべての子供たちが公平な機会と適切なサポートを受けられるような育成環境を構築することが重要です。",
+      "abstract": "アスリート健康パフォーマンスセンターが、ユースサッカーにおける「相対的年齢効果」（同じ年齢カテゴリ内で早く生まれた選手が身体的優位を持つ現象）が選手の選抜、育成、将来のキャリアに与える影響について調査しました。この研究は、育成システムにおける公平性の問題と、晩熟の才能を見逃すリスクを浮き彫りにしています。",
+      "insight": "ユース世代のコーチや指導者は、相対的年齢効果を認識し、選手の選抜や指導において身体的成熟度だけでなく、技術、戦術、心理的側面も総合的に評価することで、より多くの才能を育成できる可能性があります。",
       "published_at": "2026-08-03T07:00:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "若手アスリートのメンタルヘルスに対するソーシャルメディアの影響：横断研究",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGJWSGg4RkpQaGthbXd1VzhQVDJwZGhQaU5NWkJNcEdJZXFvbDd4Z2dtQnVvSklxUW16dHN4eEtpUFVvVmFPVkdMTHNxdFhwVklaeDlnWng1Z041bl80UU5tcXlvSmZmWkdSamV2d2Vac1dsMmkwOGJjT0VIM2NpaGt6UnhXa1d0ci1wWWVyb3NDZw?oc=5",
-      "abstract": "本横断研究では、若手アスリートにおけるソーシャルメディアの利用がメンタルヘルスに与える影響が詳細に分析されました。結果として、ソーシャルメディアの過度な利用やネガティブなコンテンツへの曝露が、不安、抑うつ症状、自己肯定感の低下といったメンタルヘルスの問題と関連する可能性が示唆されました。",
-      "insight": "若手アスリートとその周囲のサポートシステム（コーチ、保護者、チームスタッフ）は、ソーシャルメディアの健康的な利用方法について教育し、メンタルヘルス問題の早期発見と介入の重要性を認識する必要があります。デジタルリテラシーの向上と、現実世界でのつながりの強化が鍵となります。",
-      "published_at": "2026-05-18T14:57:21.000Z"
+      "title": "論説：アスリートのリカバリー最適化：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "source": "frontiersin.org",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5",
+      "abstract": "この論説では、アスリートのパフォーマンスを最大化するために、睡眠を含む効果的な回復戦略の重要性が強調されています。十分な睡眠と適切な回復方法は、身体的疲労の軽減だけでなく、精神的なコンディション維持、怪我のリスク低減、そして最終的な競技力向上に不可欠であると論じています。",
+      "insight": "コーチ、トレーナー、アスリート自身は、トレーニング計画と同様に、質の高い睡眠と個別化された回復戦略を重視することで、トレーニング効果を最大化し、長期的なキャリア維持に貢献できます。",
+      "published_at": "2026-04-08T10:40:51.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "社会",
+      "category": "政治",
       "source": "読売新聞",
-      "title": "「千葉豪雨」死者８人・行方不明１人に…千葉市中央区の２４時間降水量、８月の１か月平年降水量の３倍超",
-      "summary": "2026年8月14日の報道によると、千葉県を襲った記録的豪雨により、死者8名、行方不明者1名という甚大な被害が出ています。千葉市中央区では、24時間降水量が8月1ヶ月の平年降水量の3倍を超える異常な雨量を記録。広範囲で浸水や土砂災害が発生し、救助活動が続けられています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92a0VlV0d1bDBMOHFVVTM0cmlpUTBlRW1WbzBhVFBZZll6dEVFaG9FaUhwemxpOVdVdnFkWG5BazRPOFdGSU8yQnJvSmdRVmtMUTBieEhlZEkyUzFyYmptalJQczFZQQ?oc=5",
-      "published_at": "2026-08-14T12:12:00.000Z"
+      "title": "小泉防衛相ら閣僚４人が靖国神社参拝、高市首相は武道館駐車場から神社方向に「二礼二拍手一礼」",
+      "summary": "終戦の日にあたる15日、小泉防衛相ら4人の閣僚が靖国神社に参拝しました。高市首相は参拝を見送ったものの、武道館駐車場から靖国神社方向に向かって「二礼二拍手一礼」を行いました。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYd1lucDI1OVJSNVJ0aUd4b3N5YmM2QVFPczJ0X0lCdS1XeTU5ZTU0bmZTbS1rdV9mV0w1N3pxMzFjUUdsZFd2TXJaUG5ZOTlBVk1Udk5HaG9fN19Dc2xiX09URzh0QQ?oc=5",
+      "published_at": "2026-08-15T11:38:00.000Z"
     },
     {
       "id": "j002",
-      "category": "社会",
-      "source": "時事ドットコム",
-      "title": "ラブホテルでバスローブ姿の喫煙会見 男性職員を停職６カ月の懲戒処分―秋田県",
-      "summary": "秋田県は2026年8月14日、ラブホテルでバスローブ姿で喫煙し会見を行った男性職員に対し、停職6ヶ月の懲戒処分を発表しました。この行為は公務員としての品位を著しく損ねるものと判断され、県民への信頼失墜を招いたとして厳しく処分されました。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uWWc4YlF2YzZ5YjJsVDZ6QzMyN3VmaGlacnVxQzFQeWFsMVI4Njh0X08zTHhfRjRfSEtfZ2p0NmtNLWNOMi1JQ25qS0ozRXo5N1BoVXM0RmI2NVZ6aU5LMHNEMA?oc=5",
-      "published_at": "2026-08-14T10:06:00.000Z"
+      "category": "政治",
+      "source": "朝日新聞",
+      "title": "高市首相、「反省」「不戦の誓い」触れず 戦没者追悼の式辞 [高市早苗首相 自民党総裁]",
+      "summary": "高市首相は全国戦没者追悼式で述べた式辞において、「反省」や「不戦の誓い」といった文言に触れませんでした。この式辞は、今後の政権の歴史認識を示すものとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tS2s1Rm1TeUQwREpBeGVPQ2Via05qcWw2akNVbGI0RWFBLTFiY0l1R09nQmF3MGlsM1pVb3l0ajVnRTF3OXQ2ZkQwOHl1MlRaVUxVQllQdkF3Z3c5ZXZhVDFkT2N2NUk?oc=5",
+      "published_at": "2026-08-15T03:01:21.000Z"
     },
     {
       "id": "j003",
       "category": "社会",
-      "source": "kumanichi.com",
-      "title": "【動画あり】＜2026年熊本地震＞地表に断層出現する瞬間、防犯カメラ捉える 専門家「貴重な資料」",
-      "summary": "2026年熊本地震において、地表に断層が出現する決定的な瞬間が防犯カメラによって捉えられていたことが明らかになりました。専門家はこの映像を「極めて貴重な地質学的資料」と評価しており、今後の地震研究において重要な手がかりとなることが期待されています。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96QVhRclRrLW9QYnYwZzBNMlQzMXJaUDlPTWxEd1Jwc1B0bVVLQWVzdXVYclZLWjNKYUlGS2xvdFZpWlExdGhKRXpUWGRlM0k?oc=5",
-      "published_at": "2026-08-14T06:00:00.000Z"
+      "source": "NHKニュース",
+      "title": "千葉県 記録的豪雨で新たに1人の死亡判明 死者は9人に",
+      "summary": "千葉県で発生した記録的豪雨による被害で、新たに1人の死亡が確認され、死者数は合計9人となりました。土砂崩れや浸水など広範囲にわたり甚大な被害が出ており、救助活動と復旧作業が続けられています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FS2JuQzJzc1RnRVg3aHE4RDZuY3Fna2RBZlFQckt1X3B5QjNBUUM4R3B0anQzOFBJTWk3ZXZjWlZnX3BSblhzUnN4WmV2NEpZWFpjZHlUYzdiSGpuTFFF?oc=5",
+      "published_at": "2026-08-15T11:11:00.000Z"
     },
     {
       "id": "j004",
-      "category": "国際",
-      "source": "bbc.com",
-      "title": "米空母が海上に250日以上……高まる懸念、乗組員のメンタルヘルスなどに影響",
-      "summary": "米海軍の空母が250日以上にわたり連続して海上展開を続けており、乗組員のメンタルヘルスや士気への悪影響が懸念されています。長期にわたる過酷な任務環境は、ストレスや疲労を蓄積させ、家族との離別も相まって、深刻な問題を引き起こす可能性が指摘されています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52NjI1WHJ3a0daZ0l3SWY3cWRQalNzaXRtT0dlU2ZhQWZUSWl0RlcwejR0UEVjS2NVLUw1emFFSk1KaVp6LUZqWEQwS3VpYUYyVzUxYUgzM3JvaTFTcF840gFkQVVfeXFMUDVBeWg0b3VDWDJnLWl2eGZyQjE1SDlSU1UtZTF1ZElYUDY1Q3VudG1LZ251TUhDMXlWOUhrWkVhZHR3bFZWRjBMZmlJX05xUkVsSnE0LTVSMWlKM05kcnFtSE45cg?oc=5",
-      "published_at": "2026-08-14T05:53:27.000Z"
+      "category": "社会",
+      "source": "読売新聞",
+      "title": "山形・鶴岡の花火大会で打ち上げ花火の一部が観覧エリアに落下、３人けが",
+      "summary": "山形県鶴岡市の花火大会で、打ち上げ花火の一部が観覧エリアに落下し、3人が負傷する事故が発生しました。警察と消防が事故の原因について詳しい調査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kRHAwa1pVRDE2Q0JMWk56ZndTWi0zVDJfQXBCbFM0WG5XeUd5TWVFUU1IVDRFVzJXa2t3SDIxVU5NUFlHQTdFVmp1NTBmSmt3dV95YlJ2bDF3ejNkRTJnQTFONnZTZw?oc=5",
+      "published_at": "2026-08-15T17:31:00.000Z"
     },
     {
       "id": "j005",
-      "category": "社会",
-      "source": "mainichi.jp",
-      "title": "イギリスから来日の12歳少女が行方不明 一家4人で観光滞在中",
-      "summary": "イギリスから家族4人で観光のため来日していた12歳の少女が、2026年8月14日、日本国内で行方不明になっていることが報じられました。警察は公開捜査を開始し、関係機関と連携して少女の発見に全力を挙げています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SM1Z5WFRhT2NzSG9vc21xcU1penJ6WGctNHZkd3ZQQkdqM3l1WlI2QU5pWS0wbTZkRDN1bURfOGNSX3ZLTnZPdVVpV3RmWDZoanpTTkl4Mkloa2pZR0VxbFdGM2tlTGlU?oc=5",
-      "published_at": "2026-08-14T10:32:20.000Z"
+      "category": "国際",
+      "source": "ウェザーニュース",
+      "title": "インドネシア、スマトラ北部でM6.9の深発地震 津波の心配なし",
+      "summary": "インドネシアのスマトラ北部沖でマグニチュード6.9の深発地震が発生しました。太平洋津波警報センターは津波の心配がないと発表しており、現時点での大きな被害報告はありません。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZG9XTGRuVEtKczV6U2VtS0NyVno7S0t2dkxfVnBPeEdGTVVuYTF3N2ZPaWZUM3FVZHo5bXU0MFdCcm5jQ2QySVE4WlFGMzFBQUlrbQ?oc=5",
+      "published_at": "2026-08-15T11:05:00.000Z"
     }
   ],
   "global_news": [
@@ -135,51 +135,51 @@ window.DIGEST_DATA = {
       "id": "g001",
       "category": "Politics",
       "region": "US",
-      "source": "NBC News",
-      "title": "ルイージ・マンジョーネ、ユナイテッドヘルスケアCEO殺害の連邦起訴事実を認める",
-      "summary": "ルイージ・マンジョーネ被告が、ユナイテッドヘルスケアのCEO殺害に関する連邦捜査での起訴事実を認めました。この事件は広範な注目を集めており、司法手続きの進展が注目されます。今後の判決が待たれます。",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUtYdGpQbzlLTThLU3pyZHhUa3hZWl9qamhGZndHM2Z0dnRuQW93WnBaR1M4OUxwaXFISHh2Q2h4d3RodVg4TkU5ZU9mUjdZeEZzSEdPMnN3SjdIemNpZzBLNFpReXM1blplTkppWE4zZzl4YWRvSFVXVUM1aEpxanRKY3VJRHB2TGdPX2JDR2ZucVhocG9iY3duR3FoSlE2T2w4enFESmk0Zw?oc=5",
-      "published_at": "2026-08-14T20:59:30.000Z"
+      "source": "The New York Times",
+      "title": "民主党が2028年大統領予備選挙日程を再編、サウスカロライナ州を最上位に",
+      "summary": "民主党は、2028年の大統領予備選挙のスケジュールを大幅に変更し、サウスカロライナ州を最初の予備選開催地とすることを決定しました。この動きは、党内の多様性を反映させ、より幅広い層の有権者の意見を取り入れることを目指しています。",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeXdhWkUzMGlyQnJ2VzAybWozY2NMcTNnWUQtZjcyUXlJMkI4Vmo5bG5QQ2dzQ0R5QjVldzU2emRlR0dWalUzOERFYkJxMnVxNG1PQm5pM0d3YmRSc21TXzVTRFBzWDByOHdQb3I1LVBPZ0VpcTBmVklwelhkVXBKdEE2ay1wYkUwN0h1TzBob1B6V0RMMUdaOHZTTQ?oc=5",
+      "published_at": "2026-08-15T18:27:45.000Z"
     },
     {
       "id": "g002",
-      "category": "Politics",
+      "category": "Climate",
       "region": "US",
-      "source": "Axios",
-      "title": "トランプ氏、空母エイブラハム・リンカーンに関する懸念を一蹴",
-      "summary": "トランプ氏は、米海軍の原子力空母エイブラハム・リンカーンの長期展開に関する懸念に対し、これを一蹴する姿勢を見せました。この発言は、軍の運用や兵士の福利厚生を巡る議論に新たな波紋を広げています。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjVxb1MwU1Y1amdmY2xMd3ZibTZRbjRhc09GcmhET3NFRzNDMWpKaDU2cTkzVS1RUUZhSzJOREszWS1SYks4UWdDbEQzVmpfTEttTFhUeTJld292aHZDdkxhdGZyTThIS2pHRk9HTy1lTVVtUHNIMkRVTnUwcExtS0c3TkU4dktV?oc=5",
-      "published_at": "2026-08-14T18:14:08.000Z"
+      "source": "PBS",
+      "title": "ハリケーン「ララ」が勢力を増し、ハワイのビッグアイランドに接近、大雨と強風をもたらす",
+      "summary": "ハリケーン「ララ」が勢力を強め、ハワイのビッグアイランドに接近しています。これにより、同地域では大雨と強風が予想されており、住民は厳重な警戒を呼びかけられています。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnRSX2M1cHphZUxkT2R2QUFfT0Q2Wmw3UmhSa0F5dC00OFdOckp6YXROTXNuZHl3elBSeGtNdlpZV1hIQzdwRnc0M1o2cThPeW1Ma1p2VVN3RUZHUlI3d2xmN2tQcFZLTmFaYjJ0QkM4ZjMzQVJPaTVGTENCaFdISV9CaG1PX3N5TFZGSUV4ZzhYNDlfNjJDZ1lGUHRDSFN6ODczdllaUXI5ZjNVX3Q4Tg?oc=5",
+      "published_at": "2026-08-15T19:35:00.000Z"
     },
     {
       "id": "g003",
-      "category": "Climate",
+      "category": "Politics",
       "region": "US",
-      "source": "The Washington Post",
-      "title": "熱帯性暴風雨ララによりハワイで生命にかかわる洪水が発生する可能性",
-      "summary": "熱帯性暴風雨ララがハワイに接近しており、生命にかかわる大規模な洪水が発生する可能性が高まっています。当局は住民に対し、厳重な警戒と避難準備を呼びかけており、今後の進路と降水量に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm9fRGN4OHVkLVlzU294ZlNQNkZjbWVpVzdXX1lFYzNLU2dsaHRlUlRmT3pXVUlWdlc0djg5eHlUNE54MFZGT3FxM2Rjdm56NVNxN2czLTROMWFsdkxkQ2MwVVVrUEQyOHl3V3BLcS1sRVpBQzNZcVFtM0pDdTYyZWgtWDdELVVDSWxrNGVWZGRJQzRDTTZuNTE5Y0gtMTNQWVVzZVJCWUtyUHJEUmpiSGh3LWRvOW5MRHNlSFljTm9Ub3dEUEtN?oc=5",
-      "published_at": "2026-08-14T06:45:32.000Z"
+      "source": "NPR",
+      "title": "空母リンカーン乗組員の家族が艦内状況についてトランプ氏を「恥じるべき」と非難",
+      "summary": "空母USSリンカーンの乗組員の家族が、艦内の劣悪な状況について、トランプ前大統領を「恥じるべき」だと強く非難しました。彼らは、乗組員の健康と安全が脅かされている現状への改善を求めています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamp5T0RqZGt5SDZianhBbFFMa0lobVlFaUZQSzhNOFROQk5ibG11SkNnNUhieTVxVHBuX3N4VWhXM2o3cDdWaGp2VGxCM0lWaFhkcy1KQ2hBWU91M1ByQnZrWGdvQm9tcHo3YlhhQnMyb2k1TjlJX011dFcwSEsyQ1MyblQ?oc=5",
+      "published_at": "2026-08-15T18:21:32.000Z"
     },
     {
       "id": "g004",
-      "category": "Culture",
-      "region": "US",
-      "source": "Al Jazeera",
-      "title": "ワシントンDCの第二次世界大戦記念碑の破壊行為で女性を起訴",
-      "summary": "ワシントンDCにある第二次世界大戦記念碑への破壊行為に関与したとして、一人の女性が起訴されました。この事件は、歴史的建造物の保護と公共の場での表現の自由に関する議論を再燃させています。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTBUdXF2QlJQVGZqNzZkQzdpdmMxZ0hmQ3ZQMUhNaGpKZ0NmSWk2SjBJQ0s4VGRJZ3M4M0laOHdkYm84RE5TbEtjNlBpWm05azVNbS0zeXl4OThoZHdXRTVSTTM3RkpzT01lNU80T0FMb21ZZHlRcmlzd0ZfSXUtT0VhRmwzYmFJZFozZl9xcFMwRHI4cFRXaUVlWklWTS1OLW1WVk0wYmhTc1JNekFtNdIBtgFBVV95cUxOYW5ubnFmaEQ0ODNMWjd6djZOamhnT1p6UmhjTlJhQmJoZmdWdFllZWZMUmdYdzdyU1FqMEJ1alhWN095TWJhMkgxNDRSRVRyYTRjcENfdHpNdWhTTGYtdzdkTjhRcXdhd3VkakRfQnhhR0JLYmEzS19MR3lzRFVlUnVnMVQ3RlhsZDlMVGt2NVhBTXNKTXVRdkdHVXgzdXB5UlJScVhLcnppTjgzLUlMSUVWZjNSQQ?oc=5",
-      "published_at": "2026-08-14T19:02:14.000Z"
+      "category": "Climate",
+      "region": "Asia",
+      "source": "AP News",
+      "title": "インドネシア沖でM7.7の地震発生、少なくとも47人死亡、建物倒壊",
+      "summary": "インドネシア沖でマグニチュード7.7の強力な地震が発生し、少なくとも47人が死亡、多くの建物が倒壊しました。現地の当局は、広範囲にわたる被害の状況を把握し、救助活動を急いでいます。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
+      "published_at": "2026-08-15T14:40:00.000Z"
     },
     {
       "id": "g005",
       "category": "Politics",
       "region": "US",
-      "source": "BBC",
-      "title": "トランプ氏、最高裁に舞踏室工事の継続を許可するよう要請",
-      "summary": "ドナルド・トランプ氏が、自身の施設における舞踏室の改修工事を継続するため、連邦最高裁判所に許可を求める要請を行いました。これは、氏の不動産事業と法的紛争が絡む一連の出来事の一環です。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcVBMcVFjdVdzV3FQSFktT2IxOFNKSlViUTlkcFREUjR3amR4U0xwZzVaSFZSWWU5U0p0TGF5NmpDN0Y5NmoyYmpvUU5OVUVXbDB1Y1hkTU5NQQ?oc=5",
-      "published_at": "2026-08-14T19:05:22.000Z"
+      "source": "The Guardian",
+      "title": "ルイージ・マンジョーネの有罪答弁後、一事不再理が州訴訟の終結を意味する可能性",
+      "summary": "ルイージ・マンジョーネ氏の有罪答弁後、一事不再理の原則が適用される可能性があり、それによって州による追加の訴訟が終了するかもしれません。この法的原則は、同一の犯罪で二重に起訴されることを防ぐものです。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUF0M1hNd09idi1nZ2xRRFJMZG1vUjg3eWpwQTVEcjVpZkdDV0k3VV9fSTF2ZWFwSzhHYnVMVUE5bDBGNklvcXFaUmpyLUE4ZTVlRHBPSDA2X0lRSlBVTFNRMTJpMGZ4UzhybU5zY0JOOVduVUI3SDJIY09EWjNldHV3M1FxR2cyYmNqZXpyUzQwMnM?oc=5",
+      "published_at": "2026-08-15T11:02:00.000Z"
     }
   ],
   "weekly_top20": [
@@ -188,11 +188,147 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
       "title": "バスケットボール選手のアジリティ能力向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験",
-      "summary": "本研究は、バスケットボール選手を対象にVR（仮想現実）を活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を検証しました。結果、VRを用いたトレーニングは選手のアジリティパフォーマンスを顕著に向上させ、特にACL（前十字靭帯）損傷リスクの軽減に寄与することが示されました。これは、リアルタイムのフィードバックと多様なトレーニング環境の提供が奏功したためと考えられます。",
+      "summary": "この研究は、バスケットボール選手を対象に、VR（バーチャルリアリティ）を活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を実験的に検証しました。結果として、VRを用いたトレーニング群は、従来の方法と比較して、アジリティパフォーマンスの有意な向上と特定傷害のリスク軽減が観察されました。VRは、運動学習の質を高め、より実践的な状況での反応能力を向上させることが示唆されています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "なぜエリートランナーは楽に見えるのか？速く効率的に走るための4つのシンプルな調整",
+      "summary": "エリートランナーの「楽に見える」走りの秘密は、効率的な生体力学に基づいています。本記事では、彼らの走法から学ぶべき4つのシンプルな調整点を解説。具体的には、姿勢、腕の振り、ピッチ、そして着地方法が、ランニング効率と速度に大きく影響することが強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
+    },
+    {
+      "rank": 3,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "ペプチド：医師が説明するメリット、リスク、FDAの懸念",
+      "summary": "近年注目されるペプチド療法の、運動能力向上や回復促進といったメリットと、それに伴う潜在的なリスクやFDA（アメリカ食品医薬品局）の規制に関する医師の見解が紹介されています。未承認のペプチドの使用は予期せぬ副作用や健康被害につながる可能性があり、慎重な検討が求められます。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "origin_tab": "latest_research",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "ニュージャージー州のスポーツ傷害リハビリテーションセンター トップ10",
+      "summary": "ニュージャージー州内で最高のスポーツ傷害リハビリテーションセンターを10カ所紹介しています。これらの施設は、最先端の設備、専門的なセラピスト、個別化された治療計画を提供し、アスリートの競技復帰を強力にサポートしています。各センターの専門分野や特徴についても詳細に説明されています。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "origin_tab": "latest_research",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療の有効性：システマティックレビューとメタアナリシス",
+      "summary": "このシステマティックレビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の有効性を評価しました。複数の研究を統合した結果、特定のスポーツ関連痛に対して鍼治療が有意な疼痛軽減効果を示すことが確認されましたが、さらなる大規模な研究が必要であると結論付けられています。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
+    },
+    {
+      "rank": 6,
+      "origin_tab": "latest_research",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "オリーブポリフェノールサプリメント",
+      "summary": "オリーブポリフェノールを配合した最新のサプリメントが紹介されています。これらのサプリメントは、抗酸化作用や抗炎症作用を通じて、運動後の回復促進、心血管健康のサポート、全体的なウェルネス向上を目指しています。特に、高強度運動を行うアスリートの疲労軽減に貢献すると期待されています。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CODUxLXVTdTJnZ3puNnVzaHVnLTM2UnFLWHdvb2xKeWZYS1NiMGViNGFBZTFuRVJoZG84R1JCams5LTN3NUtXMlFYdllNZllLLUNDT0pDYzBYbkZKOGFQY3pYU3Y2b1dQ0gFoQVVfeXFMT0I4NTEtdVN1Mmdnem42dXNodWctMzZScUtYd29vbEp5ZlhLU2IwZWI0YUFlMW5FUmhkbzhHUkJqazktM3c1S1cyUVh2WU1mWUstQ0NPSkNjMFhuRko4YVBjelhTdjZvV1A?oc=5"
+    },
+    {
+      "rank": 7,
+      "origin_tab": "latest_research",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
+      "summary": "アスリート健康パフォーマンスセンターが、ユースサッカーにおける「相対的年齢効果」（同じ年齢カテゴリ内で早く生まれた選手が身体的優位を持つ現象）が選手の選抜、育成、将来のキャリアに与える影響について調査しました。この研究は、育成システムにおける公平性の問題と、晩熟の才能を見逃すリスクを浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEg3V2JGX1JJWmtkczhGeUV4SHF0eExVWVgyeGd3?oc=5"
+    },
+    {
+      "rank": 8,
+      "origin_tab": "latest_research",
+      "category": "Sleep Science / Mental Performance",
+      "title": "論説：アスリートのリカバリー最適化：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "summary": "この論説では、アスリートのパフォーマンスを最大化するために、睡眠を含む効果的な回復戦略の重要性が強調されています。十分な睡眠と適切な回復方法は、身体的疲労の軽減だけでなく、精神的なコンディション維持、怪我のリスク低減、そして最終的な競技力向上に不可欠であると論じています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "小泉防衛相ら閣僚４人が靖国神社参拝、高市首相は武道館駐車場から神社方向に「二礼二拍手一礼」",
+      "summary": "終戦の日にあたる15日、小泉防衛相ら4人の閣僚が靖国神社に参拝しました。高市首相は参拝を見送ったものの、武道館駐車場から靖国神社方向に向かって「二礼二拍手一礼」を行いました。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYd1lucDI1OVJSNVJ0aUd4b3N5YmM2QVFPczJ0X0lCdS1XeTU5ZTU0bmZTbS1rdV9mV0w1N3pxMzFjUUdsZFd2TXJaUG5ZOTlBVk1Udk5HaG9fN19Dc2xiX09URzh0QQ?oc=5"
+    },
+    {
+      "rank": 10,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "高市首相、「反省」「不戦の誓い」触れず 戦没者追悼の式辞 [高市早苗首相 自民党総裁]",
+      "summary": "高市首相は全国戦没者追悼式で述べた式辞において、「反省」や「不戦の誓い」といった文言に触れませんでした。この式辞は、今後の政権の歴史認識を示すものとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tS2s1Rm1TeUQwREpBeGVPQ2Via05qcWw2akNVbGI0RWFBLTFiY0l1R09nQmF3MGlsM1pVb3l0ajVnRTF3OXQ2ZkQwOHl1MlRaVUxVQllQdkF3Z3c5ZXZhVDFkT2N2NUk?oc=5"
+    },
+    {
+      "rank": 11,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "千葉県 記録的豪雨で新たに1人の死亡判明 死者は9人に",
+      "summary": "千葉県で発生した記録的豪雨による被害で、新たに1人の死亡が確認され、死者数は合計9人となりました。土砂崩れや浸水など広範囲にわたり甚大な被害が出ており、救助活動と復旧作業が続けられています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FS2JuQzJzc1RnRVg3aHE4RDZuY3Fna2RBZlFQckt1X3B5QjNBUUM4R3B0anQzOFBJTWk3ZXZjWlZnX3BSblhzUnN4WmV2NEpZWFpjZHlUYzdiSGpuTFFF?oc=5"
+    },
+    {
+      "rank": 12,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "山形・鶴岡の花火大会で打ち上げ花火の一部が観覧エリアに落下、３人けが",
+      "summary": "山形県鶴岡市の花火大会で、打ち上げ花火の一部が観覧エリアに落下し、3人が負傷する事故が発生しました。警察と消防が事故の原因について詳しい調査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kRHAwa1pVRDE2Q0JMWk56ZndTWi0zVDJfQXBCbFM0WG5XeUd5TWVFUU1IVDRFVzJXa2t3SDIxVU5NUFlHQTdFVmp1NTBmSmt3dV95YlJ2bDF3ejNkRTJnQTFONnZTZw?oc=5"
+    },
+    {
+      "rank": 13,
+      "origin_tab": "japan_news",
+      "category": "国際",
+      "title": "インドネシア、スマトラ北部でM6.9の深発地震 津波の心配なし",
+      "summary": "インドネシアのスマトラ北部沖でマグニチュード6.9の深発地震が発生しました。太平洋津波警報センターは津波の心配がないと発表しており、現時点での大きな被害報告はありません。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZG9XTGRuVEtKczV6U2VtS0NyVno7S0t2dkxfVnBPeEdGTVVuYTF3N2ZPaWZUM3FVZHo5bXU0MFdCcm5jQ2QySVE4WlFGMzFBQUlrbQ?oc=5"
+    },
+    {
+      "rank": 14,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "民主党が2028年大統領予備選挙日程を再編、サウスカロライナ州を最上位に",
+      "summary": "民主党は、2028年の大統領予備選挙のスケジュールを大幅に変更し、サウスカロライナ州を最初の予備選開催地とすることを決定しました。この動きは、党内の多様性を反映させ、より幅広い層の有権者の意見を取り入れることを目指しています。",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeXdhWkUzMGlyQnJ2VzAybWozY2NMcTNnWUQtZjcyUXlJMkI4Vmo5bG5QQ2dzQ0R5QjVldzU2emRlR0dWalUzOERFYkJxMnVxNG1PQm5pM0d3YmRSc21TXzVTRFBzWDByOHdQb3I1LVBPZ0VpcTBmVklwelhkVXBKdEE2ay1wYkUwN0h1TzBob1B6V0RMMUdaOHZTTQ?oc=5"
+    },
+    {
+      "rank": 15,
+      "origin_tab": "global_news",
+      "category": "Climate",
+      "title": "ハリケーン「ララ」が勢力を増し、ハワイのビッグアイランドに接近、大雨と強風をもたらす",
+      "summary": "ハリケーン「ララ」が勢力を強め、ハワイのビッグアイランドに接近しています。これにより、同地域では大雨と強風が予想されており、住民は厳重な警戒を呼びかけられています。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnRSX2M1cHphZUxkT2R2QUFfT0Q2Wmw3UmhSa0F5dC00OFdOckp6YXROTXNuZHl3elBSeGtNdlpZV1hIQzdwRnc0M1o2cThPeW1Ma1p2VVN3RUZHUlI3d2xmN2tQcFZLTmFaYjJ0QkM4ZjMzQVJPaTVGTENCaFdISV9CaG1PX3N5TFZGSUV4ZzhYNDlfNjJDZ1lGUHRDSFN6ODczdllaUXI5ZjNVX3Q4Tg?oc=5"
+    },
+    {
+      "rank": 16,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "空母リンカーン乗組員の家族が艦内状況についてトランプ氏を「恥じるべき」と非難",
+      "summary": "空母USSリンカーンの乗組員の家族が、艦内の劣悪な状況について、トランプ前大統領を「恥じるべき」だと強く非難しました。彼らは、乗組員の健康と安全が脅かされている現状への改善を求めています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamp5T0RqZGt5SDZianhBbFFMa0lobVlFaUZQSzhNOFROQk5ibG11SkNnNUhieTVxVHBuX3N4VWhXM2o3cDdWaGp2VGxCM0lWaFhkcy1KQ2hBWU91M1ByQnZrWGdvQm9tcHo3YlhhQnMyb2k1TjlJX011dFcwSEsyQ1MyblQ?oc=5"
+    },
+    {
+      "rank": 17,
+      "origin_tab": "global_news",
+      "category": "Climate",
+      "title": "インドネシア沖でM7.7の地震発生、少なくとも47人死亡、建物倒壊",
+      "summary": "インドネシア沖でマグニチュード7.7の強力な地震が発生し、少なくとも47人が死亡、多くの建物が倒壊しました。現地の当局は、広範囲にわたる被害の状況を把握し、救助活動を急いでいます。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5"
+    },
+    {
+      "rank": 18,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ルイージ・マンジョーネの有罪答弁後、一事不再理が州訴訟の終結を意味する可能性",
+      "summary": "ルイージ・マンジョーネ氏の有罪答弁後、一事不再理の原則が適用される可能性があり、それによって州による追加の訴訟が終了するかもしれません。この法的原則は、同一の犯罪で二重に起訴されることを防ぐものです。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUF0M1hNd09idi1nZ2xRRFJMZG1vUjg3eWpwQTVEcjVpZkdDV0k3VV9fSTF2ZWFwSzhHYnVMVUE5bDBGNklvcXFaUmpyLUE4ZTVlRHBPSDA2X0lRSlBVTFNRMTJpMGZ4UzhybU5zY0JOOVduVUI3SDJIY09EWjNldHV3M1FxR2cyYmNqZXpyUzQwMnM?oc=5"
+    },
+    {
+      "rank": 19,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
       "title": "エリートランナーが楽に走る理由とは？より速く効率的に走るための4つの簡単な調整",
@@ -200,148 +336,12 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 20,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
       "title": "ペプチド：医師がその利点、リスク、FDAの懸念を解説",
       "summary": "ペプチドがスポーツ医学分野で注目される中、医師がその潜在的な健康効果、関連するリスク、そして米国FDA（食品医薬品局）の規制に関する懸念について詳しく説明しています。特に、成長ホルモン分泌促進や回復促進といったアスリートへの利点が挙げられる一方で、その安全性や長期的な影響についてはまだ研究途上であることが強調されています。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
-    },
-    {
-      "rank": 4,
-      "origin_tab": "latest_research",
-      "category": "Rehabilitation / Physical Therapy",
-      "title": "ニュージャージー州のスポーツ傷害リハビリセンター ベスト10",
-      "summary": "ニュージャージー州内における優れたスポーツ傷害リハビリテーションセンターを10ヶ所紹介し、各センターが提供する専門的な治療法、設備、アプローチを比較しています。記事では、最新の技術と経験豊富な専門家による個別化されたケアが、アスリートの早期回復と競技復帰に不可欠であると指摘しています。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5"
-    },
-    {
-      "rank": 5,
-      "origin_tab": "latest_research",
-      "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理への補助的鍼灸治療：症例報告",
-      "summary": "本症例報告は、反復性肩関節後方脱臼に苦しむ女子サッカー選手に対して、西洋医学的治療に加えて鍼灸治療を補助的に行った結果、疼痛が効果的に管理されたケースを詳述しています。鍼と灸の併用が、肩の炎症軽減と機能回復に寄与し、選手の競技復帰をサポートした可能性が示唆されました。",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVlek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xUkt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
-    },
-    {
-      "rank": 6,
-      "origin_tab": "latest_research",
-      "category": "Nutrition / Supplements / Recovery",
-      "title": "オリーブポリフェノールサプリメント",
-      "summary": "オリーブポリフェノールを主成分とするサプリメントの最新トレンドと、その健康への潜在的な利点について紹介しています。これらのサプリメントは、抗酸化作用や抗炎症作用が期待され、スポーツにおけるリカバリーや全体的な健康維持に役立つ可能性があるとされています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CODUxLXVTdTJnZ3puNnVzaHVnLTM2UnFLWHdvb2xKeWZYS1NiMGViNGFBZTFuRVJoZG84R1JCRmk5LTN3NUtXMlFYdllNZllLLUNDT0pDYzBYbkZKOGFQY3pYU3Y2b1dQ0gFoQVVfeXFMT0I4NTEtdVN1Mmdnem42dXNodWctMzZScUtYd29vbEp5ZlhLU2IwZWI0YUFlMW5FUmhkbzhHUkJqazktM3c1S1cyUVh2YU1mWUstQ0NPSkNjMFhuRko4YVBjelhTdjZvV1A?oc=5"
-    },
-    {
-      "rank": 7,
-      "origin_tab": "latest_research",
-      "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
-      "summary": "アスリート健康パフォーマンスセンターが行った研究で、ユースサッカーにおける相対的年齢効果（RAE）の影響が調査されました。RAEとは、同じ選抜グループ内で生まれ月が早い選手が、身体的成熟度やコーチからの期待値の違いにより、より有利な立場に置かれる現象を指します。この研究は、ユーススポーツにおける才能発掘と育成の公平性に関する重要な示唆を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEg3V2JGX1JJWmtkczhGeUV4SHF0eExVWVgyeGd3?oc=5"
-    },
-    {
-      "rank": 8,
-      "origin_tab": "latest_research",
-      "category": "Sleep Science / Mental Performance",
-      "title": "若手アスリートのメンタルヘルスに対するソーシャルメディアの影響：横断研究",
-      "summary": "本横断研究では、若手アスリートにおけるソーシャルメディアの利用がメンタルヘルスに与える影響が詳細に分析されました。結果として、ソーシャルメディアの過度な利用やネガティブなコンテンツへの曝露が、不安、抑うつ症状、自己肯定感の低下といったメンタルヘルスの問題と関連する可能性が示唆されました。",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGJWSGg4RkpQaGthbXd1VzhQVDJwZGhQaU5NWkJNcEdJZXFvbDd4Z2dtQnVvSklxUW16dHN4eEtpUFVvVmFPVkdMTHNxdFhwVklaeDlnWng1Z041bl80UU5tcXlvSmZmWkdSamV2d2Vac1dsMmkwOGJjT0VIM2NpaGt6UnhXa1d0ci1wWWVyb3NDZw?oc=5"
-    },
-    {
-      "rank": 9,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "「千葉豪雨」死者８人・行方不明１人に…千葉市中央区の２４時間降水量、８月の１か月平年降水量の３倍超",
-      "summary": "2026年8月14日の報道によると、千葉県を襲った記録的豪雨により、死者8名、行方不明者1名という甚大な被害が出ています。千葉市中央区では、24時間降水量が8月1ヶ月の平年降水量の3倍を超える異常な雨量を記録。広範囲で浸水や土砂災害が発生し、救助活動が続けられています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92a0VlV0d1bDBMOHFVVTM0cmlpUTBlRW1WbzBhVFBZZll6dEVFaG9FaUhwemxpOVdVdnFkWG5BazRPOFdGSU8yQnJvSmdRVmtMUTBieEhlZEkyUzFyYmptalJQczFZQQ?oc=5"
-    },
-    {
-      "rank": 10,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "ラブホテルでバスローブ姿の喫煙会見 男性職員を停職６カ月の懲戒処分―秋田県",
-      "summary": "秋田県は2026年8月14日、ラブホテルでバスローブ姿で喫煙し会見を行った男性職員に対し、停職6ヶ月の懲戒処分を発表しました。この行為は公務員としての品位を著しく損ねるものと判断され、県民への信頼失墜を招いたとして厳しく処分されました。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uWWc4YlF2YzZ5YjJsVDZ6QzMyN3VmaGlacnVxQzFQeWFsMVI4Njh0X08zTHhfRjRfSEtfZ2p0NmtNLWNOMi1JQ25qS0ozRXo5N1BoVXM0RmI2NVZ6aU5LMHNEMA?oc=5"
-    },
-    {
-      "rank": 11,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "【動画あり】＜2026年熊本地震＞地表に断層出現する瞬間、防犯カメラ捉える 専門家「貴重な資料」",
-      "summary": "2026年熊本地震において、地表に断層が出現する決定的な瞬間が防犯カメラによって捉えられていたことが明らかになりました。専門家はこの映像を「極めて貴重な地質学的資料」と評価しており、今後の地震研究において重要な手がかりとなることが期待されています。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96QVhRclRrLW9QYnYwZzBNMlQzMXJaUDlPTWxEd1Jwc1B0bVVLQWVzdXVYclZLWjNKYUlGS2xvdFZpWlExdGhKRXpUWGRlM0k?oc=5"
-    },
-    {
-      "rank": 12,
-      "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "米空母が海上に250日以上……高まる懸念、乗組員のメンタルヘルスなどに影響",
-      "summary": "米海軍の空母が250日以上にわたり連続して海上展開を続けており、乗組員のメンタルヘルスや士気への悪影響が懸念されています。長期にわたる過酷な任務環境は、ストレスや疲労を蓄積させ、家族との離別も相まって、深刻な問題を引き起こす可能性が指摘されています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52NjI1WHJ3a0daZ0l3SWY3cWRQalNzaXRtT0dlU2ZhQWZUSWl0RlcwejR0UEVjS2NVLUw1emFFSk1KaVp6LUZqWEQwS3VpYUYyVzUxYUgzM3JvaTFTcF840gFkQVVfeXFMUDVBeWg0b3VDWDJnLWl2eGZyQjE1SDlSU1UtZTF1ZElYUDY1Q3VudG1LZ251TUhDMXlWOUhrWkVhZHR3bFZWRjBMZmlJX05xUkVsSnE0LTVSMWlKM05kcnFtSE45cg?oc=5"
-    },
-    {
-      "rank": 13,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "イギリスから来日の12歳少女が行方不明 一家4人で観光滞在中",
-      "summary": "イギリスから家族4人で観光のため来日していた12歳の少女が、2026年8月14日、日本国内で行方不明になっていることが報じられました。警察は公開捜査を開始し、関係機関と連携して少女の発見に全力を挙げています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SM1Z5WFRhT2NzSG9vc21xcU1penJ6WGctNHZkd3ZQQkdqM3l1WlI2QU5pWS0wbTZkRDN1bURfOGNSX3ZLTnZPdVVpV3RmWDZoanpTTkl4Mkloa2pZR0VxbFdGM2tlTGlU?oc=5"
-    },
-    {
-      "rank": 14,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ルイージ・マンジョーネ、ユナイテッドヘルスケアCEO殺害の連邦起訴事実を認める",
-      "summary": "ルイージ・マンジョーネ被告が、ユナイテッドヘルスケアのCEO殺害に関する連邦捜査での起訴事実を認めました。この事件は広範な注目を集めており、司法手続きの進展が注目されます。今後の判決が待たれます。",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUtYdGpQbzlLTThLU3pyZHhUa3hZWl9qamhGZndHM2Z0dnRuQW93WnBaR1M4OUxwaXFISHh2Q2h4d3RodVg4TkU5ZU9mUjdZeEZzSEdPMnN3SjdIemNpZzBLNFpReXM1blplTkppWE4zZzl4YWRvSFVXVUM1aEpxanRKY3VJRHB2TGdPX2JDR2ZucVhocG9iY3duR3FoSlE2T2w4enFESmk0Zw?oc=5"
-    },
-    {
-      "rank": 15,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、空母エイブラハム・リンカーンに関する懸念を一蹴",
-      "summary": "トランプ氏は、米海軍の原子力空母エイブラハム・リンカーンの長期展開に関する懸念に対し、これを一蹴する姿勢を見せました。この発言は、軍の運用や兵士の福利厚生を巡る議論に新たな波紋を広げています。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjVxb1MwU1Y1amdmY2xMd3ZibTZRbjRhc09GcmhET3NFRzNDMWpKaDU2cTkzVS1RUUZhSzJOREszWS1SYks4UWdDbEQzVmpfTEttTFhUeTJld292aHZDdkxhdGZyTThIS2pHRk9HTy1lTVVtUHNIMkRVTnUwcExtS0c3TkU4dktV?oc=5"
-    },
-    {
-      "rank": 16,
-      "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "熱帯性暴風雨ララによりハワイで生命にかかわる洪水が発生する可能性",
-      "summary": "熱帯性暴風雨ララがハワイに接近しており、生命にかかわる大規模な洪水が発生する可能性が高まっています。当局は住民に対し、厳重な警戒と避難準備を呼びかけており、今後の進路と降水量に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm9fRGN4OHVkLVlzU294ZlNQNkZjbWVpVzdXX1lFYzNLU2dsaHRlUlRmT3pXVUlWdlc0djg5eHlUNE54MFZGT3FxM2Rjdm56NVNxN2czLTROMWFsdkxkQ2MwVVVrUEQyOHl3V3BLcS1sRVpBQzNZcVFtM0pDdTYyZWgtWDdELVVDSWxrNGVWZGRJQzRDTTZuNTE5Y0gtMTNQWVVzZVJCWUtyUHJEUmpiSGh3LWRvOW5MRHNlSFljTm9Ub3dEUEtN?oc=5"
-    },
-    {
-      "rank": 17,
-      "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "ワシントンDCの第二次世界大戦記念碑の破壊行為で女性を起訴",
-      "summary": "ワシントンDCにある第二次世界大戦記念碑への破壊行為に関与したとして、一人の女性が起訴されました。この事件は、歴史的建造物の保護と公共の場での表現の自由に関する議論を再燃させています。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTBUdXF2QlJQVGZqNzZkQzdpdmMxZ0hmQ3ZQMUhNaGpKZ0NmSWk2SjBJQ0s4VGRJZ3M4M0laOHdkYm84RE5TbEtjNlBpWm05azVNbS0zeXl4OThoZHdXRTVSTTM3RkpzT01lNU80T0FMb21ZZHlRcmlzd0ZfSXUtT0VhRmwzYmFJZFozZl9xcFMwRHI4cFRXaUVlWklWTS1OLW1WVk0wYmhTc1JNekFtNdIBtgFBVV95cUxOYW5ubnFmaEQ0ODNMWjd6djZOamhnT1p6UmhjTlJhQmJoZmdWdFllZWZMUmdYdzdyU1FqMEJ1alhWN095TWJhMkgxNDRSRVRyYTRjcENfdHpNdWhTTGYtdzdkTjhRcXdhd3VkakRfQnhhR0JLYmEzS19MR3lzRFVlUnVnMVQ3RlhsZDlMVGt2NVhBTXNKTXVRdkdHVXgzdXB5UlJScVhLcnppTjgzLUlMSUVWZjNSQQ?oc=5"
-    },
-    {
-      "rank": 18,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、最高裁に舞踏室工事の継続を許可するよう要請",
-      "summary": "ドナルド・トランプ氏が、自身の施設における舞踏室の改修工事を継続するため、連邦最高裁判所に許可を求める要請を行いました。これは、氏の不動産事業と法的紛争が絡む一連の出来事の一環です。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcVBMcVFjdVdzV3FQSFktT2IxOFNKSlViUTlkcFREUjR3amR4U0xwZzVaSFZSWWU5U0p0TGF5NmpDN0Y5NmoyYmpvUU5OVUVXbDB1Y1hkTU5NQQ?oc=5"
-    },
-    {
-      "rank": 19,
-      "origin_tab": "latest_research",
-      "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手のアジリティ能力向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験研究",
-      "summary": "バスケットボール選手を対象とした対照実験で、VR（バーチャルリアリティ）を用いた神経筋トレーニングがアジリティパフォーマンスの向上とACLを含む下肢傷害の予防に効果があることが示されました。この研究では、VR環境下での特定の運動課題を通じて、選手の素早い方向転換能力やバランスが改善されることが確認されています。VR技術が、スポーツ選手のパフォーマンス向上と傷害リスク低減のための新たなトレーニングツールとして期待されます。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
-    },
-    {
-      "rank": 20,
-      "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "なぜエリートランナーは楽そうに走るのか？彼らのように速く効率的に走るための4つのシンプルな調整",
-      "summary": "エリートランナーが効率的に走る秘訣をバイオメカニクスの視点から分析し、一般ランナーが速く効率的に走るための4つの簡単な調整ポイントを解説しています。具体的には、姿勢、腕の振り、ピッチ、ストライドといった要素に焦点を当て、これらの改善がランニングエコノミーにどう影響するかを説明しています。これにより、無駄のない動きで疲労を軽減し、パフォーマンスを向上させる方法が提案されています。",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
     }
   ],
   "monthly_top20": [
@@ -350,11 +350,147 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
       "title": "バスケットボール選手のアジリティ能力向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験",
-      "summary": "本研究は、バスケットボール選手を対象にVR（仮想現実）を活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を検証しました。結果、VRを用いたトレーニングは選手のアジリティパフォーマンスを顕著に向上させ、特にACL（前十字靭帯）損傷リスクの軽減に寄与することが示されました。これは、リアルタイムのフィードバックと多様なトレーニング環境の提供が奏功したためと考えられます。",
+      "summary": "この研究は、バスケットボール選手を対象に、VR（バーチャルリアリティ）を活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を実験的に検証しました。結果として、VRを用いたトレーニング群は、従来の方法と比較して、アジリティパフォーマンスの有意な向上と特定傷害のリスク軽減が観察されました。VRは、運動学習の質を高め、より実践的な状況での反応能力を向上させることが示唆されています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "なぜエリートランナーは楽に見えるのか？速く効率的に走るための4つのシンプルな調整",
+      "summary": "エリートランナーの「楽に見える」走りの秘密は、効率的な生体力学に基づいています。本記事では、彼らの走法から学ぶべき4つのシンプルな調整点を解説。具体的には、姿勢、腕の振り、ピッチ、そして着地方法が、ランニング効率と速度に大きく影響することが強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
+    },
+    {
+      "rank": 3,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "ペプチド：医師が説明するメリット、リスク、FDAの懸念",
+      "summary": "近年注目されるペプチド療法の、運動能力向上や回復促進といったメリットと、それに伴う潜在的なリスクやFDA（アメリカ食品医薬品局）の規制に関する医師の見解が紹介されています。未承認のペプチドの使用は予期せぬ副作用や健康被害につながる可能性があり、慎重な検討が求められます。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "origin_tab": "latest_research",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "ニュージャージー州のスポーツ傷害リハビリテーションセンター トップ10",
+      "summary": "ニュージャージー州内で最高のスポーツ傷害リハビリテーションセンターを10カ所紹介しています。これらの施設は、最先端の設備、専門的なセラピスト、個別化された治療計画を提供し、アスリートの競技復帰を強力にサポートしています。各センターの専門分野や特徴についても詳細に説明されています。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "origin_tab": "latest_research",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療の有効性：システマティックレビューとメタアナリシス",
+      "summary": "このシステマティックレビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の有効性を評価しました。複数の研究を統合した結果、特定のスポーツ関連痛に対して鍼治療が有意な疼痛軽減効果を示すことが確認されましたが、さらなる大規模な研究が必要であると結論付けられています。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
+    },
+    {
+      "rank": 6,
+      "origin_tab": "latest_research",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "オリーブポリフェノールサプリメント",
+      "summary": "オリーブポリフェノールを配合した最新のサプリメントが紹介されています。これらのサプリメントは、抗酸化作用や抗炎症作用を通じて、運動後の回復促進、心血管健康のサポート、全体的なウェルネス向上を目指しています。特に、高強度運動を行うアスリートの疲労軽減に貢献すると期待されています。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CODUxLXVTdTJnZ3puNnVzaHVnLTM2UnFLWHdvb2xKeWZYS1NiMGViNGFBZTFuRVJoZG84R1JCams5LTN3NUtXMlFYdllNZllLLUNDT0pDYzBYbkZKOGFQY3pYU3Y2b1dQ0gFoQVVfeXFMT0I4NTEtdVN1Mmdnem42dXNodWctMzZScUtYd29vbEp5ZlhLU2IwZWI0YUFlMW5FUmhkbzhHUkJqazktM3c1S1cyUVh2WU1mWUstQ0NPSkNjMFhuRko4YVBjelhTdjZvV1A?oc=5"
+    },
+    {
+      "rank": 7,
+      "origin_tab": "latest_research",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
+      "summary": "アスリート健康パフォーマンスセンターが、ユースサッカーにおける「相対的年齢効果」（同じ年齢カテゴリ内で早く生まれた選手が身体的優位を持つ現象）が選手の選抜、育成、将来のキャリアに与える影響について調査しました。この研究は、育成システムにおける公平性の問題と、晩熟の才能を見逃すリスクを浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEg3V2JGX1JJWmtkczhGeUV4SHF0eExVWVgyeGd3?oc=5"
+    },
+    {
+      "rank": 8,
+      "origin_tab": "latest_research",
+      "category": "Sleep Science / Mental Performance",
+      "title": "論説：アスリートのリカバリー最適化：回復戦略と睡眠がスポーツパフォーマンスに与える影響",
+      "summary": "この論説では、アスリートのパフォーマンスを最大化するために、睡眠を含む効果的な回復戦略の重要性が強調されています。十分な睡眠と適切な回復方法は、身体的疲労の軽減だけでなく、精神的なコンディション維持、怪我のリスク低減、そして最終的な競技力向上に不可欠であると論じています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM21GZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
+    },
+    {
+      "rank": 9,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "小泉防衛相ら閣僚４人が靖国神社参拝、高市首相は武道館駐車場から神社方向に「二礼二拍手一礼」",
+      "summary": "終戦の日にあたる15日、小泉防衛相ら4人の閣僚が靖国神社に参拝しました。高市首相は参拝を見送ったものの、武道館駐車場から靖国神社方向に向かって「二礼二拍手一礼」を行いました。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYd1lucDI1OVJSNVJ0aUd4b3N5YmM2QVFPczJ0X0lCdS1XeTU5ZTU0bmZTbS1rdV9mV0w1N3pxMzFjUUdsZFd2TXJaUG5ZOTlBVk1Udk5HaG9fN19Dc2xiX09URzh0QQ?oc=5"
+    },
+    {
+      "rank": 10,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "高市首相、「反省」「不戦の誓い」触れず 戦没者追悼の式辞 [高市早苗首相 自民党総裁]",
+      "summary": "高市首相は全国戦没者追悼式で述べた式辞において、「反省」や「不戦の誓い」といった文言に触れませんでした。この式辞は、今後の政権の歴史認識を示すものとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tS2s1Rm1TeUQwREpBeGVPQ2Via05qcWw2akNVbGI0RWFBLTFiY0l1R09nQmF3MGlsM1pVb3l0ajVnRTF3OXQ2ZkQwOHl1MlRaVUxVQllQdkF3Z3c5ZXZhVDFkT2N2NUk?oc=5"
+    },
+    {
+      "rank": 11,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "千葉県 記録的豪雨で新たに1人の死亡判明 死者は9人に",
+      "summary": "千葉県で発生した記録的豪雨による被害で、新たに1人の死亡が確認され、死者数は合計9人となりました。土砂崩れや浸水など広範囲にわたり甚大な被害が出ており、救助活動と復旧作業が続けられています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FS2JuQzJzc1RnRVg3aHE4RDZuY3Fna2RBZlFQckt1X3B5QjNBUUM4R3B0anQzOFBJTWk3ZXZjWlZnX3BSblhzUnN4WmV2NEpZWFpjZHlUYzdiSGpuTFFF?oc=5"
+    },
+    {
+      "rank": 12,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "山形・鶴岡の花火大会で打ち上げ花火の一部が観覧エリアに落下、３人けが",
+      "summary": "山形県鶴岡市の花火大会で、打ち上げ花火の一部が観覧エリアに落下し、3人が負傷する事故が発生しました。警察と消防が事故の原因について詳しい調査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kRHAwa1pVRDE2Q0JMWk56ZndTWi0zVDJfQXBCbFM0WG5XeUd5TWVFUU1IVDRFVzJXa2t3SDIxVU5NUFlHQTdFVmp1NTBmSmt3dV95YlJ2bDF3ejNkRTJnQTFONnZTZw?oc=5"
+    },
+    {
+      "rank": 13,
+      "origin_tab": "japan_news",
+      "category": "国際",
+      "title": "インドネシア、スマトラ北部でM6.9の深発地震 津波の心配なし",
+      "summary": "インドネシアのスマトラ北部沖でマグニチュード6.9の深発地震が発生しました。太平洋津波警報センターは津波の心配がないと発表しており、現時点での大きな被害報告はありません。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZG9XTGRuVEtKczV6U2VtS0NyVno7S0t2dkxfVnBPeEdGTVVuYTF3N2ZPaWZUM3FVZHo5bXU0MFdCcm5jQ2QySVE4WlFGMzFBQUlrbQ?oc=5"
+    },
+    {
+      "rank": 14,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "民主党が2028年大統領予備選挙日程を再編、サウスカロライナ州を最上位に",
+      "summary": "民主党は、2028年の大統領予備選挙のスケジュールを大幅に変更し、サウスカロライナ州を最初の予備選開催地とすることを決定しました。この動きは、党内の多様性を反映させ、より幅広い層の有権者の意見を取り入れることを目指しています。",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeXdhWkUzMGlyQnJ2VzAybWozY2NMcTNnWUQtZjcyUXlJMkI4Vmo5bG5QQ2dzQ0R5QjVldzU2emRlR0dWalUzOERFYkJxMnVxNG1PQm5pM0d3YmRSc21TXzVTRFBzWDByOHdQb3I1LVBPZ0VpcTBmVklwelhkVXBKdEE2ay1wYkUwN0h1TzBob1B6V0RMMUdaOHZTTQ?oc=5"
+    },
+    {
+      "rank": 15,
+      "origin_tab": "global_news",
+      "category": "Climate",
+      "title": "ハリケーン「ララ」が勢力を増し、ハワイのビッグアイランドに接近、大雨と強風をもたらす",
+      "summary": "ハリケーン「ララ」が勢力を強め、ハワイのビッグアイランドに接近しています。これにより、同地域では大雨と強風が予想されており、住民は厳重な警戒を呼びかけられています。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnRSX2M1cHphZUxkT2R2QUFfT0Q2Wmw3UmhSa0F5dC00OFdOckp6YXROTXNuZHl3elBSeGtNdlpZV1hIQzdwRnc0M1o2cThPeW1Ma1p2VVN3RUZHUlI3d2xmN2tQcFZLTmFaYjJ0QkM4ZjMzQVJPaTVGTENCaFdISV9CaG1PX3N5TFZGSUV4ZzhYNDlfNjJDZ1lGUHRDSFN6ODczdllaUXI5ZjNVX3Q4Tg?oc=5"
+    },
+    {
+      "rank": 16,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "空母リンカーン乗組員の家族が艦内状況についてトランプ氏を「恥じるべき」と非難",
+      "summary": "空母USSリンカーンの乗組員の家族が、艦内の劣悪な状況について、トランプ前大統領を「恥じるべき」だと強く非難しました。彼らは、乗組員の健康と安全が脅かされている現状への改善を求めています。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamp5T0RqZGt5SDZianhBbFFMa0lobVlFaUZQSzhNOFROQk5ibG11SkNnNUhieTVxVHBuX3N4VWhXM2o3cDdWaGp2VGxCM0lWaFhkcy1KQ2hBWU91M1ByQnZrWGdvQm9tcHo3YlhhQnMyb2k1TjlJX011dFcwSEsyQ1MyblQ?oc=5"
+    },
+    {
+      "rank": 17,
+      "origin_tab": "global_news",
+      "category": "Climate",
+      "title": "インドネシア沖でM7.7の地震発生、少なくとも47人死亡、建物倒壊",
+      "summary": "インドネシア沖でマグニチュード7.7の強力な地震が発生し、少なくとも47人が死亡、多くの建物が倒壊しました。現地の当局は、広範囲にわたる被害の状況を把握し、救助活動を急いでいます。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5"
+    },
+    {
+      "rank": 18,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ルイージ・マンジョーネの有罪答弁後、一事不再理が州訴訟の終結を意味する可能性",
+      "summary": "ルイージ・マンジョーネ氏の有罪答弁後、一事不再理の原則が適用される可能性があり、それによって州による追加の訴訟が終了するかもしれません。この法的原則は、同一の犯罪で二重に起訴されることを防ぐものです。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUF0M1hNd09idi1nZ2xRRFJMZG1vUjg3eWpwQTVEcjVpZkdDV0k3VV9fSTF2ZWFwSzhHYnVMVUE5bDBGNklvcXFaUmpyLUE4ZTVlRHBPSDA2X0lRSlBVTFNRMTJpMGZ4UzhybU5zY0JOOVduVUI3SDJIY09EWjNldHV3M1FxR2cyYmNqZXpyUzQwMnM?oc=5"
+    },
+    {
+      "rank": 19,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
       "title": "エリートランナーが楽に走る理由とは？より速く効率的に走るための4つの簡単な調整",
@@ -362,148 +498,12 @@ window.DIGEST_DATA = {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 20,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
       "title": "ペプチド：医師がその利点、リスク、FDAの懸念を解説",
       "summary": "ペプチドがスポーツ医学分野で注目される中、医師がその潜在的な健康効果、関連するリスク、そして米国FDA（食品医薬品局）の規制に関する懸念について詳しく説明しています。特に、成長ホルモン分泌促進や回復促進といったアスリートへの利点が挙げられる一方で、その安全性や長期的な影響についてはまだ研究途上であることが強調されています。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
-    },
-    {
-      "rank": 4,
-      "origin_tab": "latest_research",
-      "category": "Rehabilitation / Physical Therapy",
-      "title": "ニュージャージー州のスポーツ傷害リハビリセンター ベスト10",
-      "summary": "ニュージャージー州内における優れたスポーツ傷害リハビリテーションセンターを10ヶ所紹介し、各センターが提供する専門的な治療法、設備、アプローチを比較しています。記事では、最新の技術と経験豊富な専門家による個別化されたケアが、アスリートの早期回復と競技復帰に不可欠であると指摘しています。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5"
-    },
-    {
-      "rank": 5,
-      "origin_tab": "latest_research",
-      "category": "Oriental Medicine / Acupuncture",
-      "title": "女子サッカー選手における反復性肩関節後方脱臼による疼痛管理への補助的鍼灸治療：症例報告",
-      "summary": "本症例報告は、反復性肩関節後方脱臼に苦しむ女子サッカー選手に対して、西洋医学的治療に加えて鍼灸治療を補助的に行った結果、疼痛が効果的に管理されたケースを詳述しています。鍼と灸の併用が、肩の炎症軽減と機能回復に寄与し、選手の競技復帰をサポートした可能性が示唆されました。",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVlek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xUkt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
-    },
-    {
-      "rank": 6,
-      "origin_tab": "latest_research",
-      "category": "Nutrition / Supplements / Recovery",
-      "title": "オリーブポリフェノールサプリメント",
-      "summary": "オリーブポリフェノールを主成分とするサプリメントの最新トレンドと、その健康への潜在的な利点について紹介しています。これらのサプリメントは、抗酸化作用や抗炎症作用が期待され、スポーツにおけるリカバリーや全体的な健康維持に役立つ可能性があるとされています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CODUxLXVTdTJnZ3puNnVzaHVnLTM2UnFLWHdvb2xKeWZYS1NiMGViNGFBZTFuRVJoZG84R1JCRmk5LTN3NUtXMlFYdllNZllLLUNDT0pDYzBYbkZKOGFQY3pYU3Y2b1dQ0gFoQVVfeXFMT0I4NTEtdVN1Mmdnem42dXNodWctMzZScUtYd29vbEp5ZlhLU2IwZWI0YUFlMW5FUmhkbzhHUkJqazktM3c1S1cyUVh2YU1mWUstQ0NPSkNjMFhuRko4YVBjelhTdjZvV1A?oc=5"
-    },
-    {
-      "rank": 7,
-      "origin_tab": "latest_research",
-      "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
-      "summary": "アスリート健康パフォーマンスセンターが行った研究で、ユースサッカーにおける相対的年齢効果（RAE）の影響が調査されました。RAEとは、同じ選抜グループ内で生まれ月が早い選手が、身体的成熟度やコーチからの期待値の違いにより、より有利な立場に置かれる現象を指します。この研究は、ユーススポーツにおける才能発掘と育成の公平性に関する重要な示唆を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEg3V2JGX1JJWmtkczhGeUV4SHF0eExVWVgyeGd3?oc=5"
-    },
-    {
-      "rank": 8,
-      "origin_tab": "latest_research",
-      "category": "Sleep Science / Mental Performance",
-      "title": "若手アスリートのメンタルヘルスに対するソーシャルメディアの影響：横断研究",
-      "summary": "本横断研究では、若手アスリートにおけるソーシャルメディアの利用がメンタルヘルスに与える影響が詳細に分析されました。結果として、ソーシャルメディアの過度な利用やネガティブなコンテンツへの曝露が、不安、抑うつ症状、自己肯定感の低下といったメンタルヘルスの問題と関連する可能性が示唆されました。",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGJWSGg4RkpQaGthbXd1VzhQVDJwZGhQaU5NWkJNcEdJZXFvbDd4Z2dtQnVvSklxUW16dHN4eEtpUFVvVmFPVkdMTHNxdFhwVklaeDlnWng1Z041bl80UU5tcXlvSmZmWkdSamV2d2Vac1dsMmkwOGJjT0VIM2NpaGt6UnhXa1d0ci1wWWVyb3NDZw?oc=5"
-    },
-    {
-      "rank": 9,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "「千葉豪雨」死者８人・行方不明１人に…千葉市中央区の２４時間降水量、８月の１か月平年降水量の３倍超",
-      "summary": "2026年8月14日の報道によると、千葉県を襲った記録的豪雨により、死者8名、行方不明者1名という甚大な被害が出ています。千葉市中央区では、24時間降水量が8月1ヶ月の平年降水量の3倍を超える異常な雨量を記録。広範囲で浸水や土砂災害が発生し、救助活動が続けられています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92a0VlV0d1bDBMOHFVVTM0cmlpUTBlRW1WbzBhVFBZZll6dEVFaG9FaUhwemxpOVdVdnFkWG5BazRPOFdGSU8yQnJvSmdRVmtMUTBieEhlZEkyUzFyYmptalJQczFZQQ?oc=5"
-    },
-    {
-      "rank": 10,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "ラブホテルでバスローブ姿の喫煙会見 男性職員を停職６カ月の懲戒処分―秋田県",
-      "summary": "秋田県は2026年8月14日、ラブホテルでバスローブ姿で喫煙し会見を行った男性職員に対し、停職6ヶ月の懲戒処分を発表しました。この行為は公務員としての品位を著しく損ねるものと判断され、県民への信頼失墜を招いたとして厳しく処分されました。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uWWc4YlF2YzZ5YjJsVDZ6QzMyN3VmaGlacnVxQzFQeWFsMVI4Njh0X08zTHhfRjRfSEtfZ2p0NmtNLWNOMi1JQ25qS0ozRXo5N1BoVXM0RmI2NVZ6aU5LMHNEMA?oc=5"
-    },
-    {
-      "rank": 11,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "【動画あり】＜2026年熊本地震＞地表に断層出現する瞬間、防犯カメラ捉える 専門家「貴重な資料」",
-      "summary": "2026年熊本地震において、地表に断層が出現する決定的な瞬間が防犯カメラによって捉えられていたことが明らかになりました。専門家はこの映像を「極めて貴重な地質学的資料」と評価しており、今後の地震研究において重要な手がかりとなることが期待されています。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96QVhRclRrLW9QYnYwZzBNMlQzMXJaUDlPTWxEd1Jwc1B0bVVLQWVzdXVYclZLWjNKYUlGS2xvdFZpWlExdGhKRXpUWGRlM0k?oc=5"
-    },
-    {
-      "rank": 12,
-      "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "米空母が海上に250日以上……高まる懸念、乗組員のメンタルヘルスなどに影響",
-      "summary": "米海軍の空母が250日以上にわたり連続して海上展開を続けており、乗組員のメンタルヘルスや士気への悪影響が懸念されています。長期にわたる過酷な任務環境は、ストレスや疲労を蓄積させ、家族との離別も相まって、深刻な問題を引き起こす可能性が指摘されています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52NjI1WHJ3a0daZ0l3SWY3cWRQalNzaXRtT0dlU2ZhQWZUSWl0RlcwejR0UEVjS2NVLUw1emFFSk1KaVp6LUZqWEQwS3VpYUYyVzUxYUgzM3JvaTFTcF840gFkQVVfeXFMUDVBeWg0b3VDWDJnLWl2eGZyQjE1SDlSU1UtZTF1ZElYUDY1Q3VudG1LZ251TUhDMXlWOUhrWkVhZHR3bFZWRjBMZmlJX05xUkVsSnE0LTVSMWlKM05kcnFtSE45cg?oc=5"
-    },
-    {
-      "rank": 13,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "イギリスから来日の12歳少女が行方不明 一家4人で観光滞在中",
-      "summary": "イギリスから家族4人で観光のため来日していた12歳の少女が、2026年8月14日、日本国内で行方不明になっていることが報じられました。警察は公開捜査を開始し、関係機関と連携して少女の発見に全力を挙げています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SM1Z5WFRhT2NzSG9vc21xcU1penJ6WGctNHZkd3ZQQkdqM3l1WlI2QU5pWS0wbTZkRDN1bURfOGNSX3ZLTnZPdVVpV3RmWDZoanpTTkl4Mkloa2pZR0VxbFdGM2tlTGlU?oc=5"
-    },
-    {
-      "rank": 14,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ルイージ・マンジョーネ、ユナイテッドヘルスケアCEO殺害の連邦起訴事実を認める",
-      "summary": "ルイージ・マンジョーネ被告が、ユナイテッドヘルスケアのCEO殺害に関する連邦捜査での起訴事実を認めました。この事件は広範な注目を集めており、司法手続きの進展が注目されます。今後の判決が待たれます。",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUtYdGpQbzlLTThLU3pyZHhUa3hZWl9qamhGZndHM2Z0dnRuQW93WnBaR1M4OUxwaXFISHh2Q2h4d3RodVg4TkU5ZU9mUjdZeEZzSEdPMnN3SjdIemNpZzBLNFpReXM1blplTkppWE4zZzl4YWRvSFVXVUM1aEpxanRKY3VJRHB2TGdPX2JDR2ZucVhocG9iY3duR3FoSlE2T2w4enFESmk0Zw?oc=5"
-    },
-    {
-      "rank": 15,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、空母エイブラハム・リンカーンに関する懸念を一蹴",
-      "summary": "トランプ氏は、米海軍の原子力空母エイブラハム・リンカーンの長期展開に関する懸念に対し、これを一蹴する姿勢を見せました。この発言は、軍の運用や兵士の福利厚生を巡る議論に新たな波紋を広げています。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjVxb1MwU1Y1amdmY2xMd3ZibTZRbjRhc09GcmhET3NFRzNDMWpKaDU2cTkzVS1RUUZhSzJOREszWS1SYks4UWdDbEQzVmpfTEttTFhUeTJld292aHZDdkxhdGZyTThIS2pHRk9HTy1lTVVtUHNIMkRVTnUwcExtS0c3TkU4dktV?oc=5"
-    },
-    {
-      "rank": 16,
-      "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "熱帯性暴風雨ララによりハワイで生命にかかわる洪水が発生する可能性",
-      "summary": "熱帯性暴風雨ララがハワイに接近しており、生命にかかわる大規模な洪水が発生する可能性が高まっています。当局は住民に対し、厳重な警戒と避難準備を呼びかけており、今後の進路と降水量に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm9fRGN4OHVkLVlzU294ZlNQNkZjbWVpVzdXX1lFYzNLU2dsaHRlUlRmT3pXVUlWdlc0djg5eHlUNE54MFZGT3FxM2Rjdm56NVNxN2czLTROMWFsdkxkQ2MwVVVrUEQyOHl3V3BLcS1sRVpBQzNZcVFtM0pDdTYyZWgtWDdELVVDSWxrNGVWZGRJQzRDTTZuNTE5Y0gtMTNQWVVzZVJCWUtyUHJEUmpiSGh3LWRvOW5MRHNlSFljTm9Ub3dEUEtN?oc=5"
-    },
-    {
-      "rank": 17,
-      "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "ワシントンDCの第二次世界大戦記念碑の破壊行為で女性を起訴",
-      "summary": "ワシントンDCにある第二次世界大戦記念碑への破壊行為に関与したとして、一人の女性が起訴されました。この事件は、歴史的建造物の保護と公共の場での表現の自由に関する議論を再燃させています。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTBUdXF2QlJQVGZqNzZkQzdpdmMxZ0hmQ3ZQMUhNaGpKZ0NmSWk2SjBJQ0s4VGRJZ3M4M0laOHdkYm84RE5TbEtjNlBpWm05azVNbS0zeXl4OThoZHdXRTVSTTM3RkpzT01lNU80T0FMb21ZZHlRcmlzd0ZfSXUtT0VhRmwzYmFJZFozZl9xcFMwRHI4cFRXaUVlWklWTS1OLW1WVk0wYmhTc1JNekFtNdIBtgFBVV95cUxOYW5ubnFmaEQ0ODNMWjd6djZOamhnT1p6UmhjTlJhQmJoZmdWdFllZWZMUmdYdzdyU1FqMEJ1alhWN095TWJhMkgxNDRSRVRyYTRjcENfdHpNdWhTTGYtdzdkTjhRcXdhd3VkakRfQnhhR0JLYmEzS19MR3lzRFVlUnVnMVQ3RlhsZDlMVGt2NVhBTXNKTXVRdkdHVXgzdXB5UlJScVhLcnppTjgzLUlMSUVWZjNSQQ?oc=5"
-    },
-    {
-      "rank": 18,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、最高裁に舞踏室工事の継続を許可するよう要請",
-      "summary": "ドナルド・トランプ氏が、自身の施設における舞踏室の改修工事を継続するため、連邦最高裁判所に許可を求める要請を行いました。これは、氏の不動産事業と法的紛争が絡む一連の出来事の一環です。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcVBMcVFjdVdzV3FQSFktT2IxOFNKSlViUTlkcFREUjR3amR4U0xwZzVaSFZSWWU5U0p0TGF5NmpDN0Y5NmoyYmpvUU5OVUVXbDB1Y1hkTU5NQQ?oc=5"
-    },
-    {
-      "rank": 19,
-      "origin_tab": "latest_research",
-      "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手のアジリティ能力向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験研究",
-      "summary": "バスケットボール選手を対象とした対照実験で、VR（バーチャルリアリティ）を用いた神経筋トレーニングがアジリティパフォーマンスの向上とACLを含む下肢傷害の予防に効果があることが示されました。この研究では、VR環境下での特定の運動課題を通じて、選手の素早い方向転換能力やバランスが改善されることが確認されています。VR技術が、スポーツ選手のパフォーマンス向上と傷害リスク低減のための新たなトレーニングツールとして期待されます。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
-    },
-    {
-      "rank": 20,
-      "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "なぜエリートランナーは楽そうに走るのか？彼らのように速く効率的に走るための4つのシンプルな調整",
-      "summary": "エリートランナーが効率的に走る秘訣をバイオメカニクスの視点から分析し、一般ランナーが速く効率的に走るための4つの簡単な調整ポイントを解説しています。具体的には、姿勢、腕の振り、ピッチ、ストライドといった要素に焦点を当て、これらの改善がランニングエコノミーにどう影響するかを説明しています。これにより、無駄のない動きで疲労を軽減し、パフォーマンスを向上させる方法が提案されています。",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
     }
   ]
 };
