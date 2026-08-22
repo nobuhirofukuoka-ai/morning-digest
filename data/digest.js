@@ -1,93 +1,334 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/08/22",
-  "generated_at": "2026-08-21T21:12:52.250Z",
+  "issue_date": "2026/08/23",
+  "generated_at": "2026-08-22T21:11:14.406Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "若年女性アスリートにおけるACL損傷予防プログラムの効果：前方への踏み込み動作の改善に着目",
-      "source": "Journal of Athletic Training & Sports Health",
-      "url": "https://example.com/research/r001",
-      "abstract": "若年女性アスリート30名を対象に、6週間のACL損傷予防プログラムを実施。プログラム群では、前方への踏み込み動作時の膝外反モーメントが有意に減少し、股関節の屈曲・外転角度が増加した。これは、ACL損傷リスクの高い動作パターンの改善を示唆する。",
-      "insight": "特に女性アスリートを指導する現場では、股関節の安定性と適切な下肢アライメントに焦点を当てた予防エクササイズを積極的に導入することで、ACL損傷リスクを効果的に低減できる。",
-      "published_at": "2026-08-15T09:00:00.000Z"
+      "title": "バスケットボール選手の敏捷性パフォーマンスと怪我予防におけるVR支援神経筋トレーニングの効果：制御された実験室実験",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
+      "abstract": "バスケットボール選手を対象とした制御された実験室研究で、バーチャルリアリティ（VR）を活用した神経筋トレーニングが敏捷性パフォーマンスと怪我予防に与える影響が調査されました。このトレーニングは、選手の反応速度とバランス能力を向上させ、特にACL損傷のリスク低減に効果的であることが示されています。VR環境は、よりリアルな状況下でのトレーニングを可能にし、従来のトレーニング方法と比較して優れた結果をもたらしました。",
+      "insight": "VRを取り入れた神経筋トレーニングは、バスケットボール選手だけでなく、高い敏捷性が求められる競技において、怪我予防とパフォーマンス向上を両立させる効果的なアプローチとして導入を検討できます。",
+      "published_at": "2026-08-05T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "ランニングにおける着地衝撃と足部アーチの動的特性：疲労がパフォーマンスに与える影響",
-      "source": "Journal of Biomechanics in Sport",
-      "url": "https://example.com/research/r002",
-      "abstract": "経験豊富なランナー20名を対象に、トレッドミル上での長距離ランニング（疲労誘発プロトコル）を実施。疲労の進行に伴い、着地衝撃が増加し、足部アーチの下降速度が有意に加速することが示された。これは、疲労が下肢の衝撃吸収能力を低下させることを示唆する。",
-      "insight": "ランニング指導では、疲労時のフォームの変化に着目し、特に足部アーチのサポートや着地方法の指導を通じて、過度な衝撃負荷による障害リスクを軽減する必要がある。",
-      "published_at": "2026-08-16T10:00:00.000Z"
+      "title": "スプリント科学における先駆者とパラダイム：歴史的ミニレビュー",
+      "source": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWS2QtbFF4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
+      "abstract": "スプリント科学における先駆的な研究とパラダイムの歴史的レビューが行われました。本稿では、スプリントパフォーマンスの理解と向上に貢献してきた主要な科学的発見と理論的枠組みをたどります。特に、バイオメカニクス、生理学、トレーニング方法論の進化がスプリント能力の限界を押し広げてきた経緯が示されています。",
+      "insight": "最新のスプリントトレーニング計画を立てる際には、過去の科学的アプローチの変遷を理解し、現在の技術と統合することで、より効果的な指導戦略を構築できます。",
+      "published_at": "2026-04-30T16:58:11.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "変形性膝関節症患者に対する多血小板血漿（PRP）注射とヒアルロン酸注射の比較研究",
-      "source": "Sports Medicine & Orthopedics Today",
-      "url": "https://example.com/research/r003",
-      "abstract": "軽度から中等度の変形性膝関節症患者60名を対象に、PRP注射群とヒアルロン酸注射群に無作為に割り付け、6ヶ月間の症状改善度を比較。PRP群は、VASスコアおよびWOMACスコアにおいてヒアルロン酸群よりも有意な疼痛軽減と機能改善を示した。",
-      "insight": "保存療法で改善が見られない変形性膝関節症患者に対し、PRP療法は新たな選択肢となりうる。特に初期〜中期段階での適用を検討する価値がある。",
-      "published_at": "2026-08-17T11:00:00.000Z"
+      "title": "ペプチド：医師が利点、リスク、FDAの懸念を説明",
+      "source": "UCHealth",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
+      "abstract": "医師たちがペプチドの利点、リスク、そしてFDA（米国食品医薬品局）の懸念について解説しました。ペプチドは、筋肉の成長促進、炎症の抑制、回復力の向上など、アスリートのパフォーマンス向上に寄与する可能性が指摘されていますが、未承認の製品や不適切な使用による健康リスクも存在します。FDAは、その安全性と有効性に関して引き続き監視を強化しています。",
+      "insight": "アスリートへのペプチド使用を検討する際は、最新の科学的知見と規制情報を常に把握し、専門医と連携しながら、個々のアスリートの健康と安全を最優先に判断することが重要です。",
+      "published_at": "2026-07-24T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "慢性腰痛患者における体幹深層筋の選択的強化が疼痛と機能に与える影響",
-      "source": "Journal of Physical Therapy Science",
-      "url": "https://example.com/research/r004",
-      "abstract": "慢性腰痛患者45名を対象に、体幹深層筋（腹横筋、多裂筋）の選択的強化プログラムを8週間実施。介入群は、対照群と比較して、疼痛VASスコアの有意な低下と、日常生活動作における機能改善が認められた。筋活動レベルも増加していた。",
-      "insight": "慢性腰痛のリハビリテーションでは、表層筋だけでなく、深層筋の機能改善に焦点を当てた個別化されたエクササイズプログラムが、疼痛管理と機能回復に効果的である。",
-      "published_at": "2026-08-18T12:00:00.000Z"
+      "title": "ニュージャージー州のスポーツ傷害リハビリテーションセンター ベスト10",
+      "source": "Best of NJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5",
+      "abstract": "ニュージャージー州で最高のスポーツ傷害リハビリテーションセンター10選が紹介されました。これらの施設は、最新の治療技術、経験豊富な専門スタッフ、個別化された回復プログラムを提供し、アマチュアからプロまで幅広いアスリートの早期復帰を支援しています。特に、包括的なアプローチと患者中心のケアが評価されています。",
+      "insight": "スポーツ傷害からの効果的な復帰には、専門的なリハビリテーションが不可欠です。選手をサポートする際には、施設の専門性や提供されるプログラムの内容を考慮し、個々のニーズに合った最適な環境を選ぶことが重要です。",
+      "published_at": "2026-08-14T12:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "運動誘発性筋肉痛に対する鍼治療の即時効果と遅延性効果の検証",
-      "source": "Asian Journal of Sports Acupuncture",
-      "url": "https://example.com/research/r005",
-      "abstract": "運動経験のある健常成人25名を対象に、運動誘発性筋肉痛（DOMS）発症後に鍼治療群とプラセボ鍼群に割り付け。鍼治療群は、治療直後および24時間後の疼痛スコアにおいて、プラセボ群よりも有意な軽減を示し、筋肉の柔軟性も改善した。",
-      "insight": "スポーツ現場において、DOMSに対する鍼治療は、急性期の疼痛緩和と回復促進に有効な手段となる可能性がある。特に試合後のケアやトレーニングの回復期に組み込むことを検討する。",
-      "published_at": "2026-08-19T13:00:00.000Z"
+      "title": "女性サッカー選手における再発性後方肩関節脱臼による疼痛管理のための補助的鍼灸治療：症例報告",
+      "source": "Cureus",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5",
+      "abstract": "女性サッカー選手における再発性の後方肩関節脱臼による疼痛管理に、鍼治療と灸治療を補助的に用いた症例報告が発表されました。この治療法は、従来の治療と併用することで、患者の疼痛を顕著に軽減し、肩関節の機能改善に貢献しました。東洋医学的アプローチがスポーツ傷害の疼痛管理に有効である可能性を示唆しています。",
+      "insight": "スポーツ選手が慢性的な痛みを抱える場合、西洋医学的治療に加えて、鍼灸治療のような東洋医学的手法を補助的に導入することで、症状の緩和と回復促進が期待できます。",
+      "published_at": "2026-03-18T07:00:00.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "高強度インターバルトレーニング後の回復における分岐鎖アミノ酸（BCAA）とHMBの併用効果",
-      "source": "International Journal of Sports Nutrition",
-      "url": "https://example.com/research/r006",
-      "abstract": "高強度インターバルトレーニングを実施するアスリート18名を対象に、BCAA単独摂取群、HMB単独摂取群、BCAA+HMB併用摂取群、プラセボ群に分け、4週間の効果を比較。併用摂取群は、筋肉痛の軽減、筋損傷マーカーの低下、およびパフォーマンスの回復において、他の群よりも優れた結果を示した。",
-      "insight": "高強度トレーニングを実施するアスリートにとって、BCAAとHMBの適切な組み合わせは、筋肉の回復を促進し、パフォーマンスの持続に寄与する可能性があるため、サプリメント戦略として検討すべきである。",
-      "published_at": "2026-08-20T14:00:00.000Z"
+      "title": "サプリメント：アスリートは何を、なぜ摂取するのか？",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HQTVsSFBSTGpLRThxNW43VGppNVBOZnNYbVZWNklxTmRSdTNDdDRyNGFmZkdweWpaa0xaTWZ1YkwtYm94VGxoelVPQ3FBOFpiT2haLVpLWUd1amNmS0E?oc=5",
+      "abstract": "アスリートがどのようなサプリメントを摂取し、その目的は何であるかについてBBCが報じました。記事では、プロテイン、クレアチン、カフェインなど、様々なサプリメントの利用状況と、それらがパフォーマンス向上、回復促進、栄養補給にどのように寄与しているかが解説されています。また、安全性やドーピング規制への配慮も強調されています。",
+      "insight": "アスリートのサプリメント摂取については、最新の科学的根拠に基づき、個々のニーズとリスクを考慮した上で、専門家による適切な指導と管理が不可欠です。",
+      "published_at": "2026-08-20T05:52:21.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "小児期における多様な運動経験が運動能力と認知機能の発達に与える影響",
-      "source": "Journal of Youth Sports & Development",
-      "url": "https://example.com/research/r007",
-      "abstract": "6歳から10歳までの児童100名を対象に、多様なスポーツ活動（複数種目）を行う群と単一スポーツに特化する群で2年間追跡調査。多様な運動経験を持つ群は、総合的な運動能力（協調性、バランス能力）だけでなく、反応時間や記憶力といった認知機能においても有意な改善を示した。",
-      "insight": "青少年育成においては、早期の専門化を避け、様々な種類の運動を経験させる「マルチスポーツアプローチ」が、身体能力と認知能力の両面で健全な発達を促進する上で重要である。",
-      "published_at": "2026-08-21T15:00:00.000Z"
+      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
+      "source": "ECNL",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5",
+      "abstract": "アスリート健康パフォーマンスセンターが、ユースサッカーにおける相対的年齢効果（RAE）を調査しました。RAEとは、同じ年齢グループ内で誕生月の早い選手が身体的・精神的に優位に立つ現象を指します。この研究は、ユース選手の選抜や育成プログラムにおいて、単なる年齢だけでなく、発達段階や成熟度を考慮することの重要性を示唆しています。",
+      "insight": "ユーススポーツ指導者は、相対的年齢効果を理解し、早期に生まれた選手だけでなく、遅生まれの選手にも適切な機会とサポートを提供することで、より公平で包括的な育成環境を築くことができます。",
+      "published_at": "2026-08-03T07:00:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "エリートアスリートにおける睡眠の質と競技パフォーマンスおよびメンタルヘルスの関連性",
-      "source": "Sports Sleep & Performance Quarterly",
-      "url": "https://example.com/research/r008",
-      "abstract": "トップレベルのアスリート50名を対象に、ウェアラブルデバイスを用いた睡眠データと競技パフォーマンス（主観的評価、タイムなど）、および心理的ストレスレベルを3ヶ月間追跡。睡眠効率が高いアスリートほど、競技パフォーマンスの安定性が高く、心理的ストレススコアが低い傾向が認められた。",
-      "insight": "アスリートの最高のパフォーマンスを引き出すためには、トレーニングや栄養だけでなく、睡眠の質の最適化が不可欠である。個々の睡眠パターンを把握し、質の高い睡眠を確保するための介入が重要となる。",
-      "published_at": "2026-08-22T08:00:00.000Z"
+      "title": "クリーンなスポーツの名のもとに睡眠が犠牲にされたのか？",
+      "source": "Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0VQYkJ6b2d3YXVVazF1YmVwYVdNNGdLY19YU3JRRGViaDNwTXNZVkpxVUM4aERENnllSVk0dERVYlFBemFCbkU3bGNPT1FBOU5sSExRa2pEbDdMZXg2QkVPS3lCNzVLZmoyX3ZFYV9jX09ySjg1amxmNGJuZlY4RW50TkZfYjRLdkVOWDJSNXFpcGt4WV9SWnFuYUsyb242ZXJEdENHTTEyUHlsVTZhWVA3NA?oc=5",
+      "abstract": "クリーンなスポーツ（ドーピングなし）を追求する中で、アスリートの睡眠が犠牲になっている可能性についてPsychology Todayが考察しています。厳しいトレーニングスケジュールや頻繁な遠征、ドーピング検査によるストレスなどが、アスリートの睡眠パターンに悪影響を与え、結果としてパフォーマンスやメンタルヘルスに負の影響をもたらすことが指摘されています。",
+      "insight": "アスリートの最適なパフォーマンスと健康維持のためには、トレーニング、栄養、リハビリテーションと同様に、質の高い睡眠を確保することが不可欠です。指導者は、睡眠衛生の重要性を認識し、アスリートが十分な休息を取れるような環境整備とサポートを強化すべきです。",
+      "published_at": "2026-07-21T07:00:00.000Z"
     }
   ],
-  "japan_news": [],
-  "global_news": [],
+  "japan_news": [
+    {
+      "id": "j001",
+      "category": "社会",
+      "source": "NHKニュース",
+      "title": "【地震情報】茨城 東京 埼玉 千葉 震度5弱 津波なし",
+      "summary": "22日17時過ぎ、茨城県、東京都、埼玉県、千葉県で震度5弱の地震が発生しました。気象庁によると、この地震による津波の心配はないとのことです。各地で強い揺れが観測され、交通機関に一時的な影響が出ました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xdUQ1X0NUVTdZMTdYeVUtd3VrelhrREJNZ2tUV2pMUzBSUWp4ZkRSQzBNN3hwUkozdWZQUU9KcGNLWldPNVc2SEtaNUFvWmRJSFJfdzdUbmZHclZqeGFV?oc=5",
+      "published_at": "2026-08-22T17:04:40.000Z"
+    },
+    {
+      "id": "j002",
+      "category": "社会",
+      "source": "千葉日報オンライン",
+      "title": "【速報】ＪＲ外房線、２３日に全線運転再開へ 誉田―大網駅間、始発から 復旧順調で見通し早める 千葉豪雨",
+      "summary": "千葉豪雨の影響で運転を見合わせていたJR外房線が、23日の始発から誉田—大網駅間を含む全線で運転を再開する見込みです。復旧作業が順調に進んだため、当初の予定より運転再開が早まりました。利用者への影響緩和が期待されます。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tM1c5THRTSENIV2FYRnNaeHh2LWtFRkwyaGM4Z2JSTUtMUzRXblUyb1gtNmRlSmVDdFJhSDhRSUpVU005bm13NEs2Vm1HZmhfNUZNNmtDc1o?oc=5",
+      "published_at": "2026-08-22T03:33:35.000Z"
+    },
+    {
+      "id": "j003",
+      "category": "社会",
+      "source": "読売新聞",
+      "title": "板橋区で１時間１２０ミリ超の猛烈な雨、東京・埼玉に記録的短時間大雨情報…道路の冠水相次ぐ",
+      "summary": "東京都板橋区で1時間に120ミリを超える猛烈な雨が観測され、東京と埼玉の一部地域に記録的短時間大雨情報が発表されました。各地で道路の冠水が相次ぎ、一時的に交通が混乱しました。自治体は住民に警戒を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMmt3TkhfMDEtTWZYZmdNSG10cFF5Z2t3cHhjR3ppRENvVExDdnowU3NjTUx1eW9kWmlBV2NESmM4a0NQYnRFRzRjRE16d0RmckRRNHhWWXVXaW5WUnNpT0RhZGZRQQ?oc=5",
+      "published_at": "2026-08-22T11:19:00.000Z"
+    },
+    {
+      "id": "j004",
+      "category": "国際",
+      "source": "読売新聞",
+      "title": "ウクライナ部隊で特殊作戦担うロシア人、母国の敗戦で「まともな国に」…捕虜になれば自決覚悟",
+      "summary": "ウクライナ部隊に参加し特殊作戦に従事するロシア人兵士が、母国ロシアの敗戦を通じて「まともな国」になることを望んでいると語りました。彼らは捕虜になった場合の自決を覚悟しており、自らの行動の重さを認識しています。この状況は、ウクライナ紛争の複雑な背景を浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMUE9RZjBwVnNIUnpzbXJhak9hX1NTaUdlemtiWENERC1XSktuVk5uLUhQeDZaSTZ6d0RMeEc2b0tYbFMwWnVJRV9JeHhpVXF4cWtwNUxoWTJLY0lkNUI4eGx3?oc=5",
+      "published_at": "2026-08-22T20:00:00.000Z"
+    },
+    {
+      "id": "j005",
+      "category": "社会",
+      "source": "47NEWS",
+      "title": "【速報】薬師寺の国宝に液体かけた疑い台湾の女逮捕",
+      "summary": "奈良県の薬師寺にある国宝に液体をかけた疑いで、台湾籍の女が逮捕されました。文化財への損害が懸念されており、警察が詳しい動機や経緯を調べています。今回の事件は、文化財保護の重要性を改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUMl94NWlqd1d4SXZjWW14aG5vbldXOWJ4V1lSWFdYWjBDU05uSTFDblVrcGYyZWNnVkJoRDFYVDBfa2M0TFA1SGd6WQ?oc=5",
+      "published_at": "2026-08-22T15:57:00.000Z"
+    }
+  ],
+  "global_news": [
+    {
+      "id": "g001",
+      "category": "Politics",
+      "region": "Global",
+      "source": "NBC News",
+      "title": "カナダのマーク・カーニー首相、貿易交渉決裂後、新たな米関税を「誤算」と非難",
+      "summary": "カナダのマーク・カーニー首相は、米国との貿易交渉が決裂した後、米国が新たに課した関税を「誤算」と強く批判しました。この動きは、両国間の貿易関係にさらなる緊張をもたらす可能性があります。経済への影響が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
+      "published_at": "2026-08-22T18:48:00.000Z"
+    },
+    {
+      "id": "g002",
+      "category": "Politics",
+      "region": "US",
+      "source": "AP News",
+      "title": "連邦判事、75カ国からの移民ビザ申請処理を停止したトランプ政権の政策を無効に",
+      "summary": "連邦判事が、75カ国からの移民ビザ申請処理を一時停止していたトランプ政権の政策を無効と判断しました。この判決により、影響を受けていた多くの移民申請者が再び手続きを進めることができるようになります。人権団体は今回の決定を歓迎しています。",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVFtMlhNYU9fa1JGZXpOSzFDd1NKSTRTRXlYOXZ0dk94ekhqaUVvdllWVXFyMlJ5aEVKdzFTbGkxV091RmJ0S2lJSWkxSERpTm43dlFfWjR2U0FQVF9rMHpLejVQNTdIdzAtcjVMdGNhWU1jZXhZTWNSanZYcmZxUktLb2tLZDhWSHZTclZzc2JxeTFwVDluMTlqa0RlRURnUldZ?oc=5",
+      "published_at": "2026-08-22T15:55:00.000Z"
+    },
+    {
+      "id": "g003",
+      "category": "Politics",
+      "region": "US",
+      "source": "CNN",
+      "title": "ナタリー・ハープ氏の1月6日のトランプ氏への熱烈な支持を示す削除されたツイート",
+      "summary": "削除されたツイートが、ナタリー・ハープ氏が1月6日の出来事においてドナルド・トランプ氏を熱烈に支持していたことを示しています。これらのツイートは、当時の政治的緊張と支持者の動向を改めて浮き彫りにするものです。SNS上の情報操作と公開記録の重要性が再び注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSllHZWs0QmhQS2dXOGlQWTRoSW9iUGdoR2xIMDlkX2s1TmlKV3RIZGt0bXM0VHhqd0hQWVJycllCNDBFa1hSRXpfNTJaT05JTjhjdTg2bGVhMUJjcmdGR0VMa3NmTUhrYk40dXJQZGxZalkwaWxIa0hVc1FDNk1ZRUpaQXdJLWZ4UVU5aWlONl94SEE?oc=5",
+      "published_at": "2026-08-22T16:00:29.000Z"
+    },
+    {
+      "id": "g004",
+      "category": "Politics",
+      "region": "Middle East",
+      "source": "CNBC",
+      "title": "米国の新たな厳しい制裁を前に、イランが「領域外主権」を批判",
+      "summary": "米国による新たな厳しい制裁措置を前に、イラン政府が「領域外主権」の概念を強く批判しました。イランは、他国が一方的に自国の法律を他国に適用することに反対の意を表明しています。この動きは、両国間の緊張をさらに高める可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5FU3lnQ0FsZU5vbjdlazdtTUhDZUpVX3hiWm1tWng5RjUxM2RYOFhTcEdfUVE1WDl3QkFCcXVxNHczbmNocnA5UG85cTFPWnFYQ0lQRENHeEd3dUNRVUdhbk1mbFc2OExVM3VjTWNONm1yRWNQY0FtU21CcnlIS1JTUzBlRzJmLUFtVHZYTEdIa3BLWUpVc1BR0gGfAUFVX3lxTE5MUUhtTlBzNDdFX1Y4eDc4OEVkLTIxUW1ycDlBNzE2ZmkzN3dUZm80S3RlZ1FiVEZrRkFISVkxNXZBUjZxQ2lMMmdhc1VOYW5LRTY1elVSVDNGM1QtdEFCMklqSWxJUWR6YTNhLXY5X1YzMnQ3WVhCZmtRWXprN1NNdHJmcFpTOENNNGZNcTZoUEhFZzd2NXFyN2hGem5mRQ?oc=5",
+      "published_at": "2026-08-22T10:21:47.000Z"
+    },
+    {
+      "id": "g005",
+      "category": "Conflict",
+      "region": "Middle East",
+      "source": "USNI News",
+      "title": "米空母エイブラハム・リンカーン、約7カ月の展開を経て中東を離れる",
+      "summary": "米海軍の原子力空母USSエイブラハム・リンカーンが、約7カ月にわたる中東地域での展開を終え、同地を離れました。これは、この地域における米軍のプレゼンスと戦略に変化が生じる可能性を示唆しています。今後の地域の安全保障情勢に注目が集まります。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzAtQUNMTDlqam9nS28xdFpJc2RzUnZpZzhRQ1I4eHpRR29OQngySldLRkRFTGhESFlsMHVpaDE4aEVZLUtWMk1tdEpndTU1NEhmdVNfYXl1WV9QZ0tLVFlJMGpkSnhIWmVuZGxIVjByVkk5UzFMTjVqc0p3c2pJVUliUFZBRGM0b2ZQYTctRmZyUzdTRWU5X2NJZXQyZw?oc=5",
+      "published_at": "2026-08-22T12:30:00.000Z"
+    }
+  ],
   "weekly_top20": [
     {
       "rank": 1,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手の敏捷性パフォーマンスと怪我予防におけるVR支援神経筋トレーニングの効果：制御された実験室実験",
+      "summary": "バスケットボール選手を対象とした制御された実験室研究で、バーチャルリアリティ（VR）を活用した神経筋トレーニングが敏捷性パフォーマンスと怪我予防に与える影響が調査されました。このトレーニングは、選手の反応速度とバランス能力を向上させ、特にACL損傷のリスク低減に効果的であることが示されています。VR環境は、よりリアルな状況下でのトレーニングを可能にし、従来のトレーニング方法と比較して優れた結果をもたらしました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "スプリント科学における先駆者とパラダイム：歴史的ミニレビュー",
+      "summary": "スプリント科学における先駆的な研究とパラダイムの歴史的レビューが行われました。本稿では、スプリントパフォーマンスの理解と向上に貢献してきた主要な科学的発見と理論的枠組みをたどります。特に、バイオメカニクス、生理学、トレーニング方法論の進化がスプリント能力の限界を押し広げてきた経緯が示されています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWS2QtbFF4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "ペプチド：医師が利点、リスク、FDAの懸念を説明",
+      "summary": "医師たちがペプチドの利点、リスク、そしてFDA（米国食品医薬品局）の懸念について解説しました。ペプチドは、筋肉の成長促進、炎症の抑制、回復力の向上など、アスリートのパフォーマンス向上に寄与する可能性が指摘されていますが、未承認の製品や不適切な使用による健康リスクも存在します。FDAは、その安全性と有効性に関して引き続き監視を強化しています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "origin_tab": "latest_research",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "ニュージャージー州のスポーツ傷害リハビリテーションセンター ベスト10",
+      "summary": "ニュージャージー州で最高のスポーツ傷害リハビリテーションセンター10選が紹介されました。これらの施設は、最新の治療技術、経験豊富な専門スタッフ、個別化された回復プログラムを提供し、アマチュアからプロまで幅広いアスリートの早期復帰を支援しています。特に、包括的なアプローチと患者中心のケアが評価されています。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "origin_tab": "latest_research",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "女性サッカー選手における再発性後方肩関節脱臼による疼痛管理のための補助的鍼灸治療：症例報告",
+      "summary": "女性サッカー選手における再発性の後方肩関節脱臼による疼痛管理に、鍼治療と灸治療を補助的に用いた症例報告が発表されました。この治療法は、従来の治療と併用することで、患者の疼痛を顕著に軽減し、肩関節の機能改善に貢献しました。東洋医学的アプローチがスポーツ傷害の疼痛管理に有効である可能性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
+    },
+    {
+      "rank": 6,
+      "origin_tab": "latest_research",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "サプリメント：アスリートは何を、なぜ摂取するのか？",
+      "summary": "アスリートがどのようなサプリメントを摂取し、その目的は何であるかについてBBCが報じました。記事では、プロテイン、クレアチン、カフェインなど、様々なサプリメントの利用状況と、それらがパフォーマンス向上、回復促進、栄養補給にどのように寄与しているかが解説されています。また、安全性やドーピング規制への配慮も強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HQTVsSFBSTGpLRThxNW43VGppNVBOZnNYbVZWNklxTmRSdTNDdDRyNGFmZkdweWpaa0xaTWZ1YkwtYm94VGxoelVPQ3FBOFpiT2haLVpLWUd1amNmS0E?oc=5"
+    },
+    {
+      "rank": 7,
+      "origin_tab": "latest_research",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
+      "summary": "アスリート健康パフォーマンスセンターが、ユースサッカーにおける相対的年齢効果（RAE）を調査しました。RAEとは、同じ年齢グループ内で誕生月の早い選手が身体的・精神的に優位に立つ現象を指します。この研究は、ユース選手の選抜や育成プログラムにおいて、単なる年齢だけでなく、発達段階や成熟度を考慮することの重要性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
+    },
+    {
+      "rank": 8,
+      "origin_tab": "latest_research",
+      "category": "Sleep Science / Mental Performance",
+      "title": "クリーンなスポーツの名のもとに睡眠が犠牲にされたのか？",
+      "summary": "クリーンなスポーツ（ドーピングなし）を追求する中で、アスリートの睡眠が犠牲になっている可能性についてPsychology Todayが考察しています。厳しいトレーニングスケジュールや頻繁な遠征、ドーピング検査によるストレスなどが、アスリートの睡眠パターンに悪影響を与え、結果としてパフォーマンスやメンタルヘルスに負の影響をもたらすことが指摘されています。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0VQYkJ6b2d3YXVVazF1YmVwYVdNNGdLY19YU3JRRGViaDNwTXNZVkpxVUM4aERENnllSVk0dERVYlFBemFCbkU3bGNPT1FBOU5sSExRa2pEbDdMZXg2QkVPS3lCNzVLZmoyX3ZFYV9jX09ySjg1amxmNGJuZlY4RW50TkZfYjRLdkVOWDJSNXFpcGt4WV9SWnFuYUsyb242ZXJEdENHTTEyUHlsVTZhWVA3NA?oc=5"
+    },
+    {
+      "rank": 9,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "【地震情報】茨城 東京 埼玉 千葉 震度5弱 津波なし",
+      "summary": "22日17時過ぎ、茨城県、東京都、埼玉県、千葉県で震度5弱の地震が発生しました。気象庁によると、この地震による津波の心配はないとのことです。各地で強い揺れが観測され、交通機関に一時的な影響が出ました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xdUQ1X0NUVTdZMTdYeVUtd3VrelhrREJNZ2tUV2pMUzBSUWp4ZkRSQzBNN3hwUkozdWZQUU9KcGNLWldPNVc2SEtaNUFvWmRJSFJfdzdUbmZHclZqeGFV?oc=5"
+    },
+    {
+      "rank": 10,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "【速報】ＪＲ外房線、２３日に全線運転再開へ 誉田―大網駅間、始発から 復旧順調で見通し早める 千葉豪雨",
+      "summary": "千葉豪雨の影響で運転を見合わせていたJR外房線が、23日の始発から誉田—大網駅間を含む全線で運転を再開する見込みです。復旧作業が順調に進んだため、当初の予定より運転再開が早まりました。利用者への影響緩和が期待されます。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tM1c5THRTSENIV2FYRnNaeHh2LWtFRkwyaGM4Z2JSTUtMUzRXblUyb1gtNmRlSmVDdFJhSDhRSUpVU005bm13NEs2Vm1HZmhfNUZNNmtDc1o?oc=5"
+    },
+    {
+      "rank": 11,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "板橋区で１時間１２０ミリ超の猛烈な雨、東京・埼玉に記録的短時間大雨情報…道路の冠水相次ぐ",
+      "summary": "東京都板橋区で1時間に120ミリを超える猛烈な雨が観測され、東京と埼玉の一部地域に記録的短時間大雨情報が発表されました。各地で道路の冠水が相次ぎ、一時的に交通が混乱しました。自治体は住民に警戒を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMmt3TkhfMDEtTWZYZmdNSG10cFF5Z2t3cHhjR3ppRENvVExDdnowU3NjTUx1eW9kWmlBV2NESmM4a0NQYnRFRzRjRE16d0RmckRRNHhWWXVXaW5WUnNpT0RhZGZRQQ?oc=5"
+    },
+    {
+      "rank": 12,
+      "origin_tab": "japan_news",
+      "category": "国際",
+      "title": "ウクライナ部隊で特殊作戦担うロシア人、母国の敗戦で「まともな国に」…捕虜になれば自決覚悟",
+      "summary": "ウクライナ部隊に参加し特殊作戦に従事するロシア人兵士が、母国ロシアの敗戦を通じて「まともな国」になることを望んでいると語りました。彼らは捕虜になった場合の自決を覚悟しており、自らの行動の重さを認識しています。この状況は、ウクライナ紛争の複雑な背景を浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMUE9RZjBwVnNIUnpzbXJhak9hX1NTaUdlemtiWENERC1XSktuVk5uLUhQeDZaSTZ6d0RMeEc2b0tYbFMwWnVJRV9JeHhpVXF4cWtwNUxoWTJLY0lkNUI4eGx3?oc=5"
+    },
+    {
+      "rank": 13,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "【速報】薬師寺の国宝に液体かけた疑い台湾の女逮捕",
+      "summary": "奈良県の薬師寺にある国宝に液体をかけた疑いで、台湾籍の女が逮捕されました。文化財への損害が懸念されており、警察が詳しい動機や経緯を調べています。今回の事件は、文化財保護の重要性を改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUMl94NWlqd1d4SXZjWW14aG5vbldXOWJ4V1lSWFdYWjBDU05uSTFDblVrcGYyZWNnVkJoRDFYVDBfa2M0TFA1SGd6WQ?oc=5"
+    },
+    {
+      "rank": 14,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "カナダのマーク・カーニー首相、貿易交渉決裂後、新たな米関税を「誤算」と非難",
+      "summary": "カナダのマーク・カーニー首相は、米国との貿易交渉が決裂した後、米国が新たに課した関税を「誤算」と強く批判しました。この動きは、両国間の貿易関係にさらなる緊張をもたらす可能性があります。経済への影響が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5"
+    },
+    {
+      "rank": 15,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "連邦判事、75カ国からの移民ビザ申請処理を停止したトランプ政権の政策を無効に",
+      "summary": "連邦判事が、75カ国からの移民ビザ申請処理を一時停止していたトランプ政権の政策を無効と判断しました。この判決により、影響を受けていた多くの移民申請者が再び手続きを進めることができるようになります。人権団体は今回の決定を歓迎しています。",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVFtMlhNYU9fa1JGZXpOSzFDd1NKSTRTRXlYOXZ0dk94ekhqaUVvdllWVXFyMlJ5aEVKdzFTbGkxV091RmJ0S2lJSWkxSERpTm43dlFfWjR2U0FQVF9rMHpLejVQNTdIdzAtcjVMdGNhWU1jZXhZTWNSanZYcmZxUktLb2tLZDhWSHZTclZzc2JxeTFwVDluMTlqa0RlRURnUldZ?oc=5"
+    },
+    {
+      "rank": 16,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ナタリー・ハープ氏の1月6日のトランプ氏への熱烈な支持を示す削除されたツイート",
+      "summary": "削除されたツイートが、ナタリー・ハープ氏が1月6日の出来事においてドナルド・トランプ氏を熱烈に支持していたことを示しています。これらのツイートは、当時の政治的緊張と支持者の動向を改めて浮き彫りにするものです。SNS上の情報操作と公開記録の重要性が再び注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSllHZWs0QmhQS2dXOGlQWTRoSW9iUGdoR2xIMDlkX2s1TmlKV3RIZGt0bXM0VHhqd0hQWVJycllCNDBFa1hSRXpfNTJaT05JTjhjdTg2bGVhMUJjcmdGR0VMa3NmTUhrYk40dXJQZGxZalkwaWxIa0hVc1FDNk1ZRUpaQXdJLWZ4UVU5aWlONl94SEE?oc=5"
+    },
+    {
+      "rank": 17,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "米国の新たな厳しい制裁を前に、イランが「領域外主権」を批判",
+      "summary": "米国による新たな厳しい制裁措置を前に、イラン政府が「領域外主権」の概念を強く批判しました。イランは、他国が一方的に自国の法律を他国に適用することに反対の意を表明しています。この動きは、両国間の緊張をさらに高める可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5FU3lnQ0FsZU5vbjdlazdtTUhDZUpVX3hiWm1tWng5RjUxM2RYOFhTcEdfUVE1WDl3QkFCcXVxNHczbmNocnA5UG85cTFPWnFYQ0lQRENHeEd3dUNRVUdhbk1mbFc2OExVM3VjTWNONm1yRWNQY0FtU21CcnlIS1JTUzBlRzJmLUFtVHZYTEdIa3BLWUpVc1BR0gGfAUFVX3lxTE5MUUhtTlBzNDdFX1Y4eDc4OEVkLTIxUW1ycDlBNzE2ZmkzN3dUZm80S3RlZ1FiVEZrRkFISVkxNXZBUjZxQ2lMMmdhc1VOYW5LRTY1elVSVDNGM1QtdEFCMklqSWxJUWR6YTNhLXY5X1YzMnQ3WVhCZmtRWXprN1NNdHJmcFpTOENNNGZNcTZoUEhFZzd2NXFyN2hGem5mRQ?oc=5"
+    },
+    {
+      "rank": 18,
+      "origin_tab": "global_news",
+      "category": "Conflict",
+      "title": "米空母エイブラハム・リンカーン、約7カ月の展開を経て中東を離れる",
+      "summary": "米海軍の原子力空母USSエイブラハム・リンカーンが、約7カ月にわたる中東地域での展開を終え、同地を離れました。これは、この地域における米軍のプレゼンスと戦略に変化が生じる可能性を示唆しています。今後の地域の安全保障情勢に注目が集まります。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzAtQUNMTDlqam9nS28xdFpJc2RzUnZpZzhRQ1I4eHpRR29OQngySldLRkRFTGhESFlsMHVpaDE4aEVZLUtWMk1tdEpndTU1NEhmdVNfYXl1WV9QZ0tLVFlJMGpkSnhIWmVuZGxIVjByVkk5UzFMTjVqc0p3c2pJVUliUFZBRGM0b2ZQYTctRmZyUzdTRWU5X2NJZXQyZw?oc=5"
+    },
+    {
+      "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
       "title": "若年女性アスリートにおけるACL損傷予防プログラムの効果：前方への踏み込み動作の改善に着目",
@@ -95,156 +336,12 @@ window.DIGEST_DATA = {
       "url": "https://example.com/research/r001"
     },
     {
-      "rank": 2,
+      "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
       "title": "ランニングにおける着地衝撃と足部アーチの動的特性：疲労がパフォーマンスに与える影響",
       "summary": "経験豊富なランナー20名を対象に、トレッドミル上での長距離ランニング（疲労誘発プロトコル）を実施。疲労の進行に伴い、着地衝撃が増加し、足部アーチの下降速度が有意に加速することが示された。これは、疲労が下肢の衝撃吸収能力を低下させることを示唆する。",
       "url": "https://example.com/research/r002"
-    },
-    {
-      "rank": 3,
-      "origin_tab": "latest_research",
-      "category": "Sports Medicine / Orthopedics",
-      "title": "変形性膝関節症患者に対する多血小板血漿（PRP）注射とヒアルロン酸注射の比較研究",
-      "summary": "軽度から中等度の変形性膝関節症患者60名を対象に、PRP注射群とヒアルロン酸注射群に無作為に割り付け、6ヶ月間の症状改善度を比較。PRP群は、VASスコアおよびWOMACスコアにおいてヒアルロン酸群よりも有意な疼痛軽減と機能改善を示した。",
-      "url": "https://example.com/research/r003"
-    },
-    {
-      "rank": 4,
-      "origin_tab": "latest_research",
-      "category": "Rehabilitation / Physical Therapy",
-      "title": "慢性腰痛患者における体幹深層筋の選択的強化が疼痛と機能に与える影響",
-      "summary": "慢性腰痛患者45名を対象に、体幹深層筋（腹横筋、多裂筋）の選択的強化プログラムを8週間実施。介入群は、対照群と比較して、疼痛VASスコアの有意な低下と、日常生活動作における機能改善が認められた。筋活動レベルも増加していた。",
-      "url": "https://example.com/research/r004"
-    },
-    {
-      "rank": 5,
-      "origin_tab": "latest_research",
-      "category": "Oriental Medicine / Acupuncture",
-      "title": "運動誘発性筋肉痛に対する鍼治療の即時効果と遅延性効果の検証",
-      "summary": "運動経験のある健常成人25名を対象に、運動誘発性筋肉痛（DOMS）発症後に鍼治療群とプラセボ鍼群に割り付け。鍼治療群は、治療直後および24時間後の疼痛スコアにおいて、プラセボ群よりも有意な軽減を示し、筋肉の柔軟性も改善した。",
-      "url": "https://example.com/research/r005"
-    },
-    {
-      "rank": 6,
-      "origin_tab": "latest_research",
-      "category": "Nutrition / Supplements / Recovery",
-      "title": "高強度インターバルトレーニング後の回復における分岐鎖アミノ酸（BCAA）とHMBの併用効果",
-      "summary": "高強度インターバルトレーニングを実施するアスリート18名を対象に、BCAA単独摂取群、HMB単独摂取群、BCAA+HMB併用摂取群、プラセボ群に分け、4週間の効果を比較。併用摂取群は、筋肉痛の軽減、筋損傷マーカーの低下、およびパフォーマンスの回復において、他の群よりも優れた結果を示した。",
-      "url": "https://example.com/research/r006"
-    },
-    {
-      "rank": 7,
-      "origin_tab": "latest_research",
-      "category": "Pediatric Exercise / Youth Development",
-      "title": "小児期における多様な運動経験が運動能力と認知機能の発達に与える影響",
-      "summary": "6歳から10歳までの児童100名を対象に、多様なスポーツ活動（複数種目）を行う群と単一スポーツに特化する群で2年間追跡調査。多様な運動経験を持つ群は、総合的な運動能力（協調性、バランス能力）だけでなく、反応時間や記憶力といった認知機能においても有意な改善を示した。",
-      "url": "https://example.com/research/r007"
-    },
-    {
-      "rank": 8,
-      "origin_tab": "latest_research",
-      "category": "Sleep Science / Mental Performance",
-      "title": "エリートアスリートにおける睡眠の質と競技パフォーマンスおよびメンタルヘルスの関連性",
-      "summary": "トップレベルのアスリート50名を対象に、ウェアラブルデバイスを用いた睡眠データと競技パフォーマンス（主観的評価、タイムなど）、および心理的ストレスレベルを3ヶ月間追跡。睡眠効率が高いアスリートほど、競技パフォーマンスの安定性が高く、心理的ストレススコアが低い傾向が認められた。",
-      "url": "https://example.com/research/r008"
-    },
-    {
-      "rank": 9,
-      "origin_tab": "latest_research",
-      "category": "Athletic Training / ACL Prevention",
-      "title": "仮想現実（VR）を用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスと傷害予防に与える影響：制御された実験室研究",
-      "summary": "本研究は、バスケットボール選手を対象に、仮想現実（VR）を用いた神経筋トレーニングが敏捷性パフォーマンスとACL（前十字靭帯）損傷予防に与える影響を検証した。VRトレーニングは、従来のトレーニングと比較して、敏捷性テストの成績向上と、特定の動作における膝の安定性向上に寄与する可能性が示唆された。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
-    },
-    {
-      "rank": 10,
-      "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "エリートランナーはなぜ楽に走っているように見えるのか？ 彼らと同じように、より速く、より効率的に走るための4つの簡単なコツ",
-      "summary": "エリートランナーの効率的な走り方を分析し、一般ランナーが実践できる4つの簡単なコツを紹介する。これには、着地時の衝撃を和らげること、腕の振りの最適化、体幹の安定性向上が含まれる。",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
-    },
-    {
-      "rank": 11,
-      "origin_tab": "latest_research",
-      "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷のあるアスリートをスポーツに復帰させる方法",
-      "summary": "内側側副靭帯（MUCL）損傷は、スポーツ復帰に際して慎重なアプローチが求められる。本記事では、段階的なリハビリテーション、筋力強化、そして心理的なサポートを含む、アスリートの安全なスポーツ復帰を支援するための戦略について解説している。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
-    },
-    {
-      "rank": 12,
-      "origin_tab": "latest_research",
-      "category": "Rehabilitation / Physical Therapy",
-      "title": "バレー・ヘルス・システム、アスリートがピークパフォーマンスを安全に再開できるよう「Return to Sport」プログラムを開始",
-      "summary": "バレー・ヘルス・システムが、怪我からの回復を目指すアスリートが安全に競技へ復帰するための「Return to Sport」プログラムを開始した。このプログラムは、個々のアスリートの状態に合わせた評価と、段階的なトレーニングを通じて、パフォーマンスの回復と再発予防を目指す。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
-    },
-    {
-      "rank": 13,
-      "origin_tab": "latest_research",
-      "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "本研究は、アスリートの疼痛管理における西洋医学的鍼治療の有効性を評価した。既存の複数の研究を系統的にレビューし、メタアナリシスを行った結果、鍼治療がアスリートの急慢性疼痛の軽減に有効である可能性が示された。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
-    },
-    {
-      "rank": 14,
-      "origin_tab": "latest_research",
-      "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートは何を摂取し、なぜ摂取するのか？",
-      "summary": "トップアスリートがパフォーマンス向上や回復のためにどのようなサプリメントを摂取しているのか、その理由とともに解説する。クレアチン、プロテイン、カフェインなど、科学的根拠に基づいたサプリメントの利用について触れている。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HQTVsSFBSTGpLRThxNW43VGppNVBOZnNYbVZWNklxTmRSdTNDdDRyNGFmZkdweWpaa0xaTWZ1YkwtYm94VGxoelVPQ3FBOFpiT2haLVpLWkd1amNmS0E?oc=5"
-    },
-    {
-      "rank": 15,
-      "origin_tab": "latest_research",
-      "category": "Pediatric Exercise / Youth Development",
-      "title": "ユースサッカーにおける相対年齢効果を検証するアスリート健康・パフォーマンスセンター",
-      "summary": "ユースサッカーにおいて、誕生月によって選手選考や育成に影響を与える「相対年齢効果」が問題視されている。本記事では、この効果が選手の成長機会に与える影響と、その是正に向けた取り組みについて報告している。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEg3V2JGX1JJWmtkczhGeUV4SHF0eExVWVgyeGd3?oc=5"
-    },
-    {
-      "rank": 16,
-      "origin_tab": "latest_research",
-      "category": "Sleep Science / Mental Performance",
-      "title": "睡眠と回復がハイパフォーマンスを形成する：クリステン・ホームズ氏",
-      "summary": "睡眠と回復の専門家であるクリステン・ホームズ氏が、アスリートのパフォーマンス、回復、怪我の予防における睡眠の重要性について解説する。質の高い睡眠が、身体的・精神的な回復に不可欠であることを強調している。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
-    },
-    {
-      "rank": 17,
-      "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "千葉豪雨 夜の消防通報2200件超 緊迫の音声記録も",
-      "summary": "千葉県を襲った記録的な豪雨により、夜間だけで2200件を超える消防への通報が寄せられました。現場の緊迫した状況を示す音声記録も残されています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRQy1kTXZjYUUwT3N5MUlxOHNjaXQ1bFR5cE8weEphSTJQR180SG53UFdlcTZ5aEFFUXNXSU1RT20xNm1OS3pEbThydFNYNkpsQ1Fybm9lY2ZpS1U2azlz?oc=5"
-    },
-    {
-      "rank": 18,
-      "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "ウクライナ郵便配達員を執拗に追うロシア軍無人機が爆発、左半身血だらけに…「いつも死と隣り合わせ」",
-      "summary": "ウクライナで、郵便配達員を執拗に追跡していたロシア軍の無人機が爆発し、配達員は左半身が血だらけになった。配達員は「いつも死と隣り合わせ」と語り、過酷な状況を訴えている。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YR2lVN3BBMW4wVFZmQVNuZDFDUTAzeS1NRTg2b2tkZ3Jsa2gxLXlLRGFrdWhJc3kxNTAxWTFfdEJtN0JrSzgya0M1Vm5Rci0tZU1QZy1ub3ZrQUt4cXotbnln?oc=5"
-    },
-    {
-      "rank": 19,
-      "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風18号(ソウデル) 沖縄や奄美に接近予想 その後の進路は不確実",
-      "summary": "台風18号「ソウデル」は、沖縄や奄美地方に接近すると予想されています。しかし、その後の進路については不確実な要素が多く、今後の情報に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VVVUzUkstblA5TmRrQTUwTkUwa3oyV3pRd0pWUk12d0dudXBGVExYRFZpa0J3cWtiR1ZtbFppbF9kVmdCNnczUjJYeTNZVzZqbHRvNQ?oc=5"
-    },
-    {
-      "rank": 20,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "千葉豪雨から1週間 八千代市「罹災証明書」の申請多数",
-      "summary": "千葉県を襲った記録的な豪雨から1週間が経過しました。八千代市では、被災者からの「罹災証明書」の申請が多数寄せられており、被災状況の把握と支援に向けた手続きが進められています。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yeUwtSjNBYVNQNmwySHZoSk1ZSWcyUFR5UlVzSGFKU1ROSktFaVFnUmR0MEdOVW9xTDF5OXlTX1U5VEl6cTdZeDloM0lmb2lyQXVXcklZRV9fNmM1MlBvSTg4cFg3aDd3M2E4Sl9PLXhzdw?oc=5"
     }
   ],
   "monthly_top20": [
@@ -252,161 +349,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "若年女性アスリートにおけるACL損傷予防プログラムの効果：前方への踏み込み動作の改善に着目",
-      "summary": "若年女性アスリート30名を対象に、6週間のACL損傷予防プログラムを実施。プログラム群では、前方への踏み込み動作時の膝外反モーメントが有意に減少し、股関節の屈曲・外転角度が増加した。これは、ACL損傷リスクの高い動作パターンの改善を示唆する。",
-      "url": "https://example.com/research/r001"
+      "title": "バスケットボール選手の敏捷性パフォーマンスと怪我予防におけるVR支援神経筋トレーニングの効果：制御された実験室実験",
+      "summary": "バスケットボール選手を対象とした制御された実験室研究で、バーチャルリアリティ（VR）を活用した神経筋トレーニングが敏捷性パフォーマンスと怪我予防に与える影響が調査されました。このトレーニングは、選手の反応速度とバランス能力を向上させ、特にACL損傷のリスク低減に効果的であることが示されています。VR環境は、よりリアルな状況下でのトレーニングを可能にし、従来のトレーニング方法と比較して優れた結果をもたらしました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "ランニングにおける着地衝撃と足部アーチの動的特性：疲労がパフォーマンスに与える影響",
-      "summary": "経験豊富なランナー20名を対象に、トレッドミル上での長距離ランニング（疲労誘発プロトコル）を実施。疲労の進行に伴い、着地衝撃が増加し、足部アーチの下降速度が有意に加速することが示された。これは、疲労が下肢の衝撃吸収能力を低下させることを示唆する。",
-      "url": "https://example.com/research/r002"
+      "title": "スプリント科学における先駆者とパラダイム：歴史的ミニレビュー",
+      "summary": "スプリント科学における先駆的な研究とパラダイムの歴史的レビューが行われました。本稿では、スプリントパフォーマンスの理解と向上に貢献してきた主要な科学的発見と理論的枠組みをたどります。特に、バイオメカニクス、生理学、トレーニング方法論の進化がスプリント能力の限界を押し広げてきた経緯が示されています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWS2QtbFF4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "変形性膝関節症患者に対する多血小板血漿（PRP）注射とヒアルロン酸注射の比較研究",
-      "summary": "軽度から中等度の変形性膝関節症患者60名を対象に、PRP注射群とヒアルロン酸注射群に無作為に割り付け、6ヶ月間の症状改善度を比較。PRP群は、VASスコアおよびWOMACスコアにおいてヒアルロン酸群よりも有意な疼痛軽減と機能改善を示した。",
-      "url": "https://example.com/research/r003"
+      "title": "ペプチド：医師が利点、リスク、FDAの懸念を説明",
+      "summary": "医師たちがペプチドの利点、リスク、そしてFDA（米国食品医薬品局）の懸念について解説しました。ペプチドは、筋肉の成長促進、炎症の抑制、回復力の向上など、アスリートのパフォーマンス向上に寄与する可能性が指摘されていますが、未承認の製品や不適切な使用による健康リスクも存在します。FDAは、その安全性と有効性に関して引き続き監視を強化しています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "慢性腰痛患者における体幹深層筋の選択的強化が疼痛と機能に与える影響",
-      "summary": "慢性腰痛患者45名を対象に、体幹深層筋（腹横筋、多裂筋）の選択的強化プログラムを8週間実施。介入群は、対照群と比較して、疼痛VASスコアの有意な低下と、日常生活動作における機能改善が認められた。筋活動レベルも増加していた。",
-      "url": "https://example.com/research/r004"
+      "title": "ニュージャージー州のスポーツ傷害リハビリテーションセンター ベスト10",
+      "summary": "ニュージャージー州で最高のスポーツ傷害リハビリテーションセンター10選が紹介されました。これらの施設は、最新の治療技術、経験豊富な専門スタッフ、個別化された回復プログラムを提供し、アマチュアからプロまで幅広いアスリートの早期復帰を支援しています。特に、包括的なアプローチと患者中心のケアが評価されています。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "運動誘発性筋肉痛に対する鍼治療の即時効果と遅延性効果の検証",
-      "summary": "運動経験のある健常成人25名を対象に、運動誘発性筋肉痛（DOMS）発症後に鍼治療群とプラセボ鍼群に割り付け。鍼治療群は、治療直後および24時間後の疼痛スコアにおいて、プラセボ群よりも有意な軽減を示し、筋肉の柔軟性も改善した。",
-      "url": "https://example.com/research/r005"
+      "title": "女性サッカー選手における再発性後方肩関節脱臼による疼痛管理のための補助的鍼灸治療：症例報告",
+      "summary": "女性サッカー選手における再発性の後方肩関節脱臼による疼痛管理に、鍼治療と灸治療を補助的に用いた症例報告が発表されました。この治療法は、従来の治療と併用することで、患者の疼痛を顕著に軽減し、肩関節の機能改善に貢献しました。東洋医学的アプローチがスポーツ傷害の疼痛管理に有効である可能性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY2lQZlNDVE1DYUpSM1B5RGlpTHFoT1A2OGVsek9HM3dDc2R0b1pHSm1mWGEzWnhLYmdydmxBeGdURk5FN0h2TGxmOWlsdjFueEFYa2QwazdkYWVtTHpGT3NBLU9VMmh4b296RU1OTi1acnBQNkxCQnl2ZXlFQVgyZFZqUGZDaXFxWU13X3R0SlpEd1hnTzROa1FDakNRTFI0TEhZaEhFM0U4ZHVrb05XWHhTQTJaejBucmE2SGJiQVZxdUxQcndhSGw3WndjTVZhRHBOam5qQnZfMm0xWUt3X0c5blhadjVXcnNoRmNadDZJTnI0dkpjNXNzY29uWVJHYWduQmFKcEoyR2xBQjRv?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "高強度インターバルトレーニング後の回復における分岐鎖アミノ酸（BCAA）とHMBの併用効果",
-      "summary": "高強度インターバルトレーニングを実施するアスリート18名を対象に、BCAA単独摂取群、HMB単独摂取群、BCAA+HMB併用摂取群、プラセボ群に分け、4週間の効果を比較。併用摂取群は、筋肉痛の軽減、筋損傷マーカーの低下、およびパフォーマンスの回復において、他の群よりも優れた結果を示した。",
-      "url": "https://example.com/research/r006"
+      "title": "サプリメント：アスリートは何を、なぜ摂取するのか？",
+      "summary": "アスリートがどのようなサプリメントを摂取し、その目的は何であるかについてBBCが報じました。記事では、プロテイン、クレアチン、カフェインなど、様々なサプリメントの利用状況と、それらがパフォーマンス向上、回復促進、栄養補給にどのように寄与しているかが解説されています。また、安全性やドーピング規制への配慮も強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HQTVsSFBSTGpLRThxNW43VGppNVBOZnNYbVZWNklxTmRSdTNDdDRyNGFmZkdweWpaa0xaTWZ1YkwtYm94VGxoelVPQ3FBOFpiT2haLVpLWUd1amNmS0E?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "小児期における多様な運動経験が運動能力と認知機能の発達に与える影響",
-      "summary": "6歳から10歳までの児童100名を対象に、多様なスポーツ活動（複数種目）を行う群と単一スポーツに特化する群で2年間追跡調査。多様な運動経験を持つ群は、総合的な運動能力（協調性、バランス能力）だけでなく、反応時間や記憶力といった認知機能においても有意な改善を示した。",
-      "url": "https://example.com/research/r007"
+      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
+      "summary": "アスリート健康パフォーマンスセンターが、ユースサッカーにおける相対的年齢効果（RAE）を調査しました。RAEとは、同じ年齢グループ内で誕生月の早い選手が身体的・精神的に優位に立つ現象を指します。この研究は、ユース選手の選抜や育成プログラムにおいて、単なる年齢だけでなく、発達段階や成熟度を考慮することの重要性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "エリートアスリートにおける睡眠の質と競技パフォーマンスおよびメンタルヘルスの関連性",
-      "summary": "トップレベルのアスリート50名を対象に、ウェアラブルデバイスを用いた睡眠データと競技パフォーマンス（主観的評価、タイムなど）、および心理的ストレスレベルを3ヶ月間追跡。睡眠効率が高いアスリートほど、競技パフォーマンスの安定性が高く、心理的ストレススコアが低い傾向が認められた。",
-      "url": "https://example.com/research/r008"
+      "title": "クリーンなスポーツの名のもとに睡眠が犠牲にされたのか？",
+      "summary": "クリーンなスポーツ（ドーピングなし）を追求する中で、アスリートの睡眠が犠牲になっている可能性についてPsychology Todayが考察しています。厳しいトレーニングスケジュールや頻繁な遠征、ドーピング検査によるストレスなどが、アスリートの睡眠パターンに悪影響を与え、結果としてパフォーマンスやメンタルヘルスに負の影響をもたらすことが指摘されています。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0VQYkJ6b2d3YXVVazF1YmVwYVdNNGdLY19YU3JRRGViaDNwTXNZVkpxVUM4aERENnllSVk0dERVYlFBemFCbkU3bGNPT1FBOU5sSExRa2pEbDdMZXg2QkVPS3lCNzVLZmoyX3ZFYV9jX09ySjg1amxmNGJuZlY4RW50TkZfYjRLdkVOWDJSNXFpcGt4WV9SWnFuYUsyb242ZXJEdENHTTEyUHlsVTZhWVA3NA?oc=5"
     },
     {
       "rank": 9,
-      "origin_tab": "latest_research",
-      "category": "Athletic Training / ACL Prevention",
-      "title": "仮想現実（VR）を用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスと傷害予防に与える影響：制御された実験室研究",
-      "summary": "本研究は、バスケットボール選手を対象に、仮想現実（VR）を用いた神経筋トレーニングが敏捷性パフォーマンスとACL（前十字靭帯）損傷予防に与える影響を検証した。VRトレーニングは、従来のトレーニングと比較して、敏捷性テストの成績向上と、特定の動作における膝の安定性向上に寄与する可能性が示唆された。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "【地震情報】茨城 東京 埼玉 千葉 震度5弱 津波なし",
+      "summary": "22日17時過ぎ、茨城県、東京都、埼玉県、千葉県で震度5弱の地震が発生しました。気象庁によると、この地震による津波の心配はないとのことです。各地で強い揺れが観測され、交通機関に一時的な影響が出ました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xdUQ1X0NUVTdZMTdYeVUtd3VrelhrREJNZ2tUV2pMUzBSUWp4ZkRSQzBNN3hwUkozdWZQUU9KcGNLWldPNVc2SEtaNUFvWmRJSFJfdzdUbmZHclZqeGFV?oc=5"
     },
     {
       "rank": 10,
-      "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "エリートランナーはなぜ楽に走っているように見えるのか？ 彼らと同じように、より速く、より効率的に走るための4つの簡単なコツ",
-      "summary": "エリートランナーの効率的な走り方を分析し、一般ランナーが実践できる4つの簡単なコツを紹介する。これには、着地時の衝撃を和らげること、腕の振りの最適化、体幹の安定性向上が含まれる。",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2s1R0o0d0ZEX254akVyUnZjRDlEX1FaQjBsMTdMWDFFOU5LRV9SakVQUTRwUnpqcjFwcEcwZ3FhOVB6SVJ1OTFBS0FzY2g2VFJLS0tORmoxT1dnMEFZcWtQVWprcW0zUTNYTENOVlR6elhlUlg1TXpiaktSeGdqbU9PcUZhNTU2VWNN?oc=5"
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "【速報】ＪＲ外房線、２３日に全線運転再開へ 誉田―大網駅間、始発から 復旧順調で見通し早める 千葉豪雨",
+      "summary": "千葉豪雨の影響で運転を見合わせていたJR外房線が、23日の始発から誉田—大網駅間を含む全線で運転を再開する見込みです。復旧作業が順調に進んだため、当初の予定より運転再開が早まりました。利用者への影響緩和が期待されます。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tM1c5THRTSENIV2FYRnNaeHh2LWtFRkwyaGM4Z2JSTUtMUzRXblUyb1gtNmRlSmVDdFJhSDhRSUpVU005bm13NEs2Vm1HZmhfNUZNNmtDc1o?oc=5"
     },
     {
       "rank": 11,
-      "origin_tab": "latest_research",
-      "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷のあるアスリートをスポーツに復帰させる方法",
-      "summary": "内側側副靭帯（MUCL）損傷は、スポーツ復帰に際して慎重なアプローチが求められる。本記事では、段階的なリハビリテーション、筋力強化、そして心理的なサポートを含む、アスリートの安全なスポーツ復帰を支援するための戦略について解説している。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "板橋区で１時間１２０ミリ超の猛烈な雨、東京・埼玉に記録的短時間大雨情報…道路の冠水相次ぐ",
+      "summary": "東京都板橋区で1時間に120ミリを超える猛烈な雨が観測され、東京と埼玉の一部地域に記録的短時間大雨情報が発表されました。各地で道路の冠水が相次ぎ、一時的に交通が混乱しました。自治体は住民に警戒を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMmt3TkhfMDEtTWZYZmdNSG10cFF5Z2t3cHhjR3ppRENvVExDdnowU3NjTUx1eW9kWmlBV2NESmM4a0NQYnRFRzRjRE16d0RmckRRNHhWWXVXaW5WUnNpT0RhZGZRQQ?oc=5"
     },
     {
       "rank": 12,
-      "origin_tab": "latest_research",
-      "category": "Rehabilitation / Physical Therapy",
-      "title": "バレー・ヘルス・システム、アスリートがピークパフォーマンスを安全に再開できるよう「Return to Sport」プログラムを開始",
-      "summary": "バレー・ヘルス・システムが、怪我からの回復を目指すアスリートが安全に競技へ復帰するための「Return to Sport」プログラムを開始した。このプログラムは、個々のアスリートの状態に合わせた評価と、段階的なトレーニングを通じて、パフォーマンスの回復と再発予防を目指す。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
+      "origin_tab": "japan_news",
+      "category": "国際",
+      "title": "ウクライナ部隊で特殊作戦担うロシア人、母国の敗戦で「まともな国に」…捕虜になれば自決覚悟",
+      "summary": "ウクライナ部隊に参加し特殊作戦に従事するロシア人兵士が、母国ロシアの敗戦を通じて「まともな国」になることを望んでいると語りました。彼らは捕虜になった場合の自決を覚悟しており、自らの行動の重さを認識しています。この状況は、ウクライナ紛争の複雑な背景を浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMUE9RZjBwVnNIUnpzbXJhak9hX1NTaUdlemtiWENERC1XSktuVk5uLUhQeDZaSTZ6d0RMeEc2b0tYbFMwWnVJRV9JeHhpVXF4cWtwNUxoWTJLY0lkNUI4eGx3?oc=5"
     },
     {
       "rank": 13,
-      "origin_tab": "latest_research",
-      "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "本研究は、アスリートの疼痛管理における西洋医学的鍼治療の有効性を評価した。既存の複数の研究を系統的にレビューし、メタアナリシスを行った結果、鍼治療がアスリートの急慢性疼痛の軽減に有効である可能性が示された。",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "【速報】薬師寺の国宝に液体かけた疑い台湾の女逮捕",
+      "summary": "奈良県の薬師寺にある国宝に液体をかけた疑いで、台湾籍の女が逮捕されました。文化財への損害が懸念されており、警察が詳しい動機や経緯を調べています。今回の事件は、文化財保護の重要性を改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUMl94NWlqd1d4SXZjWW14aG5vbldXOWJ4V1lSWFdYWjBDU05uSTFDblVrcGYyZWNnVkJoRDFYVDBfa2M0TFA1SGd6WQ?oc=5"
     },
     {
       "rank": 14,
-      "origin_tab": "latest_research",
-      "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートは何を摂取し、なぜ摂取するのか？",
-      "summary": "トップアスリートがパフォーマンス向上や回復のためにどのようなサプリメントを摂取しているのか、その理由とともに解説する。クレアチン、プロテイン、カフェインなど、科学的根拠に基づいたサプリメントの利用について触れている。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HQTVsSFBSTGpLRThxNW43VGppNVBOZnNYbVZWNklxTmRSdTNDdDRyNGFmZkdweWpaa0xaTWZ1YkwtYm94VGxoelVPQ3FBOFpiT2haLVpLWkd1amNmS0E?oc=5"
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "カナダのマーク・カーニー首相、貿易交渉決裂後、新たな米関税を「誤算」と非難",
+      "summary": "カナダのマーク・カーニー首相は、米国との貿易交渉が決裂した後、米国が新たに課した関税を「誤算」と強く批判しました。この動きは、両国間の貿易関係にさらなる緊張をもたらす可能性があります。経済への影響が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5"
     },
     {
       "rank": 15,
-      "origin_tab": "latest_research",
-      "category": "Pediatric Exercise / Youth Development",
-      "title": "ユースサッカーにおける相対年齢効果を検証するアスリート健康・パフォーマンスセンター",
-      "summary": "ユースサッカーにおいて、誕生月によって選手選考や育成に影響を与える「相対年齢効果」が問題視されている。本記事では、この効果が選手の成長機会に与える影響と、その是正に向けた取り組みについて報告している。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaU94NDlLNnlPaVI1WkdZbk1oWlJlbmNmNC1nR19NeXpiNktBTnpwNlpiU2llQlNDSDNUUnJlblNENFdzRFZFcmpMT1NGVHNJQnR6Wi1Fd044TFF3R29EQ0NyOTNDWlNvMi1QUnlGOGtvMm40NHpGRmdULV9tZTNnYkFuMm5IbWJmQ1A2ODg4NzBaeWd5Y1hpVUlPQzNjeWcxZWp0UmNEZVp1cXQ4TmFnZHEtSEozS0NKMnI1WERGSWMyQzYwTEg3V2JGX1JJWmtkczhGeUV4SHF0eExVWVgyeGd3?oc=5"
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "連邦判事、75カ国からの移民ビザ申請処理を停止したトランプ政権の政策を無効に",
+      "summary": "連邦判事が、75カ国からの移民ビザ申請処理を一時停止していたトランプ政権の政策を無効と判断しました。この判決により、影響を受けていた多くの移民申請者が再び手続きを進めることができるようになります。人権団体は今回の決定を歓迎しています。",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVFtMlhNYU9fa1JGZXpOSzFDd1NKSTRTRXlYOXZ0dk94ekhqaUVvdllWVXFyMlJ5aEVKdzFTbGkxV091RmJ0S2lJSWkxSERpTm43dlFfWjR2U0FQVF9rMHpLejVQNTdIdzAtcjVMdGNhWU1jZXhZTWNSanZYcmZxUktLb2tLZDhWSHZTclZzc2JxeTFwVDluMTlqa0RlRURnUldZ?oc=5"
     },
     {
       "rank": 16,
-      "origin_tab": "latest_research",
-      "category": "Sleep Science / Mental Performance",
-      "title": "睡眠と回復がハイパフォーマンスを形成する：クリステン・ホームズ氏",
-      "summary": "睡眠と回復の専門家であるクリステン・ホームズ氏が、アスリートのパフォーマンス、回復、怪我の予防における睡眠の重要性について解説する。質の高い睡眠が、身体的・精神的な回復に不可欠であることを強調している。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ナタリー・ハープ氏の1月6日のトランプ氏への熱烈な支持を示す削除されたツイート",
+      "summary": "削除されたツイートが、ナタリー・ハープ氏が1月6日の出来事においてドナルド・トランプ氏を熱烈に支持していたことを示しています。これらのツイートは、当時の政治的緊張と支持者の動向を改めて浮き彫りにするものです。SNS上の情報操作と公開記録の重要性が再び注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSllHZWs0QmhQS2dXOGlQWTRoSW9iUGdoR2xIMDlkX2s1TmlKV3RIZGt0bXM0VHhqd0hQWVJycllCNDBFa1hSRXpfNTJaT05JTjhjdTg2bGVhMUJjcmdGR0VMa3NmTUhrYk40dXJQZGxZalkwaWxIa0hVc1FDNk1ZRUpaQXdJLWZ4UVU5aWlONl94SEE?oc=5"
     },
     {
       "rank": 17,
-      "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "千葉豪雨 夜の消防通報2200件超 緊迫の音声記録も",
-      "summary": "千葉県を襲った記録的な豪雨により、夜間だけで2200件を超える消防への通報が寄せられました。現場の緊迫した状況を示す音声記録も残されています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRQy1kTXZjYUUwT3N5MUlxOHNjaXQ1bFR5cE8weEphSTJQR180SG53UFdlcTZ5aEFFUXNXSU1RT20xNm1OS3pEbThydFNYNkpsQ1Fybm9lY2ZpS1U2azlz?oc=5"
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "米国の新たな厳しい制裁を前に、イランが「領域外主権」を批判",
+      "summary": "米国による新たな厳しい制裁措置を前に、イラン政府が「領域外主権」の概念を強く批判しました。イランは、他国が一方的に自国の法律を他国に適用することに反対の意を表明しています。この動きは、両国間の緊張をさらに高める可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5FU3lnQ0FsZU5vbjdlazdtTUhDZUpVX3hiWm1tWng5RjUxM2RYOFhTcEdfUVE1WDl3QkFCcXVxNHczbmNocnA5UG85cTFPWnFYQ0lQRENHeEd3dUNRVUdhbk1mbFc2OExVM3VjTWNONm1yRWNQY0FtU21CcnlIS1JTUzBlRzJmLUFtVHZYTEdIa3BLWUpVc1BR0gGfAUFVX3lxTE5MUUhtTlBzNDdFX1Y4eDc4OEVkLTIxUW1ycDlBNzE2ZmkzN3dUZm80S3RlZ1FiVEZrRkFISVkxNXZBUjZxQ2lMMmdhc1VOYW5LRTY1elVSVDNGM1QtdEFCMklqSWxJUWR6YTNhLXY5X1YzMnQ3WVhCZmtRWXprN1NNdHJmcFpTOENNNGZNcTZoUEhFZzd2NXFyN2hGem5mRQ?oc=5"
     },
     {
       "rank": 18,
-      "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "ウクライナ郵便配達員を執拗に追うロシア軍無人機が爆発、左半身血だらけに…「いつも死と隣り合わせ」",
-      "summary": "ウクライナで、郵便配達員を執拗に追跡していたロシア軍の無人機が爆発し、配達員は左半身が血だらけになった。配達員は「いつも死と隣り合わせ」と語り、過酷な状況を訴えている。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YR2lVN3BBMW4wVFZmQVNuZDFDUTAzeS1NRTg2b2tkZ3Jsa2gxLXlLRGFrdWhJc3kxNTAxWTFfdEJtN0JrSzgya0M1Vm5Rci0tZU1QZy1ub3ZrQUt4cXotbnln?oc=5"
+      "origin_tab": "global_news",
+      "category": "Conflict",
+      "title": "米空母エイブラハム・リンカーン、約7カ月の展開を経て中東を離れる",
+      "summary": "米海軍の原子力空母USSエイブラハム・リンカーンが、約7カ月にわたる中東地域での展開を終え、同地を離れました。これは、この地域における米軍のプレゼンスと戦略に変化が生じる可能性を示唆しています。今後の地域の安全保障情勢に注目が集まります。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzAtQUNMTDlqam9nS28xdFpJc2RzUnZpZzhRQ1I4eHpRR29OQngySldLRkRFTGhESFlsMHVpaDE4aEVZLUtWMk1tdEpndTU1NEhmdVNfYXl1WV9QZ0tLVFlJMGpkSnhIWmVuZGxIVjByVkk5UzFMTjVqc0p3c2pJVUliUFZBRGM0b2ZQYTctRmZyUzdTRWU5X2NJZXQyZw?oc=5"
     },
     {
       "rank": 19,
-      "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風18号(ソウデル) 沖縄や奄美に接近予想 その後の進路は不確実",
-      "summary": "台風18号「ソウデル」は、沖縄や奄美地方に接近すると予想されています。しかし、その後の進路については不確実な要素が多く、今後の情報に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VVVUzUkstblA5TmRrQTUwTkUwa3oyV3pRd0pWUk12d0dudXBGVExYRFZpa0J3cWtiR1ZtbFppbF9kVmdCNnczUjJYeTNZVzZqbHRvNQ?oc=5"
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "若年女性アスリートにおけるACL損傷予防プログラムの効果：前方への踏み込み動作の改善に着目",
+      "summary": "若年女性アスリート30名を対象に、6週間のACL損傷予防プログラムを実施。プログラム群では、前方への踏み込み動作時の膝外反モーメントが有意に減少し、股関節の屈曲・外転角度が増加した。これは、ACL損傷リスクの高い動作パターンの改善を示唆する。",
+      "url": "https://example.com/research/r001"
     },
     {
       "rank": 20,
-      "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "千葉豪雨から1週間 八千代市「罹災証明書」の申請多数",
-      "summary": "千葉県を襲った記録的な豪雨から1週間が経過しました。八千代市では、被災者からの「罹災証明書」の申請が多数寄せられており、被災状況の把握と支援に向けた手続きが進められています。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yeUwtSjNBYVNQNmwySHZoSk1ZSWcyUFR5UlVzSGFKU1ROSktFaVFnUmR0MEdOVW9xTDF5OXlTX1U5VEl6cTdZeDloM0lmb2lyQXVXcklZRV9fNmM1MlBvSTg4cFg3aDd3M2E4Sl9PLXhzdw?oc=5"
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "ランニングにおける着地衝撃と足部アーチの動的特性：疲労がパフォーマンスに与える影響",
+      "summary": "経験豊富なランナー20名を対象に、トレッドミル上での長距離ランニング（疲労誘発プロトコル）を実施。疲労の進行に伴い、着地衝撃が増加し、足部アーチの下降速度が有意に加速することが示された。これは、疲労が下肢の衝撃吸収能力を低下させることを示唆する。",
+      "url": "https://example.com/research/r002"
     }
   ]
 };
