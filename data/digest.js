@@ -1,85 +1,85 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/08/24",
-  "generated_at": "2026-08-23T21:10:55.151Z",
+  "issue_date": "2026/08/25",
+  "generated_at": "2026-08-24T21:18:10.709Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手のアジリティパフォーマンスと傷害予防に対する仮想現実支援神経筋トレーニングの効果：対照実験",
+      "title": "バーチャルリアリティ支援型神経筋トレーニングがバスケットボール選手のアジリティ能力と傷害予防に与える効果：対照実験",
       "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
-      "abstract": "バスケットボール選手を対象に、仮想現実（VR）を活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を調査した実験です。VRトレーニング群は、従来の方法と比較して、アジリティパフォーマンスの有意な向上とACL損傷リスク指標の改善を示しました。この結果は、VR技術が特定のスポーツにおけるトレーニング効果を高める可能性を示唆しています。",
-      "insight": "バスケットボール選手のアジリティ向上とACL予防プログラムにVR技術を導入することで、より没入的かつ効果的なトレーニングが期待でき、選手の競技復帰支援にも応用可能です。",
+      "abstract": "本研究は、バーチャルリアリティ（VR）を活用した神経筋トレーニングが、バスケットボール選手のアジリティ能力向上とACL損傷予防に及ぼす影響を実験的に検証しました。VR環境下でのトレーニングは、実戦に近い状況での反応速度や判断力を養うことに寄与し、アジリティの改善と怪我のリスク低減に有効であることが示唆されました。",
+      "insight": "VRを取り入れた神経筋トレーニングは、バスケットボール選手のアジリティ向上とACL予防プログラムとして有効活用できます。特に、よりリアルな状況での素早い判断と動作を促し、現場でのパフォーマンス向上と傷害リスク軽減に繋がるでしょう。",
       "published_at": "2026-08-05T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における先駆者とパラダイム：歴史的テーマ別ミニレビュー",
+      "title": "スプリント科学におけるパイオニアとパラダイム：歴史的ミニレビュー",
       "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZlJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5",
-      "abstract": "本レビューは、スプリント科学の発展における主要な先駆者とパラダイムの変遷を歴史的視点から考察しています。スプリントパフォーマンスのバイオメカニクス的理解の進化に焦点を当て、過去の研究が現代のトレーニング理論にどのように影響を与えているかを解説しています。これにより、スプリント研究の体系的な理解が深まります。",
-      "insight": "スプリントトレーニングの指導者は、スプリント科学の歴史的背景と最新の知見を理解することで、より根拠に基づいた指導戦略を立案し、選手のパフォーマンス向上に繋げることができます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZUxXbTMtMVZsLXlJMHgxUFpmU0s1X19EZlIyREZUSzliVW9XUEMwcVhxbFFKaWJQQ3pSWWdWazhBaGFqY3NsSDhnUjJGLTg1RDQ2ZHNjcGE?oc=5",
+      "abstract": "本レビューは、スプリント科学の歴史における主要な研究者と理論的枠組みを概観しています。スプリントパフォーマンスを最大化するためのバイオメカニクス的理解がどのように進化し、トレーニング実践に影響を与えてきたかを時系列で追跡しています。過去の研究の知見が現在のスプリントトレーニングの基盤となっていることを強調しました。",
+      "insight": "スプリントパフォーマンスの向上を目指す指導者は、本レビューを通じてスプリント科学の基礎を理解することで、より根拠に基づいたトレーニングプログラムを設計できます。歴史的な視点から、効率的かつ安全なスプリント技術の指導に役立てることが可能です。",
       "published_at": "2026-04-30T16:58:11.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を解説",
+      "title": "ペプチド：医師がその効果、リスク、FDAの懸念を説明",
       "source": "UCHealth",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "abstract": "本記事では、医師がペプチドの利用に関する利点、潜在的なリスク、そして米国食品医薬品局（FDA）の懸念について詳細に解説しています。スポーツ医学の分野で注目されるペプチドが、パフォーマンス向上や回復にどのように貢献し得るか、その一方で懸念される副作用や安全性、規制の問題点が議論されています。アスリートとその関係者にとって重要な情報源となります。",
-      "insight": "アスリートへのペプチド使用を検討する際は、医師と連携し、最新の医学的知見とFDAの規制を十分に理解した上で、潜在的なメリットとリスクを慎重に比較検討することが不可欠です。",
+      "abstract": "この記事では、医師がペプチドの医療用途、特にアスリートの回復やパフォーマンス向上における潜在的な利点と、それに伴うリスク、そしてFDA（米国食品医薬品局）の規制に関する懸念について解説しています。効果の科学的根拠が不十分なものや、ドーピングリスクを伴う可能性についても言及しています。",
+      "insight": "アスリートがペプチドの使用を検討する際には、その効果とリスクを十分に理解し、必ずスポーツ専門医と相談することが重要です。特に、ドーピング規制に抵触しないかを確認し、安全な使用を最優先すべきです。",
       "published_at": "2026-07-24T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "ニュージャージー州のスポーツ傷害リハビリテーションセンター トップ10",
+      "title": "ニュージャージー州のスポーツ傷害リハビリセンターベスト10",
       "source": "Best of NJ",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5",
-      "abstract": "本記事は、ニュージャージー州内における優れたスポーツ傷害リハビリテーションセンターの上位10カ所を紹介しています。各センターの専門分野、提供される最新治療法、施設の特徴、そして患者からの評価など、多角的な情報がまとめられています。アスリートが最適なリハビリ環境を選択するための参考となるでしょう。",
-      "insight": "アスリートは、自身の傷害の種類や回復目標に最も適した専門性を持つリハビリテーションセンターを慎重に選ぶことで、効率的かつ安全な競技復帰を早めることができます。",
+      "abstract": "本記事は、ニュージャージー州におけるトップレベルのスポーツ傷害リハビリテーションセンター10選を紹介しています。各センターは、最新の治療法、専門的なスタッフ、アスリートに特化したプログラムを提供しており、怪我からの回復と競技復帰を安全かつ効率的にサポートするための重要なリソースです。",
+      "insight": "スポーツ傷害からの回復には、質の高いリハビリテーションが不可欠です。アスリートや関係者は、これらの情報を参考に、自身のニーズに合った専門施設を選択することで、早期かつ安全な競技復帰を実現し、再発予防に繋げることができます。",
       "published_at": "2026-08-14T12:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：システマティックレビューとメタアナリシス",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療の技術：系統的レビューとメタアナリシス",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
-      "abstract": "このシステマティックレビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療の有効性を評価したものです。複数の研究を分析した結果、鍼治療が運動器系の疼痛緩和に一定の効果を示す可能性が示唆されましたが、治療プロトコルの標準化やさらなる大規模な質の高い研究の必要性も指摘されています。",
-      "insight": "運動器疼痛を抱えるアスリートに対し、西洋医学的鍼治療を補助的な疼痛管理の選択肢として検討する際、その有効性と、適用における科学的根拠を理解することが重要です。",
+      "abstract": "この系統的レビューとメタアナリシスでは、アスリートの筋骨格系疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の有効性と安全性が評価されました。複数のランダム化比較試験のデータを統合した結果、プラセボと比較して痛みの軽減に有意な効果があることが示されました。鍼治療が慢性および急性スポーツ関連疼痛に対する有望な補助療法となり得ると結論付けられています。",
+      "insight": "アスリートの疼痛管理において、西洋医学的鍼治療は薬物療法や理学療法と併用することで、痛みの軽減と機能回復を促進する有効な選択肢となり得ます。専門の資格を持つ施術者との連携を検討し、選手の早期競技復帰をサポートすることが期待されます。",
       "published_at": "2026-02-03T18:00:13.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "サプリメント：アスリートは何をなぜ摂るのか？",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HQTVsSFBSTGpLRThxNW43VGppNVBOZnNYbVZWNklxTmRSdTNDdDRyNGFmZkdweWpaa0xaTWZ1YkwtYm94VGxoelVPQ3FBOFpiT2haLVpLWkd1amNmS0E?oc=5",
-      "abstract": "本記事では、多くのアスリートがパフォーマンス向上や回復促進、栄養補給を目的として、様々な種類のサプリメントを摂取している現状について掘り下げています。主要なサプリメントの種類とそれぞれの科学的根拠、アスリートがそれらを選ぶ理由、そして摂取における注意点やリスクについても解説しており、包括的な情報を提供しています。",
-      "insight": "アスリートや指導者は、サプリメントの選択と摂取にあたり、その目的、安全性、有効性を科学的根拠に基づいて評価し、個々の選手に最適な摂取戦略を専門家と相談しながら立てるべきです。",
-      "published_at": "2026-08-20T05:52:21.000Z"
+      "title": "トランスジェンダー男性アスリートのパフォーマンス向上サポートとその恩恵を最も受けるのは誰か",
+      "source": "Nutrition",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT1JBZko2TTZ3M1lCTkMzTmdTaG1JWTJlRFNjM0piWWZ2M2lxUmlmQmhXbmRoYll5aGZqZHZYTHBQSzI4Smx2TkM4RklkcVRhdkhmQjJIS3RnUlBtZVhFSFZSREQzOXpnZ09uUjRNLVFiUWc3YmJ5SG9ENjVkVU1QSHdYZ3BWWVR2dV9DalppTElQNmR6X2V5akFHbWpkandnUlFaZFg3dUpkUGVfenc?oc=5",
+      "abstract": "本記事は、トランスジェンダー男性アスリートが最適なパフォーマンスを発揮するためにどのような栄養・サプリメントサポートが必要か、そしてその恩恵を最も受けるのは誰かを考察しています。性ホルモン療法による身体の変化、それに伴う栄養摂取量の調整や特定のサプリメントの活用が、彼らのトレーニング適応と健康維持にどのように影響するかを分析しています。",
+      "insight": "トランスジェンダー男性アスリートへのサポートには、個々の身体的変化と目標を考慮した、個別化された栄養・サプリメント戦略が不可欠です。スポーツ栄養士や医療専門家は、科学的根拠に基づき、安全かつ効果的なアプローチを提供することで、彼らのパフォーマンス向上と長期的な健康を支援できるでしょう。",
+      "published_at": "2026-08-23T18:41:05.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を検証",
+      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
       "source": "ECNL",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5",
-      "abstract": "ECNL（Elite Clubs National League）のアスリート健康パフォーマンスセンターは、ユースサッカーにおける相対的年齢効果（RAE）の影響について詳細な分析を行いました。同じ年齢グループ内でも、生まれ月が早い選手が身体的成熟度や競技機会において有利になる傾向を指摘し、それが長期的な選手育成に与える影響を考察しています。この研究は、公平な選手評価と育成環境の重要性を強調しています。",
-      "insight": "ユース世代のコーチや指導者は、相対的年齢効果の存在を認識し、生まれ月によって不利な状況にある選手にも適切な機会とサポートを提供することで、才能の早期発掘と長期的な成長を促進できます。",
+      "abstract": "アスリート健康パフォーマンスセンターの研究は、ユースサッカーにおける相対的年齢効果（RAE）に焦点を当てています。これは、チーム選抜や育成において、相対的に年齢が若い選手が身体的成熟度の差により不利益を被る現象です。本研究は、この効果が選手の長期的な成長と才能開発に与える影響を分析し、より公平な育成環境の必要性を提唱しています。",
+      "insight": "ユーススポーツの指導者や保護者は、相対的年齢効果を認識し、選手の誕生月に左右されずに才能を見極める視点を持つことが重要です。短期的な成果に囚われず、個々の成長ペースを尊重した長期的な育成プログラムを導入することで、すべての子供たちの可能性を最大限に引き出すことができます。",
       "published_at": "2026-08-03T07:00:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリーンなスポーツの名の下に睡眠は犠牲になったのか？",
+      "title": "クリーン・スポーツの名の下に睡眠が犠牲になったのか？",
       "source": "Psychology Today",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0VQYkJ6b2d3YXVVazF1YmVwYVdNNGdLY19YU3JRRGViaDNwTXNZVkpxVUM4aERENnllSVk0dERVYlFBemFCbkU3bGNPT1FBOU5sSExRa2pEbDdMZXg2QkVPS3lCNzVLZmoyX3ZFYV9jX09ySjg1amxmNGJuZlY4RW50TkZfYjRLdkVOWDJSNXFpcGt4WV9SWnFuYUsyb242ZXJEdENHTTEyUHlsVTZhWVA3NA?oc=5",
-      "abstract": "本記事は、クリーンなスポーツ環境を追求する過程で、アスリートの睡眠が意図せず犠牲になっていた可能性について考察しています。厳格なドーピング検査のスケジュールや過密な競技日程が、アスリートの睡眠パターンや質に悪影響を及ぼし、結果的にパフォーマンスやメンタルヘルスに負の影響を与えかねないという問題提起がなされています。睡眠の重要性を再認識させる内容です。",
-      "insight": "アスリートのパフォーマンスとメンタルヘルスを最大限に引き出すためには、アンチドーピング規制を遵守しつつも、質の高い睡眠を確保するための戦略をトレーニングプランに組み込むことが不可欠です。",
+      "abstract": "本記事は、クリーン・スポーツ（ドーピング防止）の厳格な取り組みが、アスリートの睡眠パターンや回復に予期せぬ悪影響を与えている可能性を提起しています。頻繁なドーピング検査や国際大会の複雑な移動スケジュールが、アスリートの睡眠の質と量に負担をかけ、精神的パフォーマンスにも影響を及ぼしている現状が議論されています。",
+      "insight": "アスリートの最高のパフォーマンスと健康を維持するためには、ドーピング防止と並行して、質の高い睡眠を確保できる環境を整えることが不可欠です。関係者は、検査スケジュールや移動計画においてアスリートの睡眠の重要性を再認識し、配慮することで、持続可能な競技生活をサポートできるでしょう。",
       "published_at": "2026-07-21T07:00:00.000Z"
     }
   ],
@@ -87,99 +87,99 @@ window.DIGEST_DATA = {
     {
       "id": "j001",
       "category": "政治",
-      "source": "西日本新聞me",
-      "title": "高島宗一郎・福岡市長が11月の市長選不出馬 フェイスブックで表明",
-      "summary": "福岡市の高島宗一郎市長が、11月に行われる次期市長選に立候補しない意向を自身のフェイスブックで表明しました。\n2010年の初当選以来、4期を務めた高島氏の不出馬は、今後の福岡市政に大きな影響を与えるものと見られます。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWal9iMTJWdFdraU52VXJkZHpVMUJjYjc5RnppQVRvNnVWcXFUNFM5NF9qTTItdzFZa0xPR3hBUGUzdElZaXlCQ0VYNXlweXVwN1F6eUZB?oc=5",
-      "published_at": "2026-08-23T13:59:00.000Z"
+      "source": "読売新聞",
+      "title": "麻生氏らとしのぎを削った「県議会のドン」、福岡・蔵内勇夫県議長が否定から「一転」議員辞職へ",
+      "summary": "福岡県議会の「ドン」として知られる蔵内勇夫県議長が、議員辞職を否定していた姿勢から一転、辞職することになった。麻生氏らとの関係も報じられる中でのこの決断は、今後の県政界に大きな影響を与えると見られている。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xaTJ6aE1MeUNzeFpaVlZwLW9YMjgyQWdPYlFqQkx1WUVkOGNER2Z2ZU9vZFNEb0w5eXBMLUJQRHFlVjBxVGhXVkhZbC1kdm1nYm9fUDdwZU1fWWpXakdtUlVBZHRxZw?oc=5",
+      "published_at": "2026-08-24T20:00:00.000Z"
     },
     {
       "id": "j002",
-      "category": "政治",
-      "source": "読売新聞",
-      "title": "高市内閣の支持率５６％、７月調査から１ポイント減り最低を更新…読売世論調査",
-      "summary": "読売新聞が実施した世論調査によると、高市内閣の支持率は56％となり、7月の調査から1ポイント減少して過去最低を更新しました。\n不支持率は上昇しており、今後の政権運営に課題を投げかけていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFE2WTV1OHpZckw2Y1RJUm9icE9tQjRXSmwxSm1ONW0tYXk3Ul9kWDRZekcwWWJ5QkRGY0drUENYV3NlVVl2SGxMelJnaVpwQjN2eVk4M3huRGY4Z09HVlowbFFBd1dhVHBxUWN5S1JOaWI5S0pLakE?oc=5",
-      "published_at": "2026-08-23T13:00:00.000Z"
+      "category": "国際",
+      "source": "ロイター",
+      "title": "米、対イラン二次制裁を拡大 財務長官「経済的生命線断つ」",
+      "summary": "米国政府は、イランに対する二次制裁の対象を拡大すると発表した。イラン財務長官は、この措置がイランの「経済的生命線を断つ」ものだと述べ、イランの核開発や地域での活動を抑制する強い姿勢を示している。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xRHJNQ3kxckwxRjRmUU5QTnFuZnJnUVpYcXl0aWdEbGpod01nbVR0QUpYdjN1TXR3UEZ2emxXdWJSVXZwdllaS0h5Z1hfb2RPUHdhWnVwRDMtX1g1dHZFaVJrZm82TzhsWVVsY2REaVlGSXFfWkcxWGlR?oc=5",
+      "published_at": "2026-08-24T20:20:46.000Z"
     },
     {
       "id": "j003",
-      "category": "政治",
-      "source": "47NEWS",
-      "title": "立民、公明との統一会派も選択肢 水岡氏、3党合流困難なら",
-      "summary": "立憲民主党の水岡氏は、3党合流が困難な場合、公明党との統一会派結成も選択肢となり得るとの見解を示しました。\n野党再編を巡る動きが活発化する中で、新たな連携の可能性が浮上しているとして注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1WlJQNWlYdEdrZnVNdkgwR0xoaWpOZEJlZ29qeTRMSDkyT3djZW9oc1FLT1lablhlUDQ4THlOazEwdTlESUpEQmFvOA?oc=5",
-      "published_at": "2026-08-23T09:46:00.000Z"
+      "category": "社会",
+      "source": "産経ニュース",
+      "title": "羽田沖で「クルーザーが座礁した」 多摩川河口付近から男女10人救出、複数人けがで搬送",
+      "summary": "羽田沖の多摩川河口付近でクルーザーが座礁する事故が発生し、乗船していた男女10人全員が救出された。救出されたうち複数人がけがを負っており、病院へ搬送された。海上保安庁が詳しい事故原因を調べている。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OZ3JTcU96Q3pUR2JQN1Y3b3FBN0VmLUhjaGcxQXo2LUtvUkpQTjNtTUtoMzlLdHJfVzM4dGxxcnNmZjA4emFLTHhaNDlkdGd6M3JoUEItOTlSQmNEcTBfNDhqbmwzcl9FR0V4VGphRFJBMDg2MFE?oc=5",
+      "published_at": "2026-08-24T12:35:43.000Z"
     },
     {
       "id": "j004",
       "category": "国際",
-      "source": "日本経済新聞",
-      "title": "イラン、米制裁に協力なら「敵」 ホルムズ海峡通さずとけん制",
-      "summary": "イランは、アメリカの制裁に協力する国に対し「敵」と見なし、ホルムズ海峡を通さないと警告し、国際社会をけん制しました。\nこの発言は、中東地域の緊張を高める可能性があり、原油供給への影響が懸念されています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83ZHEtR2p6N0paR3lhNjFyOGlBdVNLc1JGT014S3c5Z2RlLTFVQ1pOQmdPbDVpUllrRkJocGVWSHRIQlFMNHVCLU1WYnQ2TXBIbTVYQ1NYTVg0d3E5bkVTM1B5RmZ6X0taN3JFaA?oc=5",
-      "published_at": "2026-08-23T07:14:08.000Z"
+      "source": "読売新聞",
+      "title": "ウクライナ侵略４年半、欧州首脳らが「結束」アピール…ゼレンスキー氏「和平を望むが降伏する気はない」",
+      "summary": "ロシアによるウクライナ侵略が開始から4年半を迎える中、欧州の首脳らがウクライナへの「結束」を改めて強調した。ゼレンスキー大統領は「和平は望むが、降伏する意思はない」と表明し、引き続き抵抗を続ける姿勢を示した。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zaTQ5WkdTWEVJdU5BOExSbElQN2MyVVUyX3ZUN29ZM05VM1VjOE94RnNkTEYycm9jeXhnVk5zY1gzV0JhbmRqSnREVmRGZTNCVGx3RVJBanhacVRrdzFUT3JR?oc=5",
+      "published_at": "2026-08-24T12:54:00.000Z"
     },
     {
       "id": "j005",
-      "category": "社会",
-      "source": "毎日新聞",
-      "title": "関東で震度5弱 「地震の巣」で発生、首都直下との関係は",
-      "summary": "関東地方で震度5弱の地震が発生し、いわゆる「地震の巣」と呼ばれる地域が震源となりました。\n今回の地震が懸念される首都直下地震とどのような関係があるのか、専門家による分析が進められていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wdEp4Nng0bFJBRzgyOUFKVnZIUUZPVmJ5d2JyeGpqUXJ0RTJyWkp2WlhkdGRWMTE2RThtVUkwYmxncUpENmdDb2dBNzhwb3pfakVIb2xyUnE5MWM3bnlGTF9XYjRJdHlq?oc=5",
-      "published_at": "2026-08-23T06:50:03.000Z"
+      "category": "政治",
+      "source": "時事ドットコム",
+      "title": "３党合流、統一会派案に難色 中道代表",
+      "summary": "３党による合流に向けた協議が進む中で、中道代表が統一会派の結成案に対して難色を示していることが明らかになった。この動きは、今後の政党再編や国会運営に影響を及ぼす可能性があり、動向が注目される。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xR1IxcU44OUNNTDZlUlpIb1YwWHdWUkRrMFIwSGstLTFPME1YTHUxMk85cVVGclJ3elVuaTFjbUlDTDl4LUhEZVlFcmlJRDRKb29RSXg5MzJhdy0tdWVIUzBQQQ?oc=5",
+      "published_at": "2026-08-24T12:05:00.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
       "category": "Politics",
-      "region": "Global",
-      "source": "AP News",
-      "title": "カーニー氏が経済的強制について警告。今、トランプ氏がカナダ首相を試している",
-      "summary": "マーク・カーニー元イングランド銀行総裁が経済的強制の危険性について警告していた中、ドナルド・トランプ氏がカナダ首相に対し、その警告を試すような行動に出ています。\n両国間の貿易関係や外交政策における緊張が高まっていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5",
-      "published_at": "2026-08-23T19:59:00.000Z"
+      "region": "US",
+      "source": "Al Jazeera",
+      "title": "トランプ政権、イランに対し「経済的Dデー」制裁を発表",
+      "summary": "トランプ政権は、イランに対する新たな大規模な経済制裁を発表し、これを「経済的Dデー」と呼んだ。この制裁は、イランの核開発計画や地域での活動を抑制することを目的とし、イラン経済への圧力をさらに強めるものとなる。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHhONldpOG9TMnN4R3U3cTh2M1VNQThQa3hfaGpOaXFLQ3RQbWNNcVhYRHhoZDFhQ1VUR1JKUTNoaWhTS1VjOW9hX2ptcUxZWUx3alM3azk4SmpEejJaNkFEaDBjczdmU28tNDY3SFV5TGM4M0lvaENESVhWd3BUM3BucnJhZHc5UE1UNlZGdHF5amxhREpwdDdybFQ2QUF30gGmAUFVX3lxTFB1TUxBVTlRRDhKVHp2TnhsOFQ1TG45YS1fNWxBTmtHZzhqRmlMSXBTQWNHRVpMOWhaWm9VdmdNWnY0Zm9VYzBaankzYWNQaHU3anplU3JTY00xQUJOY1JXVmdsRmh6T2xROF8tMjE4QjhCVlZMWU4zZEx2ODFTLW1oT1V3NURDX3NiX0V0Q00wLUgtaklkSlNkdERiOWpVemZLak9WZlE?oc=5",
+      "published_at": "2026-08-24T20:06:11.000Z"
     },
     {
       "id": "g002",
-      "category": "Climate",
+      "category": "Economy",
       "region": "US",
-      "source": "The New York Times",
-      "title": "ネバダ州リノ近郊の火災により、住宅と病院が避難命令",
-      "summary": "ネバダ州リノ近郊で大規模な火災が発生し、周辺住民や病院の避難が緊急で実施されました。\n乾燥した気候と強風により火災は急速に拡大しており、消火活動が困難を極めていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d1c4OWlSWlZrWXItWHh3bnFLMWc5NlhhRTUtNjg3c2lBOWp5U09nbk9KN1dSXzF6WmotNDVMMTY5MTBxZENxSXQ5dTZ3ZUZmTnJ2a19XMFZ5YnN5ckp4dlU5VjRid2k2LWt0c1hMeGZ0ZUFWNlp1Rg?oc=5",
-      "published_at": "2026-08-23T18:56:27.000Z"
+      "source": "The Guardian",
+      "title": "トランプ氏、カナダ製自動車、トラック、鉄鋼に50%の新関税を発表",
+      "summary": "ドナルド・トランプ前大統領は、カナダからの輸入自動車、トラック、鉄鋼に対して50%という新たな高関税を課す意向を明らかにした。この動きは、米国の貿易保護主義を強化するものであり、カナダとの経済関係に深刻な影響を与える可能性がある。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDBqa1dTRkd4TFVSeWNDLXNJVk5wT3JfY09GOHVLTmttNUZmYXZtR2lhSmMwMW92OVFZUjhkQWNUOWxWRGtWVk5WOVd3dE4xZ2tILXNtUWQ4aHBSd3BNaGh0UjBBOHBCMW9aYW1tdE1aQzhTaUwxc2VjckVubFpVn7cJM/C?oc=5",
+      "published_at": "2026-08-24T19:53:00.000Z"
     },
     {
       "id": "g003",
-      "category": "Health",
+      "category": "Politics",
       "region": "US",
-      "source": "Politico",
-      "title": "メフメト・オズ氏、「MMRワクチンは致死的なワクチンではない」と発言",
-      "summary": "メフメト・オズ氏が、MMRワクチンに関する誤情報に対し、「MMRワクチンは致死的なワクチンではない」と明確に反論しました。\nこれはワクチン接種への信頼回復と公衆衛生の保護を訴える発言として報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzFZZklCckx1cVVjNEZ6SkxLeWUtb1FHbV84QVRfWmpvYWdtMFY3X1dBTE5rR2RJdkZfbGZZT3V5Nmt6d0E4X0ZJdUVzR2RMZlNnUnN2TUotU1ZPYzkxSERSYkQ1OHZTazl5bm5ESV85MmM5dVVZOEI4cjA3QWMxdEQ4Ulo?oc=5",
-      "published_at": "2026-08-23T17:31:00.000Z"
+      "source": "CBS News",
+      "title": "リンジー・クランシー裁判、裁判官はミストライアル請求を却下するも、宗教に関する証人尋問で検察を叱責",
+      "summary": "リンジー・クランシー被告の裁判において、裁判官は弁護側のミストライアル（審理無効）請求を退けた。しかし、裁判官は検察が証人の宗教的信条に関して尋問を行ったことに対し、不適切であるとして強く叱責した。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNck8wd0huUmVfTk5sc3BtSUNoeWMyTEQ2TGhmMThrcXNjYk5zUDRmSGlHRGlWc1dTT3k5RmMzeThOcnNuaHVYaGdUUzg4eW83UjM4WGFCbVN6T1BnVHp6bUUwWGlpZXczVkxKaEM5MzhBeS1HME5PdnRQVF9wRW9sdkV0T3V5U2RfcFFtQQ?oc=5",
+      "published_at": "2026-08-24T19:53:08.000Z"
     },
     {
       "id": "g004",
-      "category": "Politics",
+      "category": "Climate",
       "region": "US",
-      "source": "Fox News",
-      "title": "エル・サイード氏、週末のソーシャルメディア投稿でウーシャ・ヴァンス氏とトランプ女性補佐官を攻撃後、オンラインで批判の的に",
-      "summary": "エル・サイード氏が週末のソーシャルメディア投稿で、ウーシャ・ヴァンス氏とトランプ氏の女性補佐官を標的にしたことで、オンライン上で激しい批判を浴びています。\nこの発言は、政治的な論争をさらに激化させていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlh0SDgycnRtLUFJd19rOU5TSGNDb0cwdGJ5MXdfSzhESEhncFA2NldGRTRhTHl6OWlEcE5TbnEwX3JNQWpwLTFEbng3TGUyWjFBTXNjQ2x0SnlDcUFwVEZjdjNyN0IxbUJneEc0Nkc0RG9wNVUwZG9USXFWM08wQ3BUOUNRV21KV25WMFVKZHlvZHhCT1VqaEN5cm41OXluaVNuTWVwOFRVTm10ZHMyYnQ1Vi0wbHYtWktnMtIBwgFBVV95cUxNdEVrQlA2Sm1KRC1MSzZXcy1SZGJkS2d0dlA3OEFaNVNBZFQwUDNMT2ZZeWEwczdISUx2Q2lpSnlVeVlRdzJhcDF1SXNIRDNQMnUzUmhqMkxCblRRby1EMFRjQVZLRXhpR3dIaVhDMFpLUTlFMUZFOW5kbXgyS3lEUzBhM09kblp1VkZnS1pfLUFxcnhxRHhHb2Z4M3BNWkJwcHZ5THJqUkJnUFpuNzZKTjJPVVhDeFZ6ekh5Z3JYbld0dw?oc=5",
-      "published_at": "2026-08-23T16:17:24.000Z"
+      "source": "BBC",
+      "title": "ネバダ州の山火事、48時間燃焼が続きさらに拡大する恐れがある、と当局が発表",
+      "summary": "ネバダ州で発生した大規模な山火事について、当局は今後48時間にわたって燃焼が続き、さらに広範囲に拡大する可能性があるとの見通しを発表した。この地域では引き続き住民への避難勧告が出されており、消火活動が急ピッチで進められている。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q1VzTHA2SVJ4MDhXSlBJRzNvU0owRnY0NUZHTGFNUklVUG9adGh5Z1NMQVpneHNtZmVtVXlTdGxrTGxmVHV0eUNkVDFGWXd4U2Z3OWpB?oc=5",
+      "published_at": "2026-08-24T18:18:07.000Z"
     },
     {
       "id": "g005",
       "category": "Politics",
       "region": "US",
-      "source": "NBC News",
-      "title": "ティム・スコット氏、ダーリーン・グラハム氏への支持は「簡単な選択」と発言、彼女の討論会での失言にもかかわらず",
-      "summary": "ティム・スコット氏が、討論会での失言があったにもかかわらず、ダーリーン・グラハム氏への支持を「簡単な選択」と述べました。\nこれは、党内での支持固めや戦略的な動きの一環として注目されていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlF0bTh3TXdNUVgtU0JobjE5RWJiOHNLNzVlYk1lMHhic2g0a1piUTFCd3FyaXFYUk9Kc01yWERsT0dmWS1uXy1rczRhUE04TVJMeldocTh6RXZVZ3ZyM3EwV3R4RjBiQWhrV2tZYVBkVnN6ZWZveGRiRlRzSnc0RDRfcG9ZQUtTd3czMUpCZlJwVmJqTl9sSk5WbUZaQ2x5TGVN?oc=5",
-      "published_at": "2026-08-23T14:38:43.000Z"
+      "source": "Politico",
+      "title": "トランプ政権、H-1Bビザに10万ドル超の手数料を提案",
+      "summary": "トランプ政権は、高度技能外国人向けのH-1Bビザ申請に対し、10万ドル（約1400万円）を超える大幅な手数料引き上げを提案した。これは、米国内の雇用保護を目的とした政策の一環であり、特にテクノロジー業界などに大きな影響を与えると予想されている。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWZCQWRWcHNLaDQ5QTVVUlVoSlVIcWU5bWREdnc1SThXZ2Jta0F6alQzTnB0NnFFbTVPYjRITDBOU3JieURjNldSOEt4a2RULVIta1hDYm1OaDA1ZFRpZzNCVTZnbDR3S25pMlAxcEJUVHdzVUJZNHB1ZWZaRkJ5ZUJPeUpJdw?oc=5",
+      "published_at": "2026-08-24T19:52:00.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,161 +187,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手のアジリティパフォーマンスと傷害予防に対する仮想現実支援神経筋トレーニングの効果：対照実験",
-      "summary": "バスケットボール選手を対象に、仮想現実（VR）を活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を調査した実験です。VRトレーニング群は、従来の方法と比較して、アジリティパフォーマンスの有意な向上とACL損傷リスク指標の改善を示しました。この結果は、VR技術が特定のスポーツにおけるトレーニング効果を高める可能性を示唆しています。",
+      "title": "バーチャルリアリティ支援型神経筋トレーニングがバスケットボール選手のアジリティ能力と傷害予防に与える効果：対照実験",
+      "summary": "本研究は、バーチャルリアリティ（VR）を活用した神経筋トレーニングが、バスケットボール選手のアジリティ能力向上とACL損傷予防に及ぼす影響を実験的に検証しました。VR環境下でのトレーニングは、実戦に近い状況での反応速度や判断力を養うことに寄与し、アジリティの改善と怪我のリスク低減に有効であることが示唆されました。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における先駆者とパラダイム：歴史的テーマ別ミニレビュー",
-      "summary": "本レビューは、スプリント科学の発展における主要な先駆者とパラダイムの変遷を歴史的視点から考察しています。スプリントパフォーマンスのバイオメカニクス的理解の進化に焦点を当て、過去の研究が現代のトレーニング理論にどのように影響を与えているかを解説しています。これにより、スプリント研究の体系的な理解が深まります。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZlJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学におけるパイオニアとパラダイム：歴史的ミニレビュー",
+      "summary": "本レビューは、スプリント科学の歴史における主要な研究者と理論的枠組みを概観しています。スプリントパフォーマンスを最大化するためのバイオメカニクス的理解がどのように進化し、トレーニング実践に影響を与えてきたかを時系列で追跡しています。過去の研究の知見が現在のスプリントトレーニングの基盤となっていることを強調しました。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZUxXbTMtMVZsLXlJMHgxUFpmU0s1X19EZlIyREZUSzliVW9XUEMwcVhxbFFKaWJQQ3pSWWdWazhBaGFqY3NsSDhnUjJGLTg1RDQ2ZHNjcGE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を解説",
-      "summary": "本記事では、医師がペプチドの利用に関する利点、潜在的なリスク、そして米国食品医薬品局（FDA）の懸念について詳細に解説しています。スポーツ医学の分野で注目されるペプチドが、パフォーマンス向上や回復にどのように貢献し得るか、その一方で懸念される副作用や安全性、規制の問題点が議論されています。アスリートとその関係者にとって重要な情報源となります。",
+      "title": "ペプチド：医師がその効果、リスク、FDAの懸念を説明",
+      "summary": "この記事では、医師がペプチドの医療用途、特にアスリートの回復やパフォーマンス向上における潜在的な利点と、それに伴うリスク、そしてFDA（米国食品医薬品局）の規制に関する懸念について解説しています。効果の科学的根拠が不十分なものや、ドーピングリスクを伴う可能性についても言及しています。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "ニュージャージー州のスポーツ傷害リハビリテーションセンター トップ10",
-      "summary": "本記事は、ニュージャージー州内における優れたスポーツ傷害リハビリテーションセンターの上位10カ所を紹介しています。各センターの専門分野、提供される最新治療法、施設の特徴、そして患者からの評価など、多角的な情報がまとめられています。アスリートが最適なリハビリ環境を選択するための参考となるでしょう。",
+      "title": "ニュージャージー州のスポーツ傷害リハビリセンターベスト10",
+      "summary": "本記事は、ニュージャージー州におけるトップレベルのスポーツ傷害リハビリテーションセンター10選を紹介しています。各センターは、最新の治療法、専門的なスタッフ、アスリートに特化したプログラムを提供しており、怪我からの回復と競技復帰を安全かつ効率的にサポートするための重要なリソースです。",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：システマティックレビューとメタアナリシス",
-      "summary": "このシステマティックレビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療の有効性を評価したものです。複数の研究を分析した結果、鍼治療が運動器系の疼痛緩和に一定の効果を示す可能性が示唆されましたが、治療プロトコルの標準化やさらなる大規模な質の高い研究の必要性も指摘されています。",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療の技術：系統的レビューとメタアナリシス",
+      "summary": "この系統的レビューとメタアナリシスでは、アスリートの筋骨格系疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の有効性と安全性が評価されました。複数のランダム化比較試験のデータを統合した結果、プラセボと比較して痛みの軽減に有意な効果があることが示されました。鍼治療が慢性および急性スポーツ関連疼痛に対する有望な補助療法となり得ると結論付けられています。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "サプリメント：アスリートは何をなぜ摂るのか？",
-      "summary": "本記事では、多くのアスリートがパフォーマンス向上や回復促進、栄養補給を目的として、様々な種類のサプリメントを摂取している現状について掘り下げています。主要なサプリメントの種類とそれぞれの科学的根拠、アスリートがそれらを選ぶ理由、そして摂取における注意点やリスクについても解説しており、包括的な情報を提供しています。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HQTVsSFBSTGpLRThxNW43VGppNVBOZnNYbVZWNklxTmRSdTNDdDRyNGFmZkdweWpaa0xaTWZ1YkwtYm94VGxoelVPQ3FBOFpiT2haLVpLWkd1amNmS0E?oc=5"
+      "title": "トランスジェンダー男性アスリートのパフォーマンス向上サポートとその恩恵を最も受けるのは誰か",
+      "summary": "本記事は、トランスジェンダー男性アスリートが最適なパフォーマンスを発揮するためにどのような栄養・サプリメントサポートが必要か、そしてその恩恵を最も受けるのは誰かを考察しています。性ホルモン療法による身体の変化、それに伴う栄養摂取量の調整や特定のサプリメントの活用が、彼らのトレーニング適応と健康維持にどのように影響するかを分析しています。",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT1JBZko2TTZ3M1lCTkMzTmdTaG1JWTJlRFNjM0piWWZ2M2lxUmlmQmhXbmRoYll5aGZqZHZYTHBQSzI4Smx2TkM4RklkcVRhdkhmQjJIS3RnUlBtZVhFSFZSREQzOXpnZ09uUjRNLVFiUWc3YmJ5SG9ENjVkVU1QSHdYZ3BWWVR2dV9DalppTElQNmR6X2V5akFHbWpkandnUlFaZFg3dUpkUGVfenc?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を検証",
-      "summary": "ECNL（Elite Clubs National League）のアスリート健康パフォーマンスセンターは、ユースサッカーにおける相対的年齢効果（RAE）の影響について詳細な分析を行いました。同じ年齢グループ内でも、生まれ月が早い選手が身体的成熟度や競技機会において有利になる傾向を指摘し、それが長期的な選手育成に与える影響を考察しています。この研究は、公平な選手評価と育成環境の重要性を強調しています。",
+      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
+      "summary": "アスリート健康パフォーマンスセンターの研究は、ユースサッカーにおける相対的年齢効果（RAE）に焦点を当てています。これは、チーム選抜や育成において、相対的に年齢が若い選手が身体的成熟度の差により不利益を被る現象です。本研究は、この効果が選手の長期的な成長と才能開発に与える影響を分析し、より公平な育成環境の必要性を提唱しています。",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリーンなスポーツの名の下に睡眠は犠牲になったのか？",
-      "summary": "本記事は、クリーンなスポーツ環境を追求する過程で、アスリートの睡眠が意図せず犠牲になっていた可能性について考察しています。厳格なドーピング検査のスケジュールや過密な競技日程が、アスリートの睡眠パターンや質に悪影響を及ぼし、結果的にパフォーマンスやメンタルヘルスに負の影響を与えかねないという問題提起がなされています。睡眠の重要性を再認識させる内容です。",
+      "title": "クリーン・スポーツの名の下に睡眠が犠牲になったのか？",
+      "summary": "本記事は、クリーン・スポーツ（ドーピング防止）の厳格な取り組みが、アスリートの睡眠パターンや回復に予期せぬ悪影響を与えている可能性を提起しています。頻繁なドーピング検査や国際大会の複雑な移動スケジュールが、アスリートの睡眠の質と量に負担をかけ、精神的パフォーマンスにも影響を及ぼしている現状が議論されています。",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0VQYkJ6b2d3YXVVazF1YmVwYVdNNGdLY19YU3JRRGViaDNwTXNZVkpxVUM4aERENnllSVk0dERVYlFBemFCbkU3bGNPT1FBOU5sSExRa2pEbDdMZXg2QkVPS3lCNzVLZmoyX3ZFYV9jX09ySjg1amxmNGJuZlY4RW50TkZfYjRLdkVOWDJSNXFpcGt4WV9SWnFuYUsyb242ZXJEdENHTTEyUHlsVTZhWVA3NA?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "高島宗一郎・福岡市長が11月の市長選不出馬 フェイスブックで表明",
-      "summary": "福岡市の高島宗一郎市長が、11月に行われる次期市長選に立候補しない意向を自身のフェイスブックで表明しました。\n2010年の初当選以来、4期を務めた高島氏の不出馬は、今後の福岡市政に大きな影響を与えるものと見られます。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWal9iMTJWdFdraU52VXJkZHpVMUJjYjc5RnppQVRvNnVWcXFUNFM5NF9qTTItdzFZa0xPR3hBUGUzdElZaXlCQ0VYNXlweXVwN1F6eUZB?oc=5"
+      "title": "麻生氏らとしのぎを削った「県議会のドン」、福岡・蔵内勇夫県議長が否定から「一転」議員辞職へ",
+      "summary": "福岡県議会の「ドン」として知られる蔵内勇夫県議長が、議員辞職を否定していた姿勢から一転、辞職することになった。麻生氏らとの関係も報じられる中でのこの決断は、今後の県政界に大きな影響を与えると見られている。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xaTJ6aE1MeUNzeFpaVlZwLW9YMjgyQWdPYlFqQkx1WUVkOGNER2Z2ZU9vZFNEb0w5eXBMLUJQRHFlVjBxVGhXVkhZbC1kdm1nYm9fUDdwZU1fWWpXakdtUlVBZHRxZw?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "高市内閣の支持率５６％、７月調査から１ポイント減り最低を更新…読売世論調査",
-      "summary": "読売新聞が実施した世論調査によると、高市内閣の支持率は56％となり、7月の調査から1ポイント減少して過去最低を更新しました。\n不支持率は上昇しており、今後の政権運営に課題を投げかけていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFE2WTV1OHpZckw2Y1RJUm9icE9tQjRXSmwxSm1ONW0tYXk3Ul9kWDRZekcwWWJ5QkRGY0drUENYV3NlVVl2SGxMelJnaVpwQjN2eVk4M3huRGY4Z09HVlowbFFBd1dhVHBxUWN5S1JOaWI5S0pLakE?oc=5"
+      "category": "国際",
+      "title": "米、対イラン二次制裁を拡大 財務長官「経済的生命線断つ」",
+      "summary": "米国政府は、イランに対する二次制裁の対象を拡大すると発表した。イラン財務長官は、この措置がイランの「経済的生命線を断つ」ものだと述べ、イランの核開発や地域での活動を抑制する強い姿勢を示している。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xRHJNQ3kxckwxRjRmUU5QTnFuZnJnUVpYcXl0aWdEbGpod01nbVR0QUpYdjN1TXR3UEZ2emxXdWJSVXZwdllaS0h5Z1hfb2RPUHdhWnVwRDMtX1g1dHZFaVJrZm82TzhsWVVsY2REaVlGSXFfWkcxWGlR?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "立民、公明との統一会派も選択肢 水岡氏、3党合流困難なら",
-      "summary": "立憲民主党の水岡氏は、3党合流が困難な場合、公明党との統一会派結成も選択肢となり得るとの見解を示しました。\n野党再編を巡る動きが活発化する中で、新たな連携の可能性が浮上しているとして注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1WlJQNWlYdEdrZnVNdkgwR0xoaWpOZEJlZ29qeTRMSDkyT3djZW9oc1FLT1lablhlUDQ4THlOazEwdTlESUpEQmFvOA?oc=5"
+      "category": "社会",
+      "title": "羽田沖で「クルーザーが座礁した」 多摩川河口付近から男女10人救出、複数人けがで搬送",
+      "summary": "羽田沖の多摩川河口付近でクルーザーが座礁する事故が発生し、乗船していた男女10人全員が救出された。救出されたうち複数人がけがを負っており、病院へ搬送された。海上保安庁が詳しい事故原因を調べている。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OZ3JTcU96Q3pUR2JQN1Y3b3FBN0VmLUhjaGcxQXo2LUtvUkpQTjNtTUtoMzlLdHJfVzM4dGxxcnNmZjA4emFLTHhaNDlkdGd6M3JoUEItOTlSQmNEcTBfNDhqbmwzcl9FR0V4VGphRFJBMDg2MFE?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "イラン、米制裁に協力なら「敵」 ホルムズ海峡通さずとけん制",
-      "summary": "イランは、アメリカの制裁に協力する国に対し「敵」と見なし、ホルムズ海峡を通さないと警告し、国際社会をけん制しました。\nこの発言は、中東地域の緊張を高める可能性があり、原油供給への影響が懸念されています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83ZHEtR2p6N0paR3lhNjFyOGlBdVNLc1JGT014S3c5Z2RlLTFVQ1pOQmdPbDVpUllrRkJocGVWSHRIQlFMNHVCLU1WYnQ2TXBIbTVYQ1NYTVg0d3E5bkVTM1B5RmZ6X0taN3JFaA?oc=5"
+      "title": "ウクライナ侵略４年半、欧州首脳らが「結束」アピール…ゼレンスキー氏「和平を望むが降伏する気はない」",
+      "summary": "ロシアによるウクライナ侵略が開始から4年半を迎える中、欧州の首脳らがウクライナへの「結束」を改めて強調した。ゼレンスキー大統領は「和平は望むが、降伏する意思はない」と表明し、引き続き抵抗を続ける姿勢を示した。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zaTQ5WkdTWEVJdU5BOExSbElQN2MyVVUyX3ZUN29ZM05VM1VjOE94RnNkTEYycm9jeXhnVk5zY1gzV0JhbmRqSnREVmRGZTNCVGx3RVJBanhacVRrdzFUT3JR?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "関東で震度5弱 「地震の巣」で発生、首都直下との関係は",
-      "summary": "関東地方で震度5弱の地震が発生し、いわゆる「地震の巣」と呼ばれる地域が震源となりました。\n今回の地震が懸念される首都直下地震とどのような関係があるのか、専門家による分析が進められていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wdEp4Nng0bFJBRzgyOUFKVnZIUUZPVmJ5d2JyeGpqUXJ0RTJyWkp2WlhkdGRWMTE2RThtVUkwYmxncUpENmdDb2dBNzhwb3pfakVIb2xyUnE5MWM3bnlGTF9XYjRJdHlq?oc=5"
+      "category": "政治",
+      "title": "３党合流、統一会派案に難色 中道代表",
+      "summary": "３党による合流に向けた協議が進む中で、中道代表が統一会派の結成案に対して難色を示していることが明らかになった。この動きは、今後の政党再編や国会運営に影響を及ぼす可能性があり、動向が注目される。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xR1IxcU44OUNNTDZlUlpIb1YwWHdWUkRrMFIwSGstLTFPME1YTHUxMk85cVVGclJ3elVuaTFjbUlDTDl4LUhEZVlFcmlJRDRKb29RSXg5MzJhdy0tdWVIUzBQQQ?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "カーニー氏が経済的強制について警告。今、トランプ氏がカナダ首相を試している",
-      "summary": "マーク・カーニー元イングランド銀行総裁が経済的強制の危険性について警告していた中、ドナルド・トランプ氏がカナダ首相に対し、その警告を試すような行動に出ています。\n両国間の貿易関係や外交政策における緊張が高まっていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5"
+      "title": "トランプ政権、イランに対し「経済的Dデー」制裁を発表",
+      "summary": "トランプ政権は、イランに対する新たな大規模な経済制裁を発表し、これを「経済的Dデー」と呼んだ。この制裁は、イランの核開発計画や地域での活動を抑制することを目的とし、イラン経済への圧力をさらに強めるものとなる。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHhONldpOG9TMnN4R3U3cTh2M1VNQThQa3hfaGpOaXFLQ3RQbWNNcVhYRHhoZDFhQ1VUR1JKUTNoaWhTS1VjOW9hX2ptcUxZWUx3alM3azk4SmpEejJaNkFEaDBjczdmU28tNDY3SFV5TGM4M0lvaENESVhWd3BUM3BucnJhZHc5UE1UNlZGdHF5amxhREpwdDdybFQ2QUF30gGmAUFVX3lxTFB1TUxBVTlRRDhKVHp2TnhsOFQ1TG45YS1fNWxBTmtHZzhqRmlMSXBTQWNHRVpMOWhaWm9VdmdNWnY0Zm9VYzBaankzYWNQaHU3anplU3JTY00xQUJOY1JXVmdsRmh6T2xROF8tMjE4QjhCVlZMWU4zZEx2ODFTLW1oT1V3NURDX3NiX0V0Q00wLUgtaklkSlNkdERiOWpVemZLak9WZlE?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "ネバダ州リノ近郊の火災により、住宅と病院が避難命令",
-      "summary": "ネバダ州リノ近郊で大規模な火災が発生し、周辺住民や病院の避難が緊急で実施されました。\n乾燥した気候と強風により火災は急速に拡大しており、消火活動が困難を極めていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d1c4OWlSWlZrWXItWHh3bnFLMWc5NlhhRTUtNjg3c2lBOWp5U09nbk9KN1dSXzF6WmotNDVMMTY5MTBxZENxSXQ5dTZ3ZUZmTnJ2a19XMFZ5YnN5ckp4dlU5VjRid2k2LWt0c1hMeGZ0ZUFWNlp1Rg?oc=5"
+      "category": "Economy",
+      "title": "トランプ氏、カナダ製自動車、トラック、鉄鋼に50%の新関税を発表",
+      "summary": "ドナルド・トランプ前大統領は、カナダからの輸入自動車、トラック、鉄鋼に対して50%という新たな高関税を課す意向を明らかにした。この動きは、米国の貿易保護主義を強化するものであり、カナダとの経済関係に深刻な影響を与える可能性がある。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDBqa1dTRkd4TFVSeWNDLXNJVk5wT3JfY09GOHVLTmttNUZmYXZtR2lhSmMwMW92OVFZUjhkQWNUOWxWRGtWVk5WOVd3dE4xZ2tILXNtUWQ4aHBSd3BNaGh0UjBBOHBCMW9aYW1tdE1aQzhTaUwxc2VjckVubFpVn7cJM/C?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Health",
-      "title": "メフメト・オズ氏、「MMRワクチンは致死的なワクチンではない」と発言",
-      "summary": "メフメト・オズ氏が、MMRワクチンに関する誤情報に対し、「MMRワクチンは致死的なワクチンではない」と明確に反論しました。\nこれはワクチン接種への信頼回復と公衆衛生の保護を訴える発言として報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzFZZklCckx1cVVjNEZ6SkxLeWUtb1FHbV84QVRfWmpvYWdtMFY3X1dBTE5rR2RJdkZfbGZZT3V5Nmt6d0E4X0ZJdUVzR2RMZlNnUnN2TUotU1ZPYzkxSERSYkQ1OHZTazl5bm5ESV85MmM5dVVZOEI4cjA3QWMxdEQ4Ulo?oc=5"
+      "category": "Politics",
+      "title": "リンジー・クランシー裁判、裁判官はミストライアル請求を却下するも、宗教に関する証人尋問で検察を叱責",
+      "summary": "リンジー・クランシー被告の裁判において、裁判官は弁護側のミストライアル（審理無効）請求を退けた。しかし、裁判官は検察が証人の宗教的信条に関して尋問を行ったことに対し、不適切であるとして強く叱責した。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNck8wd0huUmVfTk5sc3BtSUNoeWMyTEQ2TGhmMThrcXNjYk5zUDRmSGlHRGlWc1dTT3k5RmMzeThOcnNuaHVYaGdUUzg4eW83UjM4WGFCbVN6T1BnVHp6bUUwWGlpZXczVkxKaEM5MzhBeS1HME5PdnRQVF9wRW9sdkV0T3V5U2RfcFFtQQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "エル・サイード氏、週末のソーシャルメディア投稿でウーシャ・ヴァンス氏とトランプ女性補佐官を攻撃後、オンラインで批判の的に",
-      "summary": "エル・サイード氏が週末のソーシャルメディア投稿で、ウーシャ・ヴァンス氏とトランプ氏の女性補佐官を標的にしたことで、オンライン上で激しい批判を浴びています。\nこの発言は、政治的な論争をさらに激化させていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlh0SDgycnRtLUFJd19rOU5TSGNDb0cwdGJ5MXdfSzhESEhncFA2NldGRTRhTHl6OWlEcE5TbnEwX3JNQWpwLTFEbng3TGUyWjFBTXNjQ2x0SnlDcUFwVEZjdjNyN0IxbUJneEc0Nkc0RG9wNVUwZG9USXFWM08wQ3BUOUNRV21KV25WMFVKZHlvZHhCT1VqaEN5cm41OXluaVNuTWVwOFRVTm10ZHMyYnQ1Vi0wbHYtWktnMtIBwgFBVV95cUxNdEVrQlA2Sm1KRC1MSzZXcy1SZGJkS2d0dlA3OEFaNVNBZFQwUDNMT2ZZeWEwczdISUx2Q2lpSnlVeVlRdzJhcDF1SXNIRDNQMnUzUmhqMkxCblRRby1EMFRjQVZLRXhpR3dIaVhDMFpLUTlFMUZFOW5kbXgyS3lEUzBhM09kblp1VkZnS1pfLUFxcnhxRHhHb2Z4M3BNWkJwcHZ5THJqUkJnUFpuNzZKTjJPVVhDeFZ6ekh5Z3JYbld0dw?oc=5"
+      "category": "Climate",
+      "title": "ネバダ州の山火事、48時間燃焼が続きさらに拡大する恐れがある、と当局が発表",
+      "summary": "ネバダ州で発生した大規模な山火事について、当局は今後48時間にわたって燃焼が続き、さらに広範囲に拡大する可能性があるとの見通しを発表した。この地域では引き続き住民への避難勧告が出されており、消火活動が急ピッチで進められている。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q1VzTHA2SVJ4MDhXSlBJRzNvU0owRnY0NUZHTGFNUklVUG9adGh5Z1NMQVpneHNtZmVtVXlTdGxrTGxmVHV0eUNkVDFGWXd4U2Z3OWpB?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ティム・スコット氏、ダーリーン・グラハム氏への支持は「簡単な選択」と発言、彼女の討論会での失言にもかかわらず",
-      "summary": "ティム・スコット氏が、討論会での失言があったにもかかわらず、ダーリーン・グラハム氏への支持を「簡単な選択」と述べました。\nこれは、党内での支持固めや戦略的な動きの一環として注目されていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlF0bTh3TXdNUVgtU0JobjE5RWJiOHNLNzVlYk1lMHhic2g0a1piUTFCd3FyaXFYUk9Kc01yWERsT0dmWS1uXy1rczRhUE04TVJMeldocTh6RXZVZ3ZyM3EwV3R4RjBiQWhrV2tZYVBkVnN6ZWZveGRiRlRzSnc0RDRfcG9ZQUtTd3czMUpCZlJwVmJqTl9sSk5WbUZaQ2x5TGVN?oc=5"
+      "title": "トランプ政権、H-1Bビザに10万ドル超の手数料を提案",
+      "summary": "トランプ政権は、高度技能外国人向けのH-1Bビザ申請に対し、10万ドル（約1400万円）を超える大幅な手数料引き上げを提案した。これは、米国内の雇用保護を目的とした政策の一環であり、特にテクノロジー業界などに大きな影響を与えると予想されている。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWZCQWRWcHNLaDQ5QTVVUlVoSlVIcWU5bWREdnc1SThXZ2Jta0F6alQzTnB0NnFFbTVPYjRITDBOU3JieURjNldSOEt4a2RULVIta1hDYm1OaDA1ZFRpZzNCVTZnbDR3S25pMlAxcEJUVHdzVUJZNHB1ZWZaRkJ5ZUJPeUpJdw?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手の敏捷性パフォーマンスと怪我予防におけるVR支援神経筋トレーニングの効果：制御された実験室実験",
-      "summary": "バスケットボール選手を対象とした制御された実験室研究で、バーチャルリアリティ（VR）を活用した神経筋トレーニングが敏捷性パフォーマンスと怪我予防に与える影響が調査されました。このトレーニングは、選手の反応速度とバランス能力を向上させ、特にACL損傷のリスク低減に効果的であることが示されています。VR環境は、よりリアルな状況下でのトレーニングを可能にし、従来のトレーニング方法と比較して優れた結果をもたらしました。",
+      "title": "バスケットボール選手のアジリティパフォーマンスと傷害予防に対する仮想現実支援神経筋トレーニングの効果：対照実験",
+      "summary": "バスケットボール選手を対象に、仮想現実（VR）を活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を調査した実験です。VRトレーニング群は、従来の方法と比較して、アジリティパフォーマンスの有意な向上とACL損傷リスク指標の改善を示しました。この結果は、VR技術が特定のスポーツにおけるトレーニング効果を高める可能性を示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における先駆者とパラダイム：歴史的ミニレビュー",
-      "summary": "スプリント科学における先駆的な研究とパラダイムの歴史的レビューが行われました。本稿では、スプリントパフォーマンスの理解と向上に貢献してきた主要な科学的発見と理論的枠組みをたどります。特に、バイオメカニクス、生理学、トレーニング方法論の進化がスプリント能力の限界を押し広げてきた経緯が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWS2QtbFF4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学における先駆者とパラダイム：歴史的テーマ別ミニレビュー",
+      "summary": "本レビューは、スプリント科学の発展における主要な先駆者とパラダイムの変遷を歴史的視点から考察しています。スプリントパフォーマンスのバイオメカニクス的理解の進化に焦点を当て、過去の研究が現代のトレーニング理論にどのように影響を与えているかを解説しています。これにより、スプリント研究の体系的な理解が深まります。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZlJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ],
   "monthly_top20": [
@@ -349,161 +349,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手のアジリティパフォーマンスと傷害予防に対する仮想現実支援神経筋トレーニングの効果：対照実験",
-      "summary": "バスケットボール選手を対象に、仮想現実（VR）を活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を調査した実験です。VRトレーニング群は、従来の方法と比較して、アジリティパフォーマンスの有意な向上とACL損傷リスク指標の改善を示しました。この結果は、VR技術が特定のスポーツにおけるトレーニング効果を高める可能性を示唆しています。",
+      "title": "バーチャルリアリティ支援型神経筋トレーニングがバスケットボール選手のアジリティ能力と傷害予防に与える効果：対照実験",
+      "summary": "本研究は、バーチャルリアリティ（VR）を活用した神経筋トレーニングが、バスケットボール選手のアジリティ能力向上とACL損傷予防に及ぼす影響を実験的に検証しました。VR環境下でのトレーニングは、実戦に近い状況での反応速度や判断力を養うことに寄与し、アジリティの改善と怪我のリスク低減に有効であることが示唆されました。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における先駆者とパラダイム：歴史的テーマ別ミニレビュー",
-      "summary": "本レビューは、スプリント科学の発展における主要な先駆者とパラダイムの変遷を歴史的視点から考察しています。スプリントパフォーマンスのバイオメカニクス的理解の進化に焦点を当て、過去の研究が現代のトレーニング理論にどのように影響を与えているかを解説しています。これにより、スプリント研究の体系的な理解が深まります。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZlJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学におけるパイオニアとパラダイム：歴史的ミニレビュー",
+      "summary": "本レビューは、スプリント科学の歴史における主要な研究者と理論的枠組みを概観しています。スプリントパフォーマンスを最大化するためのバイオメカニクス的理解がどのように進化し、トレーニング実践に影響を与えてきたかを時系列で追跡しています。過去の研究の知見が現在のスプリントトレーニングの基盤となっていることを強調しました。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZUxXbTMtMVZsLXlJMHgxUFpmU0s1X19EZlIyREZUSzliVW9XUEMwcVhxbFFKaWJQQ3pSWWdWazhBaGFqY3NsSDhnUjJGLTg1RDQ2ZHNjcGE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を解説",
-      "summary": "本記事では、医師がペプチドの利用に関する利点、潜在的なリスク、そして米国食品医薬品局（FDA）の懸念について詳細に解説しています。スポーツ医学の分野で注目されるペプチドが、パフォーマンス向上や回復にどのように貢献し得るか、その一方で懸念される副作用や安全性、規制の問題点が議論されています。アスリートとその関係者にとって重要な情報源となります。",
+      "title": "ペプチド：医師がその効果、リスク、FDAの懸念を説明",
+      "summary": "この記事では、医師がペプチドの医療用途、特にアスリートの回復やパフォーマンス向上における潜在的な利点と、それに伴うリスク、そしてFDA（米国食品医薬品局）の規制に関する懸念について解説しています。効果の科学的根拠が不十分なものや、ドーピングリスクを伴う可能性についても言及しています。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "ニュージャージー州のスポーツ傷害リハビリテーションセンター トップ10",
-      "summary": "本記事は、ニュージャージー州内における優れたスポーツ傷害リハビリテーションセンターの上位10カ所を紹介しています。各センターの専門分野、提供される最新治療法、施設の特徴、そして患者からの評価など、多角的な情報がまとめられています。アスリートが最適なリハビリ環境を選択するための参考となるでしょう。",
+      "title": "ニュージャージー州のスポーツ傷害リハビリセンターベスト10",
+      "summary": "本記事は、ニュージャージー州におけるトップレベルのスポーツ傷害リハビリテーションセンター10選を紹介しています。各センターは、最新の治療法、専門的なスタッフ、アスリートに特化したプログラムを提供しており、怪我からの回復と競技復帰を安全かつ効率的にサポートするための重要なリソースです。",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：システマティックレビューとメタアナリシス",
-      "summary": "このシステマティックレビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療の有効性を評価したものです。複数の研究を分析した結果、鍼治療が運動器系の疼痛緩和に一定の効果を示す可能性が示唆されましたが、治療プロトコルの標準化やさらなる大規模な質の高い研究の必要性も指摘されています。",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療の技術：系統的レビューとメタアナリシス",
+      "summary": "この系統的レビューとメタアナリシスでは、アスリートの筋骨格系疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の有効性と安全性が評価されました。複数のランダム化比較試験のデータを統合した結果、プラセボと比較して痛みの軽減に有意な効果があることが示されました。鍼治療が慢性および急性スポーツ関連疼痛に対する有望な補助療法となり得ると結論付けられています。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "サプリメント：アスリートは何をなぜ摂るのか？",
-      "summary": "本記事では、多くのアスリートがパフォーマンス向上や回復促進、栄養補給を目的として、様々な種類のサプリメントを摂取している現状について掘り下げています。主要なサプリメントの種類とそれぞれの科学的根拠、アスリートがそれらを選ぶ理由、そして摂取における注意点やリスクについても解説しており、包括的な情報を提供しています。",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HQTVsSFBSTGpLRThxNW43VGppNVBOZnNYbVZWNklxTmRSdTNDdDRyNGFmZkdweWpaa0xaTWZ1YkwtYm94VGxoelVPQ3FBOFpiT2haLVpLWkd1amNmS0E?oc=5"
+      "title": "トランスジェンダー男性アスリートのパフォーマンス向上サポートとその恩恵を最も受けるのは誰か",
+      "summary": "本記事は、トランスジェンダー男性アスリートが最適なパフォーマンスを発揮するためにどのような栄養・サプリメントサポートが必要か、そしてその恩恵を最も受けるのは誰かを考察しています。性ホルモン療法による身体の変化、それに伴う栄養摂取量の調整や特定のサプリメントの活用が、彼らのトレーニング適応と健康維持にどのように影響するかを分析しています。",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT1JBZko2TTZ3M1lCTkMzTmdTaG1JWTJlRFNjM0piWWZ2M2lxUmlmQmhXbmRoYll5aGZqZHZYTHBQSzI4Smx2TkM4RklkcVRhdkhmQjJIS3RnUlBtZVhFSFZSREQzOXpnZ09uUjRNLVFiUWc3YmJ5SG9ENjVkVU1QSHdYZ3BWWVR2dV9DalppTElQNmR6X2V5akFHbWpkandnUlFaZFg3dUpkUGVfenc?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を検証",
-      "summary": "ECNL（Elite Clubs National League）のアスリート健康パフォーマンスセンターは、ユースサッカーにおける相対的年齢効果（RAE）の影響について詳細な分析を行いました。同じ年齢グループ内でも、生まれ月が早い選手が身体的成熟度や競技機会において有利になる傾向を指摘し、それが長期的な選手育成に与える影響を考察しています。この研究は、公平な選手評価と育成環境の重要性を強調しています。",
+      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
+      "summary": "アスリート健康パフォーマンスセンターの研究は、ユースサッカーにおける相対的年齢効果（RAE）に焦点を当てています。これは、チーム選抜や育成において、相対的に年齢が若い選手が身体的成熟度の差により不利益を被る現象です。本研究は、この効果が選手の長期的な成長と才能開発に与える影響を分析し、より公平な育成環境の必要性を提唱しています。",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリーンなスポーツの名の下に睡眠は犠牲になったのか？",
-      "summary": "本記事は、クリーンなスポーツ環境を追求する過程で、アスリートの睡眠が意図せず犠牲になっていた可能性について考察しています。厳格なドーピング検査のスケジュールや過密な競技日程が、アスリートの睡眠パターンや質に悪影響を及ぼし、結果的にパフォーマンスやメンタルヘルスに負の影響を与えかねないという問題提起がなされています。睡眠の重要性を再認識させる内容です。",
+      "title": "クリーン・スポーツの名の下に睡眠が犠牲になったのか？",
+      "summary": "本記事は、クリーン・スポーツ（ドーピング防止）の厳格な取り組みが、アスリートの睡眠パターンや回復に予期せぬ悪影響を与えている可能性を提起しています。頻繁なドーピング検査や国際大会の複雑な移動スケジュールが、アスリートの睡眠の質と量に負担をかけ、精神的パフォーマンスにも影響を及ぼしている現状が議論されています。",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0VQYkJ6b2d3YXVVazF1YmVwYVdNNGdLY19YU3JRRGViaDNwTXNZVkpxVUM4aERENnllSVk0dERVYlFBemFCbkU3bGNPT1FBOU5sSExRa2pEbDdMZXg2QkVPS3lCNzVLZmoyX3ZFYV9jX09ySjg1amxmNGJuZlY4RW50TkZfYjRLdkVOWDJSNXFpcGt4WV9SWnFuYUsyb242ZXJEdENHTTEyUHlsVTZhWVA3NA?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "高島宗一郎・福岡市長が11月の市長選不出馬 フェイスブックで表明",
-      "summary": "福岡市の高島宗一郎市長が、11月に行われる次期市長選に立候補しない意向を自身のフェイスブックで表明しました。\n2010年の初当選以来、4期を務めた高島氏の不出馬は、今後の福岡市政に大きな影響を与えるものと見られます。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWal9iMTJWdFdraU52VXJkZHpVMUJjYjc5RnppQVRvNnVWcXFUNFM5NF9qTTItdzFZa0xPR3hBUGUzdElZaXlCQ0VYNXlweXVwN1F6eUZB?oc=5"
+      "title": "麻生氏らとしのぎを削った「県議会のドン」、福岡・蔵内勇夫県議長が否定から「一転」議員辞職へ",
+      "summary": "福岡県議会の「ドン」として知られる蔵内勇夫県議長が、議員辞職を否定していた姿勢から一転、辞職することになった。麻生氏らとの関係も報じられる中でのこの決断は、今後の県政界に大きな影響を与えると見られている。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xaTJ6aE1MeUNzeFpaVlZwLW9YMjgyQWdPYlFqQkx1WUVkOGNER2Z2ZU9vZFNEb0w5eXBMLUJQRHFlVjBxVGhXVkhZbC1kdm1nYm9fUDdwZU1fWWpXakdtUlVBZHRxZw?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "高市内閣の支持率５６％、７月調査から１ポイント減り最低を更新…読売世論調査",
-      "summary": "読売新聞が実施した世論調査によると、高市内閣の支持率は56％となり、7月の調査から1ポイント減少して過去最低を更新しました。\n不支持率は上昇しており、今後の政権運営に課題を投げかけていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFE2WTV1OHpZckw2Y1RJUm9icE9tQjRXSmwxSm1ONW0tYXk3Ul9kWDRZekcwWWJ5QkRGY0drUENYV3NlVVl2SGxMelJnaVpwQjN2eVk4M3huRGY4Z09HVlowbFFBd1dhVHBxUWN5S1JOaWI5S0pLakE?oc=5"
+      "category": "国際",
+      "title": "米、対イラン二次制裁を拡大 財務長官「経済的生命線断つ」",
+      "summary": "米国政府は、イランに対する二次制裁の対象を拡大すると発表した。イラン財務長官は、この措置がイランの「経済的生命線を断つ」ものだと述べ、イランの核開発や地域での活動を抑制する強い姿勢を示している。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xRHJNQ3kxckwxRjRmUU5QTnFuZnJnUVpYcXl0aWdEbGpod01nbVR0QUpYdjN1TXR3UEZ2emxXdWJSVXZwdllaS0h5Z1hfb2RPUHdhWnVwRDMtX1g1dHZFaVJrZm82TzhsWVVsY2REaVlGSXFfWkcxWGlR?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "立民、公明との統一会派も選択肢 水岡氏、3党合流困難なら",
-      "summary": "立憲民主党の水岡氏は、3党合流が困難な場合、公明党との統一会派結成も選択肢となり得るとの見解を示しました。\n野党再編を巡る動きが活発化する中で、新たな連携の可能性が浮上しているとして注目を集めています。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1WlJQNWlYdEdrZnVNdkgwR0xoaWpOZEJlZ29qeTRMSDkyT3djZW9oc1FLT1lablhlUDQ4THlOazEwdTlESUpEQmFvOA?oc=5"
+      "category": "社会",
+      "title": "羽田沖で「クルーザーが座礁した」 多摩川河口付近から男女10人救出、複数人けがで搬送",
+      "summary": "羽田沖の多摩川河口付近でクルーザーが座礁する事故が発生し、乗船していた男女10人全員が救出された。救出されたうち複数人がけがを負っており、病院へ搬送された。海上保安庁が詳しい事故原因を調べている。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OZ3JTcU96Q3pUR2JQN1Y3b3FBN0VmLUhjaGcxQXo2LUtvUkpQTjNtTUtoMzlLdHJfVzM4dGxxcnNmZjA4emFLTHhaNDlkdGd6M3JoUEItOTlSQmNEcTBfNDhqbmwzcl9FR0V4VGphRFJBMDg2MFE?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "イラン、米制裁に協力なら「敵」 ホルムズ海峡通さずとけん制",
-      "summary": "イランは、アメリカの制裁に協力する国に対し「敵」と見なし、ホルムズ海峡を通さないと警告し、国際社会をけん制しました。\nこの発言は、中東地域の緊張を高める可能性があり、原油供給への影響が懸念されています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83ZHEtR2p6N0paR3lhNjFyOGlBdVNLc1JGT014S3c5Z2RlLTFVQ1pOQmdPbDVpUllrRkJocGVWSHRIQlFMNHVCLU1WYnQ2TXBIbTVYQ1NYTVg0d3E5bkVTM1B5RmZ6X0taN3JFaA?oc=5"
+      "title": "ウクライナ侵略４年半、欧州首脳らが「結束」アピール…ゼレンスキー氏「和平を望むが降伏する気はない」",
+      "summary": "ロシアによるウクライナ侵略が開始から4年半を迎える中、欧州の首脳らがウクライナへの「結束」を改めて強調した。ゼレンスキー大統領は「和平は望むが、降伏する意思はない」と表明し、引き続き抵抗を続ける姿勢を示した。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zaTQ5WkdTWEVJdU5BOExSbElQN2MyVVUyX3ZUN29ZM05VM1VjOE94RnNkTEYycm9jeXhnVk5zY1gzV0JhbmRqSnREVmRGZTNCVGx3RVJBanhacVRrdzFUT3JR?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "関東で震度5弱 「地震の巣」で発生、首都直下との関係は",
-      "summary": "関東地方で震度5弱の地震が発生し、いわゆる「地震の巣」と呼ばれる地域が震源となりました。\n今回の地震が懸念される首都直下地震とどのような関係があるのか、専門家による分析が進められていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wdEp4Nng0bFJBRzgyOUFKVnZIUUZPVmJ5d2JyeGpqUXJ0RTJyWkp2WlhkdGRWMTE2RThtVUkwYmxncUpENmdDb2dBNzhwb3pfakVIb2xyUnE5MWM3bnlGTF9XYjRJdHlq?oc=5"
+      "category": "政治",
+      "title": "３党合流、統一会派案に難色 中道代表",
+      "summary": "３党による合流に向けた協議が進む中で、中道代表が統一会派の結成案に対して難色を示していることが明らかになった。この動きは、今後の政党再編や国会運営に影響を及ぼす可能性があり、動向が注目される。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xR1IxcU44OUNNTDZlUlpIb1YwWHdWUkRrMFIwSGstLTFPME1YTHUxMk85cVVGclJ3elVuaTFjbUlDTDl4LUhEZVlFcmlJRDRKb29RSXg5MzJhdy0tdWVIUzBQQQ?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "カーニー氏が経済的強制について警告。今、トランプ氏がカナダ首相を試している",
-      "summary": "マーク・カーニー元イングランド銀行総裁が経済的強制の危険性について警告していた中、ドナルド・トランプ氏がカナダ首相に対し、その警告を試すような行動に出ています。\n両国間の貿易関係や外交政策における緊張が高まっていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5"
+      "title": "トランプ政権、イランに対し「経済的Dデー」制裁を発表",
+      "summary": "トランプ政権は、イランに対する新たな大規模な経済制裁を発表し、これを「経済的Dデー」と呼んだ。この制裁は、イランの核開発計画や地域での活動を抑制することを目的とし、イラン経済への圧力をさらに強めるものとなる。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHhONldpOG9TMnN4R3U3cTh2M1VNQThQa3hfaGpOaXFLQ3RQbWNNcVhYRHhoZDFhQ1VUR1JKUTNoaWhTS1VjOW9hX2ptcUxZWUx3alM3azk4SmpEejJaNkFEaDBjczdmU28tNDY3SFV5TGM4M0lvaENESVhWd3BUM3BucnJhZHc5UE1UNlZGdHF5amxhREpwdDdybFQ2QUF30gGmAUFVX3lxTFB1TUxBVTlRRDhKVHp2TnhsOFQ1TG45YS1fNWxBTmtHZzhqRmlMSXBTQWNHRVpMOWhaWm9VdmdNWnY0Zm9VYzBaankzYWNQaHU3anplU3JTY00xQUJOY1JXVmdsRmh6T2xROF8tMjE4QjhCVlZMWU4zZEx2ODFTLW1oT1V3NURDX3NiX0V0Q00wLUgtaklkSlNkdERiOWpVemZLak9WZlE?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "ネバダ州リノ近郊の火災により、住宅と病院が避難命令",
-      "summary": "ネバダ州リノ近郊で大規模な火災が発生し、周辺住民や病院の避難が緊急で実施されました。\n乾燥した気候と強風により火災は急速に拡大しており、消火活動が困難を極めていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d1c4OWlSWlZrWXItWHh3bnFLMWc5NlhhRTUtNjg3c2lBOWp5U09nbk9KN1dSXzF6WmotNDVMMTY5MTBxZENxSXQ5dTZ3ZUZmTnJ2a19XMFZ5YnN5ckp4dlU5VjRid2k2LWt0c1hMeGZ0ZUFWNlp1Rg?oc=5"
+      "category": "Economy",
+      "title": "トランプ氏、カナダ製自動車、トラック、鉄鋼に50%の新関税を発表",
+      "summary": "ドナルド・トランプ前大統領は、カナダからの輸入自動車、トラック、鉄鋼に対して50%という新たな高関税を課す意向を明らかにした。この動きは、米国の貿易保護主義を強化するものであり、カナダとの経済関係に深刻な影響を与える可能性がある。",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDBqa1dTRkd4TFVSeWNDLXNJVk5wT3JfY09GOHVLTmttNUZmYXZtR2lhSmMwMW92OVFZUjhkQWNUOWxWRGtWVk5WOVd3dE4xZ2tILXNtUWQ4aHBSd3BNaGh0UjBBOHBCMW9aYW1tdE1aQzhTaUwxc2VjckVubFpVn7cJM/C?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Health",
-      "title": "メフメト・オズ氏、「MMRワクチンは致死的なワクチンではない」と発言",
-      "summary": "メフメト・オズ氏が、MMRワクチンに関する誤情報に対し、「MMRワクチンは致死的なワクチンではない」と明確に反論しました。\nこれはワクチン接種への信頼回復と公衆衛生の保護を訴える発言として報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzFZZklCckx1cVVjNEZ6SkxLeWUtb1FHbV84QVRfWmpvYWdtMFY3X1dBTE5rR2RJdkZfbGZZT3V5Nmt6d0E4X0ZJdUVzR2RMZlNnUnN2TUotU1ZPYzkxSERSYkQ1OHZTazl5bm5ESV85MmM5dVVZOEI4cjA3QWMxdEQ4Ulo?oc=5"
+      "category": "Politics",
+      "title": "リンジー・クランシー裁判、裁判官はミストライアル請求を却下するも、宗教に関する証人尋問で検察を叱責",
+      "summary": "リンジー・クランシー被告の裁判において、裁判官は弁護側のミストライアル（審理無効）請求を退けた。しかし、裁判官は検察が証人の宗教的信条に関して尋問を行ったことに対し、不適切であるとして強く叱責した。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNck8wd0huUmVfTk5sc3BtSUNoeWMyTEQ2TGhmMThrcXNjYk5zUDRmSGlHRGlWc1dTT3k5RmMzeThOcnNuaHVYaGdUUzg4eW83UjM4WGFCbVN6T1BnVHp6bUUwWGlpZXczVkxKaEM5MzhBeS1HME5PdnRQVF9wRW9sdkV0T3V5U2RfcFFtQQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "エル・サイード氏、週末のソーシャルメディア投稿でウーシャ・ヴァンス氏とトランプ女性補佐官を攻撃後、オンラインで批判の的に",
-      "summary": "エル・サイード氏が週末のソーシャルメディア投稿で、ウーシャ・ヴァンス氏とトランプ氏の女性補佐官を標的にしたことで、オンライン上で激しい批判を浴びています。\nこの発言は、政治的な論争をさらに激化させていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlh0SDgycnRtLUFJd19rOU5TSGNDb0cwdGJ5MXdfSzhESEhncFA2NldGRTRhTHl6OWlEcE5TbnEwX3JNQWpwLTFEbng3TGUyWjFBTXNjQ2x0SnlDcUFwVEZjdjNyN0IxbUJneEc0Nkc0RG9wNVUwZG9USXFWM08wQ3BUOUNRV21KV25WMFVKZHlvZHhCT1VqaEN5cm41OXluaVNuTWVwOFRVTm10ZHMyYnQ1Vi0wbHYtWktnMtIBwgFBVV95cUxNdEVrQlA2Sm1KRC1MSzZXcy1SZGJkS2d0dlA3OEFaNVNBZFQwUDNMT2ZZeWEwczdISUx2Q2lpSnlVeVlRdzJhcDF1SXNIRDNQMnUzUmhqMkxCblRRby1EMFRjQVZLRXhpR3dIaVhDMFpLUTlFMUZFOW5kbXgyS3lEUzBhM09kblp1VkZnS1pfLUFxcnhxRHhHb2Z4M3BNWkJwcHZ5THJqUkJnUFpuNzZKTjJPVVhDeFZ6ekh5Z3JYbld0dw?oc=5"
+      "category": "Climate",
+      "title": "ネバダ州の山火事、48時間燃焼が続きさらに拡大する恐れがある、と当局が発表",
+      "summary": "ネバダ州で発生した大規模な山火事について、当局は今後48時間にわたって燃焼が続き、さらに広範囲に拡大する可能性があるとの見通しを発表した。この地域では引き続き住民への避難勧告が出されており、消火活動が急ピッチで進められている。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q1VzTHA2SVJ4MDhXSlBJRzNvU0owRnY0NUZHTGFNUklVUG9adGh5Z1NMQVpneHNtZmVtVXlTdGxrTGxmVHV0eUNkVDFGWXd4U2Z3OWpB?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ティム・スコット氏、ダーリーン・グラハム氏への支持は「簡単な選択」と発言、彼女の討論会での失言にもかかわらず",
-      "summary": "ティム・スコット氏が、討論会での失言があったにもかかわらず、ダーリーン・グラハム氏への支持を「簡単な選択」と述べました。\nこれは、党内での支持固めや戦略的な動きの一環として注目されていると報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlF0bTh3TXdNUVgtU0JobjE5RWJiOHNLNzVlYk1lMHhic2g0a1piUTFCd3FyaXFYUk9Kc01yWERsT0dmWS1uXy1rczRhUE04TVJMeldocTh6RXZVZ3ZyM3EwV3R4RjBiQWhrV2tZYVBkVnN6ZWZveGRiRlRzSnc0RDRfcG9ZQUtTd3czMUpCZlJwVmJqTl9sSk5WbUZaQ2x5TGVN?oc=5"
+      "title": "トランプ政権、H-1Bビザに10万ドル超の手数料を提案",
+      "summary": "トランプ政権は、高度技能外国人向けのH-1Bビザ申請に対し、10万ドル（約1400万円）を超える大幅な手数料引き上げを提案した。これは、米国内の雇用保護を目的とした政策の一環であり、特にテクノロジー業界などに大きな影響を与えると予想されている。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWZCQWRWcHNLaDQ5QTVVUlVoSlVIcWU5bWREdnc1SThXZ2Jta0F6alQzTnB0NnFFbTVPYjRITDBOU3JieURjNldSOEt4a2RULVIta1hDYm1OaDA1ZFRpZzNCVTZnbDR3S25pMlAxcEJUVHdzVUJZNHB1ZWZaRkJ5ZUJPeUpJdw?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手の敏捷性パフォーマンスと怪我予防におけるVR支援神経筋トレーニングの効果：制御された実験室実験",
-      "summary": "バスケットボール選手を対象とした制御された実験室研究で、バーチャルリアリティ（VR）を活用した神経筋トレーニングが敏捷性パフォーマンスと怪我予防に与える影響が調査されました。このトレーニングは、選手の反応速度とバランス能力を向上させ、特にACL損傷のリスク低減に効果的であることが示されています。VR環境は、よりリアルな状況下でのトレーニングを可能にし、従来のトレーニング方法と比較して優れた結果をもたらしました。",
+      "title": "バスケットボール選手のアジリティパフォーマンスと傷害予防に対する仮想現実支援神経筋トレーニングの効果：対照実験",
+      "summary": "バスケットボール選手を対象に、仮想現実（VR）を活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を調査した実験です。VRトレーニング群は、従来の方法と比較して、アジリティパフォーマンスの有意な向上とACL損傷リスク指標の改善を示しました。この結果は、VR技術が特定のスポーツにおけるトレーニング効果を高める可能性を示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "スプリント科学における先駆者とパラダイム：歴史的ミニレビュー",
-      "summary": "スプリント科学における先駆的な研究とパラダイムの歴史的レビューが行われました。本稿では、スプリントパフォーマンスの理解と向上に貢献してきた主要な科学的発見と理論的枠組みをたどります。特に、バイオメカニクス、生理学、トレーニング方法論の進化がスプリント能力の限界を押し広げてきた経緯が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLelJsV20zLTFWS2QtbFF4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
+      "title": "スプリント科学における先駆者とパラダイム：歴史的テーマ別ミニレビュー",
+      "summary": "本レビューは、スプリント科学の発展における主要な先駆者とパラダイムの変遷を歴史的視点から考察しています。スプリントパフォーマンスのバイオメカニクス的理解の進化に焦点を当て、過去の研究が現代のトレーニング理論にどのように影響を与えているかを解説しています。これにより、スプリント研究の体系的な理解が深まります。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1pyNlFOY19JbTh4bThRMjl5R3dPdlk4RTB3RzhCTHdEaDJoREQ1bURaaC1xTjdLR2F4T3Z0Wm1HN3dWUHk1cm0wUVY3eWRhYXBLZlJsV20zLTFWbC15STB4MVBaZlNLNV9fRGZSMkRGVGs5YnVvV1BDMHFYcWxRSmliSEN6UllnVmt4QWhhamNzbEg4Z1IyakYtODVENDZkc2NwYQ?oc=5"
     }
   ]
 };
