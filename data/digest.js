@@ -1,242 +1,185 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/08/28",
-  "generated_at": "2026-08-28T05:00:38.810Z",
+  "issue_date": "2026/08/29",
+  "generated_at": "2026-08-29T02:56:11.612Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "VRを用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスと怪我予防に与える影響：管理された実験室実験",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングのアジリティパフォーマンスと傷害予防効果：対照実験研究",
       "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
-      "abstract": "本研究は、VRを用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスとACL（前十字靭帯）損傷予防に与える影響を検証した。実験結果は、VRトレーニングが敏捷性向上に有効であり、怪我のリスク低減に貢献する可能性を示唆している。",
-      "insight": "VRトレーニングをACL予防プログラムに導入することで、若手選手のパフォーマンス向上と怪我のリスク低減が期待できる。",
+      "abstract": "本研究は、バスケットボール選手を対象に、VR（バーチャルリアリティ）を活用した神経筋トレーニングがアジリティ能力向上と傷害予防に与える影響を検証しました。対照実験の結果、VRトレーニング群は従来の方法と比較して、アジリティテストのスコアが有意に改善し、特定の膝関節傷害のリスクが低減される可能性が示されました。これは、VRがアスリートの運動学習と傷害予防プロトコルを強化する有望なツールであることを示唆しています。",
+      "insight": "VRトレーニングを導入することで、特にバスケットボールのような急な方向転換が多い競技において、選手のアジリティと膝関節傷害予防プログラムをより効果的に実施できる可能性があります。",
       "published_at": "2026-08-05T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングのバイオメカニクス科学",
+      "title": "トレイルランニングの生体力学",
       "source": "Trail Runner Magazine",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
-      "abstract": "トレイルランニングにおけるバイオメカニクスの科学的側面を解説。不整地での走行に特化した体の使い方や、効率的なエネルギー伝達、怪我の予防に繋がる動作について詳述する。",
-      "insight": "トレイルランニング特有の動作を理解し、自身のランニングフォームを改善することで、パフォーマンス向上と怪我の予防に繋がる。",
+      "abstract": "トレイルランニングにおける生体力学の科学的側面を探求する記事です。不均一な地形、勾配の変化、障害物などがランナーの身体に与える影響と、それに対応する身体の動きや力の使い方について解説しています。効率的なエネルギー消費、衝撃吸収、安定性の維持といった観点から、トレイルランニング特有の運動パターンを分析しています。",
+      "insight": "トレイルランナーは、地形に応じた適切なフォームやフットワークを習得することで、パフォーマンス向上と怪我のリスク軽減を図ることができます。トレーナーは、この生体力学的知見に基づき、特定の筋力強化や動きの指導を行うべきです。",
       "published_at": "2026-08-20T07:00:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷を持つアスリートをスポーツに復帰させる方法",
-      "source": "Mayo Clinic",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5",
-      "abstract": "内側側副靱帯（MUCL）損傷を負ったアスリートが安全かつ効果的に競技に復帰するための包括的なアプローチについて解説。リハビリテーションの段階、復帰基準、再発予防策などを網羅している。",
-      "insight": "MUCL損傷からの復帰プロセスを理解し、段階的なリハビリテーションと専門家の指導に従うことで、アスリートは安全に競技に復帰できる。",
-      "published_at": "2025-12-02T08:00:00.000Z"
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を説明",
+      "source": "UCHealth",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
+      "abstract": "この記事では、医師がペプチド（アミノ酸の短い鎖）のスポーツ医学分野での潜在的な利用について解説しています。炎症の軽減、組織修復の促進、回復時間の短縮など、その有望な利点に焦点を当てつつ、未だ研究段階であることや、FDA（米国食品医薬品局）が規制に関して抱える懸念、そして使用者にとってのリスクについても詳しく説明しています。",
+      "insight": "アスリートや患者に対して、ペプチド療法の可能性を検討する際には、その科学的根拠、潜在的な利点とリスク、そして現在の規制状況について、医師や専門家との十分な議論が不可欠です。",
+      "published_at": "2026-07-24T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "スポーツ復帰プログラムでアスリートのパフォーマンスを安全に再開させるためのバレーヘルスシステム",
-      "source": "Valley Health System",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5",
-      "abstract": "バレーヘルスシステムが、アスリートが怪我から安全に競技レベルに復帰するための「Return to Sport Program」を開始した。このプログラムは、個々のアスリートの状態に合わせた評価とテーラーメイドのリハビリテーションを提供する。",
-      "insight": "怪我からの復帰を段階的にサポートする専門的なプログラムは、アスリートの長期的な健康と競技生活の継続に不可欠である。",
-      "published_at": "2026-05-11T07:00:00.000Z"
+      "title": "ニュージャージー州のスポーツ傷害リハビリセンターベスト10",
+      "source": "Best of NJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5",
+      "abstract": "ニュージャージー州で最も優れたスポーツ傷害リハビリテーションセンターを10箇所紹介する記事です。これらのセンターは、アスリートが安全に最高のパフォーマンスを取り戻せるよう、専門的な知識と最新の設備、個別化された治療計画を提供している点が評価されています。高度な理学療法から手術後のリハビリ、予防プログラムまで幅広いサービスが網羅されています。",
+      "insight": "傷害からの復帰を目指すアスリートにとって、適切なリハビリセンターの選択は極めて重要です。専門家は、各センターの強みやアプローチを理解し、個々のアスリートのニーズに合った紹介ができるよう情報を把握しておくべきです。",
+      "published_at": "2026-08-14T12:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療テクニック：システマティックレビューとメタアナリシス",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
-      "abstract": "本レビューは、アスリートの疼痛管理における西洋医学的鍼治療（アクパンクチャー）の有効性を、既存のランダム化比較試験（RCT）とそのメタアナリシスを評価した。疼痛軽減効果について分析している。",
-      "insight": "鍼治療は、アスリートの慢性的な疼痛管理において、非薬物療法として有効な選択肢となり得る。",
+      "abstract": "本研究は、アスリートの疼痛管理において西洋医学的鍼治療（ドライニードリングなど）が有効であるかについて、複数の研究を統合したシステマティックレビューとメタアナリシスを実施しました。その結果、鍼治療が筋骨格系の疼痛軽減に一定の効果を示し、特にスポーツ関連の急性・慢性疼痛に対する補助療法として有用である可能性が示唆されました。しかし、さらなる大規模な研究が必要です。",
+      "insight": "スポーツ医学の現場では、アスリートの疼痛管理戦略の一つとして、西洋医学的鍼治療を検討する価値があります。他の治療法と組み合わせることで、より効果的な症状緩和や早期復帰に貢献できる可能性があります。",
       "published_at": "2026-02-03T18:00:13.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートは何を摂取し、なぜ摂取するのか？ サプリメントの現状",
+      "title": "サプリメント：アスリートは何を、なぜ摂取するのか？",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12blJzOXlRR1UyN25OY09qaW5RUVpBWEZfNFAwWi1zbF83Vkc1ckNocExTYTdYeDkydFdYOG1rZHphcENubmItX0NjOG01czdrM3JBV1lNMWhDRzg?oc=5",
-      "abstract": "トップアスリートがどのようなサプリメントを摂取し、その目的が何であるかを調査。パフォーマンス向上、回復促進、健康維持など、多様な目的でサプリメントが活用されている実態を伝える。",
-      "insight": "アスリートのサプリメント摂取は、科学的根拠に基づいた適切な選択と管理が重要であり、過剰摂取や不適切な使用はリスクを伴う。",
+      "abstract": "本記事では、アスリートがどのようなサプリメントを摂取しているのか、またその理由について包括的に探求しています。パフォーマンス向上、回復促進、栄養不足の補完など、様々な目的でプロテイン、クレアチン、カフェインなどが利用されている現状を報告し、科学的根拠に基づく利用の重要性と、安易な摂取に伴う潜在的なリスクについても指摘しています。",
+      "insight": "アスリートへの栄養指導において、サプリメントの利用は避けて通れないテーマです。専門家は、最新の科学的知見に基づき、個々のアスリートの目標、健康状態、競技特性に合わせた適切なサプリメントの選択と摂取方法について指導し、ドーピングリスクも考慮に入れる必要があります。",
       "published_at": "2026-08-20T05:52:21.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "ユースサッカーにおける相対年齢効果を検証するアスリート健康・パフォーマンスセンター",
+      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対年齢効果を調査",
       "source": "ECNL",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5",
-      "abstract": "ユースサッカーにおいて、選手の誕生日による年齢グループ内での有利不利（相対年齢効果）がパフォーマンスに与える影響を分析。早期に生まれた選手が有利になりやすい傾向を指摘している。",
-      "insight": "相対年齢効果を理解し、個々の選手の成長段階に合わせた育成プランを立てることが、公平な機会提供と才能の最大限の発揮につながる。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3 DeqPBSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5",
+      "abstract": "アスリート健康パフォーマンスセンターは、ユースサッカーにおける「相対年齢効果」について調査を行いました。この効果は、同じ選抜期間内でも、生まれ月が早い選手が身体的・認知的に発達が先行しているために、より高いレベルに選抜されやすい傾向があるというものです。この研究は、選抜システムやトレーニングプログラムが若年層アスリートの成長に与える影響を深く掘り下げています。",
+      "insight": "ユーススポーツの指導者は、相対年齢効果を認識し、選抜や育成の過程で選手の潜在能力を正しく評価する必要があります。身体的成熟度だけでなく、技術や戦術理解度、精神的成熟度など、多様な側面を考慮した評価基準を設けることで、より多くの才能を育むことができるでしょう。",
       "published_at": "2026-08-03T07:00:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "睡眠とスポーツパフォーマンス：回復戦略と睡眠の影響を最適化する",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM3pGZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5",
-      "abstract": "本論説では、アスリートの回復戦略と睡眠がスポーツパフォーマンスに与える影響について論じている。質の高い睡眠が身体的・精神的な回復に不可欠であることを強調し、睡眠最適化の重要性を説く。",
-      "insight": "アスリートは、トレーニングだけでなく、睡眠を戦略的に管理することで、パフォーマンスを最大化し、怪我のリスクを低減できる。",
-      "published_at": "2026-04-08T10:40:51.000Z"
+      "title": "クリーンなスポーツの名のもとに睡眠は犠牲になったのか？",
+      "source": "Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0VQYkJ6b2d3YXVVazF1YmVwYVdNNGdLY19YU3JRRGViaDNwTXNZVkpxVUM4aERENnllSVk0dERVYlFBemFCbkU3bGNPT1FBOU5sSExRa2pEbDdMZXg2QkVPS3lCNzVLZmoyXX ZFYV9jX09ySjg1amxmNGJuZlY4RW50TkZfYjRLdkVOWDJSNXFpcGt4WV9SWnFuYUsyb242ZXJEdENHTTEyUHlsVTZhWVA3NA?oc=5",
+      "abstract": "本記事は、ドーピング対策が強化される中で、アスリートがパフォーマンス向上や回復のために、科学的に証明された最も基本的な要素である「睡眠」を十分に確保できているのかという問いを投げかけています。クリーンなスポーツ環境を維持しようとする圧力と、アスリートが最適な状態を保つために必要な十分な休息との間の潜在的な対立について考察し、そのバランスの重要性を強調しています。",
+      "insight": "アスリートの長期的な健康とパフォーマンス維持のためには、睡眠の質と量の確保が極めて重要です。指導者や医療従事者は、トレーニング計画や生活指導において、睡眠を最優先事項の一つとして位置づけ、ドーピング規制との兼ね合いも考慮した適切なリカバリー戦略を立てる必要があります。",
+      "published_at": "2026-07-21T07:00:00.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "政治",
-      "source": "時事ドットコム",
-      "title": "横浜市長、辞職へ パワハラ問題で市政継続困難に",
-      "summary": "横浜市の林文子市長が、パワーハラスメント問題により、市政の継続が困難になったとして、辞職する意向を固めたことが28日、分かった。市議会に辞職願を提出する見通し。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sb3EteFdMRGNPVEhCZlpIMXhES3dad3lhY2JwZXRoQnBzTENDZzJTY2RpTGVXOTBoekZkT0pVdEV1azdrLU9YdXZLc1I5OWh6eUs1UEFmb2doaU93a0dWeHdPdw?oc=5",
-      "published_at": "2026-08-28T03:00:00.000Z"
+      "category": "社会",
+      "source": "読売新聞",
+      "title": "ネパール土石流「すべてを一瞬で押し流した」…死者５８４人・行方不明２５００人、不明５邦人は大阪の家族か",
+      "summary": "ネパールで発生した大規模な土石流により、死者584人、行方不明者2500人という甚大な被害が出ています。行方不明の5人の日本人は大阪の家族とみられ、現地では捜索活動が続いています。目撃者は「すべてが一瞬で押し流された」と語っており、被害の大きさを物語っています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85TWFJdlZkdWNiNGQ1S2NOMXo3eHVpNDkwWTZuSGNpWHZNRmRNMnJMTldmaEJnUExpLTFGd0U5US1zQ2VWeTFscGtVbzROWTdsRzdpQmNERUlESE1uZnhsZjZB?oc=5",
+      "published_at": "2026-08-28T13:37:00.000Z"
     },
     {
       "id": "j002",
-      "category": "国際",
-      "source": "BBC",
-      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者390人超、行方不明者は計1450人以上に",
-      "summary": "ネパールと中国の国境付近で、記録的な豪雨による土石流が発生し、死者は390人を超え、行方不明者は1450人以上にのぼっています。今後、さらなる洪水の恐れもあり、現地の状況は深刻です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnOUxfYmVsWEV2UkpiSmxOdS1WT2w3amVBc0dXVENZczFkeVJZYUtsWDJXNXFpZmNlczc0Yld1cGxhckt4ZTEyb3hMend2NnJ3SUZPM1ZRZnVlRy1HQndr0gFkQVVfeXFMUFB6U1d4d253NjVlRkJWNWhfV3EtWTB5c0UxMlgtX1FXMFZRNVlvYUIxcXZ3ZndYZFZYZmllYm1pSldyYW5vMG5xRWQtRDdISUJNTjBUQ094UGYxc2liS3ZQQmszYw?oc=5",
-      "published_at": "2026-08-28T01:59:11.000Z"
+      "category": "政治",
+      "source": "産経ニュース",
+      "title": "立民、3党合流見送り 杉尾氏「中道は信任得ず」小西氏「仕方ない」石垣氏「立憲は立憲」",
+      "summary": "立憲民主党は、他2党との合流構想を見送ることを決定しました。党内からは「中道は信任を得られなかった」「仕方ない」といった声が聞かれる一方、「立憲は立憲として進むべき」との意見も出ており、今後の党の方向性が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jMmotV2FBUU1TVDJ1Mm5oQ0RnQW5ibmhBZkFsZFpDenE3N0xFaGZ1OS1Yd05VSmRpcXduQlZqUlI5Rkl2aThRLTBKYzFjTkp1d0hfYWljWm1EZmJBX1FHOEhoVmVjNlZnNENtd1U5eDhVQWdaUlE?oc=5",
+      "published_at": "2026-08-28T08:00:10.000Z"
     },
     {
       "id": "j003",
-      "category": "国際",
+      "category": "政治",
       "source": "読売新聞",
-      "title": "トランプ氏、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名…「長い間考えてきた」「即時発効する」",
-      "summary": "トランプ前大統領は、カナダとの国境にあるオンタリオ湖を「アメリカ湖」に改称する大統領令に署名したと発表しました。「長い間考えてきた」と述べ、即時発効すると強調しました。カナダとの関係悪化が懸念されます。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxLVYyVnc2RmhuZkstMEJJdVhuUW9TQmZWcXlYUkR2M0FhdWxkdFVFakxhUEZFNzVsZDJLRWFyUG5mbzZvS2ZqeVA2R3NCSF9NX3AwMGh2Vl9wRHVlODdyeExn?oc=5",
-      "published_at": "2026-08-28T02:30:00.000Z"
+      "title": "福岡県議会の金銭授受疑惑、知事「蔵内氏は公の場で語って」…「見過ごしてきた当事者」指摘には「心からおわび」",
+      "summary": "福岡県議会での金銭授受疑惑を巡り、知事は「蔵内氏には公の場で説明を」と求めました。また、「見過ごしてきた当事者」との指摘に対しては「心からおわび申し上げる」と陳謝し、問題の解明と信頼回復に向けた姿勢を示しました。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80UVgzZ1I1eVYzdWRPQXlUR2NxOGtsLUtKa3M0dkxxRzdJZjhfUVJEc08xV3pXTFRnXzczalJxZF82aGtVN0E0S1NubFR6dUQ2SmZFQzRaZ3dPR2djRzdGQXgwY2NYQQ?oc=5",
+      "published_at": "2026-08-28T22:45:00.000Z"
     },
     {
       "id": "j004",
-      "category": "社会",
+      "category": "文化・エンタメ",
       "source": "毎日新聞",
-      "title": "裁判Plus 司法のリアル：退職代行から320万円 「モームリ」顧問弁護士が払った代償",
-      "summary": "退職代行サービス「モームリ」を巡る裁判で、顧問弁護士が法外な報酬を一部返還するよう命じられました。司法のリアルに迫る連載記事では、この事例を通じて弁護士の責任と代償に焦点を当てます。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ed0xpTEw4dW54aG9YNzdMNFQ3bE1rZDROLWowYy1uQmNEUl94RmFlS2U2X2tPbTgwcjNXVG40WmJVM0M4SVhWaFlZM2hsZlhmTTZialRtWV9zSkJpcEVhVFp3MGhIY25r?oc=5",
-      "published_at": "2026-08-28T01:30:00.000Z"
+      "title": "昭和天皇「独白録」の「台本」見つかる 成立過程が明らかに",
+      "summary": "昭和天皇の「独白録」の成立過程を明らかにする「台本」が新たに発見されました。これにより、独白録がどのように作成されたのか、その背景や意図について、新たな視点から分析が進むことが期待されます。歴史研究において重要な資料となるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jbmJ5eG5fc0h4allYSUd6WFJCcUZqS3RsOVNQWWdMU2FQVUtDby0xLS1CQ0tCa19SSHVsMWhjcjhydFhwakJrcWF1QmxnbC1WNElNTTV0SUdPaTRMZGlKTjNaSjRFZDlf?oc=5",
+      "published_at": "2026-08-28T21:30:00.000Z"
     },
     {
       "id": "j005",
-      "category": "社会",
-      "source": "NHKニュース",
-      "title": "石川 富山の記録的な大雨から一夜明け 浸水の住宅で後片付け",
-      "summary": "石川県と富山県では、記録的な大雨により広範囲で浸水被害が発生しました。28日、各地で住民が片付け作業に追われています。土砂災害や河川の増水にも引き続き警戒が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vNzRuNHB1MWVnY1FZUlN3eEthcmNNV0lBN0dnTEdrTVZoZExFZ2Z1MTJ1TDRWc0k3N29QWFhLNlBZWHpyU2VaSC1nSzFTZGpQMWhDR01SbTdCOHg0MElV?oc=5",
-      "published_at": "2026-08-28T02:00:00.000Z"
-    },
-    {
-      "id": "j006",
-      "category": "国際",
-      "source": "BBC",
-      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者390人超、行方不明者は計1450人以上に",
-      "summary": "ネパールと中国の国境付近で、記録的な豪雨による土石流が発生し、死者は390人を超え、行方不明者は1450人以上にのぼっています。今後、さらなる洪水の恐れもあり、現地の状況は深刻です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnOUxfYmVsWEV2UkpiSmxOdS1WT2w3amVBc0dXVENZczFkeVJZYUtsWDJXNXFpZmNlczc0Yld1cGxhckt4ZTEyb3hMend2NnJ3SUZPM1ZRZnVlRy1HQndr0gFkQVVfeXFMUFB6U1d4d253NjVlRkJWNWhfV3EtWTB5c0UxMlgtX1FXMFZRNVlvYUIxcXZ3ZndYZFZYZmllYm1pSldyYW5vMG5xRWQtRDdISUJNTjBUQ094UGYxc2liS3ZQQmszYw?oc=5",
-      "published_at": "2026-08-28T01:59:11.000Z"
-    },
-    {
-      "id": "j007",
-      "category": "国際",
-      "source": "読売新聞",
-      "title": "トランプ氏、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名…「長い間考えてきた」「即時発効する」",
-      "summary": "トランプ前大統領は、カナダとの国境にあるオンタリオ湖を「アメリカ湖」に改称する大統領令に署名したと発表しました。「長い間考えてきた」と述べ、即時発効すると強調しました。カナダとの関係悪化が懸念されます。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxLVYyVnc2RmhuZkstMEJJdVhuUW9TQmZWcXlYUkR2M0FhdWxkdFVFakxhUEZFNzVsZDJLRWFyUG5mbzZvS2ZqeVA2R3NCSF9NX3AwMGh2Vl9wRHVlODdyeExn?oc=5",
-      "published_at": "2026-08-28T02:30:00.000Z"
-    },
-    {
-      "id": "j008",
-      "category": "社会",
-      "source": "毎日新聞",
-      "title": "裁判Plus 司法のリアル：退職代行から320万円 「モームリ」顧問弁護士が払った代償",
-      "summary": "退職代行サービス「モームリ」を巡る裁判で、顧問弁護士が法外な報酬を一部返還するよう命じられました。司法のリアルに迫る連載記事では、この事例を通じて弁護士の責任と代償に焦点を当てます。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ed0xpTEw4dW54aG9YNzdMNFQ3bE1rZDROLWowYy1uQmNEUl94RmFlS2U2X2tPbTgwcjNXVG40WmJVM0M4SVhWaFlZM2hsZlhmTTZialRtWV9zSkJpcEVhVFp3MGhIY25r?oc=5",
-      "published_at": "2026-08-28T01:30:00.000Z"
+      "category": "政治",
+      "source": "FNNプライムオンライン",
+      "title": "横浜・山中市長の辞職表明に黒岩神奈川県知事「大変残念」 けさ電話で「一緒にグリーンEXPOを迎えたかったが職を辞することに」",
+      "summary": "横浜市の山中市長が辞職を表明したことに対し、神奈川県の黒岩知事は「大変残念」との見解を示しました。今朝の電話で山中市長から直接辞職の意向を聞き、「一緒にグリーンEXPOを迎えたかった」と語った知事の言葉から、両者の協力関係が伺えます。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lM2Y3bzJSMXdQRkVRMHFMT0J6ZlNmZDZFT0VQdlFpNU4wN1FxRHVhRmZLZC1vdWpWcFFydV9lZ0NvWG9kU1JRQkU3dkRqdw?oc=5",
+      "published_at": "2026-08-28T05:22:00.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
-      "category": "Climate",
-      "region": "Asia",
+      "category": "Politics",
+      "region": "US",
       "source": "The New York Times",
-      "title": "「皆死んで、私だけ生きた」 ネパール洪水、生存者は茫然自失",
-      "summary": "ネパールで発生した記録的な洪水からの生存者たちは、壊滅的な被害と多くの犠牲を前に、茫然自失としています。多くの人々が家を失い、家族や友人を亡くした悲しみと衝撃から立ち直れずにいます。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQVlNZUYzNXpGeDlsdklhY09VUDJDczVOZ01rd1lhSXZ5dXUzMkdva2tya0hPMmZ2QlZDQ3BtZHVqNWNCWWZfVkNEYzhJclQ1c0ZsYTVDTmxCWEowNGNUR19DcTFWY3FKYWRTS0VSYmFZY2xQQm1oX3BaQnJjZUJzR1NR?oc=5",
-      "published_at": "2026-08-28T01:59:33.000Z"
+      "title": "トランプ大統領、米国がベネズエラ石油の大部分を管理すると発言",
+      "summary": "トランプ大統領は、米国がベネズエラの石油生産の大部分を掌握する意向を示したと報じられています。この発言は、ベネズエラの政治・経済状況に対する米国の介入姿勢を改めて示すものであり、国際社会に大きな波紋を広げる可能性があります。エネルギー政策と外交関係に影響を与えるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QbU5vYVJHV3BwQkJwY3JFOHZiSWtGclpLWm1IR2pTVWticldXc0xBaG1rNzNqVld6dGxDalM0MGR1RkRBWDg4WUpqYkF6c2ZSOGQ3SzJNME1aUE5wSjZmWXZJMA?oc=5",
+      "published_at": "2026-08-29T00:49:00.000Z"
     },
     {
       "id": "g002",
-      "category": "Politics",
-      "region": "US",
-      "source": "NBC News",
-      "title": "裁判官、ケネディ・センター改修とトランプ氏による名称変更について司法省弁護士に質問攻め",
-      "summary": "連邦裁判官は、ケネディ・センターの改修工事と、トランプ前大統領による名称変更の試みに関連し、司法省の弁護士陣に対し、一連の経緯に関する疑問をぶつけました。司法取引や公的資金の使途について詳細な説明を求めた模様です。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY3M0Smg3N0liZWt3cVpkTFVNM1laRGxBcTU3T1F0SjFNMUUzUjVvX0VvVHFYYUN6Ylc1T0NwLXFYY1ctaXRnZkVFaHFSbFZTOGJVeHhJdExkQ2FGYWxILW94T202YXQtQUlBU2doSXdnN0ZGMG5rX08tb2Q2TnQ0dzgxSUZGWmVMNWE0SjJRTDFudW9xRzBWS0tkVkRrZlFtQl94c2wyaUZRam92XzFzRHNYbHJYRHkwUUFDNUdRbTltT3M2S3dHNURWaFhiQQ?oc=5",
-      "published_at": "2026-08-27T23:21:53.000Z"
+      "category": "Climate",
+      "region": "Asia",
+      "source": "CNN",
+      "title": "ネパール・中国国境での洪水発生後、2,500人以上が行方不明のまま",
+      "summary": "ネパールと中国の国境付近で発生した大規模な洪水により、2,500人以上の人々が依然として行方不明となっています。救助活動が続けられていますが、被害は甚大で、国際的な支援が求められています。気候変動による災害の深刻さを改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mWUwyT3BheHdIMldlZV85S2FtQVM2akI4TTVZX3psal95T3NuRFgwRF80VFI0OTFLUFAzNmFfWTJsV1RVLXRKUVZORXJscjV4MnRKWHJwREZwNERtTlg0ZGRPZENQWG5USlNnWTMzSUd0dw?oc=5",
+      "published_at": "2026-08-29T02:22:00.000Z"
     },
     {
       "id": "g003",
-      "category": "Politics",
-      "region": "US",
-      "source": "The Washington Post",
-      "title": "トランプ氏、オンタリオ湖を「アメリカ湖」に改称する命令に署名、カナダとの確執をエスカレート",
-      "summary": "トランプ前大統領は、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名しました。この行動はカナダとの間で新たな火種を生み、外交関係に緊張をもたらす可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGh0d25Cc1V3c1gzaF9DNnhId3R4RnZNNExuSGZyMDBuNURaZldUd1FzaWJBVnN0LWpRWVVHU2lHWHFyWW5iZXpFWVMxV1V4a0N3bmhFWXluNW1TUkZvYTMyQWxyUEllWEZzbl9VWmVwVFAwOHAzSzhER1lWRjNYSDJaMU56SG1jaHc4X1JfVnpZckl6TkgtblVlMDQ?oc=5",
-      "published_at": "2026-08-28T03:04:26.000Z"
+      "category": "Conflict",
+      "region": "Middle East",
+      "source": "CBS News",
+      "title": "ライブアップデート：イラン戦争が6ヶ月目に突入、終結の兆し見えず",
+      "summary": "イランを巡る戦争が開始から6ヶ月を迎えましたが、現状では終結の兆しは見えていません。戦闘は継続しており、地域情勢の不安定化が深刻さを増しています。国際社会は事態の悪化を懸念しており、停戦に向けた外交努力が急務となっています。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3ZaTmR4OEVQWjVMZWRibUo2TGJTRDMtUVl6SmdLblprZlRsOXNPeTNvVmJRX2VUbU5JX3dCeXFfbUtqaExPa2pxZzByOEl4aDNNOThMajlXMnNHdFhFVlViTmIzTVZqMmh4RnVsMkdNTmV5ZGNVUThJYjZBRHpfdmFTY0QzYVpuUDdXUFl4c21VWDhvNWZib3NFbE00QQ?oc=5",
+      "published_at": "2026-08-29T00:43:00.000Z"
     },
     {
       "id": "g004",
       "category": "Politics",
       "region": "US",
-      "source": "The Guardian",
-      "title": "連邦判事、中間選挙における郵便投票を制限するトランプ氏の大統領令に再び待ったをかける",
-      "summary": "連邦判事は、中間選挙における郵便投票を制限しようとするトランプ前大統領の大統領令について、再び実施を差し止める判断を下しました。選挙の公正性に関する懸念が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0pySjlUWnNXcFpjdFNJUHFEQlJNenpuNTd6d2h1aUpvdmhibVNCMTZra0xpUzgwQW1Ya3dDcnM5XzlzRDZrbmV6Y3dqOGdrYnM2Z3VoeVlaay1lLUxIRGNVLW9yMXNxZFpLcGZXYnFpQWpLeEJ2aVZiTWJzMGxYdlVVdkdWbnBnTWxHNjdnSkJNbV81NlBxRkcwNVFXZTRRZjJNYTZweFl3UTNsTkQw?oc=5",
-      "published_at": "2026-08-28T02:31:00.000Z"
+      "source": "NBC Boston",
+      "title": "リンゼイ・クランシー裁判、金曜日の終日審議後も評決なし",
+      "summary": "リンゼイ・クランシー氏の裁判において、陪審は金曜日終日審議を行ったものの、評決には至りませんでした。事件の詳細は不明ですが、裁判の長期化は、関係者にとって精神的な負担が続いていることを示しています。評決は今後に持ち越されます。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3c1RVF3VUV6UmZ3MEVLNG12WGM3X01sbW5Ld1lJblZZUDlKeGZJdEF6X3JZNVBTSEk3dWF4Mk1nV2w2ZG5jdnFiQjVVRmQzdmxCcnRoNDhQc0ZIMVlfVUFRaFFsZ29nYl9mNjNXcmJzajFCZHZ4WEFCTEhhSWY2ekNJaE9GQzFiemdjMHRnYzVoX0VoenZEWtIBoAFBVV95cUxOTE5EUEM4T00tTzlON0ItYlB3THRtRW56V1NZdGRnMzRndW5VeldsRGk3d1c3OVFWNFBXdXc0NnBxU2VWWmVpNFJZOGxZVmxKRC1WZ0J4WU4yZDVhRm92dUxSeFgzVTZ4TG54dmltMmVWNWZPMWhVUnFqRnl1T3RibmRtV210Q3N5aDExb1BHYi05MmMwU0dNRl8tYXdVSHVn?oc=5",
+      "published_at": "2026-08-28T10:19:27.000Z"
     },
     {
       "id": "g005",
       "category": "Politics",
       "region": "US",
       "source": "AP News",
-      "title": "ホワイトハウス建設が、トランプ氏のヘリコプターがジェット機に接近した無線問題を引き起こす",
-      "summary": "ホワイトハウスの建設工事が、トランプ前大統領のヘリコプターが民間ジェット機に異常接近した際の無線通信上の問題を引き起こしたと報じられています。安全管理体制における懸念が浮上しています。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDhuZEEwWDVTTE5jZ2FDMEZ4UmotVVdXMFVtbEtURy1TelRIRzdjT0F5Q2pPUDVXTW56R1BUMUkxUDZBaW1qYkU4dWJpVjhJbXNxNjdlOVh4RTJnRnE2ZEdWVGdPSXhmeFhWR1hWclJwQjc3bS1xWGN5VGwzTGtYek41NjFabzRYQXNzQ1hkRnY4ZkZQbXlkREtPZWJjR2Rf?oc=5",
-      "published_at": "2026-08-28T00:32:00.000Z"
-    },
-    {
-      "id": "g006",
-      "category": "Climate",
-      "region": "Asia",
-      "source": "The New York Times",
-      "title": "「皆死んで、私だけ生きた」 ネパール洪水、生存者は茫然自失",
-      "summary": "ネパールで発生した記録的な洪水からの生存者たちは、壊滅的な被害と多くの犠牲を前に、茫然自失としています。多くの人々が家を失い、家族や友人を亡くした悲しみと衝撃から立ち直れずにいます。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQVlNZUYzNXpGeDlsdklhY09VUDJDczVOZ01rd1lhSXZ5dXUzMkdva2tya0hPMmZ2QlZDQ3BtZHVqNWNCWWZfVkNEYzhJclQ1c0ZsYTVDTmxCWEowNGNUR19DcTFWY3FKYWRTS0VSYmFZY2xQQm1oX3BaQnJjZUJzR1NR?oc=5",
-      "published_at": "2026-08-28T01:59:33.000Z"
-    },
-    {
-      "id": "g007",
-      "category": "Politics",
-      "region": "US",
-      "source": "NBC News",
-      "title": "裁判官、ケネディ・センター改修とトランプ氏による名称変更について司法省弁護士に質問攻め",
-      "summary": "連邦裁判官は、ケネディ・センターの改修工事と、トランプ前大統領による名称変更の試みに関連し、司法省の弁護士陣に対し、一連の経緯に関する疑問をぶつけました。司法取引や公的資金の使途について詳細な説明を求めた模様です。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY3M0Smg3N0liZWt3cVpkTFVNM1laRGxBcTU3T1F0SjFNMUUzUjVvX0VvVHFYYUN6Ylc1T0NwLXFYY1ctaXRnZkVFaHFSbFZTOGJVeHhJdExkQ2FGYWxILW94T202YXQtQUlBU2doSXdnN0ZGMG5rX08tb2Q2TnQ0dzgxSUZGWmVMNWE0SjJRTDFudW9xRzBWS0tkVkRrZlFtQl94c2wyaUZRam92XzFzRHNYbHJYRHkwUUFDNUdRbTltT3M2S3dHNURWaFhiQQ?oc=5",
-      "published_at": "2026-08-27T23:21:53.000Z"
-    },
-    {
-      "id": "g008",
-      "category": "Politics",
-      "region": "US",
-      "source": "The Washington Post",
-      "title": "トランプ氏、オンタリオ湖を「アメリカ湖」に改称する命令に署名、カナダとの確執をエスカレート",
-      "summary": "トランプ前大統領は、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名しました。この行動はカナダとの間で新たな火種を生み、外交関係に緊張をもたらす可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGh0d25Cc1V3c1gzaF9DNnhId3R4RnZNNExuSGZyMDBuNURaZldUd1FzaWJBVnN0LWpRWVVHU2lHWHFyWW5iZXpFWVMxV1V4a0N3bmhFWXluNW1TUkZvYTMyQWxyUEllWEZzbl9VWmVwVFAwOHAzSzhER1lWRjNYSDJaMU56SG1jaHc4X1JfVnpZckl6TkgtblVlMDQ?oc=5",
-      "published_at": "2026-08-28T03:04:26.000Z"
+      "title": "トランプ政権、郵便投票命令の発効を阻止する最新判決を不服として上訴",
+      "summary": "トランプ政権は、自身の郵便投票命令の発効を阻止する最新の判決に対し、不服申し立てを行いました。これは、選挙の公平性や投票手続きのあり方を巡る法廷闘争が続いていることを示しており、今後の選挙制度に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWxfNV9lZGM0QTFucVBRVmx5eVlGRnhLQlF4NmQtbVZUemxYNEVTaVNzNGNRb3lvTU5KMXY1d0VLanFGYmd2U2ZRQnhmeXE5VVNtakpiNmV6MWJYNzFqNVNXNHVyaE1CUUdKUGYzYVFxZTNDdUt2Yy1JNlhlMDI2NFBmLXQ5SzBhS1E1WmJlU3FKMUhHYkFadDNDYjF6UDk0Mmk2Nl8wN1FEREx5WlhJ?oc=5",
+      "published_at": "2026-08-28T22:42:00.000Z"
     }
   ],
   "weekly_top20": [
@@ -244,161 +187,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "VRを用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスと怪我予防に与える影響：管理された実験室実験",
-      "summary": "本研究は、VRを用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスとACL（前十字靭帯）損傷予防に与える影響を検証した。実験結果は、VRトレーニングが敏捷性向上に有効であり、怪我のリスク低減に貢献する可能性を示唆している。",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングのアジリティパフォーマンスと傷害予防効果：対照実験研究",
+      "summary": "本研究は、バスケットボール選手を対象に、VR（バーチャルリアリティ）を活用した神経筋トレーニングがアジリティ能力向上と傷害予防に与える影響を検証しました。対照実験の結果、VRトレーニング群は従来の方法と比較して、アジリティテストのスコアが有意に改善し、特定の膝関節傷害のリスクが低減される可能性が示されました。これは、VRがアスリートの運動学習と傷害予防プロトコルを強化する有望なツールであることを示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングのバイオメカニクス科学",
-      "summary": "トレイルランニングにおけるバイオメカニクスの科学的側面を解説。不整地での走行に特化した体の使い方や、効率的なエネルギー伝達、怪我の予防に繋がる動作について詳述する。",
+      "title": "トレイルランニングの生体力学",
+      "summary": "トレイルランニングにおける生体力学の科学的側面を探求する記事です。不均一な地形、勾配の変化、障害物などがランナーの身体に与える影響と、それに対応する身体の動きや力の使い方について解説しています。効率的なエネルギー消費、衝撃吸収、安定性の維持といった観点から、トレイルランニング特有の運動パターンを分析しています。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷を持つアスリートをスポーツに復帰させる方法",
-      "summary": "内側側副靱帯（MUCL）損傷を負ったアスリートが安全かつ効果的に競技に復帰するための包括的なアプローチについて解説。リハビリテーションの段階、復帰基準、再発予防策などを網羅している。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を説明",
+      "summary": "この記事では、医師がペプチド（アミノ酸の短い鎖）のスポーツ医学分野での潜在的な利用について解説しています。炎症の軽減、組織修復の促進、回復時間の短縮など、その有望な利点に焦点を当てつつ、未だ研究段階であることや、FDA（米国食品医薬品局）が規制に関して抱える懸念、そして使用者にとってのリスクについても詳しく説明しています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "スポーツ復帰プログラムでアスリートのパフォーマンスを安全に再開させるためのバレーヘルスシステム",
-      "summary": "バレーヘルスシステムが、アスリートが怪我から安全に競技レベルに復帰するための「Return to Sport Program」を開始した。このプログラムは、個々のアスリートの状態に合わせた評価とテーラーメイドのリハビリテーションを提供する。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
+      "title": "ニュージャージー州のスポーツ傷害リハビリセンターベスト10",
+      "summary": "ニュージャージー州で最も優れたスポーツ傷害リハビリテーションセンターを10箇所紹介する記事です。これらのセンターは、アスリートが安全に最高のパフォーマンスを取り戻せるよう、専門的な知識と最新の設備、個別化された治療計画を提供している点が評価されています。高度な理学療法から手術後のリハビリ、予防プログラムまで幅広いサービスが網羅されています。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "本レビューは、アスリートの疼痛管理における西洋医学的鍼治療（アクパンクチャー）の有効性を、既存のランダム化比較試験（RCT）とそのメタアナリシスを評価した。疼痛軽減効果について分析している。",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療テクニック：システマティックレビューとメタアナリシス",
+      "summary": "本研究は、アスリートの疼痛管理において西洋医学的鍼治療（ドライニードリングなど）が有効であるかについて、複数の研究を統合したシステマティックレビューとメタアナリシスを実施しました。その結果、鍼治療が筋骨格系の疼痛軽減に一定の効果を示し、特にスポーツ関連の急性・慢性疼痛に対する補助療法として有用である可能性が示唆されました。しかし、さらなる大規模な研究が必要です。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートは何を摂取し、なぜ摂取するのか？ サプリメントの現状",
-      "summary": "トップアスリートがどのようなサプリメントを摂取し、その目的が何であるかを調査。パフォーマンス向上、回復促進、健康維持など、多様な目的でサプリメントが活用されている実態を伝える。",
+      "title": "サプリメント：アスリートは何を、なぜ摂取するのか？",
+      "summary": "本記事では、アスリートがどのようなサプリメントを摂取しているのか、またその理由について包括的に探求しています。パフォーマンス向上、回復促進、栄養不足の補完など、様々な目的でプロテイン、クレアチン、カフェインなどが利用されている現状を報告し、科学的根拠に基づく利用の重要性と、安易な摂取に伴う潜在的なリスクについても指摘しています。",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12blJzOXlRR1UyN25OY09qaW5RUVpBWEZfNFAwWi1zbF83Vkc1ckNocExTYTdYeDkydFdYOG1rZHphcENubmItX0NjOG01czdrM3JBV1lNMWhDRzg?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "ユースサッカーにおける相対年齢効果を検証するアスリート健康・パフォーマンスセンター",
-      "summary": "ユースサッカーにおいて、選手の誕生日による年齢グループ内での有利不利（相対年齢効果）がパフォーマンスに与える影響を分析。早期に生まれた選手が有利になりやすい傾向を指摘している。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
+      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対年齢効果を調査",
+      "summary": "アスリート健康パフォーマンスセンターは、ユースサッカーにおける「相対年齢効果」について調査を行いました。この効果は、同じ選抜期間内でも、生まれ月が早い選手が身体的・認知的に発達が先行しているために、より高いレベルに選抜されやすい傾向があるというものです。この研究は、選抜システムやトレーニングプログラムが若年層アスリートの成長に与える影響を深く掘り下げています。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3 DeqPBSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "睡眠とスポーツパフォーマンス：回復戦略と睡眠の影響を最適化する",
-      "summary": "本論説では、アスリートの回復戦略と睡眠がスポーツパフォーマンスに与える影響について論じている。質の高い睡眠が身体的・精神的な回復に不可欠であることを強調し、睡眠最適化の重要性を説く。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM3pGZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
+      "title": "クリーンなスポーツの名のもとに睡眠は犠牲になったのか？",
+      "summary": "本記事は、ドーピング対策が強化される中で、アスリートがパフォーマンス向上や回復のために、科学的に証明された最も基本的な要素である「睡眠」を十分に確保できているのかという問いを投げかけています。クリーンなスポーツ環境を維持しようとする圧力と、アスリートが最適な状態を保つために必要な十分な休息との間の潜在的な対立について考察し、そのバランスの重要性を強調しています。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0VQYkJ6b2d3YXVVazF1YmVwYVdNNGdLY19YU3JRRGViaDNwTXNZVkpxVUM4aERENnllSVk0dERVYlFBemFCbkU3bGNPT1FBOU5sSExRa2pEbDdMZXg2QkVPS3lCNzVLZmoyXX ZFYV9jX09ySjg1amxmNGJuZlY4RW50TkZfYjRLdkVOWDJSNXFpcGt4WV9SWnFuYUsyb242ZXJEdENHTTEyUHlsVTZhWVA3NA?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "横浜市長、辞職へ パワハラ問題で市政継続困難に",
-      "summary": "横浜市の林文子市長が、パワーハラスメント問題により、市政の継続が困難になったとして、辞職する意向を固めたことが28日、分かった。市議会に辞職願を提出する見通し。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sb3EteFdMRGNPVEhCZlpIMXhES3dad3lhY2JwZXRoQnBzTENDZzJTY2RpTGVXOTBoekZkT0pVdEV1azdrLU9YdXZLc1I5OWh6eUs1UEFmb2doaU93a0dWeHdPdw?oc=5"
+      "category": "社会",
+      "title": "ネパール土石流「すべてを一瞬で押し流した」…死者５８４人・行方不明２５００人、不明５邦人は大阪の家族か",
+      "summary": "ネパールで発生した大規模な土石流により、死者584人、行方不明者2500人という甚大な被害が出ています。行方不明の5人の日本人は大阪の家族とみられ、現地では捜索活動が続いています。目撃者は「すべてが一瞬で押し流された」と語っており、被害の大きさを物語っています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85TWFJdlZkdWNiNGQ1S2NOMXo3eHVpNDkwWTZuSGNpWHZNRmRNMnJMTldmaEJnUExpLTFGd0U5US1zQ2VWeTFscGtVbzROWTdsRzdpQmNERUlESE1uZnhsZjZB?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者390人超、行方不明者は計1450人以上に",
-      "summary": "ネパールと中国の国境付近で、記録的な豪雨による土石流が発生し、死者は390人を超え、行方不明者は1450人以上にのぼっています。今後、さらなる洪水の恐れもあり、現地の状況は深刻です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnOUxfYmVsWEV2UkpiSmxOdS1WT2w3amVBc0dXVENZczFkeVJZYUtsWDJXNXFpZmNlczc0Yld1cGxhckt4ZTEyb3hMend2NnJ3SUZPM1ZRZnVlRy1HQndr0gFkQVVfeXFMUFB6U1d4d253NjVlRkJWNWhfV3EtWTB5c0UxMlgtX1FXMFZRNVlvYUIxcXZ3ZndYZFZYZmllYm1pSldyYW5vMG5xRWQtRDdISUJNTjBUQ094UGYxc2liS3ZQQmszYw?oc=5"
+      "category": "政治",
+      "title": "立民、3党合流見送り 杉尾氏「中道は信任得ず」小西氏「仕方ない」石垣氏「立憲は立憲」",
+      "summary": "立憲民主党は、他2党との合流構想を見送ることを決定しました。党内からは「中道は信任を得られなかった」「仕方ない」といった声が聞かれる一方、「立憲は立憲として進むべき」との意見も出ており、今後の党の方向性が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jMmotV2FBUU1TVDJ1Mm5oQ0RnQW5ibmhBZkFsZFpDenE3N0xFaGZ1OS1Yd05VSmRpcXduQlZqUlI5Rkl2aThRLTBKYzFjTkp1d0hfYWljWm1EZmJBX1FHOEhoVmVjNlZnNENtd1U5eDhVQWdaUlE?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "トランプ氏、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名…「長い間考えてきた」「即時発効する」",
-      "summary": "トランプ前大統領は、カナダとの国境にあるオンタリオ湖を「アメリカ湖」に改称する大統領令に署名したと発表しました。「長い間考えてきた」と述べ、即時発効すると強調しました。カナダとの関係悪化が懸念されます。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxLVYyVnc2RmhuZkstMEJJdVhuUW9TQmZWcXlYUkR2M0FhdWxkdFVFakxhUEZFNzVsZDJLRWFyUG5mbzZvS2ZqeVA2R3NCSF9NX3AwMGh2Vl9wRHVlODdyeExn?oc=5"
+      "category": "政治",
+      "title": "福岡県議会の金銭授受疑惑、知事「蔵内氏は公の場で語って」…「見過ごしてきた当事者」指摘には「心からおわび」",
+      "summary": "福岡県議会での金銭授受疑惑を巡り、知事は「蔵内氏には公の場で説明を」と求めました。また、「見過ごしてきた当事者」との指摘に対しては「心からおわび申し上げる」と陳謝し、問題の解明と信頼回復に向けた姿勢を示しました。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80UVgzZ1I1eVYzdWRPQXlUR2NxOGtsLUtKa3M0dkxxRzdJZjhfUVJEc08xV3pXTFRnXzczalJxZF82aGtVN0E0S1NubFR6dUQ2SmZFQzRaZ3dPR2djRzdGQXgwY2NYQQ?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "裁判Plus 司法のリアル：退職代行から320万円 「モームリ」顧問弁護士が払った代償",
-      "summary": "退職代行サービス「モームリ」を巡る裁判で、顧問弁護士が法外な報酬を一部返還するよう命じられました。司法のリアルに迫る連載記事では、この事例を通じて弁護士の責任と代償に焦点を当てます。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ed0xpTEw4dW54aG9YNzdMNFQ3bE1rZDROLWowYy1uQmNEUl94RmFlS2U2X2tPbTgwcjNXVG40WmJVM0M4SVhWaFlZM2hsZlhmTTZialRtWV9zSkJpcEVhVFp3MGhIY25r?oc=5"
+      "category": "文化・エンタメ",
+      "title": "昭和天皇「独白録」の「台本」見つかる 成立過程が明らかに",
+      "summary": "昭和天皇の「独白録」の成立過程を明らかにする「台本」が新たに発見されました。これにより、独白録がどのように作成されたのか、その背景や意図について、新たな視点から分析が進むことが期待されます。歴史研究において重要な資料となるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jbmJ5eG5fc0h4allYSUd6WFJCcUZqS3RsOVNQWWdMU2FQVUtDby0xLS1CQ0tCa19SSHVsMWhjcjhydFhwakJrcWF1QmxnbC1WNElNTTV0SUdPaTRMZGlKTjNaSjRFZDlf?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "石川 富山の記録的な大雨から一夜明け 浸水の住宅で後片付け",
-      "summary": "石川県と富山県では、記録的な大雨により広範囲で浸水被害が発生しました。28日、各地で住民が片付け作業に追われています。土砂災害や河川の増水にも引き続き警戒が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vNzRuNHB1MWVnY1FZUlN3eEthcmNNV0lBN0dnTEdrTVZoZExFZ2Z1MTJ1TDRWc0k3N29QWFhLNlBZWHpyU2VaSC1nSzFTZGpQMWhDR01SbTdCOHg0MElV?oc=5"
+      "category": "政治",
+      "title": "横浜・山中市長の辞職表明に黒岩神奈川県知事「大変残念」 けさ電話で「一緒にグリーンEXPOを迎えたかったが職を辞することに」",
+      "summary": "横浜市の山中市長が辞職を表明したことに対し、神奈川県の黒岩知事は「大変残念」との見解を示しました。今朝の電話で山中市長から直接辞職の意向を聞き、「一緒にグリーンEXPOを迎えたかった」と語った知事の言葉から、両者の協力関係が伺えます。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lM2Y3bzJSMXdQRkVRMHFMT0J6ZlNmZDZFT0VQdlFpNU4wN1FxRHVhRmZLZC1vdWpWcFFydV9lZ0NvWG9kU1JRQkU3dkRqdw?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "「皆死んで、私だけ生きた」 ネパール洪水、生存者は茫然自失",
-      "summary": "ネパールで発生した記録的な洪水からの生存者たちは、壊滅的な被害と多くの犠牲を前に、茫然自失としています。多くの人々が家を失い、家族や友人を亡くした悲しみと衝撃から立ち直れずにいます。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQVlNZUYzNXpGeDlsdklhY09VUDJDczVOZ01rd1lhSXZ5dXUzMkdva2tya0hPMmZ2QlZDQ3BtZHVqNWNCWWZfVkNEYzhJclQ1c0ZsYTVDTmxCWEowNGNUR19DcTFWY3FKYWRTS0VSYmFZY2xQQm1oX3BaQnJjZUJzR1NR?oc=5"
+      "category": "Politics",
+      "title": "トランプ大統領、米国がベネズエラ石油の大部分を管理すると発言",
+      "summary": "トランプ大統領は、米国がベネズエラの石油生産の大部分を掌握する意向を示したと報じられています。この発言は、ベネズエラの政治・経済状況に対する米国の介入姿勢を改めて示すものであり、国際社会に大きな波紋を広げる可能性があります。エネルギー政策と外交関係に影響を与えるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QbU5vYVJHV3BwQkJwY3JFOHZiSWtGclpLWm1IR2pTVWticldXc0xBaG1rNzNqVld6dGxDalM0MGR1RkRBWDg4WUpqYkF6c2ZSOGQ3SzJNME1aUE5wSjZmWXZJMA?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "裁判官、ケネディ・センター改修とトランプ氏による名称変更について司法省弁護士に質問攻め",
-      "summary": "連邦裁判官は、ケネディ・センターの改修工事と、トランプ前大統領による名称変更の試みに関連し、司法省の弁護士陣に対し、一連の経緯に関する疑問をぶつけました。司法取引や公的資金の使途について詳細な説明を求めた模様です。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY3M0Smg3N0liZWt3cVpkTFVNM1laRGxBcTU3T1F0SjFNMUUzUjVvX0VvVHFYYUN6Ylc1T0NwLXFYY1ctaXRnZkVFaHFSbFZTOGJVeHhJdExkQ2FGYWxILW94T202YXQtQUlBU2doSXdnN0ZGMG5rX08tb2Q2TnQ0dzgxSUZGWmVMNWE0SjJRTDFudW9xRzBWS0tkVkRrZlFtQl94c2wyaUZRam92XzFzRHNYbHJYRHkwUUFDNUdRbTltT3M2S3dHNURWaFhiQQ?oc=5"
+      "category": "Climate",
+      "title": "ネパール・中国国境での洪水発生後、2,500人以上が行方不明のまま",
+      "summary": "ネパールと中国の国境付近で発生した大規模な洪水により、2,500人以上の人々が依然として行方不明となっています。救助活動が続けられていますが、被害は甚大で、国際的な支援が求められています。気候変動による災害の深刻さを改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mWUwyT3BheHdIMldlZV85S2FtQVM2akI4TTVZX3psal95T3NuRFgwRF80VFI0OTFLUFAzNmFfWTJsV1RVLXRKUVZORXJscjV4MnRKWHJwREZwNERtTlg0ZGRPZENQWG5USlNnWTMzSUd0dw?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、オンタリオ湖を「アメリカ湖」に改称する命令に署名、カナダとの確執をエスカレート",
-      "summary": "トランプ前大統領は、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名しました。この行動はカナダとの間で新たな火種を生み、外交関係に緊張をもたらす可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGh0d25Cc1V3c1gzaF9DNnhId3R4RnZNNExuSGZyMDBuNURaZldUd1FzaWJBVnN0LWpRWVVHU2lHWHFyWW5iZXpFWVMxV1V4a0N3bmhFWXluNW1TUkZvYTMyQWxyUEllWEZzbl9VWmVwVFAwOHAzSzhER1lWRjNYSDJaMU56SG1jaHc4X1JfVnpZckl6TkgtblVlMDQ?oc=5"
+      "category": "Conflict",
+      "title": "ライブアップデート：イラン戦争が6ヶ月目に突入、終結の兆し見えず",
+      "summary": "イランを巡る戦争が開始から6ヶ月を迎えましたが、現状では終結の兆しは見えていません。戦闘は継続しており、地域情勢の不安定化が深刻さを増しています。国際社会は事態の悪化を懸念しており、停戦に向けた外交努力が急務となっています。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3ZaTmR4OEVQWjVMZWRibUo2TGJTRDMtUVl6SmdLblprZlRsOXNPeTNvVmJRX2VUbU5JX3dCeXFfbUtqaExPa2pxZzByOEl4aDNNOThMajlXMnNHdFhFVlViTmIzTVZqMmh4RnVsMkdNTmV5ZGNVUThJYjZBRHpfdmFTY0QzYVpuUDdXUFl4c21VWDhvNWZib3NFbE00QQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "連邦判事、中間選挙における郵便投票を制限するトランプ氏の大統領令に再び待ったをかける",
-      "summary": "連邦判事は、中間選挙における郵便投票を制限しようとするトランプ前大統領の大統領令について、再び実施を差し止める判断を下しました。選挙の公正性に関する懸念が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0pySjlUWnNXcFpjdFNJUHFEQlJNenpuNTd6d2h1aUpvdmhibVNCMTZra0xpUzgwQW1Ya3dDcnM5XzlzRDZrbmV6Y3dqOGdrYnM2Z3VoeVlaay1lLUxIRGNVLW9yMXNxZFpLcGZXYnFpQWpLeEJ2aVZiTWJzMGxYdlVVdkdWbnBnTWxHNjdnSkJNbV81NlBxRkcwNVFXZTRRZjJNYTZweFl3UTNsTkQw?oc=5"
+      "title": "リンゼイ・クランシー裁判、金曜日の終日審議後も評決なし",
+      "summary": "リンゼイ・クランシー氏の裁判において、陪審は金曜日終日審議を行ったものの、評決には至りませんでした。事件の詳細は不明ですが、裁判の長期化は、関係者にとって精神的な負担が続いていることを示しています。評決は今後に持ち越されます。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3c1RVF3VUV6UmZ3MEVLNG12WGM3X01sbW5Ld1lJblZZUDlKeGZJdEF6X3JZNVBTSEk3dWF4Mk1nV2w2ZG5jdnFiQjVVRmQzdmxCcnRoNDhQc0ZIMVlfVUFRaFFsZ29nYl9mNjNXcmJzajFCZHZ4WEFCTEhhSWY2ekNJaE9GQzFiemdjMHRnYzVoX0VoenZEWtIBoAFBVV95cUxOTE5EUEM4T00tTzlON0ItYlB3THRtRW56V1NZdGRnMzRndW5VeldsRGk3d1c3OVFWNFBXdXc0NnBxU2VWWmVpNFJZOGxZVmxKRC1WZ0J4WU4yZDVhRm92dUxSeFgzVTZ4TG54dmltMmVWNWZPMWhVUnFqRnl1T3RibmRtV210Q3N5aDExb1BHYi05MmMwU0dNRl8tYXdVSHVn?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ホワイトハウス建設が、トランプ氏のヘリコプターがジェット機に接近した無線問題を引き起こす",
-      "summary": "ホワイトハウスの建設工事が、トランプ前大統領のヘリコプターが民間ジェット機に異常接近した際の無線通信上の問題を引き起こしたと報じられています。安全管理体制における懸念が浮上しています。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDhuZEEwWDVTTE5jZ2FDMEZ4UmotVVdXMFVtbEtURy1TelRIRzdjT0F5Q2pPUDVXTW56R1BUMUkxUDZBaW1qYkU4dWJpVjhJbXNxNjdlOVh4RTJnRnE2ZEdWVGdPSXhmeFhWR1hWclJwQjc3bS1xWGN5VGwzTGtYek41NjFabzRYQXNzQ1hkRnY4ZkZQbXlkREtPZWJjR2Rf?oc=5"
+      "title": "トランプ政権、郵便投票命令の発効を阻止する最新判決を不服として上訴",
+      "summary": "トランプ政権は、自身の郵便投票命令の発効を阻止する最新の判決に対し、不服申し立てを行いました。これは、選挙の公平性や投票手続きのあり方を巡る法廷闘争が続いていることを示しており、今後の選挙制度に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWxfNV9lZGM0QTFucVBRVmx5eVlGRnhLQlF4NmQtbVZUemxYNEVTaVNzNGNRb3lvTU5KMXY1d0VLanFGYmd2U2ZRQnhmeXE5VVNtakpiNmV6MWJYNzFqNVNXNHVyaE1CUUdKUGYzYVFxZTNDdUt2Yy1JNlhlMDI2NFBmLXQ5SzBhS1E1WmJlU3FKMUhHYkFadDNDYjF6UDk0Mmk2Nl8wN1FEREx5WlhJ?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "仮想現実を用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスと怪我予防に与える影響：管理された実験室実験",
-      "summary": "本研究では、仮想現実（VR）を用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスとACL（前十字靭帯）損傷予防に与える影響を評価しました。実験室環境での制御された実験により、VRトレーニングが特定の運動能力を向上させ、怪我のリスクを低減する可能性が示唆されました。",
+      "title": "VRを用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスと怪我予防に与える影響：管理された実験室実験",
+      "summary": "本研究は、VRを用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスとACL（前十字靭帯）損傷予防に与える影響を検証した。実験結果は、VRトレーニングが敏捷性向上に有効であり、怪我のリスク低減に貢献する可能性を示唆している。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "ランニングのバイオメカニクス入門",
-      "summary": "本記事では、ランニングの基本的なバイオメカニクスについて解説しています。着地時の衝撃吸収、地面反力、効率的な重心移動など、ランニングパフォーマンスに影響を与える身体の動きに焦点を当て、ランナーが怪我を防ぎ、より速く走るための知識を提供します。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
+      "title": "トレイルランニングのバイオメカニクス科学",
+      "summary": "トレイルランニングにおけるバイオメカニクスの科学的側面を解説。不整地での走行に特化した体の使い方や、効率的なエネルギー伝達、怪我の予防に繋がる動作について詳述する。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     }
   ],
   "monthly_top20": [
@@ -406,161 +349,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "VRを用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスと怪我予防に与える影響：管理された実験室実験",
-      "summary": "本研究は、VRを用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスとACL（前十字靭帯）損傷予防に与える影響を検証した。実験結果は、VRトレーニングが敏捷性向上に有効であり、怪我のリスク低減に貢献する可能性を示唆している。",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングのアジリティパフォーマンスと傷害予防効果：対照実験研究",
+      "summary": "本研究は、バスケットボール選手を対象に、VR（バーチャルリアリティ）を活用した神経筋トレーニングがアジリティ能力向上と傷害予防に与える影響を検証しました。対照実験の結果、VRトレーニング群は従来の方法と比較して、アジリティテストのスコアが有意に改善し、特定の膝関節傷害のリスクが低減される可能性が示されました。これは、VRがアスリートの運動学習と傷害予防プロトコルを強化する有望なツールであることを示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングのバイオメカニクス科学",
-      "summary": "トレイルランニングにおけるバイオメカニクスの科学的側面を解説。不整地での走行に特化した体の使い方や、効率的なエネルギー伝達、怪我の予防に繋がる動作について詳述する。",
+      "title": "トレイルランニングの生体力学",
+      "summary": "トレイルランニングにおける生体力学の科学的側面を探求する記事です。不均一な地形、勾配の変化、障害物などがランナーの身体に与える影響と、それに対応する身体の動きや力の使い方について解説しています。効率的なエネルギー消費、衝撃吸収、安定性の維持といった観点から、トレイルランニング特有の運動パターンを分析しています。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷を持つアスリートをスポーツに復帰させる方法",
-      "summary": "内側側副靱帯（MUCL）損傷を負ったアスリートが安全かつ効果的に競技に復帰するための包括的なアプローチについて解説。リハビリテーションの段階、復帰基準、再発予防策などを網羅している。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を説明",
+      "summary": "この記事では、医師がペプチド（アミノ酸の短い鎖）のスポーツ医学分野での潜在的な利用について解説しています。炎症の軽減、組織修復の促進、回復時間の短縮など、その有望な利点に焦点を当てつつ、未だ研究段階であることや、FDA（米国食品医薬品局）が規制に関して抱える懸念、そして使用者にとってのリスクについても詳しく説明しています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "スポーツ復帰プログラムでアスリートのパフォーマンスを安全に再開させるためのバレーヘルスシステム",
-      "summary": "バレーヘルスシステムが、アスリートが怪我から安全に競技レベルに復帰するための「Return to Sport Program」を開始した。このプログラムは、個々のアスリートの状態に合わせた評価とテーラーメイドのリハビリテーションを提供する。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
+      "title": "ニュージャージー州のスポーツ傷害リハビリセンターベスト10",
+      "summary": "ニュージャージー州で最も優れたスポーツ傷害リハビリテーションセンターを10箇所紹介する記事です。これらのセンターは、アスリートが安全に最高のパフォーマンスを取り戻せるよう、専門的な知識と最新の設備、個別化された治療計画を提供している点が評価されています。高度な理学療法から手術後のリハビリ、予防プログラムまで幅広いサービスが網羅されています。",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWw1NXRuOUZOZGhYcmNEV3AxSlppdjZ4N29DcGx2SnRyVkNULV9uWkdXdTRmTXluTm1tRjMxaHNnWlhpVFRWQmtCTEcyMWpMTVBFRDJzWWo5aExhNkh2VEkwVVoyUWFsUzdlWktSTmI5bWZiVEpiYzRiRWRORWQtZVMyWTFmT2VPdFktbGNidHhuUVJhbjVhdVNuYUZBbjRF0gGmAUFVX3lxTE1MeG1Pa2RKR0J0Y2Y1YjUwODFza1JTQmJLNXJPUGlTdFBTa2lZR2dEZ0RkcjF1M3pQYUVaWWtza0lVYnNRTlhQYmU2NklsTGthZ1J4YzBpNi1xV3doS216V0ROV1dLMG15aFNQZjRGa1J4MWk3UGdRSXZDdDhnNWRKQjFBXzFnWFVJSEgyUE5XUW1Bai1Ud09KSHN5OXNGN3d0ZU56VFE?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "本レビューは、アスリートの疼痛管理における西洋医学的鍼治療（アクパンクチャー）の有効性を、既存のランダム化比較試験（RCT）とそのメタアナリシスを評価した。疼痛軽減効果について分析している。",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療テクニック：システマティックレビューとメタアナリシス",
+      "summary": "本研究は、アスリートの疼痛管理において西洋医学的鍼治療（ドライニードリングなど）が有効であるかについて、複数の研究を統合したシステマティックレビューとメタアナリシスを実施しました。その結果、鍼治療が筋骨格系の疼痛軽減に一定の効果を示し、特にスポーツ関連の急性・慢性疼痛に対する補助療法として有用である可能性が示唆されました。しかし、さらなる大規模な研究が必要です。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "アスリートは何を摂取し、なぜ摂取するのか？ サプリメントの現状",
-      "summary": "トップアスリートがどのようなサプリメントを摂取し、その目的が何であるかを調査。パフォーマンス向上、回復促進、健康維持など、多様な目的でサプリメントが活用されている実態を伝える。",
+      "title": "サプリメント：アスリートは何を、なぜ摂取するのか？",
+      "summary": "本記事では、アスリートがどのようなサプリメントを摂取しているのか、またその理由について包括的に探求しています。パフォーマンス向上、回復促進、栄養不足の補完など、様々な目的でプロテイン、クレアチン、カフェインなどが利用されている現状を報告し、科学的根拠に基づく利用の重要性と、安易な摂取に伴う潜在的なリスクについても指摘しています。",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12blJzOXlRR1UyN25OY09qaW5RUVpBWEZfNFAwWi1zbF83Vkc1ckNocExTYTdYeDkydFdYOG1rZHphcENubmItX0NjOG01czdrM3JBV1lNMWhDRzg?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "ユースサッカーにおける相対年齢効果を検証するアスリート健康・パフォーマンスセンター",
-      "summary": "ユースサッカーにおいて、選手の誕生日による年齢グループ内での有利不利（相対年齢効果）がパフォーマンスに与える影響を分析。早期に生まれた選手が有利になりやすい傾向を指摘している。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
+      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対年齢効果を調査",
+      "summary": "アスリート健康パフォーマンスセンターは、ユースサッカーにおける「相対年齢効果」について調査を行いました。この効果は、同じ選抜期間内でも、生まれ月が早い選手が身体的・認知的に発達が先行しているために、より高いレベルに選抜されやすい傾向があるというものです。この研究は、選抜システムやトレーニングプログラムが若年層アスリートの成長に与える影響を深く掘り下げています。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3 DeqPBSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "睡眠とスポーツパフォーマンス：回復戦略と睡眠の影響を最適化する",
-      "summary": "本論説では、アスリートの回復戦略と睡眠がスポーツパフォーマンスに与える影響について論じている。質の高い睡眠が身体的・精神的な回復に不可欠であることを強調し、睡眠最適化の重要性を説く。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVXNUcybmQxVC04S01qazFGVndkbkowR3F5R011Wm1qbnpVOW1vM1hzc3hDQXMzeWF4ZXhHZVhldVp5Z1ppazVXM3pGZHZ4ZmJvQmNRbjNtZlFkbWJnMnhHellEd3JDTWFTczhOMDZ1T01LbjdoSFhSWnoyaXQ2bjJQdHBPQ19MVGZGTVo3dFpMMlNkekE5aVBMUGFOMFdNNVVJRQ?oc=5"
+      "title": "クリーンなスポーツの名のもとに睡眠は犠牲になったのか？",
+      "summary": "本記事は、ドーピング対策が強化される中で、アスリートがパフォーマンス向上や回復のために、科学的に証明された最も基本的な要素である「睡眠」を十分に確保できているのかという問いを投げかけています。クリーンなスポーツ環境を維持しようとする圧力と、アスリートが最適な状態を保つために必要な十分な休息との間の潜在的な対立について考察し、そのバランスの重要性を強調しています。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0VQYkJ6b2d3YXVVazF1YmVwYVdNNGdLY19YU3JRRGViaDNwTXNZVkpxVUM4aERENnllSVk0dERVYlFBemFCbkU3bGNPT1FBOU5sSExRa2pEbDdMZXg2QkVPS3lCNzVLZmoyXX ZFYV9jX09ySjg1amxmNGJuZlY4RW50TkZfYjRLdkVOWDJSNXFpcGt4WV9SWnFuYUsyb242ZXJEdENHTTEyUHlsVTZhWVA3NA?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "横浜市長、辞職へ パワハラ問題で市政継続困難に",
-      "summary": "横浜市の林文子市長が、パワーハラスメント問題により、市政の継続が困難になったとして、辞職する意向を固めたことが28日、分かった。市議会に辞職願を提出する見通し。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sb3EteFdMRGNPVEhCZlpIMXhES3dad3lhY2JwZXRoQnBzTENDZzJTY2RpTGVXOTBoekZkT0pVdEV1azdrLU9YdXZLc1I5OWh6eUs1UEFmb2doaU93a0dWeHdPdw?oc=5"
+      "category": "社会",
+      "title": "ネパール土石流「すべてを一瞬で押し流した」…死者５８４人・行方不明２５００人、不明５邦人は大阪の家族か",
+      "summary": "ネパールで発生した大規模な土石流により、死者584人、行方不明者2500人という甚大な被害が出ています。行方不明の5人の日本人は大阪の家族とみられ、現地では捜索活動が続いています。目撃者は「すべてが一瞬で押し流された」と語っており、被害の大きさを物語っています。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85TWFJdlZkdWNiNGQ1S2NOMXo3eHVpNDkwWTZuSGNpWHZNRmRNMnJMTldmaEJnUExpLTFGd0U5US1zQ2VWeTFscGtVbzROWTdsRzdpQmNERUlESE1uZnhsZjZB?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者390人超、行方不明者は計1450人以上に",
-      "summary": "ネパールと中国の国境付近で、記録的な豪雨による土石流が発生し、死者は390人を超え、行方不明者は1450人以上にのぼっています。今後、さらなる洪水の恐れもあり、現地の状況は深刻です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnOUxfYmVsWEV2UkpiSmxOdS1WT2w3amVBc0dXVENZczFkeVJZYUtsWDJXNXFpZmNlczc0Yld1cGxhckt4ZTEyb3hMend2NnJ3SUZPM1ZRZnVlRy1HQndr0gFkQVVfeXFMUFB6U1d4d253NjVlRkJWNWhfV3EtWTB5c0UxMlgtX1FXMFZRNVlvYUIxcXZ3ZndYZFZYZmllYm1pSldyYW5vMG5xRWQtRDdISUJNTjBUQ094UGYxc2liS3ZQQmszYw?oc=5"
+      "category": "政治",
+      "title": "立民、3党合流見送り 杉尾氏「中道は信任得ず」小西氏「仕方ない」石垣氏「立憲は立憲」",
+      "summary": "立憲民主党は、他2党との合流構想を見送ることを決定しました。党内からは「中道は信任を得られなかった」「仕方ない」といった声が聞かれる一方、「立憲は立憲として進むべき」との意見も出ており、今後の党の方向性が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jMmotV2FBUU1TVDJ1Mm5oQ0RnQW5ibmhBZkFsZFpDenE3N0xFaGZ1OS1Yd05VSmRpcXduQlZqUlI5Rkl2aThRLTBKYzFjTkp1d0hfYWljWm1EZmJBX1FHOEhoVmVjNlZnNENtd1U5eDhVQWdaUlE?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "トランプ氏、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名…「長い間考えてきた」「即時発効する」",
-      "summary": "トランプ前大統領は、カナダとの国境にあるオンタリオ湖を「アメリカ湖」に改称する大統領令に署名したと発表しました。「長い間考えてきた」と述べ、即時発効すると強調しました。カナダとの関係悪化が懸念されます。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxLVYyVnc2RmhuZkstMEJJdVhuUW9TQmZWcXlYUkR2M0FhdWxkdFVFakxhUEZFNzVsZDJLRWFyUG5mbzZvS2ZqeVA2R3NCSF9NX3AwMGh2Vl9wRHVlODdyeExn?oc=5"
+      "category": "政治",
+      "title": "福岡県議会の金銭授受疑惑、知事「蔵内氏は公の場で語って」…「見過ごしてきた当事者」指摘には「心からおわび」",
+      "summary": "福岡県議会での金銭授受疑惑を巡り、知事は「蔵内氏には公の場で説明を」と求めました。また、「見過ごしてきた当事者」との指摘に対しては「心からおわび申し上げる」と陳謝し、問題の解明と信頼回復に向けた姿勢を示しました。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80UVgzZ1I1eVYzdWRPQXlUR2NxOGtsLUtKa3M0dkxxRzdJZjhfUVJEc08xV3pXTFRnXzczalJxZF82aGtVN0E0S1NubFR6dUQ2SmZFQzRaZ3dPR2djRzdGQXgwY2NYQQ?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "裁判Plus 司法のリアル：退職代行から320万円 「モームリ」顧問弁護士が払った代償",
-      "summary": "退職代行サービス「モームリ」を巡る裁判で、顧問弁護士が法外な報酬を一部返還するよう命じられました。司法のリアルに迫る連載記事では、この事例を通じて弁護士の責任と代償に焦点を当てます。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ed0xpTEw4dW54aG9YNzdMNFQ3bE1rZDROLWowYy1uQmNEUl94RmFlS2U2X2tPbTgwcjNXVG40WmJVM0M4SVhWaFlZM2hsZlhmTTZialRtWV9zSkJpcEVhVFp3MGhIY25r?oc=5"
+      "category": "文化・エンタメ",
+      "title": "昭和天皇「独白録」の「台本」見つかる 成立過程が明らかに",
+      "summary": "昭和天皇の「独白録」の成立過程を明らかにする「台本」が新たに発見されました。これにより、独白録がどのように作成されたのか、その背景や意図について、新たな視点から分析が進むことが期待されます。歴史研究において重要な資料となるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jbmJ5eG5fc0h4allYSUd6WFJCcUZqS3RsOVNQWWdMU2FQVUtDby0xLS1CQ0tCa19SSHVsMWhjcjhydFhwakJrcWF1QmxnbC1WNElNTTV0SUdPaTRMZGlKTjNaSjRFZDlf?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "石川 富山の記録的な大雨から一夜明け 浸水の住宅で後片付け",
-      "summary": "石川県と富山県では、記録的な大雨により広範囲で浸水被害が発生しました。28日、各地で住民が片付け作業に追われています。土砂災害や河川の増水にも引き続き警戒が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vNzRuNHB1MWVnY1FZUlN3eEthcmNNV0lBN0dnTEdrTVZoZExFZ2Z1MTJ1TDRWc0k3N29QWFhLNlBZWHpyU2VaSC1nSzFTZGpQMWhDR01SbTdCOHg0MElV?oc=5"
+      "category": "政治",
+      "title": "横浜・山中市長の辞職表明に黒岩神奈川県知事「大変残念」 けさ電話で「一緒にグリーンEXPOを迎えたかったが職を辞することに」",
+      "summary": "横浜市の山中市長が辞職を表明したことに対し、神奈川県の黒岩知事は「大変残念」との見解を示しました。今朝の電話で山中市長から直接辞職の意向を聞き、「一緒にグリーンEXPOを迎えたかった」と語った知事の言葉から、両者の協力関係が伺えます。",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lM2Y3bzJSMXdQRkVRMHFMT0J6ZlNmZDZFT0VQdlFpNU4wN1FxRHVhRmZLZC1vdWpWcFFydV9lZ0NvWG9kU1JRQkU3dkRqdw?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "「皆死んで、私だけ生きた」 ネパール洪水、生存者は茫然自失",
-      "summary": "ネパールで発生した記録的な洪水からの生存者たちは、壊滅的な被害と多くの犠牲を前に、茫然自失としています。多くの人々が家を失い、家族や友人を亡くした悲しみと衝撃から立ち直れずにいます。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQVlNZUYzNXpGeDlsdklhY09VUDJDczVOZ01rd1lhSXZ5dXUzMkdva2tya0hPMmZ2QlZDQ3BtZHVqNWNCWWZfVkNEYzhJclQ1c0ZsYTVDTmxCWEowNGNUR19DcTFWY3FKYWRTS0VSYmFZY2xQQm1oX3BaQnJjZUJzR1NR?oc=5"
+      "category": "Politics",
+      "title": "トランプ大統領、米国がベネズエラ石油の大部分を管理すると発言",
+      "summary": "トランプ大統領は、米国がベネズエラの石油生産の大部分を掌握する意向を示したと報じられています。この発言は、ベネズエラの政治・経済状況に対する米国の介入姿勢を改めて示すものであり、国際社会に大きな波紋を広げる可能性があります。エネルギー政策と外交関係に影響を与えるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QbU5vYVJHV3BwQkJwY3JFOHZiSWtGclpLWm1IR2pTVWticldXc0xBaG1rNzNqVld6dGxDalM0MGR1RkRBWDg4WUpqYkF6c2ZSOGQ3SzJNME1aUE5wSjZmWXZJMA?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "裁判官、ケネディ・センター改修とトランプ氏による名称変更について司法省弁護士に質問攻め",
-      "summary": "連邦裁判官は、ケネディ・センターの改修工事と、トランプ前大統領による名称変更の試みに関連し、司法省の弁護士陣に対し、一連の経緯に関する疑問をぶつけました。司法取引や公的資金の使途について詳細な説明を求めた模様です。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY3M0Smg3N0liZWt3cVpkTFVNM1laRGxBcTU3T1F0SjFNMUUzUjVvX0VvVHFYYUN6Ylc1T0NwLXFYY1ctaXRnZkVFaHFSbFZTOGJVeHhJdExkQ2FGYWxILW94T202YXQtQUlBU2doSXdnN0ZGMG5rX08tb2Q2TnQ0dzgxSUZGWmVMNWE0SjJRTDFudW9xRzBWS0tkVkRrZlFtQl94c2wyaUZRam92XzFzRHNYbHJYRHkwUUFDNUdRbTltT3M2S3dHNURWaFhiQQ?oc=5"
+      "category": "Climate",
+      "title": "ネパール・中国国境での洪水発生後、2,500人以上が行方不明のまま",
+      "summary": "ネパールと中国の国境付近で発生した大規模な洪水により、2,500人以上の人々が依然として行方不明となっています。救助活動が続けられていますが、被害は甚大で、国際的な支援が求められています。気候変動による災害の深刻さを改めて浮き彫りにしています。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mWUwyT3BheHdIMldlZV85S2FtQVM2akI4TTVZX3psal95T3NuRFgwRF80VFI0OTFLUFAzNmFfWTJsV1RVLXRKUVZORXJscjV4MnRKWHJwREZwNERtTlg0ZGRPZENQWG5USlNnWTMzSUd0dw?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、オンタリオ湖を「アメリカ湖」に改称する命令に署名、カナダとの確執をエスカレート",
-      "summary": "トランプ前大統領は、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名しました。この行動はカナダとの間で新たな火種を生み、外交関係に緊張をもたらす可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGh0d25Cc1V3c1gzaF9DNnhId3R4RnZNNExuSGZyMDBuNURaZldUd1FzaWJBVnN0LWpRWVVHU2lHWHFyWW5iZXpFWVMxV1V4a0N3bmhFWXluNW1TUkZvYTMyQWxyUEllWEZzbl9VWmVwVFAwOHAzSzhER1lWRjNYSDJaMU56SG1jaHc4X1JfVnpZckl6TkgtblVlMDQ?oc=5"
+      "category": "Conflict",
+      "title": "ライブアップデート：イラン戦争が6ヶ月目に突入、終結の兆し見えず",
+      "summary": "イランを巡る戦争が開始から6ヶ月を迎えましたが、現状では終結の兆しは見えていません。戦闘は継続しており、地域情勢の不安定化が深刻さを増しています。国際社会は事態の悪化を懸念しており、停戦に向けた外交努力が急務となっています。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3ZaTmR4OEVQWjVMZWRibUo2TGJTRDMtUVl6SmdLblprZlRsOXNPeTNvVmJRX2VUbU5JX3dCeXFfbUtqaExPa2pxZzByOEl4aDNNOThMajlXMnNHdFhFVlViTmIzTVZqMmh4RnVsMkdNTmV5ZGNVUThJYjZBRHpfdmFTY0QzYVpuUDdXUFl4c21VWDhvNWZib3NFbE00QQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "連邦判事、中間選挙における郵便投票を制限するトランプ氏の大統領令に再び待ったをかける",
-      "summary": "連邦判事は、中間選挙における郵便投票を制限しようとするトランプ前大統領の大統領令について、再び実施を差し止める判断を下しました。選挙の公正性に関する懸念が示されています。",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0pySjlUWnNXcFpjdFNJUHFEQlJNenpuNTd6d2h1aUpvdmhibVNCMTZra0xpUzgwQW1Ya3dDcnM5XzlzRDZrbmV6Y3dqOGdrYnM2Z3VoeVlaay1lLUxIRGNVLW9yMXNxZFpLcGZXYnFpQWpLeEJ2aVZiTWJzMGxYdlVVdkdWbnBnTWxHNjdnSkJNbV81NlBxRkcwNVFXZTRRZjJNYTZweFl3UTNsTkQw?oc=5"
+      "title": "リンゼイ・クランシー裁判、金曜日の終日審議後も評決なし",
+      "summary": "リンゼイ・クランシー氏の裁判において、陪審は金曜日終日審議を行ったものの、評決には至りませんでした。事件の詳細は不明ですが、裁判の長期化は、関係者にとって精神的な負担が続いていることを示しています。評決は今後に持ち越されます。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3c1RVF3VUV6UmZ3MEVLNG12WGM3X01sbW5Ld1lJblZZUDlKeGZJdEF6X3JZNVBTSEk3dWF4Mk1nV2w2ZG5jdnFiQjVVRmQzdmxCcnRoNDhQc0ZIMVlfVUFRaFFsZ29nYl9mNjNXcmJzajFCZHZ4WEFCTEhhSWY2ekNJaE9GQzFiemdjMHRnYzVoX0VoenZEWtIBoAFBVV95cUxOTE5EUEM4T00tTzlON0ItYlB3THRtRW56V1NZdGRnMzRndW5VeldsRGk3d1c3OVFWNFBXdXc0NnBxU2VWWmVpNFJZOGxZVmxKRC1WZ0J4WU4yZDVhRm92dUxSeFgzVTZ4TG54dmltMmVWNWZPMWhVUnFqRnl1T3RibmRtV210Q3N5aDExb1BHYi05MmMwU0dNRl8tYXdVSHVn?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ホワイトハウス建設が、トランプ氏のヘリコプターがジェット機に接近した無線問題を引き起こす",
-      "summary": "ホワイトハウスの建設工事が、トランプ前大統領のヘリコプターが民間ジェット機に異常接近した際の無線通信上の問題を引き起こしたと報じられています。安全管理体制における懸念が浮上しています。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDhuZEEwWDVTTE5jZ2FDMEZ4UmotVVdXMFVtbEtURy1TelRIRzdjT0F5Q2pPUDVXTW56R1BUMUkxUDZBaW1qYkU4dWJpVjhJbXNxNjdlOVh4RTJnRnE2ZEdWVGdPSXhmeFhWR1hWclJwQjc3bS1xWGN5VGwzTGtYek41NjFabzRYQXNzQ1hkRnY4ZkZQbXlkREtPZWJjR2Rf?oc=5"
+      "title": "トランプ政権、郵便投票命令の発効を阻止する最新判決を不服として上訴",
+      "summary": "トランプ政権は、自身の郵便投票命令の発効を阻止する最新の判決に対し、不服申し立てを行いました。これは、選挙の公平性や投票手続きのあり方を巡る法廷闘争が続いていることを示しており、今後の選挙制度に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWxfNV9lZGM0QTFucVBRVmx5eVlGRnhLQlF4NmQtbVZUemxYNEVTaVNzNGNRb3lvTU5KMXY1d0VLanFGYmd2U2ZRQnhmeXE5VVNtakpiNmV6MWJYNzFqNVNXNHVyaE1CUUdKUGYzYVFxZTNDdUt2Yy1JNlhlMDI2NFBmLXQ5SzBhS1E1WmJlU3FKMUhHYkFadDNDYjF6UDk0Mmk2Nl8wN1FEREx5WlhJ?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "仮想現実を用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスと怪我予防に与える影響：管理された実験室実験",
-      "summary": "本研究では、仮想現実（VR）を用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスとACL（前十字靭帯）損傷予防に与える影響を評価しました。実験室環境での制御された実験により、VRトレーニングが特定の運動能力を向上させ、怪我のリスクを低減する可能性が示唆されました。",
+      "title": "VRを用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスと怪我予防に与える影響：管理された実験室実験",
+      "summary": "本研究は、VRを用いた神経筋トレーニングがバスケットボール選手の敏捷性パフォーマンスとACL（前十字靭帯）損傷予防に与える影響を検証した。実験結果は、VRトレーニングが敏捷性向上に有効であり、怪我のリスク低減に貢献する可能性を示唆している。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "ランニングのバイオメカニクス入門",
-      "summary": "本記事では、ランニングの基本的なバイオメカニクスについて解説しています。着地時の衝撃吸収、地面反力、効率的な重心移動など、ランニングパフォーマンスに影響を与える身体の動きに焦点を当て、ランナーが怪我を防ぎ、より速く走るための知識を提供します。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczcwMXRRRXZOWG9CUmZZUHgwVkNDd3dIMVNIam55eGlYalo1ZDNlX1E2UjMzNzhSbEVZcFRsNzNBTk5BZVFXNHI5dS1ySkpHLW1LZUtYYnR6dTkyVnJrd0pyWDlnYlJfVzlpM2xNZktvMUNEUndaTWhGUVJ3YzBsWjh0aEZpTGgwcUJCaHo0eHgzOHhONGc?oc=5"
+      "title": "トレイルランニングのバイオメカニクス科学",
+      "summary": "トレイルランニングにおけるバイオメカニクスの科学的側面を解説。不整地での走行に特化した体の使い方や、効率的なエネルギー伝達、怪我の予防に繋がる動作について詳述する。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     }
   ]
 };
