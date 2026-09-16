@@ -1,15 +1,15 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/09/16",
-  "generated_at": "2026-09-15T23:17:09.611Z",
+  "issue_date": "2026/09/17",
+  "generated_at": "2026-09-16T23:22:00.783Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングのアジリティ向上と傷害予防効果：対照実験研究",
-      "source": "Nature",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングがアジリティパフォーマンスと傷害予防に与える影響：対照実験",
+      "source": "nature.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
-      "abstract": "この実験研究は、バスケットボール選手を対象に、VRを活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を評価しました。研究結果は、VR環境でのトレーニングが選手の運動能力を向上させ、特定の膝靭帯損傷（ACLなど）のリスクを低減する可能性を示唆しています。このアプローチは、従来のトレーニング法に比べてよりインタラクティブで効果的な介入となり得ます。",
-      "insight": "VRを取り入れた神経筋トレーニングは、チーム練習や個別のリハビリテーションプログラムに導入することで、選手のアジリティと怪我予防を同時に強化できる可能性があります。特に、怪我からの復帰プロセスにおいて、段階的な負荷設定やリアルタイムフィードバックの提供に役立つでしょう。",
+      "abstract": "バスケットボール選手を対象に、VRを用いた神経筋トレーニングがアジリティ能力向上と傷害予防に及ぼす効果を検証しました。VR環境でのトレーニングは、従来のトレーニングよりも高い没入感と正確なフィードバックを提供し、素早い方向転換能力の向上と膝関節への負荷軽減に寄与する可能性が示唆されました。これにより、ACL損傷などのリスク低減が期待されます。",
+      "insight": "VR技術を応用した神経筋トレーニングは、スポーツ現場において、より効果的でモチベーションを維持しやすい傷害予防プログラムとして導入検討の価値があります。特に、バスケットボールのようにアジリティが求められる競技で有効でしょう。",
       "published_at": "2026-08-05T07:00:00.000Z"
     },
     {
@@ -18,8 +18,8 @@ window.DIGEST_DATA = {
       "title": "トレイルランニングのバイオメカニクス科学",
       "source": "Trail Runner Magazine",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
-      "abstract": "この記事は、トレイルランニングにおける独特な地形がランナーのバイオメカニクスに与える影響を包括的に解説しています。特に、不均一な路面での着地衝撃、姿勢の安定性、筋肉の活動パターンに焦点を当て、一般的なロードランニングとの違いを強調しています。効率的な動きと怪我のリスク低減のための科学的根拠を提供します。",
-      "insight": "トレイルランナーは、足首の安定性や体幹の強化に重点を置いたトレーニングを取り入れることで、パフォーマンス向上と怪我予防が期待できます。不整地での適応能力を高めるための実践的なドリルを指導に組み込むと良いでしょう。",
+      "abstract": "トレイルランニングにおける複雑な地形での動作に焦点を当て、そのバイオメカニクスを解説する記事です。路面状況の変化に応じた着地パターン、重心移動、筋活動の変化などが分析され、効率的な走行と傷害予防のための体の使い方、特に足首と膝の安定性の重要性が強調されています。",
+      "insight": "トレイルランナーは、不整地での適応能力を高めるため、特定の筋力トレーニングや動きの練習を取り入れ、着地や重心移動の意識を持つことでパフォーマンス向上と怪我のリスク低減に繋がります。",
       "published_at": "2026-08-20T07:00:00.000Z"
     },
     {
@@ -28,8 +28,8 @@ window.DIGEST_DATA = {
       "title": "ペプチド：医師が効能、リスク、FDAの懸念を解説",
       "source": "UCHealth",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "abstract": "本記事は、ペプチドがスポーツ医学や健康分野で注目される背景と、その潜在的な効能について医師の見解を提示しています。一方で、使用に伴うリスクや、米国食品医薬品局（FDA）が安全性・有効性について懸念を示している現状も詳細に説明しています。特に、未承認のペプチド製品の利用には慎重な判断が求められるとしています。",
-      "insight": "選手や患者がペプチドの使用を検討する際には、その科学的根拠、潜在的なメリットとリスク、そして法的な規制状況について、医療専門家から正確な情報を提供することが不可欠です。安易な利用を避け、エビデンスに基づいた判断を促すべきです。",
+      "abstract": "スポーツ医学分野で注目されるペプチドについて、医師がその潜在的な効能、関連するリスク、そして米国食品医薬品局（FDA）の規制上の懸念を詳細に説明しています。筋肉回復、抗炎症作用などのメリットがある一方で、未承認製品の使用に伴う安全性や副作用の不確実性が指摘されています。",
+      "insight": "アスリートや指導者は、ペプチド製品の利用を検討する際、その効果だけでなく、安全性や法的な側面についても十分な情報収集を行い、専門医と相談することが重要です。",
       "published_at": "2026-07-24T07:00:00.000Z"
     },
     {
@@ -38,96 +38,96 @@ window.DIGEST_DATA = {
       "title": "理学療法：リハビリテーションの原則、連携、協力",
       "source": "American Academy Of Family Physicians | AAFP",
       "url": "https://news.google.com/rss/articles/CBMiYAFVX3lxTFBpazhiRUtJTFkwUm5ycWEtXzlMOHltX21rY1N2WGlFN2JMaVc2Rm5rMEk3U0UweTdfVU5pbmRVSDByaXpzMUdhNnhxdXpMNzE4emZpSDJ2UzJBRHZWOGo5TA?oc=5",
-      "abstract": "本論文は、理学療法の基本的なリハビリテーション原則を再確認し、患者の回復を最大化するための医療チーム内での連携と協力の重要性を強調しています。特に、家族医や他の専門職との密なコミュニケーションが、患者中心の包括的なケアプランを構築し、治療効果を高める上で不可欠であると論じています。",
-      "insight": "傷害リハビリテーションにおいては、理学療法士が医師、トレーナー、患者本人、家族と連携し、回復目標と進捗状況を共有することで、よりスムーズで効果的な復帰プログラムを実現できます。情報共有の定期的ミーティングを設定することが推奨されます。",
+      "abstract": "理学療法におけるリハビリテーションの基本原則、そして他職種との連携と協力の重要性について論じられています。患者中心のアプローチ、個別化された治療計画、そして医師やアスレチックトレーナーなど多職種間の密なコミュニケーションが、効果的な回復と競技復帰に不可欠であると強調されています。",
+      "insight": "スポーツ現場の医療チームは、理学療法士との連携を強化し、選手の怪我からの回復過程で一貫性のあるサポートを提供することで、安全かつ迅速な競技復帰を促進できるでしょう。",
       "published_at": "2026-09-15T16:51:20.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アクパンクチャーボディワークが産後回復と整形外科的懸念に特化した鍼治療を提供",
+      "title": "鍼灸ボディワーク、産後回復と整形外科的懸念に特化した鍼灸ケアを提供",
       "source": "Issuewire.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVBVamJVRHJfd1RtbVE2WnFPRlhoSmRXSG40dTgzTDNaVFVIcElmT3VSR0c3cHRlUTJLeV94NVF3MktMVF9OTk9ZY2s4QUNUZWVaNUNybVBwT05LV2piRHR3dVBIQW9nb2VuYmR3R2FCTVo3blNUakFNZEVETUVvSFRLYV8yNzFxdXlqdFNtMWJHY3JsSzBtbXhvaFVkQUxLMS16UVdROWZ4cW1ieVVfOHJjcl8zSEFkbXNzRUxWNkVMNUVWN3Y2dGQ5di1QRG1BcWEtcEQtNWw4S2Q5bmc?oc=5",
-      "abstract": "アクパンクチャーボディワークは、産後の女性が経験する身体的回復の課題や、スポーツ選手を含む患者の整形外科的な痛みに対応するための専門的な鍼治療サービスを提供していると報じられています。このサービスは、伝統的な鍼灸の知見に基づき、特定の症状緩和と機能回復を目指しています。",
-      "insight": "産後アスリートの復帰支援や、通常の治療で改善が見られない整形外科的疾患を持つ選手に対し、西洋医学的アプローチと併用して鍼治療を提案することは、新たな選択肢となり得ます。患者の状態を正確に評価し、適切な治療計画を立てることが重要です。",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVBVamJVRHJfd1RtbVE2WnFPRlhoSmRXSG40dTgzTDNaVFVIcElmT3VSR0c3cHRlUTJLeV94NVF3MktMVF9OTk9ZY2s4QUNUZWVaNUNybVBwT05LV2piRHR3dVBIQW9nb2VuYkR3R2FCTVo3blNUakFNZEVETUVvSFRLYV8yNzFxdXlqdFNtMWJHY3JsSzBtbXhvaFVkQUxLMS16UVdROWZ4cW1ieVVfOHJjcl8zSEFkbXNzRUxWNkVMNUVWN3Y2ZlQ5di1QRG1BcWEtcEQtNWw4S2Q5bmc?oc=5",
+      "abstract": "Issuewire.comの報道によると、鍼灸ボディワークは、産後の女性や整形外科的な問題を抱える人々に対し、専門的な鍼灸ケアを提供しています。この治療は、筋肉や関節の痛み、機能回復、そして全体的な体調改善に焦点を当てており、特に女性アスリートの産後回復や既存の怪我へのアプローチとして有効である可能性を示唆しています。",
+      "insight": "女性アスリートの産後の体調管理や、慢性的な整形外科的痛みに悩む選手に対して、鍼灸治療が補完的なアプローチとして活用できる可能性があるでしょう。",
       "published_at": "2026-09-08T10:13:56.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "10代アスリートのスポーツサプリメント：推奨、注意、避けるべきもの",
+      "title": "ティーン向けスポーツサプリメント：推奨、慎重な使用、避けるべきもの",
       "source": "Contemporary Pediatrics",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5",
-      "abstract": "この記事は、成長期の10代アスリートにおけるスポーツサプリメントの使用について、小児科医の視点から包括的なガイドラインを提供しています。特定のサプリメントの推奨、潜在的なリスクを考慮した上での慎重な使用、そして絶対に避けるべき製品について具体的に説明しています。栄養摂取はまず食事からが基本であることを強調しています。",
-      "insight": "10代アスリートの指導者や保護者は、サプリメントの安易な使用を避け、専門家（医師、管理栄養士）の助言を求めるべきです。特に成長期には、食事からの適切な栄養摂取が最も重要であり、サプリメントはあくまで補助的な位置づけであることを徹底して伝える必要があります。",
+      "abstract": "思春期のアスリートを対象としたスポーツサプリメントについて、小児科医の視点から推奨されるもの、慎重な検討が必要なもの、そして避けるべきもののガイドラインを提示しています。安全性、有効性、成長への影響などを考慮し、適切な栄養摂取が最優先であることを強調しています。",
+      "insight": "若年アスリートの指導者は、サプリメントの利用を検討する際に、このガイドラインを参考に、個々の選手の状態や成長段階を考慮し、保護者や医療専門家と連携して慎重な判断を下すべきです。",
       "published_at": "2026-09-14T18:15:21.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
+      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
       "source": "ECNL",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5",
-      "abstract": "アスリート健康パフォーマンスセンターは、ユースサッカー選手における「相対的年齢効果（RAE）」、つまり同じ年齢区分内で生まれた月が早い選手が有利になる現象を調査しました。この研究は、RAEが選手の選抜、育成、心理的発達に与える影響を分析し、より公平な育成システム構築のための示唆を提供しています。",
-      "insight": "ユーススポーツの指導者は、相対的年齢効果を理解し、生まれた月だけで選手の能力を判断しないよう注意する必要があります。才能の発掘と育成において、身体的成熟度だけでなく、技術、戦術理解、心理的側面も総合的に評価する視点を持つべきです。",
+      "abstract": "アスリート健康パフォーマンスセンターが、ユースサッカーにおける相対的年齢効果（RAE）の影響を調査しました。これは、同じ学年内でも生まれ月が早い選手が身体的優位性を持つことで、才能の識別や育成において不公平が生じる現象です。早期選抜や指導方法に与える影響が分析されています。",
+      "insight": "ユーススポーツの指導者は、相対的年齢効果を理解し、生まれ月によって選手を評価するのではなく、長期的な成長と発達を考慮した多様なアプローチで選手育成を行うべきでしょう。",
       "published_at": "2026-08-03T07:00:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリステン・ホームズ氏が語る、睡眠とリカバリーがいかにハイパフォーマンスを形成するか",
-      "source": "WHOOP",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5",
-      "abstract": "この記事では、WHOOPの専門家であるクリステン・ホームズ氏が、アスリートのハイパフォーマンスを維持・向上させる上で睡眠とリカバリーがいかに重要であるかを解説しています。彼女は、適切な睡眠習慣と効果的なリカバリー戦略が、身体的および精神的パフォーマンスに直接影響を与えるメカニズムと実践的なアプローチを紹介しています。",
-      "insight": "最高のパフォーマンスを引き出すためには、トレーニング内容だけでなく、個々のアスリートに合わせた睡眠プランとリカバリー戦略を立てることが不可欠です。選手には、睡眠の質と量の重要性を理解させ、リカバリー活動を日々のルーティンに組み込むよう指導すべきです。",
-      "published_at": "2026-06-16T07:00:00.000Z"
+      "title": "ソーシャルメディアが若年アスリートのメンタルヘルスに与える影響：横断研究",
+      "source": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGJWSGg4RkpQaGthbXd1VzhQVDJwZGhQaU5NWkJNcEdJZXFvbDd4Z2dtQnVvSklxUW16dHN4eEtpUFVvVmFPVkdMTHNxdFhwVklaeDlnWng1Z041bl80UU5tcXlvSmZmWkdSamV2d2Vac1dsMmkwOGJjT0VIM2NpaGt6UnhXa1d0ci1wWWVyb3NDZw?oc=5",
+      "abstract": "若年アスリートにおけるソーシャルメディア利用がメンタルヘルスに与える影響について、横断研究によって調査されました。研究では、ソーシャルメディアの過度な利用やネガティブなコンテンツへの接触が、不安感、自己肯定感の低下、睡眠障害といったメンタルヘルスの問題と関連する可能性が示唆されました。",
+      "insight": "指導者や保護者は、若年アスリートのソーシャルメディア利用状況を把握し、健全な利用を促すとともに、メンタルヘルスに関するサポート体制を強化する必要があるでしょう。",
+      "published_at": "2026-05-18T14:57:21.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
       "category": "政治",
-      "source": "読売新聞",
-      "title": "きょう自民党役員人事、内閣改造はなぜ別の日に…政府高官「全部１日だときつい」「働き方改革の一環」",
-      "summary": "自民党の役員人事が本日行われる一方で、内閣改造は別の日程となる見込みです。政府高官は、両方を同日に行うことの負担が大きいと説明し、「働き方改革」の一環でもあるとコメントしています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtVmp3ZkJtWTRrVl9VU0RTd0FLY3BDbW0wSGt6RER1MUJuS2V4bFFrTFkwU1BRR05VUDJkalE0R01hVGZBVWlPTkFKcC0wbXpxUnVhakF0cHNWQmtaS1RNWmFObVNCZw?oc=5",
-      "published_at": "2026-09-15T20:00:00.000Z"
+      "source": "毎日新聞",
+      "title": "読む政治：変わらぬ「麻生氏頼み」のひずみ 極秘の電話で詰めた自民党人事",
+      "summary": "毎日新聞の「読む政治」コラムは、自民党内の人事において麻生氏への依存が続いている現状とその歪みに焦点を当てています。極秘の電話会談を通じて進められた人事調整の舞台裏が描かれ、党内の力学とその影響が分析されています。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91N1lVNVVHakFJTFJfM2MtSkNtMmd2ekVYLU9qWVF3UEVnNHBnaV81YlViSWF3VGE0VkhpLVRvVDctQTdxMjBmRTBsa3ZOOXBvS295bjl5VzVpME9RdHNNWEQtSDhQSU9O?oc=5",
+      "published_at": "2026-09-16T09:48:45.000Z"
     },
     {
       "id": "j002",
-      "category": "社会",
-      "source": "NHKニュース",
-      "title": "辺野古沖転覆事故 遺族「学校は自分たちのことばで説明を」 | NHKニュース | 事件・事故、沖縄県",
-      "summary": "沖縄県辺野古沖での転覆事故を受け、遺族が学校に対し、事故について「自分たちのことばで」説明するよう求めています。事故の経緯や対応に関して、透明性のある説明が求められています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uQTdpRW83T0ZxUzFYQk9UYjJBczlLLXRZYkhBNDdmcy1IYWNKMUl1a013WmtpeDNXeld2T3lhOUNPeW5BOTVvVzZPQVdqTl9SR2JwSUdBSDFLNUJhTUpZ?oc=5",
-      "published_at": "2026-09-15T09:34:00.000Z"
+      "category": "国際",
+      "source": "47NEWS",
+      "title": "【速報】サウジ石油施設を攻撃とフーシ派",
+      "summary": "速報によると、イエメンのフーシ派がサウジアラビアの石油施設を攻撃したと発表しました。この攻撃は中東地域の緊張を高める可能性があり、国際社会の動向が注視されます。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBodkxJeWFpVWpwbk9OVzlMZDFab3BDcGk0R3NYYUNhMUlCOVpaWnJZY3IwMkpRWUh5VVNJN3c3bS1TMW90QjNIVUF0NA?oc=5",
+      "published_at": "2026-09-16T12:06:23.000Z"
     },
     {
       "id": "j003",
-      "category": "国際",
-      "source": "日本経済新聞",
-      "title": "サウジアラビアの東西パイプライン、復旧に数週間 AP報道",
-      "summary": "サウジアラビアの東西を結ぶ重要な石油パイプラインが、復旧に数週間かかる見通しであることがAP通信の報道で明らかになりました。この事態は、原油市場に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WZjRMbWRvR0NveWJMc1ZnYWp3dGNpc0cxRS00Z011UkQ5NkQyRXBYaF9nUVNrVVJtSnBGa251YmEtYmFpYVBBS2NsTE8xSndKeW9WRlNwS0N0OUozdjRfdl9YaGg1MUN0bHhGag?oc=5",
-      "published_at": "2026-09-15T00:30:14.000Z"
+      "category": "政治",
+      "source": "TBS NEWS DIG",
+      "title": "高市総理あす内閣改造へ 維新から閣僚起用で正式合意、中司氏で調整 “能力主義”に政権幹部「ある意味実験的なものに」",
+      "summary": "高市総理は明日、内閣改造を行う予定で、日本維新の会からの閣僚起用が正式合意され、中司氏が調整されています。政権幹部は「能力主義」に基づいた今回の改造を「ある意味実験的なものになる」とコメントしており、今後の政権運営に注目が集まります。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aN184UEQ1QWRwSm1JNmZCYTRQMnk1c2pJX2liSGpKeEtVdXhQdjVhU2M4Y1h0Z3VaVzRWaU5tdXRlM2hhYkd4dXlPQ2pkNXM3SXZNTGFsOA?oc=5",
+      "published_at": "2026-09-16T09:14:00.000Z"
     },
     {
       "id": "j004",
       "category": "社会",
-      "source": "読売新聞",
-      "title": "豪雨の夜、想定の倍以上の帰宅困難者が千葉県庁に集中「ギリギリの対応だった」…滞在施設の周知・誘導に課題",
-      "summary": "豪雨に見舞われた夜、千葉県庁には想定を大幅に上回る帰宅困難者が殺到し、対応が「ギリギリ」の状態だったと報じられています。滞在施設の周知や誘導体制に課題が浮き彫りとなりました。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10UmVfTUJDVU1IUVdnZWNkbFdqOHpmUk1RTGFpZ1FpWks3bVlhai02NVdHcXh1SG1sSWJPZ2ZzR1FIWDBsdWR2NG9WTzJhLWZnMXpWQmtCNkpzMGVUdVE1QTBYOGpOZw?oc=5",
-      "published_at": "2026-09-15T20:00:00.000Z"
+      "source": "weathernews.jp",
+      "title": "週間天気予報 シルバーウィークは台風25号の影響懸念 西日本は晴れるところ多い",
+      "summary": "週間天気予報によると、今年のシルバーウィークは台風25号の影響が懸念されていますが、西日本では晴れる地域が多いと予測されています。週末にかけての気象情報に注意が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iVDRPbXdLbWxQSF9CWUNIaW56TGt0a2VaZGVYVEdNYnlfTk9HUVJBeG5rSjMzaDdnd0ZqR282LURLSEFBYWJKNnNjWXpydE43WWNaUA?oc=5",
+      "published_at": "2026-09-16T20:20:00.000Z"
     },
     {
       "id": "j005",
-      "category": "環境・気候",
-      "source": "ウェザーニュース",
-      "title": "台風発生予想 シルバーウィークに本州方面へ 次に発生すると「台風25号」",
-      "summary": "シルバーウィーク期間中に、本州方面へ向かう可能性のある台風の発生が予想されています。次に発生する台風は「台風25号」となる見込みで、今後の進路情報に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10bjRDTlpWZXNVN2pOSTItYmlfaFB0T2dPVXd1MVQ2d0dEVjBOcVNzYy1CTW5JZVJwRkphX0N5Rm1NNGQtemhtVTliRHdTNzRRVDZRbQ?oc=5",
-      "published_at": "2026-09-15T20:59:00.000Z"
+      "category": "社会",
+      "source": "NHKニュース",
+      "title": "山形 酒田 6歳男児行方不明で警察が防犯カメラ映像を公開",
+      "summary": "山形県酒田市で6歳の男児が行方不明となり、警察は防犯カメラの映像を公開して情報提供を呼びかけています。地元住民も捜索に協力しており、一日も早い発見が望まれます。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mVGJRamE3RS0zSUtTcEdwZWxHV2JDMFQtMEtLLVlTenBhdjUtcUpyYS1CQ0haVFd4aVVEaWJpanJCbmU4Qm5LNTIxcWxvLXl4c0JaRnpvSTc2Mlg0dGFj?oc=5",
+      "published_at": "2026-09-16T11:40:28.000Z"
     }
   ],
   "global_news": [
@@ -135,51 +135,51 @@ window.DIGEST_DATA = {
       "id": "g001",
       "category": "Politics",
       "region": "US",
-      "source": "NBC News",
-      "title": "トランプ氏が選任したケネディセンター理事会、改修のため会場即時閉鎖を決定",
-      "summary": "トランプ氏が任命したケネディセンター理事会が、大規模な改修工事のため会場を直ちに閉鎖することを決定しました。この動きは、文化施設運営における政治的影響を巡る議論を呼んでいます。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUs4cW5ObUl6MlVlTWNkNElRVGNQaVFrNU5pYUZJOGJBMEpYaVFEbmtnTk9OVDZRNGlUNF9fams2QzIxWUdOU3JlUE1wNTFFbFJWUlZyODByYm1lU2FjLWN2d3ZzU3lnUXBvcU9LMDFtcDdjYjZqTGwycGZzb18yc3E4UUtEY3hsX3ltM3A4d05ERmRycVMwamFheXB2dzNxX0d3LTJyLVg2dmtHbVc2TzRKWXF3cVVZc2VrRDkyN0pmR3M2cWZWZGtXMWVEdw?oc=5",
-      "published_at": "2026-09-15T20:40:09.000Z"
+      "source": "AP News",
+      "title": "トランプ氏寄りの理事会が閉鎖を決議後、ケネディセンター本館周辺にフェンスが設置される",
+      "summary": "トランプ氏に同調する理事会が閉鎖を決定したことを受け、ワシントンD.C.のケネディセンター本館周辺にフェンスが設置されました。この決定は文化施設運営における政治的影響を巡る議論を巻き起こしています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObC10Q2xCdEtYZzZHVElOamk3X19QVGtfYi1LS3BlanhOT1hMWmJ2REZBZWtQYWlmaXFfRUF4ZzdzU3dDalFFbHpxZ3E4M1BLakRsT0dZWS1zRTFDRWdGbFlNZ0hlc0o4RTBEbHU1clpSYy1TLV82YmgxSTZ5eGRuaWJZVmRmQkh1eS1IMkNYaEotNDU4ZTZCR0ttQnVfQ1V1RkZ0YQ?oc=5",
+      "published_at": "2026-09-16T19:45:00.000Z"
     },
     {
       "id": "g002",
       "category": "Politics",
       "region": "US",
-      "source": "AP News",
-      "title": "トランプ氏、郵便投票規制の試みを最高裁に却下され非難",
-      "summary": "ドナルド・トランプ氏は、郵便投票の規制を求める自身の提訴が最高裁によって却下されたことに対し、公然と非難の声を上げました。この決定は、今後の選挙制度に関する論争に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0NGR0RicUtTb0ExUGROZVNyajF2eGh6cGhqTlF4bGVGa05SMGF4anloa0pwS3FxWHhIM1NwU1dFV1VneExKeHNhcGtQdDg5UkMtSm5sRkh2M0RVWG1HOURuRzd5d3VMaUYxSzhDLWxvVFV4UTlsODRRbTBhRE5kdU55ZU96Y3g3aDZtNHJIMnBXRUM0TWJubEVOSEZqZUE5?oc=5",
-      "published_at": "2026-09-15T18:55:00.000Z"
+      "source": "Axios",
+      "title": "マッシー議員、ヘグセス氏弾劾の動きを共和党指導部に秘密にしていた",
+      "summary": "マッシー議員がヘグセス氏の弾劾に関する動きを共和党の指導部に秘密にしていたことが明らかになりました。この動きは党内の不和を浮き彫りにし、今後の政治情勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40YUVzU0hsLXhHVEVXa0FnaUNuSm9XN0UzSTkzdHZEWkdLXzYtYzFrR2ZJbWR0N1B0bG9za2w2MlZFRHlJX1dtRFZRT2EzTUhMREg1UF9zeUxXT2tvc2g3RExDLXBwMmJwYUlqT2xWQWw3LUk?oc=5",
+      "published_at": "2026-09-16T18:52:35.000Z"
     },
     {
       "id": "g003",
       "category": "Politics",
       "region": "US",
-      "source": "NPR",
-      "title": "共和党のマシー議員、イラン戦争を巡りヘグセス国防長官の弾劾動議を提出",
-      "summary": "共和党のトーマス・マシー下院議員が、イラン戦争への対応を理由にヘグセス国防長官の弾劾動議を提出しました。これは、米国政府の外交政策と軍事行動を巡る議会内の緊張を示しています。",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzeHV1VUx0NUc0WWZGQ1NLZ1BTWU40R0pWdTdBWWRDelF0Tjd1T09sZFZUS05fR2U5QWdoMDNOSzJzUzhIYThIUG5wNkhYMFBNVWVGVzNXYm5yOW1VTFB6V2ltWWVKSXVaMXlvUGZvWWVHVGplNWRSRm5n?oc=5",
-      "published_at": "2026-09-15T17:35:14.000Z"
+      "source": "AP News",
+      "title": "激戦区のアイオワ州共和党下院議員候補が、トランプ氏のイラン戦争継続能力を阻止する投票を実施",
+      "summary": "激戦区のアイオワ州共和党下院議員候補が、トランプ大統領のイラン戦争継続能力を阻止するための投票を行いました。これは党内における大統領の外交政策への異論を示すものであり、今後の対イラン政策に影響を与えるかもしれません。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWQ1MWJScTlKaEVZOV9SZkg4MTdpOHNWSDBxM21ZemI3YUJBWVFsZkVSOHpFR0JIQUVYcDl0MzlqOFg3QWR1RGNHMnlTNktVU1oyRzRhdTRsNXZKQWJvb0VXNWFpY2RTZ0NaRTZZdUl0ZUZLc2t1dzhSYk5ySG9qUWZNNWotSC0yLXJZSm5YUHlhREpJYXphcw?oc=5",
+      "published_at": "2026-09-16T18:38:00.000Z"
     },
     {
       "id": "g004",
-      "category": "Conflict",
-      "region": "US",
-      "source": "BBC",
-      "title": "イラン戦争が米国の弾薬不足を招いていると国防総省監察官が確認",
-      "summary": "国防総省の監察官は、イラン戦争が米軍の弾薬不足を引き起こしていることを確認しました。長期化する紛争が米国の軍事資源に与える影響が懸念されています。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5",
-      "published_at": "2026-09-15T20:34:12.000Z"
+      "category": "Politics",
+      "region": "Europe",
+      "source": "reuters.com",
+      "title": "EUのフォン・デア・ライエン委員長、カナダをEU初の準加盟国にしたいと表明",
+      "summary": "EUのフォン・デア・ライエン委員長が、カナダをEU初の準加盟国にしたいとの意向を表明しました。この提案は、EUとカナダの関係強化、および国際的な連携の新たな形を探る動きとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5",
+      "published_at": "2026-09-16T17:54:35.000Z"
     },
     {
       "id": "g005",
-      "category": "Technology",
-      "region": "Global",
-      "source": "Politico",
-      "title": "ジョンソン氏、AI警告を軽視：「10年後には皆死ぬわけではない」",
-      "summary": "ジョンソン氏は、人工知能（AI）の急速な発展に伴う警告や懸念に対し、「10年後に皆が死ぬわけではない」と述べ、脅威を軽視する姿勢を示しました。AIの将来性に関する議論が続いています。",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcmFXUG0wdGxoVGl3bGhyZFRibzY5bU9BZHlsczNpVktBVW1SNXhFRVBSeGJCM0NHVW83UkFwM3BjakVKNE9MQ1NwdTlya0pndzJJa1ZwWWhjUkN5Q1IweEVJZEJvWFNSdG5ETWV6djBQMFRwRi0yZVFjRS1Ed3k3WEp3cHlsLU9Bc1hhQUNodERXQjg?oc=5",
-      "published_at": "2026-09-15T15:45:19.000Z"
+      "category": "Society",
+      "region": "US",
+      "source": "nbcnews.com",
+      "title": "NBCロサンゼルスのニュースヘリコプター墜落事故の犠牲者について知っておくべきこと",
+      "summary": "NBCロサンゼルスのニュースヘリコプター墜落事故で犠牲になった人々の情報が報じられています。事故の詳細と犠牲者の背景が伝えられ、地域社会に深い悲しみをもたらしています。",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxMTS1FdmpZaEhJeU1tNEl6OHJMY3hFU3ZYMWQtTGNZYXFROEMtNXdiUm8zT3BjMTVGUDcyOUhGcFdGSDlaMl9wUThSLTZrazZmclZxREtzUHVKTVZ5bmE4aVhteWUxdmpCUE5BMXBHMFMzYW9wdFRENWZnNUdlY0tMLWl5SkRVVzJvM2sza2k0WHAxV29yS1FQdTZ3akZ6em5aZm91TWhIS3o4bXNZNGdDbV9uTi0?oc=5",
+      "published_at": "2026-09-16T21:48:19.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,8 +187,8 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングのアジリティ向上と傷害予防効果：対照実験研究",
-      "summary": "この実験研究は、バスケットボール選手を対象に、VRを活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を評価しました。研究結果は、VR環境でのトレーニングが選手の運動能力を向上させ、特定の膝靭帯損傷（ACLなど）のリスクを低減する可能性を示唆しています。このアプローチは、従来のトレーニング法に比べてよりインタラクティブで効果的な介入となり得ます。",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングがアジリティパフォーマンスと傷害予防に与える影響：対照実験",
+      "summary": "バスケットボール選手を対象に、VRを用いた神経筋トレーニングがアジリティ能力向上と傷害予防に及ぼす効果を検証しました。VR環境でのトレーニングは、従来のトレーニングよりも高い没入感と正確なフィードバックを提供し、素早い方向転換能力の向上と膝関節への負荷軽減に寄与する可能性が示唆されました。これにより、ACL損傷などのリスク低減が期待されます。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
@@ -196,7 +196,7 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
       "title": "トレイルランニングのバイオメカニクス科学",
-      "summary": "この記事は、トレイルランニングにおける独特な地形がランナーのバイオメカニクスに与える影響を包括的に解説しています。特に、不均一な路面での着地衝撃、姿勢の安定性、筋肉の活動パターンに焦点を当て、一般的なロードランニングとの違いを強調しています。効率的な動きと怪我のリスク低減のための科学的根拠を提供します。",
+      "summary": "トレイルランニングにおける複雑な地形での動作に焦点を当て、そのバイオメカニクスを解説する記事です。路面状況の変化に応じた着地パターン、重心移動、筋活動の変化などが分析され、効率的な走行と傷害予防のための体の使い方、特に足首と膝の安定性の重要性が強調されています。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
@@ -204,7 +204,7 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
       "title": "ペプチド：医師が効能、リスク、FDAの懸念を解説",
-      "summary": "本記事は、ペプチドがスポーツ医学や健康分野で注目される背景と、その潜在的な効能について医師の見解を提示しています。一方で、使用に伴うリスクや、米国食品医薬品局（FDA）が安全性・有効性について懸念を示している現状も詳細に説明しています。特に、未承認のペプチド製品の利用には慎重な判断が求められるとしています。",
+      "summary": "スポーツ医学分野で注目されるペプチドについて、医師がその潜在的な効能、関連するリスク、そして米国食品医薬品局（FDA）の規制上の懸念を詳細に説明しています。筋肉回復、抗炎症作用などのメリットがある一方で、未承認製品の使用に伴う安全性や副作用の不確実性が指摘されています。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
@@ -212,136 +212,136 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
       "title": "理学療法：リハビリテーションの原則、連携、協力",
-      "summary": "本論文は、理学療法の基本的なリハビリテーション原則を再確認し、患者の回復を最大化するための医療チーム内での連携と協力の重要性を強調しています。特に、家族医や他の専門職との密なコミュニケーションが、患者中心の包括的なケアプランを構築し、治療効果を高める上で不可欠であると論じています。",
+      "summary": "理学療法におけるリハビリテーションの基本原則、そして他職種との連携と協力の重要性について論じられています。患者中心のアプローチ、個別化された治療計画、そして医師やアスレチックトレーナーなど多職種間の密なコミュニケーションが、効果的な回復と競技復帰に不可欠であると強調されています。",
       "url": "https://news.google.com/rss/articles/CBMiYAFVX3lxTFBpazhiRUtJTFkwUm5ycWEtXzlMOHltX21rY1N2WGlFN2JMaVc2Rm5rMEk3U0UweTdfVU5pbmRVSDByaXpzMUdhNnhxdXpMNzE4emZpSDJ2UzJBRHZWOGo5TA?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アクパンクチャーボディワークが産後回復と整形外科的懸念に特化した鍼治療を提供",
-      "summary": "アクパンクチャーボディワークは、産後の女性が経験する身体的回復の課題や、スポーツ選手を含む患者の整形外科的な痛みに対応するための専門的な鍼治療サービスを提供していると報じられています。このサービスは、伝統的な鍼灸の知見に基づき、特定の症状緩和と機能回復を目指しています。",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVBVamJVRHJfd1RtbVE2WnFPRlhoSmRXSG40dTgzTDNaVFVIcElmT3VSR0c3cHRlUTJLeV94NVF3MktMVF9OTk9ZY2s4QUNUZWVaNUNybVBwT05LV2piRHR3dVBIQW9nb2VuYmR3R2FCTVo3blNUakFNZEVETUVvSFRLYV8yNzFxdXlqdFNtMWJHY3JsSzBtbXhvaFVkQUxLMS16UVdROWZ4cW1ieVVfOHJjcl8zSEFkbXNzRUxWNkVMNUVWN3Y2dGQ5di1QRG1BcWEtcEQtNWw4S2Q5bmc?oc=5"
+      "title": "鍼灸ボディワーク、産後回復と整形外科的懸念に特化した鍼灸ケアを提供",
+      "summary": "Issuewire.comの報道によると、鍼灸ボディワークは、産後の女性や整形外科的な問題を抱える人々に対し、専門的な鍼灸ケアを提供しています。この治療は、筋肉や関節の痛み、機能回復、そして全体的な体調改善に焦点を当てており、特に女性アスリートの産後回復や既存の怪我へのアプローチとして有効である可能性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVBVamJVRHJfd1RtbVE2WnFPRlhoSmRXSG40dTgzTDNaVFVIcElmT3VSR0c3cHRlUTJLeV94NVF3MktMVF9OTk9ZY2s4QUNUZWVaNUNybVBwT05LV2piRHR3dVBIQW9nb2VuYkR3R2FCTVo3blNUakFNZEVETUVvSFRLYV8yNzFxdXlqdFNtMWJHY3JsSzBtbXhvaFVkQUxLMS16UVdROWZ4cW1ieVVfOHJjcl8zSEFkbXNzRUxWNkVMNUVWN3Y2ZlQ5di1QRG1BcWEtcEQtNWw4S2Q5bmc?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "10代アスリートのスポーツサプリメント：推奨、注意、避けるべきもの",
-      "summary": "この記事は、成長期の10代アスリートにおけるスポーツサプリメントの使用について、小児科医の視点から包括的なガイドラインを提供しています。特定のサプリメントの推奨、潜在的なリスクを考慮した上での慎重な使用、そして絶対に避けるべき製品について具体的に説明しています。栄養摂取はまず食事からが基本であることを強調しています。",
+      "title": "ティーン向けスポーツサプリメント：推奨、慎重な使用、避けるべきもの",
+      "summary": "思春期のアスリートを対象としたスポーツサプリメントについて、小児科医の視点から推奨されるもの、慎重な検討が必要なもの、そして避けるべきもののガイドラインを提示しています。安全性、有効性、成長への影響などを考慮し、適切な栄養摂取が最優先であることを強調しています。",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
-      "summary": "アスリート健康パフォーマンスセンターは、ユースサッカー選手における「相対的年齢効果（RAE）」、つまり同じ年齢区分内で生まれた月が早い選手が有利になる現象を調査しました。この研究は、RAEが選手の選抜、育成、心理的発達に与える影響を分析し、より公平な育成システム構築のための示唆を提供しています。",
+      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
+      "summary": "アスリート健康パフォーマンスセンターが、ユースサッカーにおける相対的年齢効果（RAE）の影響を調査しました。これは、同じ学年内でも生まれ月が早い選手が身体的優位性を持つことで、才能の識別や育成において不公平が生じる現象です。早期選抜や指導方法に与える影響が分析されています。",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリステン・ホームズ氏が語る、睡眠とリカバリーがいかにハイパフォーマンスを形成するか",
-      "summary": "この記事では、WHOOPの専門家であるクリステン・ホームズ氏が、アスリートのハイパフォーマンスを維持・向上させる上で睡眠とリカバリーがいかに重要であるかを解説しています。彼女は、適切な睡眠習慣と効果的なリカバリー戦略が、身体的および精神的パフォーマンスに直接影響を与えるメカニズムと実践的なアプローチを紹介しています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
+      "title": "ソーシャルメディアが若年アスリートのメンタルヘルスに与える影響：横断研究",
+      "summary": "若年アスリートにおけるソーシャルメディア利用がメンタルヘルスに与える影響について、横断研究によって調査されました。研究では、ソーシャルメディアの過度な利用やネガティブなコンテンツへの接触が、不安感、自己肯定感の低下、睡眠障害といったメンタルヘルスの問題と関連する可能性が示唆されました。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGJWSGg4RkpQaGthbXd1VzhQVDJwZGhQaU5NWkJNcEdJZXFvbDd4Z2dtQnVvSklxUW16dHN4eEtpUFVvVmFPVkdMTHNxdFhwVklaeDlnWng1Z041bl80UU5tcXlvSmZmWkdSamV2d2Vac1dsMmkwOGJjT0VIM2NpaGt6UnhXa1d0ci1wWWVyb3NDZw?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "きょう自民党役員人事、内閣改造はなぜ別の日に…政府高官「全部１日だときつい」「働き方改革の一環」",
-      "summary": "自民党の役員人事が本日行われる一方で、内閣改造は別の日程となる見込みです。政府高官は、両方を同日に行うことの負担が大きいと説明し、「働き方改革」の一環でもあるとコメントしています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtVmp3ZkJtWTRrVl9VU0RTd0FLY3BDbW0wSGt6RER1MUJuS2V4bFFrTFkwU1BRR05VUDJkalE0R01hVGZBVWlPTkFKcC0wbXpxUnVhakF0cHNWQmtaS1RNWmFObVNCZw?oc=5"
+      "title": "読む政治：変わらぬ「麻生氏頼み」のひずみ 極秘の電話で詰めた自民党人事",
+      "summary": "毎日新聞の「読む政治」コラムは、自民党内の人事において麻生氏への依存が続いている現状とその歪みに焦点を当てています。極秘の電話会談を通じて進められた人事調整の舞台裏が描かれ、党内の力学とその影響が分析されています。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91N1lVNVVHakFJTFJfM2MtSkNtMmd2ekVYLU9qWVF3UEVnNHBnaV81YlViSWF3VGE0VkhpLVRvVDctQTdxMjBmRTBsa3ZOOXBvS295bjl5VzVpME9RdHNNWEQtSDhQSU9O?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "辺野古沖転覆事故 遺族「学校は自分たちのことばで説明を」 | NHKニュース | 事件・事故、沖縄県",
-      "summary": "沖縄県辺野古沖での転覆事故を受け、遺族が学校に対し、事故について「自分たちのことばで」説明するよう求めています。事故の経緯や対応に関して、透明性のある説明が求められています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uQTdpRW83T0ZxUzFYQk9UYjJBczlLLXRZYkhBNDdmcy1IYWNKMUl1a013WmtpeDNXeld2T3lhOUNPeW5BOTVvVzZPQVdqTl9SR2JwSUdBSDFLNUJhTUpZ?oc=5"
+      "category": "国際",
+      "title": "【速報】サウジ石油施設を攻撃とフーシ派",
+      "summary": "速報によると、イエメンのフーシ派がサウジアラビアの石油施設を攻撃したと発表しました。この攻撃は中東地域の緊張を高める可能性があり、国際社会の動向が注視されます。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBodkxJeWFpVWpwbk9OVzlMZDFab3BDcGk0R3NYYUNhMUlCOVpaWnJZY3IwMkpRWUh5VVNJN3c3bS1TMW90QjNIVUF0NA?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "サウジアラビアの東西パイプライン、復旧に数週間 AP報道",
-      "summary": "サウジアラビアの東西を結ぶ重要な石油パイプラインが、復旧に数週間かかる見通しであることがAP通信の報道で明らかになりました。この事態は、原油市場に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WZjRMbWRvR0NveWJMc1ZnYWp3dGNpc0cxRS00Z011UkQ5NkQyRXBYaF9nUVNrVVJtSnBGa251YmEtYmFpYVBBS2NsTE8xSndKeW9WRlNwS0N0OUozdjRfdl9YaGg1MUN0bHhGag?oc=5"
+      "category": "政治",
+      "title": "高市総理あす内閣改造へ 維新から閣僚起用で正式合意、中司氏で調整 “能力主義”に政権幹部「ある意味実験的なものに」",
+      "summary": "高市総理は明日、内閣改造を行う予定で、日本維新の会からの閣僚起用が正式合意され、中司氏が調整されています。政権幹部は「能力主義」に基づいた今回の改造を「ある意味実験的なものになる」とコメントしており、今後の政権運営に注目が集まります。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aN184UEQ1QWRwSm1JNmZCYTRQMnk1c2pJX2liSGpKeEtVdXhQdjVhU2M4Y1h0Z3VaVzRWaU5tdXRlM2hhYkd4dXlPQ2pkNXM3SXZNTGFsOA?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "豪雨の夜、想定の倍以上の帰宅困難者が千葉県庁に集中「ギリギリの対応だった」…滞在施設の周知・誘導に課題",
-      "summary": "豪雨に見舞われた夜、千葉県庁には想定を大幅に上回る帰宅困難者が殺到し、対応が「ギリギリ」の状態だったと報じられています。滞在施設の周知や誘導体制に課題が浮き彫りとなりました。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10UmVfTUJDVU1IUVdnZWNkbFdqOHpmUk1RTGFpZ1FpWks3bVlhai02NVdHcXh1SG1sSWJPZ2ZzR1FIWDBsdWR2NG9WTzJhLWZnMXpWQmtCNkpzMGVUdVE1QTBYOGpOZw?oc=5"
+      "title": "週間天気予報 シルバーウィークは台風25号の影響懸念 西日本は晴れるところ多い",
+      "summary": "週間天気予報によると、今年のシルバーウィークは台風25号の影響が懸念されていますが、西日本では晴れる地域が多いと予測されています。週末にかけての気象情報に注意が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iVDRPbXdLbWxQSF9CWUNIaW56TGt0a2VaZGVYVEdNYnlfTk9HUVJBeG5rSjMzaDdnd0ZqR282LURLSEFBYWJKNnNjWXpydE43WWNaUA?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風発生予想 シルバーウィークに本州方面へ 次に発生すると「台風25号」",
-      "summary": "シルバーウィーク期間中に、本州方面へ向かう可能性のある台風の発生が予想されています。次に発生する台風は「台風25号」となる見込みで、今後の進路情報に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10bjRDTlpWZXNVN2pOSTItYmlfaFB0T2dPVXd1MVQ2d0dEVjBOcVNzYy1CTW5JZVJwRkphX0N5Rm1NNGQtemhtVTliRHdTNzRRVDZRbQ?oc=5"
+      "category": "社会",
+      "title": "山形 酒田 6歳男児行方不明で警察が防犯カメラ映像を公開",
+      "summary": "山形県酒田市で6歳の男児が行方不明となり、警察は防犯カメラの映像を公開して情報提供を呼びかけています。地元住民も捜索に協力しており、一日も早い発見が望まれます。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mVGJRamE3RS0zSUtTcEdwZWxHV2JDMFQtMEtLLVlTenBhdjUtcUpyYS1CQ0haVFd4aVVEaWJpanJCbmU4Qm5LNTIxcWxvLXl4c0JaRnpvSTc2Mlg0dGFj?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏が選任したケネディセンター理事会、改修のため会場即時閉鎖を決定",
-      "summary": "トランプ氏が任命したケネディセンター理事会が、大規模な改修工事のため会場を直ちに閉鎖することを決定しました。この動きは、文化施設運営における政治的影響を巡る議論を呼んでいます。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUs4cW5ObUl6MlVlTWNkNElRVGNQaVFrNU5pYUZJOGJBMEpYaVFEbmtnTk9OVDZRNGlUNF9fams2QzIxWUdOU3JlUE1wNTFFbFJWUlZyODByYm1lU2FjLWN2d3ZzU3lnUXBvcU9LMDFtcDdjYjZqTGwycGZzb18yc3E4UUtEY3hsX3ltM3A4d05ERmRycVMwamFheXB2dzNxX0d3LTJyLVg2dmtHbVc2TzRKWXF3cVVZc2VrRDkyN0pmR3M2cWZWZGtXMWVEdw?oc=5"
+      "title": "トランプ氏寄りの理事会が閉鎖を決議後、ケネディセンター本館周辺にフェンスが設置される",
+      "summary": "トランプ氏に同調する理事会が閉鎖を決定したことを受け、ワシントンD.C.のケネディセンター本館周辺にフェンスが設置されました。この決定は文化施設運営における政治的影響を巡る議論を巻き起こしています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObC10Q2xCdEtYZzZHVElOamk3X19QVGtfYi1LS3BlanhOT1hMWmJ2REZBZWtQYWlmaXFfRUF4ZzdzU3dDalFFbHpxZ3E4M1BLakRsT0dZWS1zRTFDRWdGbFlNZ0hlc0o4RTBEbHU1clpSYy1TLV82YmgxSTZ5eGRuaWJZVmRmQkh1eS1IMkNYaEotNDU4ZTZCR0ttQnVfQ1V1RkZ0YQ?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏、郵便投票規制の試みを最高裁に却下され非難",
-      "summary": "ドナルド・トランプ氏は、郵便投票の規制を求める自身の提訴が最高裁によって却下されたことに対し、公然と非難の声を上げました。この決定は、今後の選挙制度に関する論争に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0NGR0RicUtTb0ExUGROZVNyajF2eGh6cGhqTlF4bGVGa05SMGF4anloa0pwS3FxWHhIM1NwU1dFV1VneExKeHNhcGtQdDg5UkMtSm5sRkh2M0RVWG1HOURuRzd5d3VMaUYxSzhDLWxvVFV4UTlsODRRbTBhRE5kdU55ZU96Y3g3aDZtNHJIMnBXRUM0TWJubEVOSEZqZUE5?oc=5"
+      "title": "マッシー議員、ヘグセス氏弾劾の動きを共和党指導部に秘密にしていた",
+      "summary": "マッシー議員がヘグセス氏の弾劾に関する動きを共和党の指導部に秘密にしていたことが明らかになりました。この動きは党内の不和を浮き彫りにし、今後の政治情勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40YUVzU0hsLXhHVEVXa0FnaUNuSm9XN0UzSTkzdHZEWkdLXzYtYzFrR2ZJbWR0N1B0bG9za2w2MlZFRHlJX1dtRFZRT2EzTUhMREg1UF9zeUxXT2tvc2g3RExDLXBwMmJwYUlqT2xWQWw3LUk?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "共和党のマシー議員、イラン戦争を巡りヘグセス国防長官の弾劾動議を提出",
-      "summary": "共和党のトーマス・マシー下院議員が、イラン戦争への対応を理由にヘグセス国防長官の弾劾動議を提出しました。これは、米国政府の外交政策と軍事行動を巡る議会内の緊張を示しています。",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzeHV1VUx0NUc0WWZGQ1NLZ1BTWU40R0pWdTdBWWRDelF0Tjd1T09sZFZUS05fR2U5QWdoMDNOSzJzUzhIYThIUG5wNkhYMFBNVWVGVzNXYm5yOW1VTFB6V2ltWWVKSXVaMXlvUGZvWWVHVGplNWRSRm5n?oc=5"
+      "title": "激戦区のアイオワ州共和党下院議員候補が、トランプ氏のイラン戦争継続能力を阻止する投票を実施",
+      "summary": "激戦区のアイオワ州共和党下院議員候補が、トランプ大統領のイラン戦争継続能力を阻止するための投票を行いました。これは党内における大統領の外交政策への異論を示すものであり、今後の対イラン政策に影響を与えるかもしれません。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWQ1MWJScTlKaEVZOV9SZkg4MTdpOHNWSDBxM21ZemI3YUJBWVFsZkVSOHpFR0JIQUVYcDl0MzlqOFg3QWR1RGNHMnlTNktVU1oyRzRhdTRsNXZKQWJvb0VXNWFpY2RTZ0NaRTZZdUl0ZUZLc2t1dzhSYk5ySG9qUWZNNWotSC0yLXJZSm5YUHlhREpJYXphcw?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "イラン戦争が米国の弾薬不足を招いていると国防総省監察官が確認",
-      "summary": "国防総省の監察官は、イラン戦争が米軍の弾薬不足を引き起こしていることを確認しました。長期化する紛争が米国の軍事資源に与える影響が懸念されています。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5"
+      "category": "Politics",
+      "title": "EUのフォン・デア・ライエン委員長、カナダをEU初の準加盟国にしたいと表明",
+      "summary": "EUのフォン・デア・ライエン委員長が、カナダをEU初の準加盟国にしたいとの意向を表明しました。この提案は、EUとカナダの関係強化、および国際的な連携の新たな形を探る動きとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Technology",
-      "title": "ジョンソン氏、AI警告を軽視：「10年後には皆死ぬわけではない」",
-      "summary": "ジョンソン氏は、人工知能（AI）の急速な発展に伴う警告や懸念に対し、「10年後に皆が死ぬわけではない」と述べ、脅威を軽視する姿勢を示しました。AIの将来性に関する議論が続いています。",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcmFXUG0wdGxoVGl3bGhyZFRibzY5bU9BZHlsczNpVktBVW1SNXhFRVBSeGJCM0NHVW83UkFwM3BjakVKNE9MQ1NwdTlya0pndzJJa1ZwWWhjUkN5Q1IweEVJZEJvWFNSdG5ETWV6djBQMFRwRi0yZVFjRS1Ed3k3WEp3cHlsLU9Bc1hhQUNodERXQjg?oc=5"
+      "category": "Society",
+      "title": "NBCロサンゼルスのニュースヘリコプター墜落事故の犠牲者について知っておくべきこと",
+      "summary": "NBCロサンゼルスのニュースヘリコプター墜落事故で犠牲になった人々の情報が報じられています。事故の詳細と犠牲者の背景が伝えられ、地域社会に深い悲しみをもたらしています。",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxMTS1FdmpZaEhJeU1tNEl6OHJMY3hFU3ZYMWQtTGNZYXFROEMtNXdiUm8zT3BjMTVGUDcyOUhGcFdGSDlaMl9wUThSLTZrazZmclZxREtzUHVKTVZ5bmE4aVhteWUxdmpCUE5BMXBHMFMzYW9wdFRENWZnNUdlY0tMLWl5SkRVVzJvM2sza2k0WHAxV29yS1FQdTZ3akZ6em5aZm91TWhIS3o4bXNZNGdDbV9uTi0?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バーチャルリアリティ支援の神経筋トレーニングがバスケットボール選手の敏捷性と怪我予防に与える影響：対照実験",
-      "summary": "この対照実験では、バーチャルリアリティ（VR）を活用した神経筋トレーニングが、バスケットボール選手のアジリティパフォーマンス向上と怪我予防に及ぼす効果を検証しました。研究の結果、VRを用いることで選手の反応速度やバランス能力が向上し、特に膝関節の安定性に関連する神経筋制御が改善されることが示唆されました。",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングのアジリティ向上と傷害予防効果：対照実験研究",
+      "summary": "この実験研究は、バスケットボール選手を対象に、VRを活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を評価しました。研究結果は、VR環境でのトレーニングが選手の運動能力を向上させ、特定の膝靭帯損傷（ACLなど）のリスクを低減する可能性を示唆しています。このアプローチは、従来のトレーニング法に比べてよりインタラクティブで効果的な介入となり得ます。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "様々なカーボンプレートランニングシューズが走行中の脛骨ピーク加速度、左右非対称性、および残存衝撃に与える影響",
-      "summary": "本研究は、異なるカーボンプレートを内蔵したランニングシューズが、走行中の脛骨にかかる衝撃、左右の動きの非対称性、および体内に残る振動にどのような影響を与えるかを調査しました。結果として、カーボンプレートの種類によって脛骨への負荷や衝撃吸収能力に差が見られ、これがランナーの怪我のリスクやパフォーマンスに影響する可能性が示されました。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEVsSU5NUlRiVEZVODV4azlKc21INERKUVA4UFZBRnZQdVdBZDN4U2V1VTdNUjdKdGQ4R1lib25PSWdfX2sxZGQyOTNNWEg4NjZHZFR5dERidWRSSG1BXzFiY0NKZjU1Qzlyc1N5YmlXeFhLVkluS1JvakJfMFFXUkJvWUZEcFVJbmpTY1lFY3JLNEtpd2J3M0ZCek05QmQyY1RhTg?oc=5"
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "アクパンクチャーボディワークが産後回復と整形外科的懸念に特化した鍼治療を提供",
+      "summary": "アクパンクチャーボディワークは、産後の女性が経験する身体的回復の課題や、スポーツ選手を含む患者の整形外科的な痛みに対応するための専門的な鍼治療サービスを提供していると報じられています。このサービスは、伝統的な鍼灸の知見に基づき、特定の症状緩和と機能回復を目指しています。",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVBVamJVRHJfd1RtbVE2WnFPRlhoSmRXSG40dTgzTDNaVFVIcElmT3VSR0c3cHRlUTJLeV94NVF3MktMVF9OTk9ZY2s4QUNUZWVaNUNybVBwT05LV2piRHR3dVBIQW9nb2VuYmR3R2FCTVo3blNUakFNZEVETUVvSFRLYV8yNzFxdXlqdFNtMWJHY3JsSzBtbXhvaFVkQUxLMS16UVdROWZ4cW1ieVVfOHJjcl8zSEFkbXNzRUxWNkVMNUVWN3Y2dGQ5di1QRG1BcWEtcEQtNWw4S2Q5bmc?oc=5"
     }
   ],
   "monthly_top20": [
@@ -349,8 +349,8 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングのアジリティ向上と傷害予防効果：対照実験研究",
-      "summary": "この実験研究は、バスケットボール選手を対象に、VRを活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を評価しました。研究結果は、VR環境でのトレーニングが選手の運動能力を向上させ、特定の膝靭帯損傷（ACLなど）のリスクを低減する可能性を示唆しています。このアプローチは、従来のトレーニング法に比べてよりインタラクティブで効果的な介入となり得ます。",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングがアジリティパフォーマンスと傷害予防に与える影響：対照実験",
+      "summary": "バスケットボール選手を対象に、VRを用いた神経筋トレーニングがアジリティ能力向上と傷害予防に及ぼす効果を検証しました。VR環境でのトレーニングは、従来のトレーニングよりも高い没入感と正確なフィードバックを提供し、素早い方向転換能力の向上と膝関節への負荷軽減に寄与する可能性が示唆されました。これにより、ACL損傷などのリスク低減が期待されます。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
@@ -358,7 +358,7 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
       "title": "トレイルランニングのバイオメカニクス科学",
-      "summary": "この記事は、トレイルランニングにおける独特な地形がランナーのバイオメカニクスに与える影響を包括的に解説しています。特に、不均一な路面での着地衝撃、姿勢の安定性、筋肉の活動パターンに焦点を当て、一般的なロードランニングとの違いを強調しています。効率的な動きと怪我のリスク低減のための科学的根拠を提供します。",
+      "summary": "トレイルランニングにおける複雑な地形での動作に焦点を当て、そのバイオメカニクスを解説する記事です。路面状況の変化に応じた着地パターン、重心移動、筋活動の変化などが分析され、効率的な走行と傷害予防のための体の使い方、特に足首と膝の安定性の重要性が強調されています。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
@@ -366,7 +366,7 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
       "title": "ペプチド：医師が効能、リスク、FDAの懸念を解説",
-      "summary": "本記事は、ペプチドがスポーツ医学や健康分野で注目される背景と、その潜在的な効能について医師の見解を提示しています。一方で、使用に伴うリスクや、米国食品医薬品局（FDA）が安全性・有効性について懸念を示している現状も詳細に説明しています。特に、未承認のペプチド製品の利用には慎重な判断が求められるとしています。",
+      "summary": "スポーツ医学分野で注目されるペプチドについて、医師がその潜在的な効能、関連するリスク、そして米国食品医薬品局（FDA）の規制上の懸念を詳細に説明しています。筋肉回復、抗炎症作用などのメリットがある一方で、未承認製品の使用に伴う安全性や副作用の不確実性が指摘されています。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
@@ -374,136 +374,136 @@ window.DIGEST_DATA = {
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
       "title": "理学療法：リハビリテーションの原則、連携、協力",
-      "summary": "本論文は、理学療法の基本的なリハビリテーション原則を再確認し、患者の回復を最大化するための医療チーム内での連携と協力の重要性を強調しています。特に、家族医や他の専門職との密なコミュニケーションが、患者中心の包括的なケアプランを構築し、治療効果を高める上で不可欠であると論じています。",
+      "summary": "理学療法におけるリハビリテーションの基本原則、そして他職種との連携と協力の重要性について論じられています。患者中心のアプローチ、個別化された治療計画、そして医師やアスレチックトレーナーなど多職種間の密なコミュニケーションが、効果的な回復と競技復帰に不可欠であると強調されています。",
       "url": "https://news.google.com/rss/articles/CBMiYAFVX3lxTFBpazhiRUtJTFkwUm5ycWEtXzlMOHltX21rY1N2WGlFN2JMaVc2Rm5rMEk3U0UweTdfVU5pbmRVSDByaXpzMUdhNnhxdXpMNzE4emZpSDJ2UzJBRHZWOGo5TA?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アクパンクチャーボディワークが産後回復と整形外科的懸念に特化した鍼治療を提供",
-      "summary": "アクパンクチャーボディワークは、産後の女性が経験する身体的回復の課題や、スポーツ選手を含む患者の整形外科的な痛みに対応するための専門的な鍼治療サービスを提供していると報じられています。このサービスは、伝統的な鍼灸の知見に基づき、特定の症状緩和と機能回復を目指しています。",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVBVamJVRHJfd1RtbVE2WnFPRlhoSmRXSG40dTgzTDNaVFVIcElmT3VSR0c3cHRlUTJLeV94NVF3MktMVF9OTk9ZY2s4QUNUZWVaNUNybVBwT05LV2piRHR3dVBIQW9nb2VuYmR3R2FCTVo3blNUakFNZEVETUVvSFRLYV8yNzFxdXlqdFNtMWJHY3JsSzBtbXhvaFVkQUxLMS16UVdROWZ4cW1ieVVfOHJjcl8zSEFkbXNzRUxWNkVMNUVWN3Y2dGQ5di1QRG1BcWEtcEQtNWw4S2Q5bmc?oc=5"
+      "title": "鍼灸ボディワーク、産後回復と整形外科的懸念に特化した鍼灸ケアを提供",
+      "summary": "Issuewire.comの報道によると、鍼灸ボディワークは、産後の女性や整形外科的な問題を抱える人々に対し、専門的な鍼灸ケアを提供しています。この治療は、筋肉や関節の痛み、機能回復、そして全体的な体調改善に焦点を当てており、特に女性アスリートの産後回復や既存の怪我へのアプローチとして有効である可能性を示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVBVamJVRHJfd1RtbVE2WnFPRlhoSmRXSG40dTgzTDNaVFVIcElmT3VSR0c3cHRlUTJLeV94NVF3MktMVF9OTk9ZY2s4QUNUZWVaNUNybVBwT05LV2piRHR3dVBIQW9nb2VuYkR3R2FCTVo3blNUakFNZEVETUVvSFRLYV8yNzFxdXlqdFNtMWJHY3JsSzBtbXhvaFVkQUxLMS16UVdROWZ4cW1ieVVfOHJjcl8zSEFkbXNzRUxWNkVMNUVWN3Y2ZlQ5di1QRG1BcWEtcEQtNWw4S2Q5bmc?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "10代アスリートのスポーツサプリメント：推奨、注意、避けるべきもの",
-      "summary": "この記事は、成長期の10代アスリートにおけるスポーツサプリメントの使用について、小児科医の視点から包括的なガイドラインを提供しています。特定のサプリメントの推奨、潜在的なリスクを考慮した上での慎重な使用、そして絶対に避けるべき製品について具体的に説明しています。栄養摂取はまず食事からが基本であることを強調しています。",
+      "title": "ティーン向けスポーツサプリメント：推奨、慎重な使用、避けるべきもの",
+      "summary": "思春期のアスリートを対象としたスポーツサプリメントについて、小児科医の視点から推奨されるもの、慎重な検討が必要なもの、そして避けるべきもののガイドラインを提示しています。安全性、有効性、成長への影響などを考慮し、適切な栄養摂取が最優先であることを強調しています。",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
-      "summary": "アスリート健康パフォーマンスセンターは、ユースサッカー選手における「相対的年齢効果（RAE）」、つまり同じ年齢区分内で生まれた月が早い選手が有利になる現象を調査しました。この研究は、RAEが選手の選抜、育成、心理的発達に与える影響を分析し、より公平な育成システム構築のための示唆を提供しています。",
+      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
+      "summary": "アスリート健康パフォーマンスセンターが、ユースサッカーにおける相対的年齢効果（RAE）の影響を調査しました。これは、同じ学年内でも生まれ月が早い選手が身体的優位性を持つことで、才能の識別や育成において不公平が生じる現象です。早期選抜や指導方法に与える影響が分析されています。",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "クリステン・ホームズ氏が語る、睡眠とリカバリーがいかにハイパフォーマンスを形成するか",
-      "summary": "この記事では、WHOOPの専門家であるクリステン・ホームズ氏が、アスリートのハイパフォーマンスを維持・向上させる上で睡眠とリカバリーがいかに重要であるかを解説しています。彼女は、適切な睡眠習慣と効果的なリカバリー戦略が、身体的および精神的パフォーマンスに直接影響を与えるメカニズムと実践的なアプローチを紹介しています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV280VWxpS1Z4RW9FT3dTRUlTUjluS21janc5bUk5YmU4Q1lBdUJqWWNGdTNMdHhOaDljek9ZajhjU2xfUGVZS2ZxR0hBRXFBN193a1RqT3hndUpWYUw1TXJ0aS1ibS05aU54WEFzNmNaRWhUblZwU3lRNEwteEV6UUh4YU9ESlpqUjllQlFnNmFULVdtZmRnNnNQRkdYejQ?oc=5"
+      "title": "ソーシャルメディアが若年アスリートのメンタルヘルスに与える影響：横断研究",
+      "summary": "若年アスリートにおけるソーシャルメディア利用がメンタルヘルスに与える影響について、横断研究によって調査されました。研究では、ソーシャルメディアの過度な利用やネガティブなコンテンツへの接触が、不安感、自己肯定感の低下、睡眠障害といったメンタルヘルスの問題と関連する可能性が示唆されました。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGJWSGg4RkpQaGthbXd1VzhQVDJwZGhQaU5NWkJNcEdJZXFvbDd4Z2dtQnVvSklxUW16dHN4eEtpUFVvVmFPVkdMTHNxdFhwVklaeDlnWng1Z041bl80UU5tcXlvSmZmWkdSamV2d2Vac1dsMmkwOGJjT0VIM2NpaGt6UnhXa1d0ci1wWWVyb3NDZw?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "きょう自民党役員人事、内閣改造はなぜ別の日に…政府高官「全部１日だときつい」「働き方改革の一環」",
-      "summary": "自民党の役員人事が本日行われる一方で、内閣改造は別の日程となる見込みです。政府高官は、両方を同日に行うことの負担が大きいと説明し、「働き方改革」の一環でもあるとコメントしています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtVmp3ZkJtWTRrVl9VU0RTd0FLY3BDbW0wSGt6RER1MUJuS2V4bFFrTFkwU1BRR05VUDJkalE0R01hVGZBVWlPTkFKcC0wbXpxUnVhakF0cHNWQmtaS1RNWmFObVNCZw?oc=5"
+      "title": "読む政治：変わらぬ「麻生氏頼み」のひずみ 極秘の電話で詰めた自民党人事",
+      "summary": "毎日新聞の「読む政治」コラムは、自民党内の人事において麻生氏への依存が続いている現状とその歪みに焦点を当てています。極秘の電話会談を通じて進められた人事調整の舞台裏が描かれ、党内の力学とその影響が分析されています。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91N1lVNVVHakFJTFJfM2MtSkNtMmd2ekVYLU9qWVF3UEVnNHBnaV81YlViSWF3VGE0VkhpLVRvVDctQTdxMjBmRTBsa3ZOOXBvS295bjl5VzVpME9RdHNNWEQtSDhQSU9O?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "辺野古沖転覆事故 遺族「学校は自分たちのことばで説明を」 | NHKニュース | 事件・事故、沖縄県",
-      "summary": "沖縄県辺野古沖での転覆事故を受け、遺族が学校に対し、事故について「自分たちのことばで」説明するよう求めています。事故の経緯や対応に関して、透明性のある説明が求められています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uQTdpRW83T0ZxUzFYQk9UYjJBczlLLXRZYkhBNDdmcy1IYWNKMUl1a013WmtpeDNXeld2T3lhOUNPeW5BOTVvVzZPQVdqTl9SR2JwSUdBSDFLNUJhTUpZ?oc=5"
+      "category": "国際",
+      "title": "【速報】サウジ石油施設を攻撃とフーシ派",
+      "summary": "速報によると、イエメンのフーシ派がサウジアラビアの石油施設を攻撃したと発表しました。この攻撃は中東地域の緊張を高める可能性があり、国際社会の動向が注視されます。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBodkxJeWFpVWpwbk9OVzlMZDFab3BDcGk0R3NYYUNhMUlCOVpaWnJZY3IwMkpRWUh5VVNJN3c3bS1TMW90QjNIVUF0NA?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "サウジアラビアの東西パイプライン、復旧に数週間 AP報道",
-      "summary": "サウジアラビアの東西を結ぶ重要な石油パイプラインが、復旧に数週間かかる見通しであることがAP通信の報道で明らかになりました。この事態は、原油市場に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WZjRMbWRvR0NveWJMc1ZnYWp3dGNpc0cxRS00Z011UkQ5NkQyRXBYaF9nUVNrVVJtSnBGa251YmEtYmFpYVBBS2NsTE8xSndKeW9WRlNwS0N0OUozdjRfdl9YaGg1MUN0bHhGag?oc=5"
+      "category": "政治",
+      "title": "高市総理あす内閣改造へ 維新から閣僚起用で正式合意、中司氏で調整 “能力主義”に政権幹部「ある意味実験的なものに」",
+      "summary": "高市総理は明日、内閣改造を行う予定で、日本維新の会からの閣僚起用が正式合意され、中司氏が調整されています。政権幹部は「能力主義」に基づいた今回の改造を「ある意味実験的なものになる」とコメントしており、今後の政権運営に注目が集まります。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aN184UEQ1QWRwSm1JNmZCYTRQMnk1c2pJX2liSGpKeEtVdXhQdjVhU2M4Y1h0Z3VaVzRWaU5tdXRlM2hhYkd4dXlPQ2pkNXM3SXZNTGFsOA?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "豪雨の夜、想定の倍以上の帰宅困難者が千葉県庁に集中「ギリギリの対応だった」…滞在施設の周知・誘導に課題",
-      "summary": "豪雨に見舞われた夜、千葉県庁には想定を大幅に上回る帰宅困難者が殺到し、対応が「ギリギリ」の状態だったと報じられています。滞在施設の周知や誘導体制に課題が浮き彫りとなりました。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10UmVfTUJDVU1IUVdnZWNkbFdqOHpmUk1RTGFpZ1FpWks3bVlhai02NVdHcXh1SG1sSWJPZ2ZzR1FIWDBsdWR2NG9WTzJhLWZnMXpWQmtCNkpzMGVUdVE1QTBYOGpOZw?oc=5"
+      "title": "週間天気予報 シルバーウィークは台風25号の影響懸念 西日本は晴れるところ多い",
+      "summary": "週間天気予報によると、今年のシルバーウィークは台風25号の影響が懸念されていますが、西日本では晴れる地域が多いと予測されています。週末にかけての気象情報に注意が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iVDRPbXdLbWxQSF9CWUNIaW56TGt0a2VaZGVYVEdNYnlfTk9HUVJBeG5rSjMzaDdnd0ZqR282LURLSEFBYWJKNnNjWXpydE43WWNaUA?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風発生予想 シルバーウィークに本州方面へ 次に発生すると「台風25号」",
-      "summary": "シルバーウィーク期間中に、本州方面へ向かう可能性のある台風の発生が予想されています。次に発生する台風は「台風25号」となる見込みで、今後の進路情報に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10bjRDTlpWZXNVN2pOSTItYmlfaFB0T2dPVXd1MVQ2d0dEVjBOcVNzYy1CTW5JZVJwRkphX0N5Rm1NNGQtemhtVTliRHdTNzRRVDZRbQ?oc=5"
+      "category": "社会",
+      "title": "山形 酒田 6歳男児行方不明で警察が防犯カメラ映像を公開",
+      "summary": "山形県酒田市で6歳の男児が行方不明となり、警察は防犯カメラの映像を公開して情報提供を呼びかけています。地元住民も捜索に協力しており、一日も早い発見が望まれます。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mVGJRamE3RS0zSUtTcEdwZWxHV2JDMFQtMEtLLVlTenBhdjUtcUpyYS1CQ0haVFd4aVVEaWJpanJCbmU4Qm5LNTIxcWxvLXl4c0JaRnpvSTc2Mlg0dGFj?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏が選任したケネディセンター理事会、改修のため会場即時閉鎖を決定",
-      "summary": "トランプ氏が任命したケネディセンター理事会が、大規模な改修工事のため会場を直ちに閉鎖することを決定しました。この動きは、文化施設運営における政治的影響を巡る議論を呼んでいます。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUs4cW5ObUl6MlVlTWNkNElRVGNQaVFrNU5pYUZJOGJBMEpYaVFEbmtnTk9OVDZRNGlUNF9fams2QzIxWUdOU3JlUE1wNTFFbFJWUlZyODByYm1lU2FjLWN2d3ZzU3lnUXBvcU9LMDFtcDdjYjZqTGwycGZzb18yc3E4UUtEY3hsX3ltM3A4d05ERmRycVMwamFheXB2dzNxX0d3LTJyLVg2dmtHbVc2TzRKWXF3cVVZc2VrRDkyN0pmR3M2cWZWZGtXMWVEdw?oc=5"
+      "title": "トランプ氏寄りの理事会が閉鎖を決議後、ケネディセンター本館周辺にフェンスが設置される",
+      "summary": "トランプ氏に同調する理事会が閉鎖を決定したことを受け、ワシントンD.C.のケネディセンター本館周辺にフェンスが設置されました。この決定は文化施設運営における政治的影響を巡る議論を巻き起こしています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObC10Q2xCdEtYZzZHVElOamk3X19QVGtfYi1LS3BlanhOT1hMWmJ2REZBZWtQYWlmaXFfRUF4ZzdzU3dDalFFbHpxZ3E4M1BLakRsT0dZWS1zRTFDRWdGbFlNZ0hlc0o4RTBEbHU1clpSYy1TLV82YmgxSTZ5eGRuaWJZVmRmQkh1eS1IMkNYaEotNDU4ZTZCR0ttQnVfQ1V1RkZ0YQ?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏、郵便投票規制の試みを最高裁に却下され非難",
-      "summary": "ドナルド・トランプ氏は、郵便投票の規制を求める自身の提訴が最高裁によって却下されたことに対し、公然と非難の声を上げました。この決定は、今後の選挙制度に関する論争に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0NGR0RicUtTb0ExUGROZVNyajF2eGh6cGhqTlF4bGVGa05SMGF4anloa0pwS3FxWHhIM1NwU1dFV1VneExKeHNhcGtQdDg5UkMtSm5sRkh2M0RVWG1HOURuRzd5d3VMaUYxSzhDLWxvVFV4UTlsODRRbTBhRE5kdU55ZU96Y3g3aDZtNHJIMnBXRUM0TWJubEVOSEZqZUE5?oc=5"
+      "title": "マッシー議員、ヘグセス氏弾劾の動きを共和党指導部に秘密にしていた",
+      "summary": "マッシー議員がヘグセス氏の弾劾に関する動きを共和党の指導部に秘密にしていたことが明らかになりました。この動きは党内の不和を浮き彫りにし、今後の政治情勢に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40YUVzU0hsLXhHVEVXa0FnaUNuSm9XN0UzSTkzdHZEWkdLXzYtYzFrR2ZJbWR0N1B0bG9za2w2MlZFRHlJX1dtRFZRT2EzTUhMREg1UF9zeUxXT2tvc2g3RExDLXBwMmJwYUlqT2xWQWw3LUk?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "共和党のマシー議員、イラン戦争を巡りヘグセス国防長官の弾劾動議を提出",
-      "summary": "共和党のトーマス・マシー下院議員が、イラン戦争への対応を理由にヘグセス国防長官の弾劾動議を提出しました。これは、米国政府の外交政策と軍事行動を巡る議会内の緊張を示しています。",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzeHV1VUx0NUc0WWZGQ1NLZ1BTWU40R0pWdTdBWWRDelF0Tjd1T09sZFZUS05fR2U5QWdoMDNOSzJzUzhIYThIUG5wNkhYMFBNVWVGVzNXYm5yOW1VTFB6V2ltWWVKSXVaMXlvUGZvWWVHVGplNWRSRm5n?oc=5"
+      "title": "激戦区のアイオワ州共和党下院議員候補が、トランプ氏のイラン戦争継続能力を阻止する投票を実施",
+      "summary": "激戦区のアイオワ州共和党下院議員候補が、トランプ大統領のイラン戦争継続能力を阻止するための投票を行いました。これは党内における大統領の外交政策への異論を示すものであり、今後の対イラン政策に影響を与えるかもしれません。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWQ1MWJScTlKaEVZOV9SZkg4MTdpOHNWSDBxM21ZemI3YUJBWVFsZkVSOHpFR0JIQUVYcDl0MzlqOFg3QWR1RGNHMnlTNktVU1oyRzRhdTRsNXZKQWJvb0VXNWFpY2RTZ0NaRTZZdUl0ZUZLc2t1dzhSYk5ySG9qUWZNNWotSC0yLXJZSm5YUHlhREpJYXphcw?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "イラン戦争が米国の弾薬不足を招いていると国防総省監察官が確認",
-      "summary": "国防総省の監察官は、イラン戦争が米軍の弾薬不足を引き起こしていることを確認しました。長期化する紛争が米国の軍事資源に与える影響が懸念されています。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MGRxOW12dm55Vk5Oa2NLMW1IcDVvWTBJcVp2VkJ2Qm5ONm5aMWtqSXE5OE9EQnZLeXY5UjAtelNfTktqZTJNOE9ROEN2ZnFkRnJnNEVnbXQ3TGM?oc=5"
+      "category": "Politics",
+      "title": "EUのフォン・デア・ライエン委員長、カナダをEU初の準加盟国にしたいと表明",
+      "summary": "EUのフォン・デア・ライエン委員長が、カナダをEU初の準加盟国にしたいとの意向を表明しました。この提案は、EUとカナダの関係強化、および国際的な連携の新たな形を探る動きとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Technology",
-      "title": "ジョンソン氏、AI警告を軽視：「10年後には皆死ぬわけではない」",
-      "summary": "ジョンソン氏は、人工知能（AI）の急速な発展に伴う警告や懸念に対し、「10年後に皆が死ぬわけではない」と述べ、脅威を軽視する姿勢を示しました。AIの将来性に関する議論が続いています。",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcmFXUG0wdGxoVGl3bGhyZFRibzY5bU9BZHlsczNpVktBVW1SNXhFRVBSeGJCM0NHVW83UkFwM3BjakVKNE9MQ1NwdTlya0pndzJJa1ZwWWhjUkN5Q1IweEVJZEJvWFNSdG5ETWV6djBQMFRwRi0yZVFjRS1Ed3k3WEp3cHlsLU9Bc1hhQUNodERXQjg?oc=5"
+      "category": "Society",
+      "title": "NBCロサンゼルスのニュースヘリコプター墜落事故の犠牲者について知っておくべきこと",
+      "summary": "NBCロサンゼルスのニュースヘリコプター墜落事故で犠牲になった人々の情報が報じられています。事故の詳細と犠牲者の背景が伝えられ、地域社会に深い悲しみをもたらしています。",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxMTS1FdmpZaEhJeU1tNEl6OHJMY3hFU3ZYMWQtTGNZYXFROEMtNXdiUm8zT3BjMTVGUDcyOUhGcFdGSDlaMl9wUThSLTZrazZmclZxREtzUHVKTVZ5bmE4aVhteWUxdmpCUE5BMXBHMFMzYW9wdFRENWZnNUdlY0tMLWl5SkRVVzJvM2sza2k0WHAxV29yS1FQdTZ3akZ6em5aZm91TWhIS3o4bXNZNGdDbV9uTi0?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バーチャルリアリティ支援の神経筋トレーニングがバスケットボール選手の敏捷性と怪我予防に与える影響：対照実験",
-      "summary": "この対照実験では、バーチャルリアリティ（VR）を活用した神経筋トレーニングが、バスケットボール選手のアジリティパフォーマンス向上と怪我予防に及ぼす効果を検証しました。研究の結果、VRを用いることで選手の反応速度やバランス能力が向上し、特に膝関節の安定性に関連する神経筋制御が改善されることが示唆されました。",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングのアジリティ向上と傷害予防効果：対照実験研究",
+      "summary": "この実験研究は、バスケットボール選手を対象に、VRを活用した神経筋トレーニングがアジリティ能力と傷害予防に与える影響を評価しました。研究結果は、VR環境でのトレーニングが選手の運動能力を向上させ、特定の膝靭帯損傷（ACLなど）のリスクを低減する可能性を示唆しています。このアプローチは、従来のトレーニング法に比べてよりインタラクティブで効果的な介入となり得ます。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "様々なカーボンプレートランニングシューズが走行中の脛骨ピーク加速度、左右非対称性、および残存衝撃に与える影響",
-      "summary": "本研究は、異なるカーボンプレートを内蔵したランニングシューズが、走行中の脛骨にかかる衝撃、左右の動きの非対称性、および体内に残る振動にどのような影響を与えるかを調査しました。結果として、カーボンプレートの種類によって脛骨への負荷や衝撃吸収能力に差が見られ、これがランナーの怪我のリスクやパフォーマンスに影響する可能性が示されました。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEVsSU5NUlRiVEZVODV4azlKc21INERKUVA4UFZBRnZQdVdBZDN4U2V1VTdNUjdKdGQ4R1lib25PSWdfX2sxZGQyOTNNWEg4NjZHZFR5dERidWRSSG1BXzFiY0NKZjU1Qzlyc1N5YmlXeFhLVkluS1JvakJfMFFXUkJvWUZEcFVJbmpTY1lFY3JLNEtpd2J3M0ZCek05QmQyY1RhTg?oc=5"
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "アクパンクチャーボディワークが産後回復と整形外科的懸念に特化した鍼治療を提供",
+      "summary": "アクパンクチャーボディワークは、産後の女性が経験する身体的回復の課題や、スポーツ選手を含む患者の整形外科的な痛みに対応するための専門的な鍼治療サービスを提供していると報じられています。このサービスは、伝統的な鍼灸の知見に基づき、特定の症状緩和と機能回復を目指しています。",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMVBVamJVRHJfd1RtbVE2WnFPRlhoSmRXSG40dTgzTDNaVFVIcElmT3VSR0c3cHRlUTJLeV94NVF3MktMVF9OTk9ZY2s4QUNUZWVaNUNybVBwT05LV2piRHR3dVBIQW9nb2VuYmR3R2FCTVo3blNUakFNZEVETUVvSFRLYV8yNzFxdXlqdFNtMWJHY3JsSzBtbXhvaFVkQUxLMS16UVdROWZ4cW1ieVVfOHJjcl8zSEFkbXNzRUxWNkVMNUVWN3Y2dGQ5di1QRG1BcWEtcEQtNWw4S2Q5bmc?oc=5"
     }
   ]
 };
