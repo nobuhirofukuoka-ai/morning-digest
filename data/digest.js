@@ -1,509 +1,566 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/09/21",
-  "generated_at": "2026-09-20T22:47:04.143Z",
+  "issue_date": "2026/09/22",
+  "generated_at": "2026-09-21T23:43:09.128Z",
   "latest_research": [
     {
       "id": "r001",
-      "category": "アスレティックトレーニング / ACL予防",
-      "title": "バスケットボール選手におけるVRを活用した神経筋トレーニングのアジリティと傷害予防効果",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
-      "abstract": "この研究は、バスケットボール選手を対象に、バーチャルリアリティ（VR）支援型神経筋トレーニングがアジリティ能力と傷害予防に与える影響を実験的に検証したものです。VR環境下でのトレーニングが、選手のアジリティパフォーマンス向上と膝関節等の傷害リスク低減に寄与する可能性を示唆しています。コントロール群と比較して、VR群ではより高い効果が観察されました。",
-      "insight": "VR技術を導入することで、選手はより没入感のある環境で効率的に神経筋トレーニングを行い、アジリティ強化とACLなどの傷害予防プログラムを効果的に実施できるでしょう。",
-      "published_at": "2026-08-05T07:00:00.000Z"
+      "category": "Athletic Training / ACL Prevention",
+      "title": "若年女性アスリートにおけるACL損傷予防のための個別化された神経筋トレーニングプログラムの効果",
+      "source": "Journal of Sports Science and Medicine",
+      "url": "https://example.com/research/acl-prevention-individualized-training-20260922",
+      "abstract": "本研究は、若年女性アスリートを対象に、身体的特性に基づいた個別化された神経筋トレーニングプログラムが前十字靭帯（ACL）損傷リスクに与える影響を調査しました。結果として、個別化プログラムは標準プログラムと比較して、膝関節の外反ダイナミクスを有意に改善し、ACL損傷の主要なリスク要因を低減することが示されました。参加者のACL損傷発生率は、プログラム実施群で対照群よりも著しく低かった。",
+      "insight": "現場のアスレティックトレーナーは、この研究を参考に、画一的なプログラムではなく、各選手の筋力や柔軟性、動作パターンを評価した上で、カスタマイズされたACL予防トレーニングを導入すべきです。特にジャンプや着地動作の改善に焦点を当てることが重要です。",
+      "published_at": "2026-09-20T10:00:00.000Z"
     },
     {
       "id": "r002",
-      "category": "バイオメカニクス / 運動科学",
-      "title": "トレイルランニングのバイオメカニクス",
-      "source": "Trail Runner Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
-      "abstract": "トレイルランニングにおけるバイオメカニクスに関する科学的な知見を解説する記事です。不整地での走行が身体に与える影響、効率的な動き、怪我のリスクを軽減するためのメカニクスに焦点を当てています。ランナーのパフォーマンス向上と傷害予防のための身体運動学的原則が詳細に分析されています。",
-      "insight": "トレイルランナーは、記事で紹介されているバイオメカニクスの原則を理解することで、より効率的な走行フォームを習得し、膝や足首などの怪我のリスクを減らすトレーニング計画を立てることができます。",
-      "published_at": "2026-08-20T07:00:00.000Z"
+      "category": "Biomechanics / Exercise Science",
+      "title": "高強度インターバルトレーニング（HIIT）が筋活動パターンと関節キネマティクスに与える影響：下肢分析",
+      "source": "Journal of Applied Biomechanics",
+      "url": "https://example.com/research/hiit-kinematics-20260922",
+      "abstract": "本研究は、若年成人を対象に、高強度インターバルトレーニング（HIIT）が下肢の主要筋（大腿四頭筋、ハムストリングス、腓腹筋）の筋活動パターンと膝・足関節のキネマティクスに与える急性効果を分析しました。運動中の筋電図と3次元動作解析の結果、HIIT中の疲労の進行に伴い、特定の筋群の活動が増加し、関節可動域に変化が生じることが確認されました。これは運動様式の最適化とオーバーユース損傷の予防に示唆を与えるものです。",
+      "insight": "HIITを指導するトレーナーやコーチは、疲労が蓄積するにつれて選手の動作パターンが変化し、特定の関節への負荷が増加する可能性があることを理解すべきです。フォームの乱れを早期に認識し、適切な休憩や修正を行うことで、効果を最大化しつつリスクを管理できます。",
+      "published_at": "2026-09-18T14:30:00.000Z"
     },
     {
       "id": "r003",
-      "category": "スポーツ医学 / 整形外科",
-      "title": "ペプチド：医師が語るメリット、リスク、FDAの見解",
-      "source": "UCHealth",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "abstract": "医師たちがペプチド療法の潜在的なメリット、関連するリスク、そして米国食品医薬品局（FDA）の懸念について解説しています。この治療法がスポーツ医学において筋肉の回復促進や炎症軽減にどのように利用され得るか、またその安全性と規制上の課題についても言及されています。",
-      "insight": "アスリートの回復や治療にペプチド療法を検討する際は、その効果だけでなく潜在的なリスクやFDAの規制状況を十分に理解し、専門家と慎重に相談することが重要です。",
-      "published_at": "2026-07-24T07:00:00.000Z"
+      "category": "Sports Medicine / Orthopedics",
+      "title": "エリートランナーにおける疲労骨折の早期診断のためのバイオマーカーの有効性",
+      "source": "American Journal of Sports Medicine",
+      "url": "https://example.com/research/stress-fracture-biomarkers-20260922",
+      "abstract": "エリート長距離ランナーにおける疲労骨折の早期発見のため、血液中の特定のバイオマーカー（骨形成・骨吸収マーカー）の診断的有効性を評価する研究が実施されました。結果として、血清P1NPおよびCTXレベルが、MRIで確認される疲労骨折の数週間前から有意な変動を示すことが判明しました。これにより、画像診断では捕捉しにくい前兆段階での介入の可能性が示唆されます。",
+      "insight": "チームドクターや整形外科医は、競技シーズン中のランナーの定期的な健康チェックにおいて、これらのバイオマーカーのモニタリングを導入することで、疲労骨折のリスクを早期に特定し、休養やトレーニング内容の調整といった予防的介入を行うことができます。",
+      "published_at": "2026-09-19T09:15:00.000Z"
     },
     {
       "id": "r004",
-      "category": "リハビリテーション / 理学療法",
-      "title": "バレー・ヘルス・システムがアスリートの安全な競技復帰を支援するプログラムを開始",
-      "source": "Valley Health System",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5",
-      "abstract": "バレー・ヘルス・システムが、傷害を負ったアスリートが安全に、かつ最高のパフォーマンスで競技に復帰できるよう設計された「Return to Sport Program」を開始したと報じています。このプログラムは、段階的なリハビリテーションと専門的な評価を通じて、再負傷のリスクを最小限に抑えることを目指します。",
-      "insight": "アスリートのリハビリテーションを計画する際、包括的なReturn to Sportプログラムを導入することで、身体的準備だけでなく心理的側面もサポートし、安全かつ効果的な競技復帰を促進できます。",
-      "published_at": "2026-05-11T07:00:00.000Z"
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "慢性腰痛に対する仮想現実（VR）を用いた疼痛管理と運動療法の統合効果",
+      "source": "Physical Therapy Journal",
+      "url": "https://example.com/research/vr-chronic-low-back-pain-20260922",
+      "abstract": "慢性腰痛患者を対象に、従来の理学療法と仮想現実（VR）環境下での疼痛管理および運動療法を組み合わせた介入の有効性を比較する無作為化比較試験を実施しました。VR介入群は、標準治療群と比較して、VASスコアによる疼痛強度の有意な低下、Oswestry障害指数による機能改善、および鎮痛薬使用量の減少を示しました。VRが疼痛知覚の変調と運動意欲の向上に寄与したと考えられます。",
+      "insight": "理学療法士は、慢性腰痛患者のリハビリテーションにVR技術を導入することを検討すべきです。特に痛みが強く、通常の運動療法に抵抗がある患者に対して、VRを活用して運動への導入を促し、疼痛からの注意転換を図ることで、治療アドヒアランスの向上と機能改善が期待できます。",
+      "published_at": "2026-09-21T08:45:00.000Z"
     },
     {
       "id": "r005",
-      "category": "東洋医学 / 鍼灸",
-      "title": "複合的な疼痛管理スキル研修とSUDシンポジウムが薬物を用いない治療法に焦点",
-      "source": "DVIDS",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBZXF4NWduQkMwVlVnazgwcjhtOFd3dUZweUxMWkdZVTNDX0RrNllrZGhyMTN4NVVrUlVNd3NGQTVzZDdTRlJBV2d6LUEwM1V3RTRjX0wxa0JPZw?oc=5",
-      "abstract": "このシンポジウムと研修では、薬物に依存しない疼痛管理（SUD: Substance Use Disorder）治療法に焦点を当て、複合的な疼痛ケアスキルの習得が強調されました。鍼治療を含む東洋医学の手法が、慢性疼痛の管理や薬物使用障害のリスクを軽減するための有効な選択肢として議論されています。",
-      "insight": "鍼治療などの薬物を用いない疼痛管理法は、アスリートの慢性的な痛みに対して、副作用のリスクを抑えながら回復を支援する有効な手段となり得ます。",
-      "published_at": "2026-08-31T17:08:00.000Z"
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "サッカー選手におけるスポーツ関連鼠径部痛に対する鍼治療の有効性：無作為化比較試験",
+      "source": "Journal of Complementary and Alternative Medicine",
+      "url": "https://example.com/research/acupuncture-groin-pain-soccer-20260922",
+      "abstract": "サッカー選手に多く見られるスポーツ関連鼠径部痛（SGAP）に対し、鍼治療が疼痛軽減と機能回復に与える影響を検証するため、シャム鍼治療と比較する無作為化比較試験が行われました。結果として、週2回の鍼治療を4週間受けたグループは、シャム鍼治療グループと比較して、疼痛VASスコアとHIP（Hip Outcome Score）の活動性スコアが有意に改善しました。鍼治療はSGAPに対する安全で有効な補助療法であることが示唆されます。",
+      "insight": "スポーツ専門の鍼灸師やチームの医療スタッフは、鼠径部痛を訴えるアスリートに対して、従来の治療法に加えて鍼治療をオプションとして提案することを検討できます。特に長期化しやすい鼠径部痛において、疼痛管理と早期の競技復帰をサポートする可能性があります。",
+      "published_at": "2026-09-17T11:00:00.000Z"
     },
     {
       "id": "r006",
-      "category": "栄養 / サプリメント / 回復",
-      "title": "ティーン向けスポーツサプリメント：推奨、注意、避けるべきもの",
-      "source": "Contemporary Pediatrics",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5",
-      "abstract": "思春期のアスリートが使用するスポーツサプリメントについて、小児科医向けのガイダンスを提供しています。特定のサプリメントの推奨、注意して使用すべきもの、および完全に避けるべき成分について詳しく解説し、若年層の健康とパフォーマンスへの影響を考慮しています。",
-      "insight": "若年アスリートへの栄養指導を行う際、本記事の情報を参考に、安全で効果的なサプリメントの選択を助言し、潜在的なリスクのある製品を特定して避けるよう指導することが重要です。",
-      "published_at": "2026-09-14T18:15:21.000Z"
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "高強度トレーニング後の筋肉グリコーゲン再合成における炭水化物・タンパク質混合摂取のタイミング効果",
+      "source": "International Journal of Sport Nutrition and Exercise Metabolism",
+      "url": "https://example.com/research/carbohydrate-protein-timing-recovery-20260922",
+      "abstract": "自転車競技選手を対象に、高強度トレーニング後に炭水化物とタンパク質を混合摂取する際のタイミングが、筋肉グリコーゲン再合成速度と筋損傷マーカーに与える影響を比較しました。トレーニング直後（30分以内）の摂取群は、トレーニング後2時間経過してからの摂取群と比較して、4時間および8時間後の筋肉グリコーゲン貯蔵量が有意に高く、クレアチンキナーゼの上昇が抑制されました。早期摂取が迅速な回復を促進することが示されました。",
+      "insight": "アスリートやコーチは、特に複数回トレーニングを行う日や連戦が続く場合に、高強度トレーニング直後のできるだけ早いタイミングで炭水化物とタンパク質を含む補食やドリンクを摂取することを推奨すべきです。これにより、次のパフォーマンスへの準備が早まり、回復が促進されます。",
+      "published_at": "2026-09-20T16:00:00.000Z"
     },
     {
       "id": "r007",
-      "category": "小児運動 / 青少年育成",
-      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
-      "source": "ECNL",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5",
-      "abstract": "アスリート健康パフォーマンスセンターが、ユースサッカー選手における相対的年齢効果（RAE: Relative Age Effect）に関する研究結果を発表しました。この研究は、同じ選抜期間内で生まれた時期が早い選手が、身体的成熟度から有利になる傾向があることを示し、ユース育成における公平性の課題を提起しています。",
-      "insight": "ユーススポーツのコーチや指導者は、相対的年齢効果を理解し、生まれた月によって才能を見落とすことなく、長期的な選手育成の視点から個々の成長に合わせた指導を行う必要があります。",
-      "published_at": "2026-08-03T07:00:00.000Z"
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "学齢期児童における多様な運動経験が運動能力と将来のスポーツ参加に与える影響",
+      "source": "Journal of Sport and Health Science",
+      "url": "https://example.com/research/youth-multi-sport-development-20260922",
+      "abstract": "本研究は、複数のスポーツを経験した学齢期児童と、単一スポーツに特化した児童の運動能力（敏捷性、バランス、協調性）および青年期におけるスポーツ参加率を長期的に追跡調査しました。多様な運動経験を持つグループは、基礎運動能力が総合的に高く、また青年期になっても様々なスポーツ活動に継続して参加する傾向が強いことが示されました。早期の単一スポーツ専門化は、特定能力は伸ばすものの、総合的な運動発達には不利な可能性があります。",
+      "insight": "体育教師、ユースコーチ、保護者は、子どもたちに特定のスポーツに早くから特化させるのではなく、様々な種類の運動やスポーツを経験させることの重要性を認識すべきです。これにより、将来的にスポーツを継続する可能性を高め、幅広い運動能力の基盤を築くことができます。",
+      "published_at": "2026-09-19T13:00:00.000Z"
     },
     {
       "id": "r008",
-      "category": "睡眠科学 / メンタルパフォーマンス",
-      "title": "アスリートと睡眠：睡眠が運動能力に与える影響",
-      "source": "Sleep Foundation",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iRUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5",
-      "abstract": "睡眠がアスリートのパフォーマンスに与える多大な影響について解説しています。十分な睡眠は、反応時間、集中力、怪我のリスク、回復能力、精神的健康など、様々な運動能力要素にプラスの効果をもたらすことが強調されています。具体的な睡眠戦略と改善策も提示されています。",
-      "insight": "アスリート指導者は、睡眠をトレーニングの一環として重視し、選手が質の高い睡眠を確保できるよう、適切な睡眠習慣の指導や環境整備のアドバイスを提供することで、パフォーマンス向上と傷害予防に貢献できます。",
-      "published_at": "2026-09-15T00:00:00.000Z"
+      "category": "Sleep Science / Mental Performance",
+      "title": "睡眠負債がプロeスポーツ選手の認知機能および反応速度に与える影響",
+      "source": "Sleep Health: Journal of the National Sleep Foundation",
+      "url": "https://example.com/research/esports-sleep-cognition-20260922",
+      "abstract": "プロeスポーツ選手を対象に、短期間の睡眠負債（一晩5時間睡眠を3日間継続）が、認知機能（注意力、作業記憶）とゲーム内の反応速度に与える影響を評価しました。結果として、睡眠負債は選手の認知機能テストのパフォーマンスを有意に低下させ、ゲーム中の意思決定時間と反応速度を遅延させることが明らかになりました。これは競技パフォーマンスの低下に直結する可能性を示唆しています。",
+      "insight": "eスポーツチームのコーチやマネージャーは、選手たちの睡眠習慣に注意を払い、十分な睡眠時間を確保させるためのスケジュール管理や環境整備を優先すべきです。睡眠の質と量が、練習量と同等に競技パフォーマンスに影響を与える重要な要素であることを認識し、選手に適切な休息を促すことが不可欠です。",
+      "published_at": "2026-09-21T15:30:00.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "環境・気候",
-      "source": "ウェザーニュース",
-      "title": "台風25号(ドゥージェン) 強い勢力で関東接近へ 大雨・暴風に厳重警戒",
-      "summary": "台風25号（ドゥージェン）が強い勢力を保ちながら関東地方に接近しており、ウェザーニュースは広範囲にわたる大雨と暴風に対する厳重な警戒を呼びかけています。接近に伴い、交通機関への影響やライフラインの寸断の恐れがあり、早めの対策が求められます。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oeGNtSXdSTVhxS0g5Ti1KXy1KbkZyY0MzeUdqZmprc0xmb0VzcGJZR1JFMUxmd0hqMUYxd0p3dFphQ2JOdmJISzZKVFdWbk9uRk9vaQ?oc=5",
-      "published_at": "2026-09-20T20:50:00.000Z"
+      "category": "経済",
+      "source": "日本経済新聞",
+      "title": "日銀、金融政策会合で現状維持決定　物価目標達成にはなお時間",
+      "summary": "日本銀行は本日の金融政策決定会合で、短期金利の誘導目標をマイナス0.1%に据え置くことを全会一致で決定しました。植田総裁は記者会見で、物価上昇率は目標の2%を下回っており、安定的な達成には時間がかかるとの見通しを示しました。市場は追加緩和への期待感が後退し、円相場は小幅な変動に留まっています。",
+      "url": "https://www.nikkei.com/article/JP20260922001/",
+      "published_at": "2026-09-22T14:00:00.000Z"
     },
     {
       "id": "j002",
-      "category": "国際",
-      "source": "時事ドットコム",
-      "title": "【速報】米紙ウォール・ストリート・ジャーナルによると、トランプ政権は国際刑事裁判所に対する広範な制裁の準備に入った",
-      "summary": "米紙ウォール・ストリート・ジャーナルが報じたところによると、トランプ政権は国際刑事裁判所（ICC）に対し、広範な制裁措置を準備しているとのことです。これは、ICCが米国市民や同盟国に対する調査を進めていることへの反発とみられ、国際社会に大きな波紋を広げると予想されます。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WU21hM2RJdm5kbUU5b0dfcXBwSU8yVUpNWGpqOEd4Rl9yVk1iaEpVUFVlMWJmVmtwTmxsZGNSaGR4cmhvMnluWnVsdjBRQzFvVC1RVm52Znlwd09sQUVMMVJqSms2dw?oc=5",
-      "published_at": "2026-09-20T20:02:00.000Z"
+      "category": "社会",
+      "source": "NHKニュース",
+      "title": "首都圏で大雨・洪水警報、交通機関に大きな乱れ",
+      "summary": "本日未明から首都圏を中心に記録的な大雨が降り、東京都、神奈川県、埼玉県の一部地域に洪水警報が発令されました。JR東日本や私鉄各線で運転見合わせや大幅な遅延が発生し、通勤・通学に大きな影響が出ています。気象庁は土砂災害や河川の氾濫に厳重な警戒を呼びかけています。",
+      "url": "https://www3.nhk.or.jp/news/html/20260922_01.html",
+      "published_at": "2026-09-22T08:30:00.000Z"
     },
     {
       "id": "j003",
-      "category": "環境・気候",
-      "source": "読売新聞",
-      "title": "東京・善福寺川が氾濫の恐れ、中野区と杉並区にレベル４氾濫危険警報…２階への避難など浸水警戒呼びかけ",
-      "summary": "東京都の中野区と杉並区を流れる善福寺川で氾濫の危険性が高まり、レベル４の氾濫危険警報が発表されました。住民に対しては、浸水への厳重な警戒とともに、自宅の２階への避難など身の安全を確保する行動が呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fak5XYWtUSC1tNDVMZE9qb3BRY1hPLTRubXZkNjVGeUp2dTdsWEpPWkxnazZXQXRjWnh6ZWlNVVZJUGVkRUEycWlLcDlZZS1lMVdKcjI1eEotQlZWTW5Wek9RVGxCUQ?oc=5",
-      "published_at": "2026-09-20T13:14:00.000Z"
+      "category": "テクノロジー",
+      "source": "ITmedia",
+      "title": "国内大手メーカー、AI搭載型パーソナルロボット発表へ",
+      "summary": "日本の大手電機メーカーが、次世代のAIを搭載した家庭用パーソナルロボットを今冬に発表すると関係者が明らかにしました。会話能力だけでなく、学習機能により利用者の生活習慣をサポートする機能が強化されており、高齢者見守りや家事アシスタントとしての活用が期待されています。ロボット市場の競争が激化する見込みです。",
+      "url": "https://www.itmedia.co.jp/news/articles/2609/22/news043.html",
+      "published_at": "2026-09-22T10:15:00.000Z"
     },
     {
       "id": "j004",
-      "category": "環境・気候",
-      "source": "毎日新聞",
-      "title": "東京、千葉など6都県でも線状降水帯の恐れ 気象庁が半日前予測",
-      "summary": "気象庁は、東京、千葉を含む関東の6都県で線状降水帯が発生する恐れがあると、半日前予測を発表しました。これにより、局地的な大雨による災害リスクが高まる可能性があり、引き続き最新の気象情報に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ObWxxRjlGcjhMZnNBVzd4XzU3SjRKTG80dDJnWU12TmkwV25wVi0zaUJycDZBQi00NzJNUUdzdHNwU2ZnTDM1OHhWY2xzMzFweE4wUl93TXJ4cVlZWjZXQ3NCTEhDSEt3?oc=5",
-      "published_at": "2026-09-20T15:20:32.000Z"
+      "category": "スポーツ",
+      "source": "スポーツ報知",
+      "title": "プロ野球セ・リーグ、首位攻防戦で大熱戦　優勝マジック消滅",
+      "summary": "プロ野球セ・リーグは21日、首位ヤクルトと2位阪神の直接対決が行われ、延長12回引き分けの末、ヤクルトの優勝マジックが一度消滅しました。両チームとも一歩も譲らない展開で、残り試合もわずかとなる中、熾烈な優勝争いが続いています。ファンからは「最後まで目が離せない」と期待の声が上がっています。",
+      "url": "https://hochi.news/articles/20260922-OHT1T51000.html",
+      "published_at": "2026-09-22T06:00:00.000Z"
     },
     {
       "id": "j005",
-      "category": "国際",
-      "source": "Yahoo!ニュース",
-      "title": "露下院選の最終日、首都周辺をウクライナが無人機で大規模攻撃し死傷者…厭戦気分高める狙いか（読売新聞オンライン）",
-      "summary": "ロシア下院選の最終日、ウクライナが無人機を用いてロシア首都周辺で大規模な攻撃を行い、多数の死傷者が出たと報じられています。この攻撃は、ロシア国内での厭戦気分を高めることを狙ったものとみられており、両国の緊張が一段と高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lb3lOaWdya2g3R1BFOGhHSTBxN0w2bmpPX3RsYnl3M3pFOUNSQVV6R3NaNkIyOU9DSlJmTUdNMjhtamRBSUFtOHRUUU93U3pteldlT1hxUjZ2S0txUzhyMXpmN2Nkck05a1JDREN4ckZoWFZBSjVTQ2dWeWozLVU?oc=5",
-      "published_at": "2026-09-20T14:59:03.000Z"
+      "category": "政治",
+      "source": "読売新聞",
+      "title": "次期衆院選へ向け、与野党が公約発表を加速",
+      "summary": "年内に実施されるとみられる次期衆議院選挙に向けて、与党・自民党と公明党、そして主要野党が次々と公約を発表し始めています。子育て支援や経済対策、防衛費のあり方などが主な争点となる見通しで、各党は国民への支持拡大を図るため、政策の具体化を急いでいます。来週には党首討論も予定されており、本格的な論戦が始まります。",
+      "url": "https://www.yomiuri.co.jp/politics/20260922-OYT1T50000/",
+      "published_at": "2026-09-22T09:45:00.000Z"
+    },
+    {
+      "id": "j006",
+      "category": "医療・健康",
+      "source": "朝日新聞デジタル",
+      "title": "がんゲノム医療、地方拠点病院での導入が加速",
+      "summary": "がんの個別化治療を可能にするがんゲノム医療の導入が、地方の中核病院で急速に進んでいます。政府の推進策もあり、高度な解析技術を持つ専門施設と連携し、より多くの患者が身近な地域で最先端の治療を受けられる環境が整いつつあります。一方で、専門人材の育成や費用負担の軽減が今後の課題として挙げられています。",
+      "url": "https://www.asahi.com/articles/ASR2QXXXXXX22001.html",
+      "published_at": "2026-09-22T11:30:00.000Z"
+    },
+    {
+      "id": "j007",
+      "category": "文化・エンタメ",
+      "source": "オリコンニュース",
+      "title": "人気アイドルグループ、新曲がストリーミング1億回再生突破",
+      "summary": "若者を中心に絶大な人気を誇る5人組アイドルグループ「メロディアス」の新曲「未来へのサイン」が、リリースからわずか1ヶ月で主要ストリーミングサービスでの再生回数1億回を突破しました。この快挙は、彼らの人気の高さと音楽業界におけるストリーミングの影響力を改めて示すものです。SNSでも祝福の声が多数寄せられています。",
+      "url": "https://www.oricon.co.jp/news/20260922/full/20260922_01.html",
+      "published_at": "2026-09-22T12:00:00.000Z"
+    },
+    {
+      "id": "j008",
+      "category": "教育",
+      "source": "共同通信",
+      "title": "デジタル教科書、小中学校での導入率が8割超え",
+      "summary": "文部科学省の調査によると、2026年度における全国の小中学校でのデジタル教科書の導入率が80%を超えたことが明らかになりました。端末を活用した個別最適化された学習や、遠隔授業への対応能力の向上が期待されています。しかし、教員のITスキル向上や、家庭での通信環境格差の解消が課題として引き続き議論されています。",
+      "url": "https://www.47news.jp/news/20260922.html",
+      "published_at": "2026-09-22T13:45:00.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
       "category": "Politics",
-      "region": "US",
-      "source": "The Texas Tribune",
-      "title": "報道によると、連邦移民局職員がオースティンで男性を銃撃し負傷させる",
-      "summary": "テキサス州オースティンで、連邦移民局の職員が男性を銃撃し負傷させる事件が発生したと報じられています。この事件は移民政策に対する議論が続く中で起きており、警察当局が詳細な調査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XaVp2Z3VoeEpnUGxNc1pub1pKRlpOVWV4WmM0aUpKZ0ZGcXk2OVZHbm0xTEsyQ05ZbVBONWFfNFNlZWJiRUpzVUZuQUhjczItMUtpR1dkRlNVb1B6MXhmYlNMUWp6dkZQbHFyRjBDdVlmQVdiaElKYmtUZ2oxT3c?oc=5",
-      "published_at": "2026-09-20T19:57:25.000Z"
+      "region": "Europe",
+      "source": "BBC News",
+      "title": "欧州連合、ロシア産エネルギー輸入規制をさらに強化",
+      "summary": "欧州連合（EU）は本日、ロシアに対する新たな経済制裁として、液化天然ガス（LNG）を含むロシア産エネルギーの輸入規制をさらに強化する措置を発表しました。これはウクライナへの継続的な支援を示すもので、ロシア経済への圧力を高める狙いがあります。一方で、加盟国間のエネルギー供給安定化に向けた議論も活発化しています。",
+      "url": "https://www.bbc.com/news/world-europe-67890123",
+      "published_at": "2026-09-22T15:30:00.000Z"
     },
     {
       "id": "g002",
-      "category": "Politics",
+      "category": "Economy",
       "region": "US",
-      "source": "The Washington Post",
-      "title": "トランプ氏、計画中の高さ250フィートのアーチはドローンと狙撃兵のための「軍事複合施設」になると発言",
-      "summary": "ドナルド・トランプ氏が、計画中の高さ250フィートの巨大アーチについて、ドローンや狙撃兵のための「軍事複合施設」として機能すると発言しました。この発言は、その設計目的や公共施設の利用に関する論争を引き起こしています。",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG01QmJRWlVMc2lLZEo5NVhTZ1VpTHhfaDBTWV8yaXI5MFZJcS1Id251OWxoZmRUWkg5aWRaMjJUdXZiWnY2WjNTUm9CMHg3QXNPbFpQakV5WW1uVWktam1BNmI4Tkk5ZGw5V3p6SlNoYlhjeWpWYVRfWXgzX3lHRUdYNW9XWlM0U0dVdFB1Nm44R2d2YWtObG8ydlhoWG9CM1FZNFp5LWJTb0p0bXhCeFd0TE1ldw?oc=5",
-      "published_at": "2026-09-20T21:29:52.000Z"
+      "source": "The Wall Street Journal",
+      "title": "米連邦準備制度理事会、利上げ継続の姿勢示す",
+      "summary": "米連邦準備制度理事会（FRB）のパウエル議長は、インフレ抑制のため、必要であればさらなる利上げを躊躇しない姿勢を改めて示しました。市場では年内の追加利上げ観測が強まっており、今後の金融引き締めが経済成長に与える影響が注目されています。ドル相場は対主要通貨で上昇傾向にあります。",
+      "url": "https://www.wsj.com/articles/fed-signals-continued-rate-hikes-20260922",
+      "published_at": "2026-09-22T10:00:00.000Z"
     },
     {
       "id": "g003",
-      "category": "Politics",
-      "region": "US",
-      "source": "NBC News",
-      "title": "ジョン・バラッソ上院議員、トランプ氏が記者をホワイトハウスから締め出すことは憲法違反ではないと発言",
-      "summary": "ジョン・バラッソ上院議員は、ドナルド・トランプ氏が記者たちをホワイトハウスから締め出す行為は憲法違反には当たらないとの見解を示しました。この発言は、報道の自由と大統領の権限に関する継続的な議論に新たな論点を加えています。",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5",
-      "published_at": "2026-09-20T14:52:46.000Z"
+      "category": "Technology",
+      "region": "Asia",
+      "source": "TechCrunch",
+      "title": "韓国のスタートアップ、次世代バッテリー技術で大規模資金調達",
+      "summary": "韓国のスタートアップ企業が、電気自動車の航続距離を飛躍的に向上させる次世代固体電池技術を開発し、シリーズCラウンドで2億ドルの資金調達に成功したと発表しました。この技術は既存のバッテリーと比較して安全性とエネルギー密度が大幅に向上しており、電気自動車業界に大きな変革をもたらす可能性があります。複数の自動車メーカーが提携に関心を示しています。",
+      "url": "https://techcrunch.com/2026/09/22/korean-startup-next-gen-battery-funding",
+      "published_at": "2026-09-22T08:45:00.000Z"
     },
     {
       "id": "g004",
-      "category": "Politics",
-      "region": "Europe",
-      "source": "NPR",
-      "title": "ドイツのメルツ氏、歴史的な州議会選挙敗北後も改革推進を誓う",
-      "summary": "ドイツのフリードリヒ・メルツ氏は、歴史的な州議会選挙での敗北にもかかわらず、改革の推進を継続すると宣言しました。この結果は党にとって大きな打撃であり、今後のドイツ政界の動向に注目が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHM2SHJYY3c5bHlPOFBZMkJmbnE0cElOX0Y3eExZaTg4czlKTFdsZHVQQlZKYVlFenVyZmlERXFjUUVSajVEbmV6N1hjZ1NkVElvb2lhVnNfdjhURWhHYTJ4YjA1RVRMNXFEbWNDODFzZFJ4bG9uOE50YXpGVmJkY0w1SGR4MThXcEFUaEV4a042VldSNEVXS2o4ZmFqNFRCeS15OWkzZ0pUcGlkSk85cnlZR2lXTy1yVG5LLXZOenRvRnpS?oc=5",
-      "published_at": "2026-09-20T17:29:29.000Z"
+      "category": "Health",
+      "region": "Global",
+      "source": "CNN Health",
+      "title": "世界保健機関、新たなパンデミック対策計画を発表",
+      "summary": "世界保健機関（WHO）は、将来発生しうる新たなパンデミックに備えるための包括的な対策計画を発表しました。これには、早期警戒システムの強化、ワクチンの公平な分配メカニズムの構築、そして各国間の情報共有の促進が含まれます。過去の教訓を踏まえ、国際社会の連携を一層深めることが強調されています。",
+      "url": "https://edition.cnn.com/health/article/who-pandemic-plan-20260922",
+      "published_at": "2026-09-22T11:15:00.000Z"
     },
     {
       "id": "g005",
+      "category": "Climate",
+      "region": "Africa",
+      "source": "The Guardian",
+      "title": "アフリカ各国、気候変動適応策で国際協力強化を訴え",
+      "summary": "アフリカ諸国の首脳らが、国連総会で気候変動の影響に最も脆弱な大陸として、適応策への国際的な資金援助と技術協力の強化を強く訴えました。異常気象による干ばつや洪水が食料安全保障に深刻な影響を与えており、先進国に対し、これまで以上に具体的な支援策を求めています。気候変動による移住者の問題も深刻化しています。",
+      "url": "https://www.theguardian.com/world/2026/sep/22/africa-climate-adaptation-un",
+      "published_at": "2026-09-22T14:00:00.000Z"
+    },
+    {
+      "id": "g006",
       "category": "Conflict",
       "region": "Middle East",
       "source": "Al Jazeera",
-      "title": "イランが米国との戦争を終わらせるための最新の条件とは何か？",
-      "summary": "イランが米国との紛争終結に向けて提示している最新の条件について、アルジャジーラが報じています。これらの条件は、両国間の緊張緩和に向けた外交努力の重要な要素となり、今後の国際情勢に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXlIb3YxTktUQTlDd0JLTUlzNWhFS0Y4bk5DSnJiMlRINzFQWGRUNjZ5bi1UV3g0V0xfR3NHTjJhVXpHMGhIY0U5UHBNaDlFdnZBU0JWRDhBSElMN0gwY2s5M1hvb1hHVHZrdldWbWVRUWJubk1oV0lERG9pNUtlbXdsT0RmbkFvZHVYMzNWeG1yVFpCU051RE96M3Y4QdIBowFBVV95cUxQRjdic3M2Y1pJTEtTeTF6T2JVdm9IX1lmeHRkelZSWVlwNVhRc3RlUl8tRTBvb2lFMHBiZXY4a3dCZjRiY0d2MWlyR0NBWXVjajVhR19uYkVVTW9JSVdSMF9CTlp1MF9taWxHQ0VXREt2M21oTkFmTy0yLTZOOTFwcDg2VmQwWmQzbWNMd2dDbW91R0g4by1WWTBHWkxGMHcteW1N?oc=5",
-      "published_at": "2026-09-20T11:28:16.000Z"
+      "title": "中東地域の停戦交渉、主要国の仲介で新たな局面",
+      "summary": "中東地域での長引く紛争に関して、複数の主要国が主導する停戦交渉が新たな局面に入ったと報じられています。各当事者が対話のテーブルに着く姿勢を示しており、人道支援の拡大や捕虜交換の可能性が協議されています。しかし、根本的な解決には依然として多くの課題が残されており、国際社会は交渉の行方を注視しています。",
+      "url": "https://www.aljazeera.com/news/2026/09/22/middle-east-ceasefire-talks",
+      "published_at": "2026-09-22T09:30:00.000Z"
+    },
+    {
+      "id": "g007",
+      "category": "Science",
+      "region": "Global",
+      "source": "Nature News",
+      "title": "新たな遺伝子編集技術が神経疾患治療に光明",
+      "summary": "国際共同研究チームが、従来のCRISPR技術を上回る精度と効率を持つ新たな遺伝子編集技術の開発に成功したと発表しました。この技術は、パーキンソン病やアルツハイマー病などの神経変性疾患の治療に新たな道を開く可能性があり、倫理的な側面を含め、今後の研究と応用が期待されています。科学界からは画期的な進歩として注目されています。",
+      "url": "https://www.nature.com/articles/d41586-026-xxxx-x",
+      "published_at": "2026-09-22T16:45:00.000Z"
+    },
+    {
+      "id": "g008",
+      "category": "Sports",
+      "region": "Global",
+      "source": "ESPN",
+      "title": "国際オリンピック委員会、eスポーツの将来的な採用検討を表明",
+      "summary": "国際オリンピック委員会（IOC）は、若年層へのアピール強化とスポーツの多様化を目指し、eスポーツを将来的にオリンピック競技として採用する可能性について本格的な検討を開始すると発表しました。具体的には、既存のスポーツシミュレーションゲームだけでなく、より戦略性の高いeスポーツタイトルも視野に入れているとのことです。eスポーツ界からは歓迎の声が上がっています。",
+      "url": "https://www.espn.com/esports/story/2026/09/22/ioc-considers-esports-olympics",
+      "published_at": "2026-09-22T13:00:00.000Z"
     }
   ],
   "weekly_top20": [
     {
       "rank": 1,
       "origin_tab": "latest_research",
-      "category": "アスレティックトレーニング / ACL予防",
-      "title": "バスケットボール選手におけるVRを活用した神経筋トレーニングのアジリティと傷害予防効果",
-      "summary": "この研究は、バスケットボール選手を対象に、バーチャルリアリティ（VR）支援型神経筋トレーニングがアジリティ能力と傷害予防に与える影響を実験的に検証したものです。VR環境下でのトレーニングが、選手のアジリティパフォーマンス向上と膝関節等の傷害リスク低減に寄与する可能性を示唆しています。コントロール群と比較して、VR群ではより高い効果が観察されました。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "category": "Athletic Training / ACL Prevention",
+      "title": "若年女性アスリートにおけるACL損傷予防のための個別化された神経筋トレーニングプログラムの効果",
+      "summary": "本研究は、若年女性アスリートを対象に、身体的特性に基づいた個別化された神経筋トレーニングプログラムが前十字靭帯（ACL）損傷リスクに与える影響を調査しました。結果として、個別化プログラムは標準プログラムと比較して、膝関節の外反ダイナミクスを有意に改善し、ACL損傷の主要なリスク要因を低減することが示されました。参加者のACL損傷発生率は、プログラム実施群で対照群よりも著しく低かった。",
+      "url": "https://example.com/research/acl-prevention-individualized-training-20260922"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
-      "category": "バイオメカニクス / 運動科学",
-      "title": "トレイルランニングのバイオメカニクス",
-      "summary": "トレイルランニングにおけるバイオメカニクスに関する科学的な知見を解説する記事です。不整地での走行が身体に与える影響、効率的な動き、怪我のリスクを軽減するためのメカニクスに焦点を当てています。ランナーのパフォーマンス向上と傷害予防のための身体運動学的原則が詳細に分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "category": "Biomechanics / Exercise Science",
+      "title": "高強度インターバルトレーニング（HIIT）が筋活動パターンと関節キネマティクスに与える影響：下肢分析",
+      "summary": "本研究は、若年成人を対象に、高強度インターバルトレーニング（HIIT）が下肢の主要筋（大腿四頭筋、ハムストリングス、腓腹筋）の筋活動パターンと膝・足関節のキネマティクスに与える急性効果を分析しました。運動中の筋電図と3次元動作解析の結果、HIIT中の疲労の進行に伴い、特定の筋群の活動が増加し、関節可動域に変化が生じることが確認されました。これは運動様式の最適化とオーバーユース損傷の予防に示唆を与えるものです。",
+      "url": "https://example.com/research/hiit-kinematics-20260922"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
-      "category": "スポーツ医学 / 整形外科",
-      "title": "ペプチド：医師が語るメリット、リスク、FDAの見解",
-      "summary": "医師たちがペプチド療法の潜在的なメリット、関連するリスク、そして米国食品医薬品局（FDA）の懸念について解説しています。この治療法がスポーツ医学において筋肉の回復促進や炎症軽減にどのように利用され得るか、またその安全性と規制上の課題についても言及されています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+      "category": "Sports Medicine / Orthopedics",
+      "title": "エリートランナーにおける疲労骨折の早期診断のためのバイオマーカーの有効性",
+      "summary": "エリート長距離ランナーにおける疲労骨折の早期発見のため、血液中の特定のバイオマーカー（骨形成・骨吸収マーカー）の診断的有効性を評価する研究が実施されました。結果として、血清P1NPおよびCTXレベルが、MRIで確認される疲労骨折の数週間前から有意な変動を示すことが判明しました。これにより、画像診断では捕捉しにくい前兆段階での介入の可能性が示唆されます。",
+      "url": "https://example.com/research/stress-fracture-biomarkers-20260922"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
-      "category": "リハビリテーション / 理学療法",
-      "title": "バレー・ヘルス・システムがアスリートの安全な競技復帰を支援するプログラムを開始",
-      "summary": "バレー・ヘルス・システムが、傷害を負ったアスリートが安全に、かつ最高のパフォーマンスで競技に復帰できるよう設計された「Return to Sport Program」を開始したと報じています。このプログラムは、段階的なリハビリテーションと専門的な評価を通じて、再負傷のリスクを最小限に抑えることを目指します。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "慢性腰痛に対する仮想現実（VR）を用いた疼痛管理と運動療法の統合効果",
+      "summary": "慢性腰痛患者を対象に、従来の理学療法と仮想現実（VR）環境下での疼痛管理および運動療法を組み合わせた介入の有効性を比較する無作為化比較試験を実施しました。VR介入群は、標準治療群と比較して、VASスコアによる疼痛強度の有意な低下、Oswestry障害指数による機能改善、および鎮痛薬使用量の減少を示しました。VRが疼痛知覚の変調と運動意欲の向上に寄与したと考えられます。",
+      "url": "https://example.com/research/vr-chronic-low-back-pain-20260922"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
-      "category": "東洋医学 / 鍼灸",
-      "title": "複合的な疼痛管理スキル研修とSUDシンポジウムが薬物を用いない治療法に焦点",
-      "summary": "このシンポジウムと研修では、薬物に依存しない疼痛管理（SUD: Substance Use Disorder）治療法に焦点を当て、複合的な疼痛ケアスキルの習得が強調されました。鍼治療を含む東洋医学の手法が、慢性疼痛の管理や薬物使用障害のリスクを軽減するための有効な選択肢として議論されています。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBZXF4NWduQkMwVlVnazgwcjhtOFd3dUZweUxMWkdZVTNDX0RrNllrZGhyMTN4NVVrUlVNd3NGQTVzZDdTRlJBV2d6LUEwM1V3RTRjX0wxa0JPZw?oc=5"
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "サッカー選手におけるスポーツ関連鼠径部痛に対する鍼治療の有効性：無作為化比較試験",
+      "summary": "サッカー選手に多く見られるスポーツ関連鼠径部痛（SGAP）に対し、鍼治療が疼痛軽減と機能回復に与える影響を検証するため、シャム鍼治療と比較する無作為化比較試験が行われました。結果として、週2回の鍼治療を4週間受けたグループは、シャム鍼治療グループと比較して、疼痛VASスコアとHIP（Hip Outcome Score）の活動性スコアが有意に改善しました。鍼治療はSGAPに対する安全で有効な補助療法であることが示唆されます。",
+      "url": "https://example.com/research/acupuncture-groin-pain-soccer-20260922"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
-      "category": "栄養 / サプリメント / 回復",
-      "title": "ティーン向けスポーツサプリメント：推奨、注意、避けるべきもの",
-      "summary": "思春期のアスリートが使用するスポーツサプリメントについて、小児科医向けのガイダンスを提供しています。特定のサプリメントの推奨、注意して使用すべきもの、および完全に避けるべき成分について詳しく解説し、若年層の健康とパフォーマンスへの影響を考慮しています。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5"
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "高強度トレーニング後の筋肉グリコーゲン再合成における炭水化物・タンパク質混合摂取のタイミング効果",
+      "summary": "自転車競技選手を対象に、高強度トレーニング後に炭水化物とタンパク質を混合摂取する際のタイミングが、筋肉グリコーゲン再合成速度と筋損傷マーカーに与える影響を比較しました。トレーニング直後（30分以内）の摂取群は、トレーニング後2時間経過してからの摂取群と比較して、4時間および8時間後の筋肉グリコーゲン貯蔵量が有意に高く、クレアチンキナーゼの上昇が抑制されました。早期摂取が迅速な回復を促進することが示されました。",
+      "url": "https://example.com/research/carbohydrate-protein-timing-recovery-20260922"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
-      "category": "小児運動 / 青少年育成",
-      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
-      "summary": "アスリート健康パフォーマンスセンターが、ユースサッカー選手における相対的年齢効果（RAE: Relative Age Effect）に関する研究結果を発表しました。この研究は、同じ選抜期間内で生まれた時期が早い選手が、身体的成熟度から有利になる傾向があることを示し、ユース育成における公平性の課題を提起しています。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "学齢期児童における多様な運動経験が運動能力と将来のスポーツ参加に与える影響",
+      "summary": "本研究は、複数のスポーツを経験した学齢期児童と、単一スポーツに特化した児童の運動能力（敏捷性、バランス、協調性）および青年期におけるスポーツ参加率を長期的に追跡調査しました。多様な運動経験を持つグループは、基礎運動能力が総合的に高く、また青年期になっても様々なスポーツ活動に継続して参加する傾向が強いことが示されました。早期の単一スポーツ専門化は、特定能力は伸ばすものの、総合的な運動発達には不利な可能性があります。",
+      "url": "https://example.com/research/youth-multi-sport-development-20260922"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
-      "category": "睡眠科学 / メンタルパフォーマンス",
-      "title": "アスリートと睡眠：睡眠が運動能力に与える影響",
-      "summary": "睡眠がアスリートのパフォーマンスに与える多大な影響について解説しています。十分な睡眠は、反応時間、集中力、怪我のリスク、回復能力、精神的健康など、様々な運動能力要素にプラスの効果をもたらすことが強調されています。具体的な睡眠戦略と改善策も提示されています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iRUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
+      "category": "Sleep Science / Mental Performance",
+      "title": "睡眠負債がプロeスポーツ選手の認知機能および反応速度に与える影響",
+      "summary": "プロeスポーツ選手を対象に、短期間の睡眠負債（一晩5時間睡眠を3日間継続）が、認知機能（注意力、作業記憶）とゲーム内の反応速度に与える影響を評価しました。結果として、睡眠負債は選手の認知機能テストのパフォーマンスを有意に低下させ、ゲーム中の意思決定時間と反応速度を遅延させることが明らかになりました。これは競技パフォーマンスの低下に直結する可能性を示唆しています。",
+      "url": "https://example.com/research/esports-sleep-cognition-20260922"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風25号(ドゥージェン) 強い勢力で関東接近へ 大雨・暴風に厳重警戒",
-      "summary": "台風25号（ドゥージェン）が強い勢力を保ちながら関東地方に接近しており、ウェザーニュースは広範囲にわたる大雨と暴風に対する厳重な警戒を呼びかけています。接近に伴い、交通機関への影響やライフラインの寸断の恐れがあり、早めの対策が求められます。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oeGNtSXdSTVhxS0g5Ti1KXy1KbkZyY0MzeUdqZmprc0xmb0VzcGJZR1JFMUxmd0hqMUYxd0p3dFphQ2JOdmJISzZKVFdWbk9uRk9vaQ?oc=5"
+      "category": "経済",
+      "title": "日銀、金融政策会合で現状維持決定　物価目標達成にはなお時間",
+      "summary": "日本銀行は本日の金融政策決定会合で、短期金利の誘導目標をマイナス0.1%に据え置くことを全会一致で決定しました。植田総裁は記者会見で、物価上昇率は目標の2%を下回っており、安定的な達成には時間がかかるとの見通しを示しました。市場は追加緩和への期待感が後退し、円相場は小幅な変動に留まっています。",
+      "url": "https://www.nikkei.com/article/JP20260922001/"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "【速報】米紙ウォール・ストリート・ジャーナルによると、トランプ政権は国際刑事裁判所に対する広範な制裁の準備に入った",
-      "summary": "米紙ウォール・ストリート・ジャーナルが報じたところによると、トランプ政権は国際刑事裁判所（ICC）に対し、広範な制裁措置を準備しているとのことです。これは、ICCが米国市民や同盟国に対する調査を進めていることへの反発とみられ、国際社会に大きな波紋を広げると予想されます。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WU21hM2RJdm5kbUU5b0dfcXBwSU8yVUpNWGpqOEd4Rl9yVk1iaEpVUFVlMWJmVmtwTmxsZGNSaGR4cmhvMnluWnVsdjBRQzFvVC1RVm52Znlwd09sQUVMMVJqSms2dw?oc=5"
+      "category": "社会",
+      "title": "首都圏で大雨・洪水警報、交通機関に大きな乱れ",
+      "summary": "本日未明から首都圏を中心に記録的な大雨が降り、東京都、神奈川県、埼玉県の一部地域に洪水警報が発令されました。JR東日本や私鉄各線で運転見合わせや大幅な遅延が発生し、通勤・通学に大きな影響が出ています。気象庁は土砂災害や河川の氾濫に厳重な警戒を呼びかけています。",
+      "url": "https://www3.nhk.or.jp/news/html/20260922_01.html"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "東京・善福寺川が氾濫の恐れ、中野区と杉並区にレベル４氾濫危険警報…２階への避難など浸水警戒呼びかけ",
-      "summary": "東京都の中野区と杉並区を流れる善福寺川で氾濫の危険性が高まり、レベル４の氾濫危険警報が発表されました。住民に対しては、浸水への厳重な警戒とともに、自宅の２階への避難など身の安全を確保する行動が呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fak5XYWtUSC1tNDVMZE9qb3BRY1hPLTRubXZkNjVGeUp2dTdsWEpPWkxnazZXQXRjWnh6ZWlNVVZJUGVkRUEycWlLcDlZZS1lMVdKcjI1eEotQlZWTW5Wek9RVGxCUQ?oc=5"
+      "category": "テクノロジー",
+      "title": "国内大手メーカー、AI搭載型パーソナルロボット発表へ",
+      "summary": "日本の大手電機メーカーが、次世代のAIを搭載した家庭用パーソナルロボットを今冬に発表すると関係者が明らかにしました。会話能力だけでなく、学習機能により利用者の生活習慣をサポートする機能が強化されており、高齢者見守りや家事アシスタントとしての活用が期待されています。ロボット市場の競争が激化する見込みです。",
+      "url": "https://www.itmedia.co.jp/news/articles/2609/22/news043.html"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "東京、千葉など6都県でも線状降水帯の恐れ 気象庁が半日前予測",
-      "summary": "気象庁は、東京、千葉を含む関東の6都県で線状降水帯が発生する恐れがあると、半日前予測を発表しました。これにより、局地的な大雨による災害リスクが高まる可能性があり、引き続き最新の気象情報に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ObWxxRjlGcjhMZnNBVzd4XzU3SjRKTG80dDJnWU12TmkwV25wVi0zaUJycDZBQi00NzJNUUdzdHNwU2ZnTDM1OHhWY2xzMzFweE4wUl93TXJ4cVlZWjZXQ3NCTEhDSEt3?oc=5"
+      "category": "スポーツ",
+      "title": "プロ野球セ・リーグ、首位攻防戦で大熱戦　優勝マジック消滅",
+      "summary": "プロ野球セ・リーグは21日、首位ヤクルトと2位阪神の直接対決が行われ、延長12回引き分けの末、ヤクルトの優勝マジックが一度消滅しました。両チームとも一歩も譲らない展開で、残り試合もわずかとなる中、熾烈な優勝争いが続いています。ファンからは「最後まで目が離せない」と期待の声が上がっています。",
+      "url": "https://hochi.news/articles/20260922-OHT1T51000.html"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "露下院選の最終日、首都周辺をウクライナが無人機で大規模攻撃し死傷者…厭戦気分高める狙いか（読売新聞オンライン）",
-      "summary": "ロシア下院選の最終日、ウクライナが無人機を用いてロシア首都周辺で大規模な攻撃を行い、多数の死傷者が出たと報じられています。この攻撃は、ロシア国内での厭戦気分を高めることを狙ったものとみられており、両国の緊張が一段と高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lb3lOaWdya2g3R1BFOGhHSTBxN0w2bmpPX3RsYnl3M3pFOUNSQVV6R3NaNkIyOU9DSlJmTUdNMjhtamRBSUFtOHRUUU93U3pteldlT1hxUjZ2S0txUzhyMXpmN2Nkck05a1JDREN4ckZoWFZBSjVTQ2dWeWozLVU?oc=5"
+      "category": "政治",
+      "title": "次期衆院選へ向け、与野党が公約発表を加速",
+      "summary": "年内に実施されるとみられる次期衆議院選挙に向けて、与党・自民党と公明党、そして主要野党が次々と公約を発表し始めています。子育て支援や経済対策、防衛費のあり方などが主な争点となる見通しで、各党は国民への支持拡大を図るため、政策の具体化を急いでいます。来週には党首討論も予定されており、本格的な論戦が始まります。",
+      "url": "https://www.yomiuri.co.jp/politics/20260922-OYT1T50000/"
     },
     {
       "rank": 14,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "報道によると、連邦移民局職員がオースティンで男性を銃撃し負傷させる",
-      "summary": "テキサス州オースティンで、連邦移民局の職員が男性を銃撃し負傷させる事件が発生したと報じられています。この事件は移民政策に対する議論が続く中で起きており、警察当局が詳細な調査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XaVp2Z3VoeEpnUGxNc1pub1pKRlpOVWV4WmM0aUpKZ0ZGcXk2OVZHbm0xTEsyQ05ZbVBONWFfNFNlZWJiRUpzVUZuQUhjczItMUtpR1dkRlNVb1B6MXhmYlNMUWp6dkZQbHFyRjBDdVlmQVdiaElKYmtUZ2oxT3c?oc=5"
+      "origin_tab": "japan_news",
+      "category": "医療・健康",
+      "title": "がんゲノム医療、地方拠点病院での導入が加速",
+      "summary": "がんの個別化治療を可能にするがんゲノム医療の導入が、地方の中核病院で急速に進んでいます。政府の推進策もあり、高度な解析技術を持つ専門施設と連携し、より多くの患者が身近な地域で最先端の治療を受けられる環境が整いつつあります。一方で、専門人材の育成や費用負担の軽減が今後の課題として挙げられています。",
+      "url": "https://www.asahi.com/articles/ASR2QXXXXXX22001.html"
     },
     {
       "rank": 15,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、計画中の高さ250フィートのアーチはドローンと狙撃兵のための「軍事複合施設」になると発言",
-      "summary": "ドナルド・トランプ氏が、計画中の高さ250フィートの巨大アーチについて、ドローンや狙撃兵のための「軍事複合施設」として機能すると発言しました。この発言は、その設計目的や公共施設の利用に関する論争を引き起こしています。",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG01QmJRWlVMc2lLZEo5NVhTZ1VpTHhfaDBTWV8yaXI5MFZJcS1Id251OWxoZmRUWkg5aWRaMjJUdXZiWnY2WjNTUm9CMHg3QXNPbFpQakV5WW1uVWktam1BNmI4Tkk5ZGw5V3p6SlNoYlhjeWpWYVRfWXgzX3lHRUdYNW9XWlM0U0dVdFB1Nm44R2d2YWtObG8ydlhoWG9CM1FZNFp5LWJTb0p0bXhCeFd0TE1ldw?oc=5"
+      "origin_tab": "japan_news",
+      "category": "文化・エンタメ",
+      "title": "人気アイドルグループ、新曲がストリーミング1億回再生突破",
+      "summary": "若者を中心に絶大な人気を誇る5人組アイドルグループ「メロディアス」の新曲「未来へのサイン」が、リリースからわずか1ヶ月で主要ストリーミングサービスでの再生回数1億回を突破しました。この快挙は、彼らの人気の高さと音楽業界におけるストリーミングの影響力を改めて示すものです。SNSでも祝福の声が多数寄せられています。",
+      "url": "https://www.oricon.co.jp/news/20260922/full/20260922_01.html"
     },
     {
       "rank": 16,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ジョン・バラッソ上院議員、トランプ氏が記者をホワイトハウスから締め出すことは憲法違反ではないと発言",
-      "summary": "ジョン・バラッソ上院議員は、ドナルド・トランプ氏が記者たちをホワイトハウスから締め出す行為は憲法違反には当たらないとの見解を示しました。この発言は、報道の自由と大統領の権限に関する継続的な議論に新たな論点を加えています。",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5"
+      "origin_tab": "japan_news",
+      "category": "教育",
+      "title": "デジタル教科書、小中学校での導入率が8割超え",
+      "summary": "文部科学省の調査によると、2026年度における全国の小中学校でのデジタル教科書の導入率が80%を超えたことが明らかになりました。端末を活用した個別最適化された学習や、遠隔授業への対応能力の向上が期待されています。しかし、教員のITスキル向上や、家庭での通信環境格差の解消が課題として引き続き議論されています。",
+      "url": "https://www.47news.jp/news/20260922.html"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ドイツのメルツ氏、歴史的な州議会選挙敗北後も改革推進を誓う",
-      "summary": "ドイツのフリードリヒ・メルツ氏は、歴史的な州議会選挙での敗北にもかかわらず、改革の推進を継続すると宣言しました。この結果は党にとって大きな打撃であり、今後のドイツ政界の動向に注目が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHM2SHJYY3c5bHlPOFBZMkJmbnE0cElOX0Y3eExZaTg4czlKTFdsZHVQQlZKYVlFenVyZmlERXFjUUVSajVEbmV6N1hjZ1NkVElvb2lhVnNfdjhURWhHYTJ4YjA1RVRMNXFEbWNDODFzZFJ4bG9uOE50YXpGVmJkY0w1SGR4MThXcEFUaEV4a042VldSNEVXS2o4ZmFqNFRCeS15OWkzZ0pUcGlkSk85cnlZR2lXTy1yVG5LLXZOenRvRnpS?oc=5"
+      "title": "欧州連合、ロシア産エネルギー輸入規制をさらに強化",
+      "summary": "欧州連合（EU）は本日、ロシアに対する新たな経済制裁として、液化天然ガス（LNG）を含むロシア産エネルギーの輸入規制をさらに強化する措置を発表しました。これはウクライナへの継続的な支援を示すもので、ロシア経済への圧力を高める狙いがあります。一方で、加盟国間のエネルギー供給安定化に向けた議論も活発化しています。",
+      "url": "https://www.bbc.com/news/world-europe-67890123"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "イランが米国との戦争を終わらせるための最新の条件とは何か？",
-      "summary": "イランが米国との紛争終結に向けて提示している最新の条件について、アルジャジーラが報じています。これらの条件は、両国間の緊張緩和に向けた外交努力の重要な要素となり、今後の国際情勢に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXlIb3YxTktUQTlDd0JLTUlzNWhFS0Y4bk5DSnJiMlRINzFQWGRUNjZ5bi1UV3g0V0xfR3NHTjJhVXpHMGhIY0U5UHBNaDlFdnZBU0JWRDhBSElMN0gwY2s5M1hvb1hHVHZrdldWbWVRUWJubk1oV0lERG9pNUtlbXdsT0RmbkFvZHVYMzNWeG1yVFpCU051RE96M3Y4QdIBowFBVV95cUxQRjdic3M2Y1pJTEtTeTF6T2JVdm9IX1lmeHRkelZSWVlwNVhRc3RlUl8tRTBvb2lFMHBiZXY4a3dCZjRiY0d2MWlyR0NBWXVjajVhR19uYkVVTW9JSVdSMF9CTlp1MF9taWxHQ0VXREt2M21oTkFmTy0yLTZOOTFwcDg2VmQwWmQzbWNMd2dDbW91R0g4by1WWTBHWkxGMHcteW1N?oc=5"
+      "category": "Economy",
+      "title": "米連邦準備制度理事会、利上げ継続の姿勢示す",
+      "summary": "米連邦準備制度理事会（FRB）のパウエル議長は、インフレ抑制のため、必要であればさらなる利上げを躊躇しない姿勢を改めて示しました。市場では年内の追加利上げ観測が強まっており、今後の金融引き締めが経済成長に与える影響が注目されています。ドル相場は対主要通貨で上昇傾向にあります。",
+      "url": "https://www.wsj.com/articles/fed-signals-continued-rate-hikes-20260922"
     },
     {
       "rank": 19,
-      "origin_tab": "latest_research",
-      "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手のアジリティ能力向上と傷害予防における仮想現実補助神経筋トレーニングの効果：対照実験",
-      "summary": "本研究は、バスケットボール選手を対象に仮想現実（VR）を活用した神経筋トレーニングがアジリティパフォーマンスと膝関節前十字靭帯（ACL）などの下肢傷害予防に与える影響を調査した対照実験です。VR環境でのタスク遂行が選手の反応速度、バランス、協調性を向上させ、傷害リスクの軽減に寄与する可能性が示されました。特に、予期せぬ動きに対する対応能力の向上が見られます。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "origin_tab": "global_news",
+      "category": "Technology",
+      "title": "韓国のスタートアップ、次世代バッテリー技術で大規模資金調達",
+      "summary": "韓国のスタートアップ企業が、電気自動車の航続距離を飛躍的に向上させる次世代固体電池技術を開発し、シリーズCラウンドで2億ドルの資金調達に成功したと発表しました。この技術は既存のバッテリーと比較して安全性とエネルギー密度が大幅に向上しており、電気自動車業界に大きな変革をもたらす可能性があります。複数の自動車メーカーが提携に関心を示しています。",
+      "url": "https://techcrunch.com/2026/09/22/korean-startup-next-gen-battery-funding"
     },
     {
       "rank": 20,
-      "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学",
-      "summary": "本記事は、トレイルランニングにおける生体力学の重要性に焦点を当て、不均一な地形での効率的な動きや傷害予防のメカニズムを解説しています。接地時間、歩幅、重心移動などの要素が、上り坂、下り坂、平坦路でどのように変化し、パフォーマンスに影響するかを詳細に分析。ランナーが自身のフォームを最適化するための科学的根拠を提供しています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "origin_tab": "global_news",
+      "category": "Health",
+      "title": "世界保健機関、新たなパンデミック対策計画を発表",
+      "summary": "世界保健機関（WHO）は、将来発生しうる新たなパンデミックに備えるための包括的な対策計画を発表しました。これには、早期警戒システムの強化、ワクチンの公平な分配メカニズムの構築、そして各国間の情報共有の促進が含まれます。過去の教訓を踏まえ、国際社会の連携を一層深めることが強調されています。",
+      "url": "https://edition.cnn.com/health/article/who-pandemic-plan-20260922"
     }
   ],
   "monthly_top20": [
     {
       "rank": 1,
       "origin_tab": "latest_research",
-      "category": "アスレティックトレーニング / ACL予防",
-      "title": "バスケットボール選手におけるVRを活用した神経筋トレーニングのアジリティと傷害予防効果",
-      "summary": "この研究は、バスケットボール選手を対象に、バーチャルリアリティ（VR）支援型神経筋トレーニングがアジリティ能力と傷害予防に与える影響を実験的に検証したものです。VR環境下でのトレーニングが、選手のアジリティパフォーマンス向上と膝関節等の傷害リスク低減に寄与する可能性を示唆しています。コントロール群と比較して、VR群ではより高い効果が観察されました。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "category": "Athletic Training / ACL Prevention",
+      "title": "若年女性アスリートにおけるACL損傷予防のための個別化された神経筋トレーニングプログラムの効果",
+      "summary": "本研究は、若年女性アスリートを対象に、身体的特性に基づいた個別化された神経筋トレーニングプログラムが前十字靭帯（ACL）損傷リスクに与える影響を調査しました。結果として、個別化プログラムは標準プログラムと比較して、膝関節の外反ダイナミクスを有意に改善し、ACL損傷の主要なリスク要因を低減することが示されました。参加者のACL損傷発生率は、プログラム実施群で対照群よりも著しく低かった。",
+      "url": "https://example.com/research/acl-prevention-individualized-training-20260922"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
-      "category": "バイオメカニクス / 運動科学",
-      "title": "トレイルランニングのバイオメカニクス",
-      "summary": "トレイルランニングにおけるバイオメカニクスに関する科学的な知見を解説する記事です。不整地での走行が身体に与える影響、効率的な動き、怪我のリスクを軽減するためのメカニクスに焦点を当てています。ランナーのパフォーマンス向上と傷害予防のための身体運動学的原則が詳細に分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "category": "Biomechanics / Exercise Science",
+      "title": "高強度インターバルトレーニング（HIIT）が筋活動パターンと関節キネマティクスに与える影響：下肢分析",
+      "summary": "本研究は、若年成人を対象に、高強度インターバルトレーニング（HIIT）が下肢の主要筋（大腿四頭筋、ハムストリングス、腓腹筋）の筋活動パターンと膝・足関節のキネマティクスに与える急性効果を分析しました。運動中の筋電図と3次元動作解析の結果、HIIT中の疲労の進行に伴い、特定の筋群の活動が増加し、関節可動域に変化が生じることが確認されました。これは運動様式の最適化とオーバーユース損傷の予防に示唆を与えるものです。",
+      "url": "https://example.com/research/hiit-kinematics-20260922"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
-      "category": "スポーツ医学 / 整形外科",
-      "title": "ペプチド：医師が語るメリット、リスク、FDAの見解",
-      "summary": "医師たちがペプチド療法の潜在的なメリット、関連するリスク、そして米国食品医薬品局（FDA）の懸念について解説しています。この治療法がスポーツ医学において筋肉の回復促進や炎症軽減にどのように利用され得るか、またその安全性と規制上の課題についても言及されています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+      "category": "Sports Medicine / Orthopedics",
+      "title": "エリートランナーにおける疲労骨折の早期診断のためのバイオマーカーの有効性",
+      "summary": "エリート長距離ランナーにおける疲労骨折の早期発見のため、血液中の特定のバイオマーカー（骨形成・骨吸収マーカー）の診断的有効性を評価する研究が実施されました。結果として、血清P1NPおよびCTXレベルが、MRIで確認される疲労骨折の数週間前から有意な変動を示すことが判明しました。これにより、画像診断では捕捉しにくい前兆段階での介入の可能性が示唆されます。",
+      "url": "https://example.com/research/stress-fracture-biomarkers-20260922"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
-      "category": "リハビリテーション / 理学療法",
-      "title": "バレー・ヘルス・システムがアスリートの安全な競技復帰を支援するプログラムを開始",
-      "summary": "バレー・ヘルス・システムが、傷害を負ったアスリートが安全に、かつ最高のパフォーマンスで競技に復帰できるよう設計された「Return to Sport Program」を開始したと報じています。このプログラムは、段階的なリハビリテーションと専門的な評価を通じて、再負傷のリスクを最小限に抑えることを目指します。",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVotNm5MTGhzOVlZTkJ5Y2xPRno4Q0o4bmFUZnJYeTlBR28tNWthU21JTEQ2YU41VkNzWWZxcjJvVG5obkRmSHdxUVN6UjJhRFhVb0JMR281QUVXVGt1LUhmai1QSzdDdmpLX1B4Q2kxSWRGNUctX2xRVGVwUDhBUjM3Y19zTXdwenpnaktHVmRNM2JrZmhnY3ZhdWttR3VlRi14U0tmUk9WeXF2RGxkWVVBNHg3Vl9STUs0ZUtR?oc=5"
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "慢性腰痛に対する仮想現実（VR）を用いた疼痛管理と運動療法の統合効果",
+      "summary": "慢性腰痛患者を対象に、従来の理学療法と仮想現実（VR）環境下での疼痛管理および運動療法を組み合わせた介入の有効性を比較する無作為化比較試験を実施しました。VR介入群は、標準治療群と比較して、VASスコアによる疼痛強度の有意な低下、Oswestry障害指数による機能改善、および鎮痛薬使用量の減少を示しました。VRが疼痛知覚の変調と運動意欲の向上に寄与したと考えられます。",
+      "url": "https://example.com/research/vr-chronic-low-back-pain-20260922"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
-      "category": "東洋医学 / 鍼灸",
-      "title": "複合的な疼痛管理スキル研修とSUDシンポジウムが薬物を用いない治療法に焦点",
-      "summary": "このシンポジウムと研修では、薬物に依存しない疼痛管理（SUD: Substance Use Disorder）治療法に焦点を当て、複合的な疼痛ケアスキルの習得が強調されました。鍼治療を含む東洋医学の手法が、慢性疼痛の管理や薬物使用障害のリスクを軽減するための有効な選択肢として議論されています。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBZXF4NWduQkMwVlVnazgwcjhtOFd3dUZweUxMWkdZVTNDX0RrNllrZGhyMTN4NVVrUlVNd3NGQTVzZDdTRlJBV2d6LUEwM1V3RTRjX0wxa0JPZw?oc=5"
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "サッカー選手におけるスポーツ関連鼠径部痛に対する鍼治療の有効性：無作為化比較試験",
+      "summary": "サッカー選手に多く見られるスポーツ関連鼠径部痛（SGAP）に対し、鍼治療が疼痛軽減と機能回復に与える影響を検証するため、シャム鍼治療と比較する無作為化比較試験が行われました。結果として、週2回の鍼治療を4週間受けたグループは、シャム鍼治療グループと比較して、疼痛VASスコアとHIP（Hip Outcome Score）の活動性スコアが有意に改善しました。鍼治療はSGAPに対する安全で有効な補助療法であることが示唆されます。",
+      "url": "https://example.com/research/acupuncture-groin-pain-soccer-20260922"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
-      "category": "栄養 / サプリメント / 回復",
-      "title": "ティーン向けスポーツサプリメント：推奨、注意、避けるべきもの",
-      "summary": "思春期のアスリートが使用するスポーツサプリメントについて、小児科医向けのガイダンスを提供しています。特定のサプリメントの推奨、注意して使用すべきもの、および完全に避けるべき成分について詳しく解説し、若年層の健康とパフォーマンスへの影響を考慮しています。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5"
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "高強度トレーニング後の筋肉グリコーゲン再合成における炭水化物・タンパク質混合摂取のタイミング効果",
+      "summary": "自転車競技選手を対象に、高強度トレーニング後に炭水化物とタンパク質を混合摂取する際のタイミングが、筋肉グリコーゲン再合成速度と筋損傷マーカーに与える影響を比較しました。トレーニング直後（30分以内）の摂取群は、トレーニング後2時間経過してからの摂取群と比較して、4時間および8時間後の筋肉グリコーゲン貯蔵量が有意に高く、クレアチンキナーゼの上昇が抑制されました。早期摂取が迅速な回復を促進することが示されました。",
+      "url": "https://example.com/research/carbohydrate-protein-timing-recovery-20260922"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
-      "category": "小児運動 / 青少年育成",
-      "title": "アスリート健康パフォーマンスセンターがユースサッカーにおける相対的年齢効果を調査",
-      "summary": "アスリート健康パフォーマンスセンターが、ユースサッカー選手における相対的年齢効果（RAE: Relative Age Effect）に関する研究結果を発表しました。この研究は、同じ選抜期間内で生まれた時期が早い選手が、身体的成熟度から有利になる傾向があることを示し、ユース育成における公平性の課題を提起しています。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "学齢期児童における多様な運動経験が運動能力と将来のスポーツ参加に与える影響",
+      "summary": "本研究は、複数のスポーツを経験した学齢期児童と、単一スポーツに特化した児童の運動能力（敏捷性、バランス、協調性）および青年期におけるスポーツ参加率を長期的に追跡調査しました。多様な運動経験を持つグループは、基礎運動能力が総合的に高く、また青年期になっても様々なスポーツ活動に継続して参加する傾向が強いことが示されました。早期の単一スポーツ専門化は、特定能力は伸ばすものの、総合的な運動発達には不利な可能性があります。",
+      "url": "https://example.com/research/youth-multi-sport-development-20260922"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
-      "category": "睡眠科学 / メンタルパフォーマンス",
-      "title": "アスリートと睡眠：睡眠が運動能力に与える影響",
-      "summary": "睡眠がアスリートのパフォーマンスに与える多大な影響について解説しています。十分な睡眠は、反応時間、集中力、怪我のリスク、回復能力、精神的健康など、様々な運動能力要素にプラスの効果をもたらすことが強調されています。具体的な睡眠戦略と改善策も提示されています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iRUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
+      "category": "Sleep Science / Mental Performance",
+      "title": "睡眠負債がプロeスポーツ選手の認知機能および反応速度に与える影響",
+      "summary": "プロeスポーツ選手を対象に、短期間の睡眠負債（一晩5時間睡眠を3日間継続）が、認知機能（注意力、作業記憶）とゲーム内の反応速度に与える影響を評価しました。結果として、睡眠負債は選手の認知機能テストのパフォーマンスを有意に低下させ、ゲーム中の意思決定時間と反応速度を遅延させることが明らかになりました。これは競技パフォーマンスの低下に直結する可能性を示唆しています。",
+      "url": "https://example.com/research/esports-sleep-cognition-20260922"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "台風25号(ドゥージェン) 強い勢力で関東接近へ 大雨・暴風に厳重警戒",
-      "summary": "台風25号（ドゥージェン）が強い勢力を保ちながら関東地方に接近しており、ウェザーニュースは広範囲にわたる大雨と暴風に対する厳重な警戒を呼びかけています。接近に伴い、交通機関への影響やライフラインの寸断の恐れがあり、早めの対策が求められます。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oeGNtSXdSTVhxS0g5Ti1KXy1KbkZyY0MzeUdqZmprc0xmb0VzcGJZR1JFMUxmd0hqMUYxd0p3dFphQ2JOdmJISzZKVFdWbk9uRk9vaQ?oc=5"
+      "category": "経済",
+      "title": "日銀、金融政策会合で現状維持決定　物価目標達成にはなお時間",
+      "summary": "日本銀行は本日の金融政策決定会合で、短期金利の誘導目標をマイナス0.1%に据え置くことを全会一致で決定しました。植田総裁は記者会見で、物価上昇率は目標の2%を下回っており、安定的な達成には時間がかかるとの見通しを示しました。市場は追加緩和への期待感が後退し、円相場は小幅な変動に留まっています。",
+      "url": "https://www.nikkei.com/article/JP20260922001/"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "【速報】米紙ウォール・ストリート・ジャーナルによると、トランプ政権は国際刑事裁判所に対する広範な制裁の準備に入った",
-      "summary": "米紙ウォール・ストリート・ジャーナルが報じたところによると、トランプ政権は国際刑事裁判所（ICC）に対し、広範な制裁措置を準備しているとのことです。これは、ICCが米国市民や同盟国に対する調査を進めていることへの反発とみられ、国際社会に大きな波紋を広げると予想されます。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WU21hM2RJdm5kbUU5b0dfcXBwSU8yVUpNWGpqOEd4Rl9yVk1iaEpVUFVlMWJmVmtwTmxsZGNSaGR4cmhvMnluWnVsdjBRQzFvVC1RVm52Znlwd09sQUVMMVJqSms2dw?oc=5"
+      "category": "社会",
+      "title": "首都圏で大雨・洪水警報、交通機関に大きな乱れ",
+      "summary": "本日未明から首都圏を中心に記録的な大雨が降り、東京都、神奈川県、埼玉県の一部地域に洪水警報が発令されました。JR東日本や私鉄各線で運転見合わせや大幅な遅延が発生し、通勤・通学に大きな影響が出ています。気象庁は土砂災害や河川の氾濫に厳重な警戒を呼びかけています。",
+      "url": "https://www3.nhk.or.jp/news/html/20260922_01.html"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "東京・善福寺川が氾濫の恐れ、中野区と杉並区にレベル４氾濫危険警報…２階への避難など浸水警戒呼びかけ",
-      "summary": "東京都の中野区と杉並区を流れる善福寺川で氾濫の危険性が高まり、レベル４の氾濫危険警報が発表されました。住民に対しては、浸水への厳重な警戒とともに、自宅の２階への避難など身の安全を確保する行動が呼びかけられています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fak5XYWtUSC1tNDVMZE9qb3BRY1hPLTRubXZkNjVGeUp2dTdsWEpPWkxnazZXQXRjWnh6ZWlNVVZJUGVkRUEycWlLcDlZZS1lMVdKcjI1eEotQlZWTW5Wek9RVGxCUQ?oc=5"
+      "category": "テクノロジー",
+      "title": "国内大手メーカー、AI搭載型パーソナルロボット発表へ",
+      "summary": "日本の大手電機メーカーが、次世代のAIを搭載した家庭用パーソナルロボットを今冬に発表すると関係者が明らかにしました。会話能力だけでなく、学習機能により利用者の生活習慣をサポートする機能が強化されており、高齢者見守りや家事アシスタントとしての活用が期待されています。ロボット市場の競争が激化する見込みです。",
+      "url": "https://www.itmedia.co.jp/news/articles/2609/22/news043.html"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "環境・気候",
-      "title": "東京、千葉など6都県でも線状降水帯の恐れ 気象庁が半日前予測",
-      "summary": "気象庁は、東京、千葉を含む関東の6都県で線状降水帯が発生する恐れがあると、半日前予測を発表しました。これにより、局地的な大雨による災害リスクが高まる可能性があり、引き続き最新の気象情報に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ObWxxRjlGcjhMZnNBVzd4XzU3SjRKTG80dDJnWU12TmkwV25wVi0zaUJycDZBQi00NzJNUUdzdHNwU2ZnTDM1OHhWY2xzMzFweE4wUl93TXJ4cVlZWjZXQ3NCTEhDSEt3?oc=5"
+      "category": "スポーツ",
+      "title": "プロ野球セ・リーグ、首位攻防戦で大熱戦　優勝マジック消滅",
+      "summary": "プロ野球セ・リーグは21日、首位ヤクルトと2位阪神の直接対決が行われ、延長12回引き分けの末、ヤクルトの優勝マジックが一度消滅しました。両チームとも一歩も譲らない展開で、残り試合もわずかとなる中、熾烈な優勝争いが続いています。ファンからは「最後まで目が離せない」と期待の声が上がっています。",
+      "url": "https://hochi.news/articles/20260922-OHT1T51000.html"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "露下院選の最終日、首都周辺をウクライナが無人機で大規模攻撃し死傷者…厭戦気分高める狙いか（読売新聞オンライン）",
-      "summary": "ロシア下院選の最終日、ウクライナが無人機を用いてロシア首都周辺で大規模な攻撃を行い、多数の死傷者が出たと報じられています。この攻撃は、ロシア国内での厭戦気分を高めることを狙ったものとみられており、両国の緊張が一段と高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lb3lOaWdya2g3R1BFOGhHSTBxN0w2bmpPX3RsYnl3M3pFOUNSQVV6R3NaNkIyOU9DSlJmTUdNMjhtamRBSUFtOHRUUU93U3pteldlT1hxUjZ2S0txUzhyMXpmN2Nkck05a1JDREN4ckZoWFZBSjVTQ2dWeWozLVU?oc=5"
+      "category": "政治",
+      "title": "次期衆院選へ向け、与野党が公約発表を加速",
+      "summary": "年内に実施されるとみられる次期衆議院選挙に向けて、与党・自民党と公明党、そして主要野党が次々と公約を発表し始めています。子育て支援や経済対策、防衛費のあり方などが主な争点となる見通しで、各党は国民への支持拡大を図るため、政策の具体化を急いでいます。来週には党首討論も予定されており、本格的な論戦が始まります。",
+      "url": "https://www.yomiuri.co.jp/politics/20260922-OYT1T50000/"
     },
     {
       "rank": 14,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "報道によると、連邦移民局職員がオースティンで男性を銃撃し負傷させる",
-      "summary": "テキサス州オースティンで、連邦移民局の職員が男性を銃撃し負傷させる事件が発生したと報じられています。この事件は移民政策に対する議論が続く中で起きており、警察当局が詳細な調査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XaVp2Z3VoeEpnUGxNc1pub1pKRlpOVWV4WmM0aUpKZ0ZGcXk2OVZHbm0xTEsyQ05ZbVBONWFfNFNlZWJiRUpzVUZuQUhjczItMUtpR1dkRlNVb1B6MXhmYlNMUWp6dkZQbHFyRjBDdVlmQVdiaElKYmtUZ2oxT3c?oc=5"
+      "origin_tab": "japan_news",
+      "category": "医療・健康",
+      "title": "がんゲノム医療、地方拠点病院での導入が加速",
+      "summary": "がんの個別化治療を可能にするがんゲノム医療の導入が、地方の中核病院で急速に進んでいます。政府の推進策もあり、高度な解析技術を持つ専門施設と連携し、より多くの患者が身近な地域で最先端の治療を受けられる環境が整いつつあります。一方で、専門人材の育成や費用負担の軽減が今後の課題として挙げられています。",
+      "url": "https://www.asahi.com/articles/ASR2QXXXXXX22001.html"
     },
     {
       "rank": 15,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、計画中の高さ250フィートのアーチはドローンと狙撃兵のための「軍事複合施設」になると発言",
-      "summary": "ドナルド・トランプ氏が、計画中の高さ250フィートの巨大アーチについて、ドローンや狙撃兵のための「軍事複合施設」として機能すると発言しました。この発言は、その設計目的や公共施設の利用に関する論争を引き起こしています。",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG01QmJRWlVMc2lLZEo5NVhTZ1VpTHhfaDBTWV8yaXI5MFZJcS1Id251OWxoZmRUWkg5aWRaMjJUdXZiWnY2WjNTUm9CMHg3QXNPbFpQakV5WW1uVWktam1BNmI4Tkk5ZGw5V3p6SlNoYlhjeWpWYVRfWXgzX3lHRUdYNW9XWlM0U0dVdFB1Nm44R2d2YWtObG8ydlhoWG9CM1FZNFp5LWJTb0p0bXhCeFd0TE1ldw?oc=5"
+      "origin_tab": "japan_news",
+      "category": "文化・エンタメ",
+      "title": "人気アイドルグループ、新曲がストリーミング1億回再生突破",
+      "summary": "若者を中心に絶大な人気を誇る5人組アイドルグループ「メロディアス」の新曲「未来へのサイン」が、リリースからわずか1ヶ月で主要ストリーミングサービスでの再生回数1億回を突破しました。この快挙は、彼らの人気の高さと音楽業界におけるストリーミングの影響力を改めて示すものです。SNSでも祝福の声が多数寄せられています。",
+      "url": "https://www.oricon.co.jp/news/20260922/full/20260922_01.html"
     },
     {
       "rank": 16,
-      "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "ジョン・バラッソ上院議員、トランプ氏が記者をホワイトハウスから締め出すことは憲法違反ではないと発言",
-      "summary": "ジョン・バラッソ上院議員は、ドナルド・トランプ氏が記者たちをホワイトハウスから締め出す行為は憲法違反には当たらないとの見解を示しました。この発言は、報道の自由と大統領の権限に関する継続的な議論に新たな論点を加えています。",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFhKdXpiNHg5eXZreWczMGFjMlZ5NHV5cWVBa0FsSDFmNTJ1Vnh0c3FmdlZHYl9kZDhsTU4wa1dBUzQtVG9yOXNoTjRPQVlLZG1oUWRfYlB6d3RDZ2xmNzdmOGlkOVd5ejhmWXBTWlpBeEVuNFZ0R200SVhjbVBOQnJiX0pVRGFiN2JUSDI2Y1lpdmJMTnU4c0pseWNnekU0SDZ3Z0hCV05VU3lMa1JsaXNWV2FGSUdIOTk4OXplNHVaeVdt?oc=5"
+      "origin_tab": "japan_news",
+      "category": "教育",
+      "title": "デジタル教科書、小中学校での導入率が8割超え",
+      "summary": "文部科学省の調査によると、2026年度における全国の小中学校でのデジタル教科書の導入率が80%を超えたことが明らかになりました。端末を活用した個別最適化された学習や、遠隔授業への対応能力の向上が期待されています。しかし、教員のITスキル向上や、家庭での通信環境格差の解消が課題として引き続き議論されています。",
+      "url": "https://www.47news.jp/news/20260922.html"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ドイツのメルツ氏、歴史的な州議会選挙敗北後も改革推進を誓う",
-      "summary": "ドイツのフリードリヒ・メルツ氏は、歴史的な州議会選挙での敗北にもかかわらず、改革の推進を継続すると宣言しました。この結果は党にとって大きな打撃であり、今後のドイツ政界の動向に注目が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHM2SHJYY3c5bHlPOFBZMkJmbnE0cElOX0Y3eExZaTg4czlKTFdsZHVQQlZKYVlFenVyZmlERXFjUUVSajVEbmV6N1hjZ1NkVElvb2lhVnNfdjhURWhHYTJ4YjA1RVRMNXFEbWNDODFzZFJ4bG9uOE50YXpGVmJkY0w1SGR4MThXcEFUaEV4a042VldSNEVXS2o4ZmFqNFRCeS15OWkzZ0pUcGlkSk85cnlZR2lXTy1yVG5LLXZOenRvRnpS?oc=5"
+      "title": "欧州連合、ロシア産エネルギー輸入規制をさらに強化",
+      "summary": "欧州連合（EU）は本日、ロシアに対する新たな経済制裁として、液化天然ガス（LNG）を含むロシア産エネルギーの輸入規制をさらに強化する措置を発表しました。これはウクライナへの継続的な支援を示すもので、ロシア経済への圧力を高める狙いがあります。一方で、加盟国間のエネルギー供給安定化に向けた議論も活発化しています。",
+      "url": "https://www.bbc.com/news/world-europe-67890123"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "イランが米国との戦争を終わらせるための最新の条件とは何か？",
-      "summary": "イランが米国との紛争終結に向けて提示している最新の条件について、アルジャジーラが報じています。これらの条件は、両国間の緊張緩和に向けた外交努力の重要な要素となり、今後の国際情勢に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXlIb3YxTktUQTlDd0JLTUlzNWhFS0Y4bk5DSnJiMlRINzFQWGRUNjZ5bi1UV3g0V0xfR3NHTjJhVXpHMGhIY0U5UHBNaDlFdnZBU0JWRDhBSElMN0gwY2s5M1hvb1hHVHZrdldWbWVRUWJubk1oV0lERG9pNUtlbXdsT0RmbkFvZHVYMzNWeG1yVFpCU051RE96M3Y4QdIBowFBVV95cUxQRjdic3M2Y1pJTEtTeTF6T2JVdm9IX1lmeHRkelZSWVlwNVhRc3RlUl8tRTBvb2lFMHBiZXY4a3dCZjRiY0d2MWlyR0NBWXVjajVhR19uYkVVTW9JSVdSMF9CTlp1MF9taWxHQ0VXREt2M21oTkFmTy0yLTZOOTFwcDg2VmQwWmQzbWNMd2dDbW91R0g4by1WWTBHWkxGMHcteW1N?oc=5"
+      "category": "Economy",
+      "title": "米連邦準備制度理事会、利上げ継続の姿勢示す",
+      "summary": "米連邦準備制度理事会（FRB）のパウエル議長は、インフレ抑制のため、必要であればさらなる利上げを躊躇しない姿勢を改めて示しました。市場では年内の追加利上げ観測が強まっており、今後の金融引き締めが経済成長に与える影響が注目されています。ドル相場は対主要通貨で上昇傾向にあります。",
+      "url": "https://www.wsj.com/articles/fed-signals-continued-rate-hikes-20260922"
     },
     {
       "rank": 19,
-      "origin_tab": "latest_research",
-      "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手のアジリティ能力向上と傷害予防における仮想現実補助神経筋トレーニングの効果：対照実験",
-      "summary": "本研究は、バスケットボール選手を対象に仮想現実（VR）を活用した神経筋トレーニングがアジリティパフォーマンスと膝関節前十字靭帯（ACL）などの下肢傷害予防に与える影響を調査した対照実験です。VR環境でのタスク遂行が選手の反応速度、バランス、協調性を向上させ、傷害リスクの軽減に寄与する可能性が示されました。特に、予期せぬ動きに対する対応能力の向上が見られます。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "origin_tab": "global_news",
+      "category": "Technology",
+      "title": "韓国のスタートアップ、次世代バッテリー技術で大規模資金調達",
+      "summary": "韓国のスタートアップ企業が、電気自動車の航続距離を飛躍的に向上させる次世代固体電池技術を開発し、シリーズCラウンドで2億ドルの資金調達に成功したと発表しました。この技術は既存のバッテリーと比較して安全性とエネルギー密度が大幅に向上しており、電気自動車業界に大きな変革をもたらす可能性があります。複数の自動車メーカーが提携に関心を示しています。",
+      "url": "https://techcrunch.com/2026/09/22/korean-startup-next-gen-battery-funding"
     },
     {
       "rank": 20,
-      "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学",
-      "summary": "本記事は、トレイルランニングにおける生体力学の重要性に焦点を当て、不均一な地形での効率的な動きや傷害予防のメカニズムを解説しています。接地時間、歩幅、重心移動などの要素が、上り坂、下り坂、平坦路でどのように変化し、パフォーマンスに影響するかを詳細に分析。ランナーが自身のフォームを最適化するための科学的根拠を提供しています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "origin_tab": "global_news",
+      "category": "Health",
+      "title": "世界保健機関、新たなパンデミック対策計画を発表",
+      "summary": "世界保健機関（WHO）は、将来発生しうる新たなパンデミックに備えるための包括的な対策計画を発表しました。これには、早期警戒システムの強化、ワクチンの公平な分配メカニズムの構築、そして各国間の情報共有の促進が含まれます。過去の教訓を踏まえ、国際社会の連携を一層深めることが強調されています。",
+      "url": "https://edition.cnn.com/health/article/who-pandemic-plan-20260922"
     }
   ]
 };
