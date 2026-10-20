@@ -1,115 +1,133 @@
 {
-  "issue_date": "2026/10/19",
-  "generated_at": "2026-10-18T22:40:06.371Z",
+  "issue_date": "2026/10/20",
+  "generated_at": "2026-10-20T00:01:28.010Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングが敏捷性向上と傷害予防に与える影響：対照実験",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
-      "abstract": "この研究は、バスケットボール選手を対象にVRを用いた神経筋トレーニングが敏捷性パフォーマンスと傷害予防に及ぼす効果を実験的に評価しました。VR環境下でのトレーニングが、実際のスポーツ動作に近い形で神経筋制御を改善し、結果として敏捷性の向上と膝関節（特にACL）の傷害リスク低減に貢献することを示唆しています。",
-      "insight": "VRをトレーニングプログラムに組み込むことで、特にバスケットボールのようなカット動作の多いスポーツにおいて、選手の敏捷性を高めつつACL損傷などのリスクを効果的に低減できる可能性があります。",
-      "published_at": "2026-08-05T07:00:00.000Z"
+      "title": "青年期バレーボール選手における神経筋トレーニングの二重の利点：膝の怪我の予防と運動能力は共通のメカニズム的基盤を共有：構造的ナラティブレビュー",
+      "source": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5",
+      "abstract": "青年期バレーボール選手を対象としたこのレビューでは、神経筋トレーニングが膝の怪我の予防と運動能力の向上という2つの重要な側面を改善することを示しています。これらの効果は、共通のメカニズム的基盤を持つことが示唆されています。",
+      "insight": "怪我予防とパフォーマンス向上の両方に焦点を当てた神経筋トレーニングプログラムを、若年アスリートの練習に統合することが推奨されます。",
+      "published_at": "2026-05-04T11:36:16.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングのバイオメカニクス科学",
+      "title": "トレイルランニングのバイオメカニクスの科学",
       "source": "Trail Runner Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFBTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
-      "abstract": "この記事は、トレイルランニング特有の複雑な地形や路面状況がランナーの身体に与える影響に焦点を当て、そのバイオメカニクスを解説しています。上り坂や下り坂、不均一な路面での重心移動、着地衝撃の吸収、筋活動の変化など、舗装路のランニングとは異なる運動学的特徴が詳細に分析されています。",
-      "insight": "トレイルランナーは、効率的かつ安全に走るために、異なる地形に対応する独自のランニングフォームや筋力トレーニングを取り入れるべきです。特に、下り坂での衝撃吸収能力と不安定な路面でのバランス能力の強化が重要になります。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
+      "abstract": "トレイルランニングにおけるバイオメカニクスに焦点を当てたこの記事では、地形への適応、効率的な体の使い方、怪我の予防に不可欠な要素を解説しています。ランナーがトレイルでより良く走るための科学的根拠を提供します。",
+      "insight": "トレイルランナーは、不整地に対応できる足関節の安定性や、登り下りで効率的な体の使い方を意識したトレーニングを取り入れるべきです。",
       "published_at": "2026-08-20T07:00:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を説明",
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念について解説",
       "source": "UCHealth",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSK2sX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "abstract": "この記事では、スポーツ医学分野で注目されるペプチドについて、医師がその潜在的な利点とリスク、そしてFDAの規制に関する懸念を解説しています。ペプチドは回復促進やパフォーマンス向上に寄与する可能性が指摘される一方で、未承認製品の使用には健康被害のリスクも伴うことが強調されています。",
-      "insight": "アスリートや一般の人々がペプチドサプリメントを検討する際には、必ず医療専門家と相談し、FDA承認の有無や科学的根拠を確認することが不可欠です。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
+      "abstract": "この記事では、アスリートの間で注目されているペプチドについて、その潜在的な利点、健康へのリスク、そしてFDA（米国食品医薬品局）が抱える懸念について、医療専門家が解説しています。パフォーマンス向上を目的とした使用には注意が必要です。",
+      "insight": "アスリートや関係者は、ペプチドの使用にあたり、その有効性だけでなく、潜在的な健康リスクと規制状況を十分に理解する必要があります。",
       "published_at": "2026-07-24T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰時間と再受傷率に与える影響",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5",
-      "abstract": "この研究は、急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再受傷率にどのような影響を与えるかを検証しました。特定の段階的な負荷を伴う運動プログラムが、早期の安全な競技復帰を促し、かつ再受傷リスクを低減する効果があることを示唆しています。",
-      "insight": "ハムストリング肉離れのリハビリテーションでは、単に痛みが引くのを待つだけでなく、競技特性に応じた段階的な筋力強化と高強度運動の導入が、早期かつ安全な競技復帰のために重要です。",
-      "published_at": "2026-10-05T07:00:00.000Z"
+      "title": "NBAシーズンが開幕する中、アキレス腱断裂からスター選手は最高のパフォーマンスを取り戻せるか？ | Newswise",
+      "source": "Newswise",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNk9iWW14bzhncnRwZE9ZaHFNckM5VzFHNWxTVnNkYTJSZDFPUGQ5NXVUVGNDeG5JaFphUDF0S1BHLTJlLU1jT1VMcG8wRllGTjRMT3p2TG5ZdjVaWDlIekNqTUJ0Um5WU0pjaWswTkU3b2hjdG45ejNkWXpCVVhGb3NsOFkwd0FzTjczMnJJMUZ5VXVXZGRzTlFPbXcwcFkwbXQtcXhBaGo4YWRZWlY2cHlSa0JBRGpHVVHSAboBQVVfeXFMTTZPYllteG84Z3J0cGRPWWhxTXJDOVcxRzVsU1ZzZGEyUmQxT1BkOTV1VFRjQ3huSWhaYVAxdEtQRy0yZS1NY09VTHBvMEZZRk40TE96dkxuWXY1Wlg5SHpDak1CdFJuVlNKY2lrME5FN29oY3RuOXozZFl6QlVYRm9zbDhZMHdBc043MzJySTFGeVV1V2Rkc05RT213MHBZMG10LXF4QWhqOGFkWVpWNnB5UmtCQURqR1VR?oc=5",
+      "abstract": "NBAシーズン開幕を前に、アキレス腱断裂からの復帰に焦点を当てた記事です。スター選手が過去の怪我から最高のパフォーマンスを取り戻せるか、その可能性と課題について分析しています。",
+      "insight": "アキレス腱断裂からの復帰には、個々の選手の回復力と、包括的なリハビリテーションプログラム、そしてメンタル面のサポートが不可欠です。",
+      "published_at": "2026-10-19T12:30:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療法の体系的レビューとメタアナリシス",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
-      "abstract": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の効果を評価しました。研究結果は、特定のスポーツ関連痛に対して鍼治療が痛みの軽減と機能改善に有効である可能性を示唆しており、従来の治療法と併用することで相乗効果が期待できると結論付けています。",
-      "insight": "スポーツ現場での疼痛管理において、西洋医学的鍼治療は非薬物療法の一選択肢として考慮できます。特に慢性的な筋骨格系疼痛を抱えるアスリートに対して、理学療法などと組み合わせた総合的なアプローチが有効です。",
+      "abstract": "この体系的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療法の有効性を評価しています。様々な研究結果を統合し、その効果と限界を明らかにしています。",
+      "insight": "鍼治療は、アスリートの慢性的な疼痛管理において、薬物療法に代わる、あるいは補完する治療法として有効である可能性が示唆されています。",
       "published_at": "2026-02-03T18:00:13.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "女性の健康編集部がテストし、専門家が承認した最高のクレアチンサプリメント",
-      "source": "Women's Health",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdlJ1Y0xKVDRLaV9oR1VsMVA4RGNDR1hkSUZ4ajJOa3EwMVlJRF94a18zbjR1dlBXcWVOYTdfTXhsRWhpbnRzcmM5NkFlQk80bUNNc2xlV2hYR1NkcUcyam9KZEZfSlBFR2R5emdKZWZtMXRzSHduWEQ0Qmdrbnd3Nm9iUktqQkVDRmVia0lFWXcwWWhDMmc?oc=5",
-      "abstract": "この記事では、女性アスリートやフィットネス愛好家向けに、専門家によるレビューと編集部によるテストに基づいた最高のクレアチンサプリメントを紹介しています。クレアチンの摂取が筋力向上、パフォーマンス強化、回復促進に寄与するメカニズムとともに、女性に特化した製品の選び方や推奨される摂取方法について解説されています。",
-      "insight": "クレアチンは女性アスリートにとってもパフォーマンス向上に有効なサプリメントであり、適切な製品選びと摂取方法を理解することで、トレーニング効果を最大化し、回復を早めることができます。",
-      "published_at": "2026-10-13T07:00:00.000Z"
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "source": "Verywell Health",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5",
+      "abstract": "この記事では、ワークアウトパフォーマンスの向上に役立つ可能性のある5つのサプリメントについて解説しています。各サプリメントのメカニズム、推奨される摂取方法、注意点などを紹介しています。",
+      "insight": "サプリメントの利用は、個々の目標と健康状態に合わせて慎重に行う必要があり、栄養士や医師への相談が推奨されます。",
+      "published_at": "2026-09-30T07:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
+      "title": "ユースサッカーにおける相対年齢効果を調査するアスリート健康・パフォーマンスセンター",
       "source": "ECNL",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmhEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5",
-      "abstract": "ECNLのアスリート健康パフォーマンスセンターが行ったこの調査は、ユースサッカー選手における相対的年齢効果（RAE）に焦点を当てています。RAEとは、同じ選抜グループ内で生まれ月が早い選手が、身体的成熟度や技術習得の機会において有利になる現象を指し、これが才能識別や選手育成に与える影響について分析されています。",
-      "insight": "ユーススポーツ指導者は、RAEの存在を認識し、誕生日が遅い選手にも平等な成長機会を提供するための評価基準や育成プログラムを導入する必要があります。これにより、長期的な選手育成の公平性と効果を高めることができます。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5",
+      "abstract": "ユースサッカーにおける相対年齢効果（RAE）に焦点を当てた調査結果が報告されています。RAEが選手の選抜や育成に与える影響について考察しています。",
+      "insight": "相対年齢効果を考慮し、年齢だけでなく個々の発達段階に応じた機会提供や評価を行うことが、ユースアスリートの公平な成長のために重要です。",
       "published_at": "2026-08-03T07:00:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠がアスレチックパフォーマンスに与える影響",
+      "title": "アスリートと睡眠：睡眠が運動能力にどのように影響するか",
       "source": "Sleep Foundation",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRZaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5",
-      "abstract": "この記事は、睡眠がアスリートの身体的および精神的パフォーマンスに与える決定的な影響について詳細に解説しています。十分な睡眠は、筋力、持久力、反応時間、集中力、意思決定能力、さらには怪我からの回復に不可欠であり、睡眠不足はこれら全てを著しく低下させることを強調しています。",
-      "insight": "アスリートは、トレーニングや栄養と同様に、睡眠をパフォーマンス向上のための重要な要素として認識し、質の高い十分な睡眠を確保するための具体的な戦略（睡眠衛生の改善、昼寝の活用など）を日常に取り入れるべきです。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5",
+      "abstract": "この記事では、アスリートのパフォーマンスにおける睡眠の重要性について掘り下げています。十分な睡眠が身体的・精神的な回復、集中力、反応速度にどのように貢献するかを解説しています。",
+      "insight": "アスリートは、トレーニング計画に睡眠戦略を組み込み、質の高い睡眠を確保することで、パフォーマンスの最大化と怪我のリスク低減を図るべきです。",
       "published_at": "2026-09-15T07:00:00.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "政治",
-      "source": "毎日新聞",
-      "title": "横浜市長選に「IRの亡霊」 5年前の再演出か、山中氏落選",
-      "summary": "2026年に行われた横浜市長選挙で、5年前のIR（統合型リゾート）誘致問題が再び争点となり、IR反対を掲げて当選した現職の山中竹春氏が落選しました。\n有権者の間では、IR問題を巡る議論が再燃したことが選挙結果に影響を与えたとみられています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iRjJQdlpjeDRSMm42MXMyZlZRNzg0RUl5SlJOY0VpaUx0Qkw5WUczanpHS1Q3QUVWa21EWjNqdElrMVVFMUh6dTFmSHZVSUdqX1dfQVVocUlwT1YyNEVKU0JuaGcxTnV6?oc=5",
-      "published_at": "2026-10-18T12:01:49.000Z"
+      "category": "国際",
+      "source": "読売新聞",
+      "title": "欧州各地でデモ、ミラノで２７０人拘束…ベルギーのブリュッセルでは３万人参加・一部が投石や放火",
+      "summary": "欧州各地で大規模なデモが発生し、イタリアのミラノでは約270人が拘束されました。ベルギーのブリュッセルでは約3万人が参加し、一部が投石や放火などの過激な行動に出ました。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByZTJPRHZVNTRza25XRjRfZ2kxd2p6RVhleXctUzVPa3hycF90ODZzd2ExU00xejJsV0hXcXM3V3dkUzNRVURkTUVjU0MycUtjMUc3aWFKa290bHVwQ0EwWFRn?oc=5",
+      "published_at": "2026-10-19T13:20:00.000Z"
     },
     {
       "id": "j002",
-      "category": "政治",
-      "source": "読売新聞",
-      "title": "高市首相が掲げる「責任ある積極財政」を「評価する」５９％、「評価しない」２９％を大きく上回る…読売世論調査",
-      "summary": "読売新聞の世論調査で、高市首相が提唱する「責任ある積極財政」について、「評価する」と回答した人が59%に上り、「評価しない」の29%を大きく上回る結果となりました。\n国民の間で、国の財政運営に対する一定の期待と理解が示された形です。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95WC1sc044dDNiUHZaN25iaVFuUVI5YUlfNFZwdUYxX0E4Mmdkb0hWNnc0ZUI5QUZjLXEzSThrcXJkam1WNWpEYmlMd2I0ejd2ZnY0MWl6eEJaZWo1NW1UazhCa0JhNXpMWU1HcmNOS3p1b2V4VlE?oc=5",
-      "published_at": "2026-10-18T20:00:00.000Z"
+      "category": "国際",
+      "source": "BBC",
+      "title": "トランプ氏、ロシアへの制裁停止は和平交渉継続のためと主張　与野党から批判も",
+      "summary": "トランプ氏は、ロシアへの制裁停止は和平交渉を継続するためだと主張しましたが、与野党双方から批判の声が上がっています。外交政策における同氏の立場が再び問われています。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJLUZNRnpIbTRHLXNxUjZJa1poeVNMdHFiM3Zrb0txS1g4TzdIWHcyNDBmZlF5Vzg3NlU3MVFBRUJmdGJYaXQ3UGZKeEk2TUJuNUlON0xsZUtrSHlEVDAwYtIBZkFVX3lxTE5NbzJrWkU0TklZN3BRMWtYVGk2SjR5LW9EUkhvM3UwZElxbktydVZKSTR2NXB4M2pSM2JFSzRNTGRoQXpqdC16QVFIN0pfVnZoTTZWT185dEJCNk1MWmJ3cnhOVEFqZw?oc=5",
+      "published_at": "2026-10-19T04:28:21.000Z"
     },
     {
       "id": "j003",
-      "category": "社会",
-      "source": "tenki.jp",
-      "title": "台風30号 22日～23日に非常に強い勢力で沖縄の南へ 石垣島などで大しけに(気象予報士 中川 裕美子)",
-      "summary": "台風30号が10月22日から23日にかけて、非常に強い勢力で沖縄の南海上を通過する見込みです。\n気象予報士の中川裕美子氏によると、石垣島など先島諸島では大しけとなり、暴風や高波に厳重な警戒が必要とされています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qVDVERVQyY1FzcTVMM3pTSVgwZnFhaGJWUjFGWWJQNFdoLWxnZmFNa2l0ZDhhQlNSRmlpeXFLMFBzYjF6MUdLV2pBTHdEdm1nTEx5UVVZRTBBYmUyRUhpMXRMdDExUjJVNzJNaA?oc=5",
-      "published_at": "2026-10-18T20:37:54.000Z"
+      "category": "国際",
+      "source": "産経ニュース",
+      "title": "プーチン氏「太平洋」でも対決姿勢 日NATO結束を警戒 欧州で「影の戦争」、米に甘言",
+      "summary": "プーチン大統領は「太平洋」でも対決姿勢を示し、日NATOの結束を警戒しています。欧州では「影の戦争」を展開しつつ、米国には甘言を弄していると報じられています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nVmhtWk4ydkhNRGRHU2hROEJWQlFSLTQ2dnRtZnNXcEs3Y0VNNExNRTdRV3g0XzhNelBXSF9JaFVsazRSQ0ZROTlFaXh4VlBsUnhEbEhSN05mN013aWFTRmRDRXJfMVpmN1RaR0xRNkIzR2VZMkE?oc=5",
+      "published_at": "2026-10-19T09:29:38.000Z"
+    },
+    {
+      "id": "j004",
+      "category": "国際",
+      "source": "47NEWS",
+      "title": "【速報】米、ミサイル警戒情報の共有再び停止か",
+      "summary": "米国が、ロシアとのミサイル警戒情報の共有を再び停止する可能性が報じられています。これは両国間の緊張関係を示すものと考えられます。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3YXZOMlFvYTZ0X200WGtVal9BTGxIY2NQdk5PQncza3JBV3FIVTRSc2kzbTNaaVEydzBKMG9ObVlRVnNsYk4yQnJwZw?oc=5",
+      "published_at": "2026-10-19T08:45:48.000Z"
+    },
+    {
+      "id": "j005",
+      "category": "政治",
+      "source": "毎日新聞",
+      "title": "読む政治：少数与党の参院「野党の餌食」か 自民実力者は「一切手を引く」",
+      "summary": "少数与党となった参議院において、自民党の実力者が「一切手を引く」と発言し、野党の餌食になるのではないかとの懸念が報じられています。今後の政局に影響を与えそうです。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTNfZmFCNkRtYXZZZEVJUFE2SkNjSGpkd2xxcDFrZ3d2N2hkam1FcUtqdWNpZlJoY1VvdXBmNWxrbXFVeVMtejdIellILWFCcnBPRWRGOWFlV1ZDc2ctRHU1TE4yaWRQ?oc=5",
+      "published_at": "2026-10-19T20:00:00.000Z"
     }
   ],
   "global_news": [
@@ -117,71 +135,51 @@
       "id": "g001",
       "category": "Conflict",
       "region": "Europe",
-      "source": "The New York Times",
-      "title": "フランスで大規模な暴動と反政府デモ：知っておくべきこと",
-      "summary": "フランスでは、政府に対する大規模な暴動と抗議デモが各地で発生し、混乱が広がっています。\n数週間にわたる社会不安の背景には、年金改革や物価上昇への不満があるとされ、治安部隊とデモ隊の衝突が激化しています。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-      "published_at": "2026-10-18T19:29:26.000Z"
+      "source": "BBC",
+      "title": "フランス全土での暴動を受け、パリ中心部やその他の都市で夜間外出禁止令が発令",
+      "summary": "フランス全土で発生した暴動を受け、パリ中心部や他の都市で夜間外出禁止令が発令されました。治安部隊が事態の鎮圧に当たっています。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KbTV4RU1RUG1XSzBGSjZULVZ6a0R4SVF6dEwyWXFYbS1iSktHNmY0MGdaZTI2REYtX2NOOUZMUHEzRmdLUld0R2RUY0dsS0pGU1ZUbTFxMXFCNEE?oc=5",
+      "published_at": "2026-10-19T21:14:53.000Z"
     },
     {
       "id": "g002",
-      "category": "Conflict",
-      "region": "North America",
-      "source": "BBC",
-      "title": "カナダ軍基地火災：死者数確認、原因を調査中",
-      "summary": "カナダの軍事基地で発生した爆発と火災で、死者数が確認され、現在原因が調査されています。\nこの事故は射撃訓練中に弾がガス設備に当たった可能性が指摘されており、地域住民にも衝撃を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0d3l6Z2FRaTlwVkJicUp1RHhqbHZReHA5QUZJOFlxckJWYklPcWRoWGZXOTVteDhIQV9SZ1VJVGMzYnQ0VnduT2FlcGp6bFpLWm52SUdMUmJBYVE?oc=5",
-      "published_at": "2026-10-18T19:42:37.000Z"
+      "category": "Politics",
+      "region": "US",
+      "source": "AP News",
+      "title": "裁判官、トランプ政権のワシントンゴルフコース改修計画を厳しく問いただす",
+      "summary": "裁判官は、トランプ政権が計画しているワシントンD.C.のゴルフコースの改修計画について、その詳細と正当性を厳しく追及しました。環境への影響などが争点となっています。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXhSWnRUTHljbjVsM1VGVVBtQTJJdFRZX2FDS0EwZUlENENvc3ZhZE5ZMDFfd2NhWGVpOEhsOEZpbFMwNWxRSlJhRWVmaXdQSDI0UHRRODQ1SjVHT3BaSHpRa2RLTVhlUjhXTi1ZWTMtWGJaQUdXbVU2Wk5GZWZINE4xVTVocDFpRjgtcWI3WVNlNmk1eHFSdw?oc=5",
+      "published_at": "2026-10-19T19:37:00.000Z"
     },
     {
       "id": "g003",
-      "category": "Sports",
+      "category": "Politics",
       "region": "US",
-      "source": "The Washington Post",
-      "title": "トランプ氏、土地を巡る法廷闘争の最中にイーストポトマック・ゴルフコース刷新計画を発表",
-      "summary": "ドナルド・トランプ前大統領が、現在法廷闘争中であるイーストポトマック・ゴルフコースの改修計画を公表しました。\nこの計画は、ゴルフコースの近代化と利用促進を目指すものですが、土地の所有権を巡る訴訟の行方に注目が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5",
-      "published_at": "2026-10-18T19:49:26.000Z"
+      "source": "The Guardian",
+      "title": "米司法省、カリフォルニア州でグリーンカード保持者28人を選挙詐欺の疑いで訴追",
+      "summary": "米司法省は、カリフォルニア州において、グリーンカード保持者28人を選挙詐欺の疑いで訴追しました。これは、外国人による選挙への不正介入に対する取り締まりの一環です。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHk0ak02bEpVa1loOUs0eU14dXVmSngyZlM4UEJZYTFTT2NyekR4NzEyQlBEZFZ6aTF6cmNPT0lIRDJtOEotNnFYMTdPNVFYOFRReUlZTzJoUHZEZ0RYMGJIT3pCQXpRNUdQVEFGSEdaZWk0aHNrblVIWFdidkk2YWZWd0ZvVnhIOW9Zd0dB?oc=5",
+      "published_at": "2026-10-19T18:52:00.000Z"
     },
     {
       "id": "g004",
       "category": "Politics",
-      "region": "US",
-      "source": "The Guardian",
-      "title": "トランプ氏の「国境担当責任者」、イルハン・オマル議員の市民権剥奪と国外追放は「当然あり得る」と発言",
-      "summary": "トランプ氏が任命した「国境担当責任者」が、民主党のイルハン・オマル下院議員について、市民権剥奪と国外追放の可能性を「当然あり得る」と発言し、波紋を呼んでいます。\nこの発言は、移民政策や政治的対立の激化を示すものとして注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUFGdW1wMm8wTlN3aG1kM3lJVDJpOXBNcE5EQ2RQeTJwYXFQeS1jYko0cWJQY1Z1blBFWFVCWEFBZk5NdmlJMHNvSElVSEI0bXZNSGlLU1IyQzFWNm14YmVsYzZ0d0xpU2tScWUyVlpXR015UnBiLXdUY25TWlhqQ3RzSFhwSTVBZjBUcWVRY3FXcjN6dFBJaFFrTGwwRkU?oc=5",
-      "published_at": "2026-10-18T17:16:00.000Z"
+      "region": "Global",
+      "source": "Axios",
+      "title": "トランプ氏、非核化協議のため習氏・プーチン氏との首脳会談に前向き",
+      "summary": "トランプ前大統領は、非核化について協議するため、中国の習近平国家主席やロシアのプーチン大統領との首脳会談に前向きな姿勢を示しました。国際的な緊張緩和に向けた動きとなるか注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmc5TmVsTml6eVJ5aDBsVjNPMjh1VEZlRkhXMHYtRVRGeEM1bnVVeFBZZWpHRWQ0LWRMUjZMY29vV3pIMVV4eFZYWUdhRV9zNlJDNnBUcFBsd1FNWHBWZTBuS0RlcHI0UjVKcDEtUGN4SDJiZWR3aWZqYXBwQ2VvanRiTXNOdw?oc=5",
+      "published_at": "2026-10-19T20:04:45.000Z"
     },
     {
       "id": "g005",
-      "category": "Politics",
+      "category": "Conflict",
       "region": "US",
-      "source": "Axios",
-      "title": "MAGA共和党員の95%がトランプ氏を支持。非MAGA共和党員では47%。",
-      "summary": "最新の調査によると、MAGA（Make America Great Again）を支持する共和党員の95%がトランプ氏を承認している一方、非MAGA共和党員では支持率が47%に留まることが明らかになりました。\nこのデータは、共和党内部におけるトランプ氏への支持層の分裂を浮き彫りにしています。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3lJdTZISU8xN3dtbDBaRV9sV05pdHdhYk1rMHMxR3kyV29lNWVjUV84cnlHcUZ2NThEOUJCNHB4ZWdHd0gzaURYeEJZRVM2SW9teXR3Y0lyaVQzdW8wWnRZeWdmX2hSSWFYcjZteHZtUlRONzhrMHZXd2JhWGtiUVN3?oc=5",
-      "published_at": "2026-10-18T19:57:06.000Z"
-    },
-    {
-      "id": "g006",
-      "category": "Conflict",
-      "region": "Europe",
-      "source": "時事ドットコム",
-      "title": "暴徒が放火、破壊、略奪 ５５万人デモで混乱―仏",
-      "summary": "フランスで55万人規模の大規模なデモが発生し、一部が暴徒化して放火、破壊、略奪行為が行われました。\n反政府的な動きが広がる中で、治安当局は混乱の収拾に追われており、各地で緊張が高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03QlItWEUzYnd2Qnd0NF9qdlhoTHRNSkl4Tkd1WW95LVo3UThRa3pFcFR4ZW1mejdlcWNVRmhkS0UybzNGc1cyMU91UVE1QkJkMms4eEZRNzF3WnFSa0ZXR1pqOA?oc=5",
-      "published_at": "2026-10-18T12:05:00.000Z"
-    },
-    {
-      "id": "g007",
-      "category": "Conflict",
-      "region": "North America",
-      "source": "読売新聞",
-      "title": "カナダ西部の陸軍基地で爆発と火災、少なくとも７人死亡・数十人負傷…射撃訓練で弾がガス設備にあたったか",
-      "summary": "カナダ西部の陸軍基地で発生した爆発と火災により、少なくとも7人が死亡し、数十人が負傷しました。\n初期調査では、射撃訓練中に弾がガス設備に当たったことが原因とみられており、当局は詳細な調査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TDlPeVFNZGVmRlMtMlU2YlliQm9kMW0tTl9GcGFyb29HMjhWamtLSHhhWUhFZldySnRsb2gwcE5STl95cFRVNWJMMGMzdlE3UEM4a0JRd1ViYk4zWHAyNmpn?oc=5",
-      "published_at": "2026-10-18T10:31:00.000Z"
+      "source": "CNN",
+      "title": "ミシシッピ州司法長官、1歳のコヘン・ワイリー君死亡事件での武力行使は正当化されたと発言",
+      "summary": "ミシシッピ州司法長官は、1歳のコヘン・ワイリー君が死亡した事件における警察官の武力行使は正当化されたとの見解を示しました。この事件については、捜査が継続されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12OU4wZWdpaFcwbGNWNnFnWDZ3b1cteFNFU1RGOFNIUU5GbVl3UEM1aHkyZGhvYlZxLV9NdHd1QW1lMWg4bFFLa2czU3hTRldHRmZqSGNDczJ0YVBtWHhvcE10QmtUNG8?oc=5",
+      "published_at": "2026-10-19T18:15:32.000Z"
     }
   ],
   "weekly_top20": [
@@ -189,161 +187,161 @@
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングが敏捷性向上と傷害予防に与える影響：対照実験",
-      "summary": "この研究は、バスケットボール選手を対象にVRを用いた神経筋トレーニングが敏捷性パフォーマンスと傷害予防に及ぼす効果を実験的に評価しました。VR環境下でのトレーニングが、実際のスポーツ動作に近い形で神経筋制御を改善し、結果として敏捷性の向上と膝関節（特にACL）の傷害リスク低減に貢献することを示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "title": "青年期バレーボール選手における神経筋トレーニングの二重の利点：膝の怪我の予防と運動能力は共通のメカニズム的基盤を共有：構造的ナラティブレビュー",
+      "summary": "青年期バレーボール選手を対象としたこのレビューでは、神経筋トレーニングが膝の怪我の予防と運動能力の向上という2つの重要な側面を改善することを示しています。これらの効果は、共通のメカニズム的基盤を持つことが示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングのバイオメカニクス科学",
-      "summary": "この記事は、トレイルランニング特有の複雑な地形や路面状況がランナーの身体に与える影響に焦点を当て、そのバイオメカニクスを解説しています。上り坂や下り坂、不均一な路面での重心移動、着地衝撃の吸収、筋活動の変化など、舗装路のランニングとは異なる運動学的特徴が詳細に分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFBTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "トレイルランニングのバイオメカニクスの科学",
+      "summary": "トレイルランニングにおけるバイオメカニクスに焦点を当てたこの記事では、地形への適応、効率的な体の使い方、怪我の予防に不可欠な要素を解説しています。ランナーがトレイルでより良く走るための科学的根拠を提供します。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を説明",
-      "summary": "この記事では、スポーツ医学分野で注目されるペプチドについて、医師がその潜在的な利点とリスク、そしてFDAの規制に関する懸念を解説しています。ペプチドは回復促進やパフォーマンス向上に寄与する可能性が指摘される一方で、未承認製品の使用には健康被害のリスクも伴うことが強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSK2sX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念について解説",
+      "summary": "この記事では、アスリートの間で注目されているペプチドについて、その潜在的な利点、健康へのリスク、そしてFDA（米国食品医薬品局）が抱える懸念について、医療専門家が解説しています。パフォーマンス向上を目的とした使用には注意が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰時間と再受傷率に与える影響",
-      "summary": "この研究は、急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再受傷率にどのような影響を与えるかを検証しました。特定の段階的な負荷を伴う運動プログラムが、早期の安全な競技復帰を促し、かつ再受傷リスクを低減する効果があることを示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
+      "title": "NBAシーズンが開幕する中、アキレス腱断裂からスター選手は最高のパフォーマンスを取り戻せるか？ | Newswise",
+      "summary": "NBAシーズン開幕を前に、アキレス腱断裂からの復帰に焦点を当てた記事です。スター選手が過去の怪我から最高のパフォーマンスを取り戻せるか、その可能性と課題について分析しています。",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNk9iWW14bzhncnRwZE9ZaHFNckM5VzFHNWxTVnNkYTJSZDFPUGQ5NXVUVGNDeG5JaFphUDF0S1BHLTJlLU1jT1VMcG8wRllGTjRMT3p2TG5ZdjVaWDlIekNqTUJ0Um5WU0pjaWswTkU3b2hjdG45ejNkWXpCVVhGb3NsOFkwd0FzTjczMnJJMUZ5VXVXZGRzTlFPbXcwcFkwbXQtcXhBaGo4YWRZWlY2cHlSa0JBRGpHVVHSAboBQVVfeXFMTTZPYllteG84Z3J0cGRPWWhxTXJDOVcxRzVsU1ZzZGEyUmQxT1BkOTV1VFRjQ3huSWhaYVAxdEtQRy0yZS1NY09VTHBvMEZZRk40TE96dkxuWXY1Wlg5SHpDak1CdFJuVlNKY2lrME5FN29oY3RuOXozZFl6QlVYRm9zbDhZMHdBc043MzJySTFGeVV1V2Rkc05RT213MHBZMG10LXF4QWhqOGFkWVpWNnB5UmtCQURqR1VR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の効果を評価しました。研究結果は、特定のスポーツ関連痛に対して鍼治療が痛みの軽減と機能改善に有効である可能性を示唆しており、従来の治療法と併用することで相乗効果が期待できると結論付けています。",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療法の体系的レビューとメタアナリシス",
+      "summary": "この体系的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療法の有効性を評価しています。様々な研究結果を統合し、その効果と限界を明らかにしています。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "女性の健康編集部がテストし、専門家が承認した最高のクレアチンサプリメント",
-      "summary": "この記事では、女性アスリートやフィットネス愛好家向けに、専門家によるレビューと編集部によるテストに基づいた最高のクレアチンサプリメントを紹介しています。クレアチンの摂取が筋力向上、パフォーマンス強化、回復促進に寄与するメカニズムとともに、女性に特化した製品の選び方や推奨される摂取方法について解説されています。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdlJ1Y0xKVDRLaV9oR1VsMVA4RGNDR1hkSUZ4ajJOa3EwMVlJRF94a18zbjR1dlBXcWVOYTdfTXhsRWhpbnRzcmM5NkFlQk80bUNNc2xlV2hYR1NkcUcyam9KZEZfSlBFR2R5emdKZWZtMXRzSHduWEQ0Qmdrbnd3Nm9iUktqQkVDRmVia0lFWXcwWWhDMmc?oc=5"
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "summary": "この記事では、ワークアウトパフォーマンスの向上に役立つ可能性のある5つのサプリメントについて解説しています。各サプリメントのメカニズム、推奨される摂取方法、注意点などを紹介しています。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
-      "summary": "ECNLのアスリート健康パフォーマンスセンターが行ったこの調査は、ユースサッカー選手における相対的年齢効果（RAE）に焦点を当てています。RAEとは、同じ選抜グループ内で生まれ月が早い選手が、身体的成熟度や技術習得の機会において有利になる現象を指し、これが才能識別や選手育成に与える影響について分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmhEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
+      "title": "ユースサッカーにおける相対年齢効果を調査するアスリート健康・パフォーマンスセンター",
+      "summary": "ユースサッカーにおける相対年齢効果（RAE）に焦点を当てた調査結果が報告されています。RAEが選手の選抜や育成に与える影響について考察しています。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠がアスレチックパフォーマンスに与える影響",
-      "summary": "この記事は、睡眠がアスリートの身体的および精神的パフォーマンスに与える決定的な影響について詳細に解説しています。十分な睡眠は、筋力、持久力、反応時間、集中力、意思決定能力、さらには怪我からの回復に不可欠であり、睡眠不足はこれら全てを著しく低下させることを強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRZaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
+      "title": "アスリートと睡眠：睡眠が運動能力にどのように影響するか",
+      "summary": "この記事では、アスリートのパフォーマンスにおける睡眠の重要性について掘り下げています。十分な睡眠が身体的・精神的な回復、集中力、反応速度にどのように貢献するかを解説しています。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "横浜市長選に「IRの亡霊」 5年前の再演出か、山中氏落選",
-      "summary": "2026年に行われた横浜市長選挙で、5年前のIR（統合型リゾート）誘致問題が再び争点となり、IR反対を掲げて当選した現職の山中竹春氏が落選しました。\n有権者の間では、IR問題を巡る議論が再燃したことが選挙結果に影響を与えたとみられています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iRjJQdlpjeDRSMm42MXMyZlZRNzg0RUl5SlJOY0VpaUx0Qkw5WUczanpHS1Q3QUVWa21EWjNqdElrMVVFMUh6dTFmSHZVSUdqX1dfQVVocUlwT1YyNEVKU0JuaGcxTnV6?oc=5"
+      "category": "国際",
+      "title": "欧州各地でデモ、ミラノで２７０人拘束…ベルギーのブリュッセルでは３万人参加・一部が投石や放火",
+      "summary": "欧州各地で大規模なデモが発生し、イタリアのミラノでは約270人が拘束されました。ベルギーのブリュッセルでは約3万人が参加し、一部が投石や放火などの過激な行動に出ました。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByZTJPRHZVNTRza25XRjRfZ2kxd2p6RVhleXctUzVPa3hycF90ODZzd2ExU00xejJsV0hXcXM3V3dkUzNRVURkTUVjU0MycUtjMUc3aWFKa290bHVwQ0EwWFRn?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "高市首相が掲げる「責任ある積極財政」を「評価する」５９％、「評価しない」２９％を大きく上回る…読売世論調査",
-      "summary": "読売新聞の世論調査で、高市首相が提唱する「責任ある積極財政」について、「評価する」と回答した人が59%に上り、「評価しない」の29%を大きく上回る結果となりました。\n国民の間で、国の財政運営に対する一定の期待と理解が示された形です。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95WC1sc044dDNiUHZaN25iaVFuUVI5YUlfNFZwdUYxX0E4Mmdkb0hWNnc0ZUI5QUZjLXEzSThrcXJkam1WNWpEYmlMd2I0ejd2ZnY0MWl6eEJaZWo1NW1UazhCa0JhNXpMWU1HcmNOS3p1b2V4VlE?oc=5"
+      "category": "国際",
+      "title": "トランプ氏、ロシアへの制裁停止は和平交渉継続のためと主張　与野党から批判も",
+      "summary": "トランプ氏は、ロシアへの制裁停止は和平交渉を継続するためだと主張しましたが、与野党双方から批判の声が上がっています。外交政策における同氏の立場が再び問われています。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJLUZNRnpIbTRHLXNxUjZJa1poeVNMdHFiM3Zrb0txS1g4TzdIWHcyNDBmZlF5Vzg3NlU3MVFBRUJmdGJYaXQ3UGZKeEk2TUJuNUlON0xsZUtrSHlEVDAwYtIBZkFVX3lxTE5NbzJrWkU0TklZN3BRMWtYVGk2SjR5LW9EUkhvM3UwZElxbktydVZKSTR2NXB4M2pSM2JFSzRNTGRoQXpqdC16QVFIN0pfVnZoTTZWT185dEJCNk1MWmJ3cnhOVEFqZw?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "台風30号 22日～23日に非常に強い勢力で沖縄の南へ 石垣島などで大しけに(気象予報士 中川 裕美子)",
-      "summary": "台風30号が10月22日から23日にかけて、非常に強い勢力で沖縄の南海上を通過する見込みです。\n気象予報士の中川裕美子氏によると、石垣島など先島諸島では大しけとなり、暴風や高波に厳重な警戒が必要とされています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qVDVERVQyY1FzcTVMM3pTSVgwZnFhaGJWUjFGWWJQNFdoLWxnZmFNa2l0ZDhhQlNSRmlpeXFLMFBzYjF6MUdLV2pBTHdEdm1nTEx5UVVZRTBBYmUyRUhpMXRMdDExUjJVNzJNaA?oc=5"
+      "category": "国際",
+      "title": "プーチン氏「太平洋」でも対決姿勢 日NATO結束を警戒 欧州で「影の戦争」、米に甘言",
+      "summary": "プーチン大統領は「太平洋」でも対決姿勢を示し、日NATOの結束を警戒しています。欧州では「影の戦争」を展開しつつ、米国には甘言を弄していると報じられています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nVmhtWk4ydkhNRGRHU2hROEJWQlFSLTQ2dnRtZnNXcEs3Y0VNNExNRTdRV3g0XzhNelBXSF9JaFVsazRSQ0ZROTlFaXh4VlBsUnhEbEhSN05mN013aWFTRmRDRXJfMVpmN1RaR0xRNkIzR2VZMkE?oc=5"
     },
     {
       "rank": 12,
-      "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "フランスで大規模な暴動と反政府デモ：知っておくべきこと",
-      "summary": "フランスでは、政府に対する大規模な暴動と抗議デモが各地で発生し、混乱が広がっています。\n数週間にわたる社会不安の背景には、年金改革や物価上昇への不満があるとされ、治安部隊とデモ隊の衝突が激化しています。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5"
+      "origin_tab": "japan_news",
+      "category": "国際",
+      "title": "【速報】米、ミサイル警戒情報の共有再び停止か",
+      "summary": "米国が、ロシアとのミサイル警戒情報の共有を再び停止する可能性が報じられています。これは両国間の緊張関係を示すものと考えられます。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3YXZOMlFvYTZ0X200WGtVal9BTGxIY2NQdk5PQncza3JBV3FIVTRSc2kzbTNaaVEydzBKMG9ObVlRVnNsYk4yQnJwZw?oc=5"
     },
     {
       "rank": 13,
-      "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "カナダ軍基地火災：死者数確認、原因を調査中",
-      "summary": "カナダの軍事基地で発生した爆発と火災で、死者数が確認され、現在原因が調査されています。\nこの事故は射撃訓練中に弾がガス設備に当たった可能性が指摘されており、地域住民にも衝撃を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0d3l6Z2FRaTlwVkJicUp1RHhqbHZReHA5QUZJOFlxckJWYklPcWRoWGZXOTVteDhIQV9SZ1VJVGMzYnQ0VnduT2FlcGp6bFpLWm52SUdMUmJBYVE?oc=5"
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "読む政治：少数与党の参院「野党の餌食」か 自民実力者は「一切手を引く」",
+      "summary": "少数与党となった参議院において、自民党の実力者が「一切手を引く」と発言し、野党の餌食になるのではないかとの懸念が報じられています。今後の政局に影響を与えそうです。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTNfZmFCNkRtYXZZZEVJUFE2SkNjSGpkd2xxcDFrZ3d2N2hkam1FcUtqdWNpZlJoY1VvdXBmNWxrbXFVeVMtejdIellILWFCcnBPRWRGOWFlV1ZDc2ctRHU1TE4yaWRQ?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Sports",
-      "title": "トランプ氏、土地を巡る法廷闘争の最中にイーストポトマック・ゴルフコース刷新計画を発表",
-      "summary": "ドナルド・トランプ前大統領が、現在法廷闘争中であるイーストポトマック・ゴルフコースの改修計画を公表しました。\nこの計画は、ゴルフコースの近代化と利用促進を目指すものですが、土地の所有権を巡る訴訟の行方に注目が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5"
+      "category": "Conflict",
+      "title": "フランス全土での暴動を受け、パリ中心部やその他の都市で夜間外出禁止令が発令",
+      "summary": "フランス全土で発生した暴動を受け、パリ中心部や他の都市で夜間外出禁止令が発令されました。治安部隊が事態の鎮圧に当たっています。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KbTV4RU1RUG1XSzBGSjZULVZ6a0R4SVF6dEwyWXFYbS1iSktHNmY0MGdaZTI2REYtX2NOOUZMUHEzRmdLUld0R2RUY0dsS0pGU1ZUbTFxMXFCNEE?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏の「国境担当責任者」、イルハン・オマル議員の市民権剥奪と国外追放は「当然あり得る」と発言",
-      "summary": "トランプ氏が任命した「国境担当責任者」が、民主党のイルハン・オマル下院議員について、市民権剥奪と国外追放の可能性を「当然あり得る」と発言し、波紋を呼んでいます。\nこの発言は、移民政策や政治的対立の激化を示すものとして注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUFGdW1wMm8wTlN3aG1kM3lJVDJpOXBNcE5EQ2RQeTJwYXFQeS1jYko0cWJQY1Z1blBFWFVCWEFBZk5NdmlJMHNvSElVSEI0bXZNSGlLU1IyQzFWNm14YmVsYzZ0d0xpU2tScWUyVlpXR015UnBiLXdUY25TWlhqQ3RzSFhwSTVBZjBUcWVRY3FXcjN6dFBJaFFrTGwwRkU?oc=5"
+      "title": "裁判官、トランプ政権のワシントンゴルフコース改修計画を厳しく問いただす",
+      "summary": "裁判官は、トランプ政権が計画しているワシントンD.C.のゴルフコースの改修計画について、その詳細と正当性を厳しく追及しました。環境への影響などが争点となっています。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXhSWnRUTHljbjVsM1VGVVBtQTJJdFRZX2FDS0EwZUlENENvc3ZhZE5ZMDFfd2NhWGVpOEhsOEZpbFMwNWxRSlJhRWVmaXdQSDI0UHRRODQ1SjVHT3BaSHpRa2RLTVhlUjhXTi1ZWTMtWGJaQUdXbVU2Wk5GZWZINE4xVTVocDFpRjgtcWI3WVNlNmk1eHFSdw?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "MAGA共和党員の95%がトランプ氏を支持。非MAGA共和党員では47%。",
-      "summary": "最新の調査によると、MAGA（Make America Great Again）を支持する共和党員の95%がトランプ氏を承認している一方、非MAGA共和党員では支持率が47%に留まることが明らかになりました。\nこのデータは、共和党内部におけるトランプ氏への支持層の分裂を浮き彫りにしています。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3lJdTZISU8xN3dtbDBaRV9sV05pdHdhYk1rMHMxR3kyV29lNWVjUV84cnlHcUZ2NThEOUJCNHB4ZWdHd0gzaURYeEJZRVM2SW9teXR3Y0lyaVQzdW8wWnRZeWdmX2hSSWFYcjZteHZtUlRONzhrMHZXd2JhWGtiUVN3?oc=5"
+      "title": "米司法省、カリフォルニア州でグリーンカード保持者28人を選挙詐欺の疑いで訴追",
+      "summary": "米司法省は、カリフォルニア州において、グリーンカード保持者28人を選挙詐欺の疑いで訴追しました。これは、外国人による選挙への不正介入に対する取り締まりの一環です。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHk0ak02bEpVa1loOUs0eU14dXVmSngyZlM4UEJZYTFTT2NyekR4NzEyQlBEZFZ6aTF6cmNPT0lIRDJtOEotNnFYMTdPNVFYOFRReUlZTzJoUHZEZ0RYMGJIT3pCQXpRNUdQVEFGSEdaZWk0aHNrblVIWFdidkk2YWZWd0ZvVnhIOW9Zd0dB?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "暴徒が放火、破壊、略奪 ５５万人デモで混乱―仏",
-      "summary": "フランスで55万人規模の大規模なデモが発生し、一部が暴徒化して放火、破壊、略奪行為が行われました。\n反政府的な動きが広がる中で、治安当局は混乱の収拾に追われており、各地で緊張が高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03QlItWEUzYnd2Qnd0NF9qdlhoTHRNSkl4Tkd1WW95LVo3UThRa3pFcFR4ZW1mejdlcWNVRmhkS0UybzNGc1cyMU91UVE1QkJkMms4eEZRNzF3WnFSa0ZXR1pqOA?oc=5"
+      "category": "Politics",
+      "title": "トランプ氏、非核化協議のため習氏・プーチン氏との首脳会談に前向き",
+      "summary": "トランプ前大統領は、非核化について協議するため、中国の習近平国家主席やロシアのプーチン大統領との首脳会談に前向きな姿勢を示しました。国際的な緊張緩和に向けた動きとなるか注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmc5TmVsTml6eVJ5aDBsVjNPMjh1VEZlRkhXMHYtRVRGeEM1bnVVeFBZZWpHRWQ0LWRMUjZMY29vV3pIMVV4eFZYWUdhRV9zNlJDNnBUcFBsd1FNWHBWZTBuS0RlcHI0UjVKcDEtUGN4SDJiZWR3aWZqYXBwQ2VvanRiTXNOdw?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Conflict",
-      "title": "カナダ西部の陸軍基地で爆発と火災、少なくとも７人死亡・数十人負傷…射撃訓練で弾がガス設備にあたったか",
-      "summary": "カナダ西部の陸軍基地で発生した爆発と火災により、少なくとも7人が死亡し、数十人が負傷しました。\n初期調査では、射撃訓練中に弾がガス設備に当たったことが原因とみられており、当局は詳細な調査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TDlPeVFNZGVmRlMtMlU2YlliQm9kMW0tTl9GcGFyb29HMjhWamtLSHhhWUhFZldySnRsb2gwcE5STl95cFRVNWJMMGMzdlE3UEM4a0JRd1ViYk4zWHAyNmpn?oc=5"
+      "title": "ミシシッピ州司法長官、1歳のコヘン・ワイリー君死亡事件での武力行使は正当化されたと発言",
+      "summary": "ミシシッピ州司法長官は、1歳のコヘン・ワイリー君が死亡した事件における警察官の武力行使は正当化されたとの見解を示しました。この事件については、捜査が継続されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12OU4wZWdpaFcwbGNWNnFnWDZ3b1cteFNFU1RGOFNIUU5GbVl3UEM1aHkyZGhvYlZxLV9NdHd1QW1lMWg4bFFLa2czU3hTRldHRmZqSGNDczJ0YVBtWHhvcE10QmtUNG8?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バーチャルリアリティ支援型神経筋トレーニングがバスケットボール選手のアジリティ能力と傷害予防に与える影響：対照実験研究",
-      "summary": "本研究は、バスケットボール選手を対象に、VR（バーチャルリアリティ）を用いた神経筋トレーニングがアジリティ能力向上と傷害予防にどの程度効果があるかを実験的に検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、選手の反応速度や協調性を高め、特に膝関節の安定性向上に寄与する可能性が示されました。結果として、VRを用いた介入が、パフォーマンス向上と同時にACL（前十字靭帯）などの下肢傷害リスク低減に有効であることが示唆されています。",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングが敏捷性向上と傷害予防に与える影響：対照実験",
+      "summary": "この研究は、バスケットボール選手を対象にVRを用いた神経筋トレーニングが敏捷性パフォーマンスと傷害予防に及ぼす効果を実験的に評価しました。VR環境下でのトレーニングが、実際のスポーツ動作に近い形で神経筋制御を改善し、結果として敏捷性の向上と膝関節（特にACL）の傷害リスク低減に貢献することを示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学",
-      "summary": "このレビューは、トレイルランニングにおける生体力学の科学的側面を詳細に分析したものです。不均一な地形での走行が、平地ランニングと比較して、下肢の関節への負荷、筋活動パターン、および重心移動にどのような影響を与えるかを調査しました。研究は、トレイル特有の要求に対応するための効率的な走行フォームや筋力トレーニングの重要性を強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "トレイルランニングのバイオメカニクス科学",
+      "summary": "この記事は、トレイルランニング特有の複雑な地形や路面状況がランナーの身体に与える影響に焦点を当て、そのバイオメカニクスを解説しています。上り坂や下り坂、不均一な路面での重心移動、着地衝撃の吸収、筋活動の変化など、舗装路のランニングとは異なる運動学的特徴が詳細に分析されています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFBTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     }
   ],
   "monthly_top20": [
@@ -351,161 +349,161 @@
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングが敏捷性向上と傷害予防に与える影響：対照実験",
-      "summary": "この研究は、バスケットボール選手を対象にVRを用いた神経筋トレーニングが敏捷性パフォーマンスと傷害予防に及ぼす効果を実験的に評価しました。VR環境下でのトレーニングが、実際のスポーツ動作に近い形で神経筋制御を改善し、結果として敏捷性の向上と膝関節（特にACL）の傷害リスク低減に貢献することを示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "title": "青年期バレーボール選手における神経筋トレーニングの二重の利点：膝の怪我の予防と運動能力は共通のメカニズム的基盤を共有：構造的ナラティブレビュー",
+      "summary": "青年期バレーボール選手を対象としたこのレビューでは、神経筋トレーニングが膝の怪我の予防と運動能力の向上という2つの重要な側面を改善することを示しています。これらの効果は、共通のメカニズム的基盤を持つことが示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングのバイオメカニクス科学",
-      "summary": "この記事は、トレイルランニング特有の複雑な地形や路面状況がランナーの身体に与える影響に焦点を当て、そのバイオメカニクスを解説しています。上り坂や下り坂、不均一な路面での重心移動、着地衝撃の吸収、筋活動の変化など、舗装路のランニングとは異なる運動学的特徴が詳細に分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFBTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "トレイルランニングのバイオメカニクスの科学",
+      "summary": "トレイルランニングにおけるバイオメカニクスに焦点を当てたこの記事では、地形への適応、効率的な体の使い方、怪我の予防に不可欠な要素を解説しています。ランナーがトレイルでより良く走るための科学的根拠を提供します。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を説明",
-      "summary": "この記事では、スポーツ医学分野で注目されるペプチドについて、医師がその潜在的な利点とリスク、そしてFDAの規制に関する懸念を解説しています。ペプチドは回復促進やパフォーマンス向上に寄与する可能性が指摘される一方で、未承認製品の使用には健康被害のリスクも伴うことが強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSK2sX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念について解説",
+      "summary": "この記事では、アスリートの間で注目されているペプチドについて、その潜在的な利点、健康へのリスク、そしてFDA（米国食品医薬品局）が抱える懸念について、医療専門家が解説しています。パフォーマンス向上を目的とした使用には注意が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰時間と再受傷率に与える影響",
-      "summary": "この研究は、急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再受傷率にどのような影響を与えるかを検証しました。特定の段階的な負荷を伴う運動プログラムが、早期の安全な競技復帰を促し、かつ再受傷リスクを低減する効果があることを示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
+      "title": "NBAシーズンが開幕する中、アキレス腱断裂からスター選手は最高のパフォーマンスを取り戻せるか？ | Newswise",
+      "summary": "NBAシーズン開幕を前に、アキレス腱断裂からの復帰に焦点を当てた記事です。スター選手が過去の怪我から最高のパフォーマンスを取り戻せるか、その可能性と課題について分析しています。",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNk9iWW14bzhncnRwZE9ZaHFNckM5VzFHNWxTVnNkYTJSZDFPUGQ5NXVUVGNDeG5JaFphUDF0S1BHLTJlLU1jT1VMcG8wRllGTjRMT3p2TG5ZdjVaWDlIekNqTUJ0Um5WU0pjaWswTkU3b2hjdG45ejNkWXpCVVhGb3NsOFkwd0FzTjczMnJJMUZ5VXVXZGRzTlFPbXcwcFkwbXQtcXhBaGo4YWRZWlY2cHlSa0JBRGpHVVHSAboBQVVfeXFMTTZPYllteG84Z3J0cGRPWWhxTXJDOVcxRzVsU1ZzZGEyUmQxT1BkOTV1VFRjQ3huSWhaYVAxdEtQRy0yZS1NY09VTHBvMEZZRk40TE96dkxuWXY1Wlg5SHpDak1CdFJuVlNKY2lrME5FN29oY3RuOXozZFl6QlVYRm9zbDhZMHdBc043MzJySTFGeVV1V2Rkc05RT213MHBZMG10LXF4QWhqOGFkWVpWNnB5UmtCQURqR1VR?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の効果を評価しました。研究結果は、特定のスポーツ関連痛に対して鍼治療が痛みの軽減と機能改善に有効である可能性を示唆しており、従来の治療法と併用することで相乗効果が期待できると結論付けています。",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療法の体系的レビューとメタアナリシス",
+      "summary": "この体系的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療法の有効性を評価しています。様々な研究結果を統合し、その効果と限界を明らかにしています。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "女性の健康編集部がテストし、専門家が承認した最高のクレアチンサプリメント",
-      "summary": "この記事では、女性アスリートやフィットネス愛好家向けに、専門家によるレビューと編集部によるテストに基づいた最高のクレアチンサプリメントを紹介しています。クレアチンの摂取が筋力向上、パフォーマンス強化、回復促進に寄与するメカニズムとともに、女性に特化した製品の選び方や推奨される摂取方法について解説されています。",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdlJ1Y0xKVDRLaV9oR1VsMVA4RGNDR1hkSUZ4ajJOa3EwMVlJRF94a18zbjR1dlBXcWVOYTdfTXhsRWhpbnRzcmM5NkFlQk80bUNNc2xlV2hYR1NkcUcyam9KZEZfSlBFR2R5emdKZWZtMXRzSHduWEQ0Qmdrbnd3Nm9iUktqQkVDRmVia0lFWXcwWWhDMmc?oc=5"
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "summary": "この記事では、ワークアウトパフォーマンスの向上に役立つ可能性のある5つのサプリメントについて解説しています。各サプリメントのメカニズム、推奨される摂取方法、注意点などを紹介しています。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "アスリート健康パフォーマンスセンター、ユースサッカーにおける相対的年齢効果を調査",
-      "summary": "ECNLのアスリート健康パフォーマンスセンターが行ったこの調査は、ユースサッカー選手における相対的年齢効果（RAE）に焦点を当てています。RAEとは、同じ選抜グループ内で生まれ月が早い選手が、身体的成熟度や技術習得の機会において有利になる現象を指し、これが才能識別や選手育成に与える影響について分析されています。",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmhEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
+      "title": "ユースサッカーにおける相対年齢効果を調査するアスリート健康・パフォーマンスセンター",
+      "summary": "ユースサッカーにおける相対年齢効果（RAE）に焦点を当てた調査結果が報告されています。RAEが選手の選抜や育成に与える影響について考察しています。",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZl9tYnZYRDhEckRjUkNydXpWZXQxUnJIV05IRXJKSWF6TzBpTUpHX3hubkZzLXl0MERyanBTSU15VkFCUG9wNEdUbm0zTnZiUFQ5SzE0a2puTFc0NEVjdS1KSUFMRm1vR19GQ2FUdmlEaTBQNTZiZmY4eWREcFo2V1pSVFdZSGtXZWlidmFiNHZJQkpDdmFLX3ZtYmVzZ3MyNE1CbjJZVUlLMU01bDZvdmRfa3dqTnRRM18yeGZBbWlFdF9qUS1tTDVPaEFiQQ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠がアスレチックパフォーマンスに与える影響",
-      "summary": "この記事は、睡眠がアスリートの身体的および精神的パフォーマンスに与える決定的な影響について詳細に解説しています。十分な睡眠は、筋力、持久力、反応時間、集中力、意思決定能力、さらには怪我からの回復に不可欠であり、睡眠不足はこれら全てを著しく低下させることを強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRZaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
+      "title": "アスリートと睡眠：睡眠が運動能力にどのように影響するか",
+      "summary": "この記事では、アスリートのパフォーマンスにおける睡眠の重要性について掘り下げています。十分な睡眠が身体的・精神的な回復、集中力、反応速度にどのように貢献するかを解説しています。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "横浜市長選に「IRの亡霊」 5年前の再演出か、山中氏落選",
-      "summary": "2026年に行われた横浜市長選挙で、5年前のIR（統合型リゾート）誘致問題が再び争点となり、IR反対を掲げて当選した現職の山中竹春氏が落選しました。\n有権者の間では、IR問題を巡る議論が再燃したことが選挙結果に影響を与えたとみられています。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iRjJQdlpjeDRSMm42MXMyZlZRNzg0RUl5SlJOY0VpaUx0Qkw5WUczanpHS1Q3QUVWa21EWjNqdElrMVVFMUh6dTFmSHZVSUdqX1dfQVVocUlwT1YyNEVKU0JuaGcxTnV6?oc=5"
+      "category": "国際",
+      "title": "欧州各地でデモ、ミラノで２７０人拘束…ベルギーのブリュッセルでは３万人参加・一部が投石や放火",
+      "summary": "欧州各地で大規模なデモが発生し、イタリアのミラノでは約270人が拘束されました。ベルギーのブリュッセルでは約3万人が参加し、一部が投石や放火などの過激な行動に出ました。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByZTJPRHZVNTRza25XRjRfZ2kxd2p6RVhleXctUzVPa3hycF90ODZzd2ExU00xejJsV0hXcXM3V3dkUzNRVURkTUVjU0MycUtjMUc3aWFKa290bHVwQ0EwWFRn?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "高市首相が掲げる「責任ある積極財政」を「評価する」５９％、「評価しない」２９％を大きく上回る…読売世論調査",
-      "summary": "読売新聞の世論調査で、高市首相が提唱する「責任ある積極財政」について、「評価する」と回答した人が59%に上り、「評価しない」の29%を大きく上回る結果となりました。\n国民の間で、国の財政運営に対する一定の期待と理解が示された形です。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95WC1sc044dDNiUHZaN25iaVFuUVI5YUlfNFZwdUYxX0E4Mmdkb0hWNnc0ZUI5QUZjLXEzSThrcXJkam1WNWpEYmlMd2I0ejd2ZnY0MWl6eEJaZWo1NW1UazhCa0JhNXpMWU1HcmNOS3p1b2V4VlE?oc=5"
+      "category": "国際",
+      "title": "トランプ氏、ロシアへの制裁停止は和平交渉継続のためと主張　与野党から批判も",
+      "summary": "トランプ氏は、ロシアへの制裁停止は和平交渉を継続するためだと主張しましたが、与野党双方から批判の声が上がっています。外交政策における同氏の立場が再び問われています。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJLUZNRnpIbTRHLXNxUjZJa1poeVNMdHFiM3Zrb0txS1g4TzdIWHcyNDBmZlF5Vzg3NlU3MVFBRUJmdGJYaXQ3UGZKeEk2TUJuNUlON0xsZUtrSHlEVDAwYtIBZkFVX3lxTE5NbzJrWkU0TklZN3BRMWtYVGk2SjR5LW9EUkhvM3UwZElxbktydVZKSTR2NXB4M2pSM2JFSzRNTGRoQXpqdC16QVFIN0pfVnZoTTZWT185dEJCNk1MWmJ3cnhOVEFqZw?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "台風30号 22日～23日に非常に強い勢力で沖縄の南へ 石垣島などで大しけに(気象予報士 中川 裕美子)",
-      "summary": "台風30号が10月22日から23日にかけて、非常に強い勢力で沖縄の南海上を通過する見込みです。\n気象予報士の中川裕美子氏によると、石垣島など先島諸島では大しけとなり、暴風や高波に厳重な警戒が必要とされています。",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qVDVERVQyY1FzcTVMM3pTSVgwZnFhaGJWUjFGWWJQNFdoLWxnZmFNa2l0ZDhhQlNSRmlpeXFLMFBzYjF6MUdLV2pBTHdEdm1nTEx5UVVZRTBBYmUyRUhpMXRMdDExUjJVNzJNaA?oc=5"
+      "category": "国際",
+      "title": "プーチン氏「太平洋」でも対決姿勢 日NATO結束を警戒 欧州で「影の戦争」、米に甘言",
+      "summary": "プーチン大統領は「太平洋」でも対決姿勢を示し、日NATOの結束を警戒しています。欧州では「影の戦争」を展開しつつ、米国には甘言を弄していると報じられています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nVmhtWk4ydkhNRGRHU2hROEJWQlFSLTQ2dnRtZnNXcEs3Y0VNNExNRTdRV3g0XzhNelBXSF9JaFVsazRSQ0ZROTlFaXh4VlBsUnhEbEhSN05mN013aWFTRmRDRXJfMVpmN1RaR0xRNkIzR2VZMkE?oc=5"
     },
     {
       "rank": 12,
-      "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "フランスで大規模な暴動と反政府デモ：知っておくべきこと",
-      "summary": "フランスでは、政府に対する大規模な暴動と抗議デモが各地で発生し、混乱が広がっています。\n数週間にわたる社会不安の背景には、年金改革や物価上昇への不満があるとされ、治安部隊とデモ隊の衝突が激化しています。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5"
+      "origin_tab": "japan_news",
+      "category": "国際",
+      "title": "【速報】米、ミサイル警戒情報の共有再び停止か",
+      "summary": "米国が、ロシアとのミサイル警戒情報の共有を再び停止する可能性が報じられています。これは両国間の緊張関係を示すものと考えられます。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3YXZOMlFvYTZ0X200WGtVal9BTGxIY2NQdk5PQncza3JBV3FIVTRSc2kzbTNaaVEydzBKMG9ObVlRVnNsYk4yQnJwZw?oc=5"
     },
     {
       "rank": 13,
-      "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "カナダ軍基地火災：死者数確認、原因を調査中",
-      "summary": "カナダの軍事基地で発生した爆発と火災で、死者数が確認され、現在原因が調査されています。\nこの事故は射撃訓練中に弾がガス設備に当たった可能性が指摘されており、地域住民にも衝撃を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0d3l6Z2FRaTlwVkJicUp1RHhqbHZReHA5QUZJOFlxckJWYklPcWRoWGZXOTVteDhIQV9SZ1VJVGMzYnQ0VnduT2FlcGp6bFpLWm52SUdMUmJBYVE?oc=5"
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "読む政治：少数与党の参院「野党の餌食」か 自民実力者は「一切手を引く」",
+      "summary": "少数与党となった参議院において、自民党の実力者が「一切手を引く」と発言し、野党の餌食になるのではないかとの懸念が報じられています。今後の政局に影響を与えそうです。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTNfZmFCNkRtYXZZZEVJUFE2SkNjSGpkd2xxcDFrZ3d2N2hkam1FcUtqdWNpZlJoY1VvdXBmNWxrbXFVeVMtejdIellILWFCcnBPRWRGOWFlV1ZDc2ctRHU1TE4yaWRQ?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Sports",
-      "title": "トランプ氏、土地を巡る法廷闘争の最中にイーストポトマック・ゴルフコース刷新計画を発表",
-      "summary": "ドナルド・トランプ前大統領が、現在法廷闘争中であるイーストポトマック・ゴルフコースの改修計画を公表しました。\nこの計画は、ゴルフコースの近代化と利用促進を目指すものですが、土地の所有権を巡る訴訟の行方に注目が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5"
+      "category": "Conflict",
+      "title": "フランス全土での暴動を受け、パリ中心部やその他の都市で夜間外出禁止令が発令",
+      "summary": "フランス全土で発生した暴動を受け、パリ中心部や他の都市で夜間外出禁止令が発令されました。治安部隊が事態の鎮圧に当たっています。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KbTV4RU1RUG1XSzBGSjZULVZ6a0R4SVF6dEwyWXFYbS1iSktHNmY0MGdaZTI2REYtX2NOOUZMUHEzRmdLUld0R2RUY0dsS0pGU1ZUbTFxMXFCNEE?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏の「国境担当責任者」、イルハン・オマル議員の市民権剥奪と国外追放は「当然あり得る」と発言",
-      "summary": "トランプ氏が任命した「国境担当責任者」が、民主党のイルハン・オマル下院議員について、市民権剥奪と国外追放の可能性を「当然あり得る」と発言し、波紋を呼んでいます。\nこの発言は、移民政策や政治的対立の激化を示すものとして注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUFGdW1wMm8wTlN3aG1kM3lJVDJpOXBNcE5EQ2RQeTJwYXFQeS1jYko0cWJQY1Z1blBFWFVCWEFBZk5NdmlJMHNvSElVSEI0bXZNSGlLU1IyQzFWNm14YmVsYzZ0d0xpU2tScWUyVlpXR015UnBiLXdUY25TWlhqQ3RzSFhwSTVBZjBUcWVRY3FXcjN6dFBJaFFrTGwwRkU?oc=5"
+      "title": "裁判官、トランプ政権のワシントンゴルフコース改修計画を厳しく問いただす",
+      "summary": "裁判官は、トランプ政権が計画しているワシントンD.C.のゴルフコースの改修計画について、その詳細と正当性を厳しく追及しました。環境への影響などが争点となっています。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXhSWnRUTHljbjVsM1VGVVBtQTJJdFRZX2FDS0EwZUlENENvc3ZhZE5ZMDFfd2NhWGVpOEhsOEZpbFMwNWxRSlJhRWVmaXdQSDI0UHRRODQ1SjVHT3BaSHpRa2RLTVhlUjhXTi1ZWTMtWGJaQUdXbVU2Wk5GZWZINE4xVTVocDFpRjgtcWI3WVNlNmk1eHFSdw?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "MAGA共和党員の95%がトランプ氏を支持。非MAGA共和党員では47%。",
-      "summary": "最新の調査によると、MAGA（Make America Great Again）を支持する共和党員の95%がトランプ氏を承認している一方、非MAGA共和党員では支持率が47%に留まることが明らかになりました。\nこのデータは、共和党内部におけるトランプ氏への支持層の分裂を浮き彫りにしています。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3lJdTZISU8xN3dtbDBaRV9sV05pdHdhYk1rMHMxR3kyV29lNWVjUV84cnlHcUZ2NThEOUJCNHB4ZWdHd0gzaURYeEJZRVM2SW9teXR3Y0lyaVQzdW8wWnRZeWdmX2hSSWFYcjZteHZtUlRONzhrMHZXd2JhWGtiUVN3?oc=5"
+      "title": "米司法省、カリフォルニア州でグリーンカード保持者28人を選挙詐欺の疑いで訴追",
+      "summary": "米司法省は、カリフォルニア州において、グリーンカード保持者28人を選挙詐欺の疑いで訴追しました。これは、外国人による選挙への不正介入に対する取り締まりの一環です。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHk0ak02bEpVa1loOUs0eU14dXVmSngyZlM4UEJZYTFTT2NyekR4NzEyQlBEZFZ6aTF6cmNPT0lIRDJtOEotNnFYMTdPNVFYOFRReUlZTzJoUHZEZ0RYMGJIT3pCQXpRNUdQVEFGSEdaZWk0aHNrblVIWFdidkk2YWZWd0ZvVnhIOW9Zd0dB?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "暴徒が放火、破壊、略奪 ５５万人デモで混乱―仏",
-      "summary": "フランスで55万人規模の大規模なデモが発生し、一部が暴徒化して放火、破壊、略奪行為が行われました。\n反政府的な動きが広がる中で、治安当局は混乱の収拾に追われており、各地で緊張が高まっています。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03QlItWEUzYnd2Qnd0NF9qdlhoTHRNSkl4Tkd1WW95LVo3UThRa3pFcFR4ZW1mejdlcWNVRmhkS0UybzNGc1cyMU91UVE1QkJkMms4eEZRNzF3WnFSa0ZXR1pqOA?oc=5"
+      "category": "Politics",
+      "title": "トランプ氏、非核化協議のため習氏・プーチン氏との首脳会談に前向き",
+      "summary": "トランプ前大統領は、非核化について協議するため、中国の習近平国家主席やロシアのプーチン大統領との首脳会談に前向きな姿勢を示しました。国際的な緊張緩和に向けた動きとなるか注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmc5TmVsTml6eVJ5aDBsVjNPMjh1VEZlRkhXMHYtRVRGeEM1bnVVeFBZZWpHRWQ0LWRMUjZMY29vV3pIMVV4eFZYWUdhRV9zNlJDNnBUcFBsd1FNWHBWZTBuS0RlcHI0UjVKcDEtUGN4SDJiZWR3aWZqYXBwQ2VvanRiTXNOdw?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Conflict",
-      "title": "カナダ西部の陸軍基地で爆発と火災、少なくとも７人死亡・数十人負傷…射撃訓練で弾がガス設備にあたったか",
-      "summary": "カナダ西部の陸軍基地で発生した爆発と火災により、少なくとも7人が死亡し、数十人が負傷しました。\n初期調査では、射撃訓練中に弾がガス設備に当たったことが原因とみられており、当局は詳細な調査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TDlPeVFNZGVmRlMtMlU2YlliQm9kMW0tTl9GcGFyb29HMjhWamtLSHhhWUhFZldySnRsb2gwcE5STl95cFRVNWJMMGMzdlE3UEM4a0JRd1ViYk4zWHAyNmpn?oc=5"
+      "title": "ミシシッピ州司法長官、1歳のコヘン・ワイリー君死亡事件での武力行使は正当化されたと発言",
+      "summary": "ミシシッピ州司法長官は、1歳のコヘン・ワイリー君が死亡した事件における警察官の武力行使は正当化されたとの見解を示しました。この事件については、捜査が継続されています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12OU4wZWdpaFcwbGNWNnFnWDZ3b1cteFNFU1RGOFNIUU5GbVl3UEM1aHkyZGhvYlZxLV9NdHd1QW1lMWg4bFFLa2czU3hTRldHRmZqSGNDczJ0YVBtWHhvcE10QmtUNG8?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バーチャルリアリティ支援型神経筋トレーニングがバスケットボール選手のアジリティ能力と傷害予防に与える影響：対照実験研究",
-      "summary": "本研究は、バスケットボール選手を対象に、VR（バーチャルリアリティ）を用いた神経筋トレーニングがアジリティ能力向上と傷害予防にどの程度効果があるかを実験的に検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、選手の反応速度や協調性を高め、特に膝関節の安定性向上に寄与する可能性が示されました。結果として、VRを用いた介入が、パフォーマンス向上と同時にACL（前十字靭帯）などの下肢傷害リスク低減に有効であることが示唆されています。",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングが敏捷性向上と傷害予防に与える影響：対照実験",
+      "summary": "この研究は、バスケットボール選手を対象にVRを用いた神経筋トレーニングが敏捷性パフォーマンスと傷害予防に及ぼす効果を実験的に評価しました。VR環境下でのトレーニングが、実際のスポーツ動作に近い形で神経筋制御を改善し、結果として敏捷性の向上と膝関節（特にACL）の傷害リスク低減に貢献することを示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学",
-      "summary": "このレビューは、トレイルランニングにおける生体力学の科学的側面を詳細に分析したものです。不均一な地形での走行が、平地ランニングと比較して、下肢の関節への負荷、筋活動パターン、および重心移動にどのような影響を与えるかを調査しました。研究は、トレイル特有の要求に対応するための効率的な走行フォームや筋力トレーニングの重要性を強調しています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "トレイルランニングのバイオメカニクス科学",
+      "summary": "この記事は、トレイルランニング特有の複雑な地形や路面状況がランナーの身体に与える影響に焦点を当て、そのバイオメカニクスを解説しています。上り坂や下り坂、不均一な路面での重心移動、着地衝撃の吸収、筋活動の変化など、舗装路のランニングとは異なる運動学的特徴が詳細に分析されています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFBTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     }
   ]
 }
