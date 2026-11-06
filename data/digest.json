@@ -1,46 +1,46 @@
 {
-  "issue_date": "2026/11/05",
-  "generated_at": "2026-11-05T01:08:42.708Z",
+  "issue_date": "2026/11/06",
+  "generated_at": "2026-11-06T01:15:58.568Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手における俊敏性向上と傷害予防のためのVRアシスト神経筋トレーニング効果：対照実験研究",
+      "title": "バスケットボール選手における俊敏性向上と傷害予防のためのVR支援神経筋トレーニング効果：対照実験研究",
       "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
-      "abstract": "この実験研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングがバスケットボール選手の俊敏性パフォーマンスと膝前十字靭帯（ACL）などの傷害予防に与える影響を検証しました。結果として、VRを導入したトレーニングが従来のトレーニングよりも選手の身体能力と予防効果を高める可能性が示されました。特に、複雑な運動パターンを没入型環境で再現することで、実際の競技状況に近い反応を促すことが有効だと考えられています。",
-      "insight": "VR神経筋トレーニングを導入することで、アスリートのモチベーションを高めつつ、より実践的な環境で動作を改善し、傷害リスクを低減できる可能性があります。特に、バスケットボールやバレーボールなど、急な方向転換やジャンプが多いスポーツでの応用が期待されます。",
+      "abstract": "この実験研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングがバスケットボール選手の俊敏性パフォーマンスと傷害予防に与える影響を調査した。結果として、VRを組み込んだトレーニングが従来の神経筋トレーニングよりも、アスリートの敏捷性向上と膝前十字靭帯（ACL）などの傷害リスク低減に効果的であることが示された。特に動的な動作に対する反応速度とバランス能力の改善が見られた。",
+      "insight": "バスケットボール選手のリハビリやパフォーマンス向上プログラムにVR技術を導入することで、より実践的で効果的な神経筋機能の強化が期待できる。特に、ACL損傷予防において、状況に応じたトレーニングの質を高めることが可能となる。",
       "published_at": "2026-08-05T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学",
+      "title": "トレイルランニングのバイオメカニクス科学",
       "source": "Trail Runner Magazine",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
-      "abstract": "この記事では、トレイルランニングにおける生体力学の重要性を解説しています。不整地を走るトレイルランニングでは、路面の変化に対応するための足関節、膝関節、股関節の協調した動きが求められ、特に着地衝撃の吸収や推進力の効率的な伝達がパフォーマンスと傷害予防に直結します。適切なフォームやギアの選択が生体力学的負荷を最適化し、安全かつ効率的な走行を可能にすると述べています。",
-      "insight": "トレイルランナーは、自身の生体力学的特性を理解し、専門家のアドバイスを受けてフォーム改善に取り組むことで、パフォーマンス向上と膝や足首の傷害リスク低減を図ることができます。シューズ選びも重要です。",
+      "abstract": "この研究では、トレイルランニングに特有の複雑な地形が身体のバイオメカニクスに与える影響について解説している。不均一な路面での着地衝撃吸収、バランス維持、推進力生成における下肢の動的な適応メカニズムが分析された。これにより、トレイルランナーのパフォーマンス向上と怪我のリスク低減に繋がる知見が提供されている。",
+      "insight": "トレイルランナーは、自身のランニングフォームとシューズ選択において、不整地への適応性を考慮することが重要である。特に足首や膝への負担を軽減するための筋力トレーニングや技術指導に活用できる。",
       "published_at": "2026-08-20T07:00:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL（内側尺側側副靭帯）損傷からの競技復帰支援",
+      "title": "MUCL損傷を負ったアスリートの競技復帰",
       "source": "Mayo Clinic",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9rajN5bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5",
-      "abstract": "この報告では、アスリートが内側尺側側副靭帯（MUCL）損傷から安全かつ効果的に競技に復帰するためのアプローチについて議論されています。損傷の重症度に応じた保存的治療や手術的治療の選択肢、そしてその後の段階的なリハビリテーションプログラムが強調されています。特に、機能回復だけでなく、競技特異的な動作の再習得と心理的サポートの重要性が示唆されています。",
-      "insight": "MUCL損傷からの復帰には、初期治療から専門的なリハビリ、そして段階的な競技復帰プロトコルが不可欠です。スポーツ医師、理学療法士、トレーナーが連携し、個々の選手に合わせた包括的なプログラムを提供することが成功の鍵となります。",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5",
+      "abstract": "この記事では、MUCL（内側尺側側副靭帯）損傷を負ったアスリートの競技復帰に向けたアプローチについて論じている。診断から段階的なリハビリテーション、そして最終的な復帰判断に至るまでのプロセスが詳細に説明されており、各段階での注意点や治療法が紹介されている。適切な医療介入とリハビリ計画が競技復帰の鍵となる。",
+      "insight": "MUCL損傷のアスリートに対しては、早期の正確な診断と個別化されたリハビリテーションプログラムが不可欠である。競技特性に応じた機能回復訓練を導入し、心理的サポートも合わせて提供することで、安全かつ迅速な競技復帰を促すことができる。",
       "published_at": "2025-12-02T08:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "上級理学療法士マルコス・フスダド氏がドバイのキネシス・クリニックに入職",
-      "source": "EIN News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2hJNDJaZUJqN1NBWHMxMUVNZE9Wd1RZSWEzLWwxYW5TaURQLUYwdS1haXU5ejV6TVZJM2Q3cXRQd1dQcklvTU5peGM1d2w0T2JRMWN5MzA4QzEyYkxPNjI1Tnlna2JJeGNxSEQ3YW4yeE9KdGo0b3JDY2pQNWZNQ1RMekc0bUtDNlhQMXpOQXpRZUVBZnZqcW1HRDRiVlRkOENDTzMwQ19iN3dTS2c?oc=5",
-      "abstract": "ドバイのキネシス・クリニックに、経験豊富な上級理学療法士であるマルコス・フスダド氏が加わったことが発表されました。フスダド氏はスポーツ傷害や筋骨格系のリハビリテーションにおいて深い専門知識を持っており、クリニックの提供する質の高いリハビリケアをさらに強化することが期待されています。彼の入職により、地域のアスリートや患者へのサポート体制が拡充されます。",
-      "insight": "優れた専門家がチームに加わることで、スポーツリハビリテーションの質が向上し、アスリートの早期回復とパフォーマンス向上に貢献できます。クリニックやチームは、このような専門家の知見を積極的に活用し、最新のリハビリテーションアプローチを取り入れるべきです。",
-      "published_at": "2026-11-04T06:58:00.000Z"
+      "title": "スポーツにおける前十字靭帯断裂後の回復における心理的治療と結果",
+      "source": "Cureus",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaWIwa29NZTQ5cDVNZkxENmgtQ2RjRjJDcXFxTTl0N0hRZmoyNFhmandGZUhva2JkT0EzSWM3aG9BVHQ2YndYSDk1QjZJTUwtTk9VVExRSmlEX0Yza0RLci10S01fajg4ek5vSmZJRTRQUFJUaUM0bnhiQjRoUHdKbmJ3bWtHdGN4TnpIanMzc2lPOHM2S2NIaXF4aWFGOFZJd2hBSUJ1UjdTNVZRQzVrYmxCNTBxTUVmV2lLWDRrajBaamFsZVNUeGdHc2NlWEItSFVKVFFxMjRVZlhfdmNtOHFTeGpsS25s?oc=5",
+      "abstract": "この研究では、スポーツ選手が前十字靭帯（ACL）断裂後のリハビリテーション過程で経験する心理的側面と、それに対する心理的治療の効果を分析している。不安、恐怖、競技復帰へのモチベーションといった要因が回復に与える影響を検討し、心理的サポートが身体的治療結果を向上させる可能性を示唆している。",
+      "insight": "ACL断裂のリハビリテーションでは、身体的治療だけでなく、心理的サポートも重要である。アスリートの心理状態を把握し、カウンセリングや目標設定、メンタルトレーニングを導入することで、回復意欲の向上と競技復帰への円滑な移行を支援できる。",
+      "published_at": "2026-11-03T11:00:13.000Z"
     },
     {
       "id": "r005",
@@ -48,8 +48,8 @@
       "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
-      "abstract": "この系統的レビューとメタアナリシスでは、アスリートの疼痛管理において西洋医学的鍼治療技術がどのような効果を持つかについて評価されました。複数の研究を分析した結果、特定の運動器疼痛に対して鍼治療が痛みの軽減に有効である可能性が示唆されています。これは、従来の治療法に加えて、補完的なアプローチとして鍼治療がアスリートのリカバリーに貢献する可能性を示しています。",
-      "insight": "アスリートの慢性的な疼痛やスポーツ傷害による痛みの管理において、鍼治療は有効な選択肢の一つとなり得ます。医師や理学療法士は、必要に応じて鍼治療の専門家との連携を検討し、包括的な治療計画を立てることが推奨されます。",
+      "abstract": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理において西洋医学的鍼治療技術がどのような効果をもたらすかを評価した。複数の研究を統合した結果、スポーツ関連の筋肉痛、関節痛、腱炎などに対して鍼治療が痛みの軽減に有効である可能性が示唆された。特に、薬物療法と比較して副作用が少ない点が注目されている。",
+      "insight": "スポーツ現場における疼痛管理の選択肢として、西洋医学的鍼治療は有効な補助療法となり得る。特に慢性的な痛みを抱えるアスリートや、薬物療法を避けたいアスリートに対して、専門家と連携して導入を検討することができる。",
       "published_at": "2026-02-03T18:00:13.000Z"
     },
     {
@@ -57,20 +57,20 @@
       "category": "Nutrition / Supplements / Recovery",
       "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
       "source": "Verywell Health",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWj11OHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5",
-      "abstract": "この記事では、運動能力向上に寄与する可能性のある5つの主要なサプリメントについて解説しています。クレアチン、カフェイン、ベータアラニン、BCAA、プロテインなどが挙げられ、それぞれのサプリメントが筋力、持久力、疲労回復、集中力といったパフォーマンスの側面でどのように作用するかが説明されています。摂取のタイミングや量、安全性についても触れられています。",
-      "insight": "アスリートは、自身のトレーニング目標や栄養状態に合わせて、科学的根拠に基づいたサプリメントを慎重に選択することが重要です。専門家と相談し、適切な情報のもとで利用することで、トレーニング効果を最大化し、回復をサポートすることができます。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5",
+      "abstract": "この記事では、ワークアウトパフォーマンス向上に役立つ可能性のある5種類のサプリメントについて解説している。それぞれのサプリメント（例: クレアチン、カフェイン、β-アラニン、プロテイン、BCAAなど）の機能、推奨される摂取量、科学的根拠、および潜在的なメリットが説明されている。アスリートやフィットネス愛好家が安全かつ効果的に利用するための情報を提供する。",
+      "insight": "アスリートは、自身のトレーニング目標と健康状態に合わせてサプリメントの利用を検討すべきである。栄養士や専門家と相談し、科学的根拠に基づいた適切な種類と量を摂取することで、パフォーマンス向上と回復促進を図ることができる。",
       "published_at": "2026-09-30T07:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子供が走る距離はどこまでが適切か？年齢別ガイド",
-      "source": "Marathon Handbook",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ1_tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5",
-      "abstract": "このガイドでは、子供の年齢に応じた適切なランニング距離と運動負荷について詳細に説明しています。幼少期から思春期にかけての身体発達段階を考慮し、無理のない範囲で持久力を養い、スポーツを楽しむことの重要性が強調されています。過度な運動は成長期の骨や関節に負担をかける可能性があるため、段階的なトレーニング計画が推奨されています。",
-      "insight": "保護者やコーチは、子供の年齢や身体能力に応じた適切な運動量を設定することで、オーバートレーニングや傷害のリスクを減らすことができます。特に、長距離走に取り組む際は、専門家と相談しながら慎重にプログラムを組むことが不可欠です。",
-      "published_at": "2026-10-22T07:00:00.000Z"
+      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
+      "source": "Johns Hopkins Medicine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoY3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
+      "abstract": "この記事は、学生アスリートのメンタルヘルスをサポートするための具体的なヒントを保護者とコーチに提供している。学業、競技パフォーマンス、社会生活のバランスの取り方、ストレスやプレッシャーへの対処法、燃え尽き症候群の兆候、そして専門家のサポートを求めるタイミングについて詳しく解説されている。早期介入と適切なサポートが重要である。",
+      "insight": "学生アスリートのメンタルヘルスは、身体的健康と同等に重要である。保護者やコーチは、アスリートが抱える心理的な課題に敏感になり、オープンなコミュニケーションを心がけるべきである。必要に応じて専門家への相談を促し、健全な成長と競技生活を支える体制を整えることが求められる。",
+      "published_at": "2026-05-05T15:36:18.000Z"
     },
     {
       "id": "r008",
@@ -78,8 +78,8 @@
       "title": "学生アスリートのメンタルヘルスをサポートする方法",
       "source": "University of Pittsburgh Medical Center",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOXlfUmJ4RHl0b1dDZGFVUm9tQjU4S2hHZzJubmw0dVdLak1VSVpDNlNaX3l0YUlHcktyV2JOMXBfX0ZOcWI0djdBU2RMUV9GVV9LU1BnU0IwVWg5dTdnZEt0eHBXeWxIVFVBbHRkWTg5bENGZExqLXJNZEE?oc=5",
-      "abstract": "この記事では、学業と競技の両立に奮闘する学生アスリートのメンタルヘルスをサポートするための具体的な方法を提示しています。学業成績へのプレッシャー、競技での期待、人間関係の悩みなど、多岐にわたるストレス要因を認識し、適切な休息、栄養、睡眠の確保が重要だと述べています。コーチや保護者、教員が連携し、対話を通じてサポートすることの重要性が強調されています。",
-      "insight": "学生アスリートのメンタルヘルスサポートは、パフォーマンス向上だけでなく、長期的な幸福のために不可欠です。コーチ、保護者、教育関係者は、オープンなコミュニケーションを奨励し、ストレスの兆候に早期に気づき、必要に応じて専門家のサポートを受ける体制を整えるべきです。",
+      "abstract": "本記事は、学生アスリートのメンタルヘルスを多角的にサポートするための実践的な方法を提示している。学業や競技のストレス、睡眠不足、ソーシャルメディアの影響など、学生アスリートが直面する具体的な課題に焦点を当て、保護者やコーチがどのように介入し、サポートできるかについて解説している。健康的なライフスタイルと心理的レジリエンスの構築が強調されている。",
+      "insight": "学生アスリートのメンタルヘルス支援には、学業・競技・生活のバランスを考慮した包括的なアプローチが必要である。睡眠の質向上、ストレス管理技術の習得、ポジティブな環境構築を促すことで、パフォーマンス向上と精神的な安定の両面を支えることができる。",
       "published_at": "2026-10-23T07:00:00.000Z"
     }
   ],
@@ -87,47 +87,47 @@
     {
       "id": "j001",
       "category": "政治",
-      "source": "読売新聞",
-      "title": "共和党大敗にバンス副大統領「敗北の理由は戦争だ」…イラン攻撃決断のトランプ氏との対立招く可能性も",
-      "summary": "米国の共和党が大敗したことを受け、バンス副大統領は敗北の主な原因はイラン戦争にあったと指摘しました。\nこの発言は、イラン攻撃を決断したトランプ大統領との間で深刻な対立を生む可能性があり、今後の政局に大きな影響を与えそうです。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lLVRoQnQtcWpDSkxibUdJanhkVXotSDlLOTlMOXZUM1VZdXBBdGtUUm5EY3QwWUVrX3M2ZG91WWpqaHhpZ3l0WjhWVU9pdWFTRVRYRml6OG11SGRUTG1HV1JB?oc=5",
-      "published_at": "2026-11-04T21:13:00.000Z"
+      "source": "日本経済新聞",
+      "title": "次の米大統領は民主オソフ氏？ 予測市場で急浮上、バンス氏は後退",
+      "summary": "2026年米中間選挙の結果を受け、次期大統領選の予測市場で民主党のジョン・オソフ氏が急浮上し、共和党のJ.D.バンス氏は後退している。\nこれは、中間選挙での民主党の勢いと有権者の意識変化を反映した動きと見られ、今後の大統領選の動向に注目が集まる。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MY1RvdFlxRVg5Y3NHNjVxeWNlU1pPVjdkZjVQdUVzbUFPSm53Qi0wNHJBZW1TR1l1a3hrQjlEeU5ucXFCOHFPeUViTG5XQTNGcjcwR05OTXFuQjNLOFdmeTlEQ1FqSzVrMkFDeg?oc=5",
+      "published_at": "2026-11-05T20:35:07.000Z"
     },
     {
       "id": "j002",
-      "category": "社会",
-      "source": "ウェザーニュース",
-      "title": "今日11月5日(木)の天気予報 全国の広い範囲で雨 父島は台風接近",
-      "summary": "本日11月5日(木)は、全国的に広い範囲で雨が予想されています。\n特に、父島付近には台風が接近しており、警戒が必要です。\n最新の気象情報に注意し、外出の際は傘を携行するなど対策を講じてください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84Z3J0U0s0VzVMal9sUzdVcDluYWZxaHdBRHhOOGlUNzlRMEZQSE43RXF6Rk82NC1TdHRRV2pYaHgwTnEzZnI1ZWFpQ3NYWGN0TUtGaA?oc=5",
-      "published_at": "2026-11-04T20:49:00.000Z"
+      "category": "政治",
+      "source": "Yahoo!ニュース",
+      "title": "ルビオ国務長官が辞任検討か 中間選挙での共和党大敗受け ブルームバーグ通信報道（TBS NEWS DIG Powered by JNN）",
+      "summary": "ブルームバーグ通信の報道によると、米国中間選挙での共和党大敗を受け、現職のルビオ国務長官が辞任を検討している可能性があるという。\nこれは政権内部での動揺や責任問題が浮上していることを示唆しており、今後の政界の動きが注目される。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HWkJ3RFpFbjlialVWYnBiZkM4bkNpdmNKN1pmczViQmVQMkg0ejdfcWFDczNvaHRfVnh6eXAta1dDLXZqMi1KTkVHNVg3TkRfeDJHektSX0JJX3l5ZV9DajlGRHhUZGdnUEZVd2gzMEliRTlpakFTREx0R2drTzg?oc=5",
+      "published_at": "2026-11-06T00:14:23.000Z"
     },
     {
       "id": "j003",
-      "category": "経済",
-      "source": "読売新聞",
-      "title": "消費税減税あすにも衆院通過へ、自民が採決を提案…食料品の税率「２年間１％」に引き下げなど柱",
-      "summary": "消費税の減税法案が、明日にも衆議院を通過する見通しとなりました。自民党が採決を提案しており、食料品の税率を2年間1%に引き下げることなどが主な柱となっています。\nこの政策は、国民生活や経済に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wRURqTnRqTWlDa3ptODJHUkdWV2hHbXJoM3N0U1REaGhEcEMzZlFMRmg1c1JJZVBXUlFvYURLd1FpYzdaY0lvdnc2SWEzd1EtcURDT3JEZG1qS2N4dTRpLTVMUXNVQQ?oc=5",
-      "published_at": "2026-11-04T20:00:00.000Z"
+      "category": "社会",
+      "source": "毎日新聞",
+      "title": "大阪駅前の突起物 「排除アート」否定も、内部文書にあった目的",
+      "summary": "大阪駅前に設置された突起物が「排除アート」であるとの指摘に対し、市は否定しているが、内部文書には特定の目的が記されていたことが判明した。\nこの問題は、公共空間におけるデザインと利用者の権利、そして行政の説明責任について議論を呼んでいる。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IOGkxLUlQb1hzOUhoUERldUVzb2JmaVFZTGViMGNuWTNBMUNGYjRqTERjZ0ZtbFNxNUEwVnFma0FiNVBmRDJqUjFIT2F3WU9Bb2I3OHBib3c1Nmk4cERuUmY5WlIzVEMt?oc=5",
+      "published_at": "2026-11-05T20:00:00.000Z"
     },
     {
       "id": "j004",
-      "category": "文化・エンタメ",
-      "source": "読売新聞",
-      "title": "「書道」ユネスコ無形文化遺産に登録へ、評価機関が勧告…１２月にも正式決定",
-      "summary": "日本の「書道」が、ユネスコの無形文化遺産に登録されることが濃厚となりました。\n評価機関が勧告を行い、12月にも正式決定される見込みです。\n日本の伝統文化が国際的に評価される喜ばしいニュースです。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GV2JPMnl0U1pSMFk2T1FtYklOWDZTeGhrVW9aZExydFFIOWYxRFlyTFNna3Bsa3I1SDF4eGJNNFRiQkYwaER2Z2dBTWRfSHh2Vm52THNCbFd5dDZiWlk2aDc2ZkE?oc=5",
-      "published_at": "2026-11-04T16:44:00.000Z"
+      "category": "政治",
+      "source": "CNN",
+      "title": "米民主党、下院で250議席超を獲得へ 上院はアラスカなど2州で大接戦",
+      "summary": "米中間選挙において、民主党が下院で250議席を超える多数派を獲得する見込みであることが報じられた。\n一方、上院ではアラスカ州など2つの州で依然として大接戦が繰り広げられており、最終的な上院の勢力図が確定するには時間を要する可能性がある。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1renhZd2tFZTh6UFVNZFI2NGd0SVhhR29RTjRucjlzX2EyVzY5aDdqdVpLeURfa3l4VEhVR0lrZ0ZDRU1xdVhlY1U3NTRieGRW?oc=5",
+      "published_at": "2026-11-05T23:25:00.000Z"
     },
     {
       "id": "j005",
-      "category": "国際",
-      "source": "読売新聞",
-      "title": "米国による制裁で資金繰り悪化のＩＣＣへ、日本からの分担金前倒し拠出で政府調整",
-      "summary": "米国による制裁措置により資金繰りが悪化している国際刑事裁判所（ICC）に対し、日本政府が分担金の前倒し拠出を調整していることが報じられました。\nこれは、国際法廷の機能維持を支援し、国際社会における日本の役割を果たすための動きとみられます。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwYWtsSmdSWDdvRk5xTndLUjFCVDVueVZkTDVCTi1ZU3VJYXBuaDJVMTRhdjRMODlJcXVlRllIOS0yX0FlcEZwamUzWE5PNlJYZlhTNFltdTFGc2ZsM2c4d3g4NDZYUQ?oc=5",
-      "published_at": "2026-11-04T20:00:00.000Z"
+      "category": "経済",
+      "source": "毎日新聞",
+      "title": "「トランプ関税撤廃法案」成立は望み薄 AIブームに負の側面も",
+      "summary": "米国議会で「トランプ関税撤廃法案」の成立が見送られる可能性が高まっていると報じられている。\n同時に、現在のAIブームが経済や社会に負の側面をもたらす可能性も指摘されており、技術進化に伴うリスクへの警戒が促されている。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jeUc1V0VRZk1MVlMtLUVnU21hajNIb1c2aVhXaFkzakJqWGhpN29SeUZPSWMxLWtoNDljdHZyRWd0WDZrWHJHMzFrQ2J3R3pZNmtDbW02RTJIY01XOHFJUnJNMDJzTlJo?oc=5",
+      "published_at": "2026-11-05T08:00:00.000Z"
     }
   ],
   "global_news": [
@@ -135,51 +135,51 @@
       "id": "g001",
       "category": "Politics",
       "region": "US",
-      "source": "BBC",
-      "title": "バンス氏、共和党大敗の理由はイラン戦争だと語る：「誰もが敗因を知っている」",
-      "summary": "バンス副大統領は、共和党が選挙で大敗したのはイラン戦争が原因だと述べ、その理由が明らかであると主張しました。\nこの発言は、党内の指導層、特にイランへの軍事行動を決定したトランプ氏との間に亀裂を生じさせる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cHNJSHQyeHVUM1JkOGF0UzhfbzFPRXlhZkc2WlhtLVJ2Ym1vSWl6akxucDd0cGowR1RsbEVBWUU2RHVVVWc3X09kLUhTVFF4OHpsT1JMQ0xYS3M?oc=5",
-      "published_at": "2026-11-04T22:20:35.000Z"
+      "source": "The Washington Post",
+      "title": "テキサス州の「青い波」が共和党にどう押し寄せたか",
+      "summary": "テキサス州で期待されていた民主党の「青い波」（民主党優勢の動き）が、中間選挙で共和党にどのように影響を与えたか、または期待されたほどの成果を上げられなかったかを分析している。\n州レベルでの政治的なダイナミクス、有権者の動向、および選挙戦略が詳しく検討されている。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHRtYUNtODRGck03NHdmVDFBWUVnbXFhNF9JODdZcFktOUFHalBPOG15RzE1QkU1V3Nzc3RnTGRCREZSbFlqbTI4Ui1mUEV4TnpmSjBtd3lVd0JFU1hDb2lkTmotbmNuQzBGWjVwRHNTN2c2eXc4OTdqc0pMS2thQjc2NDNHbkNrOWJF?oc=5",
+      "published_at": "2026-11-05T21:15:58.000Z"
     },
     {
       "id": "g002",
       "category": "Politics",
       "region": "US",
-      "source": "WKMG",
-      "title": "トランプ氏、国防総省のヘグセス氏後任にロン・デサンティス氏を検討とCBSニュースが報じる",
-      "summary": "トランプ前大統領が、国防総省のピート・ヘグセス氏の後任として、ロン・デサンティス氏を検討しているとCBSニュースの情報源が伝えました。\nこの人事は、トランプ氏が次期政権を視野に入れた閣僚人事を進めている可能性を示唆しており、今後の政治動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMklJaVBENktZYUVEYUZwYUZCVEtYZ0M3X0R2Tll4NGFxU0NrQjgwVUZWdklLMXN2TDVjRlFYTURmVU1ZY01TWVdqZlZOQ0FsN3k5Q2diSGVMT2ZJSDYzdjVaUDhyMkZZak52Wm5JcmxYaXVvNzNYN1pkNWhiZkVjbHBxZFc2RE8wUGlOMUsxYWlDN0NrTExWcWFIT05wG2VHY0JyRFJBZWJqcGl3M2VPS3RQTmlld0JJdEN0TTFFeHZsRHliMFhMLXlUUHV2Zll4WWZvVWN3?oc=5",
-      "published_at": "2026-11-04T22:29:42.000Z"
+      "source": "CNBC",
+      "title": "ミシシッピ州上院選挙：民主党スコット・コラム氏が共和党シンディ・ハイド＝スミス氏に僅差でリード",
+      "summary": "ミシシッピ州上院選挙で、民主党候補のスコット・コラム氏が共和党現職のシンディ・ハイド＝スミス氏に対し、ごく僅差でリードしていることが報じられた。\nこの接戦は、全国的な政治情勢と地方の有権者の意識が複雑に絡み合っていることを示している。",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakxhcDZneXF2MVZCSXh2YzFDVWp5UVBOT0w1cmtoQ1R4NHBKTkNRMTJFOV9DN18xd3hwTEo5cGNUWVhLdElWd3VvLUcteXRzMThLek4tWXE0UWV1WHJwWEhacmQtRkszZDNVcTVKaGpjYzdGMkFSLWphTk41OGxmb0UxMnBfbUhVLUNQbm5CN3nSAZYBQVVfeXFMUGk2V0ZVVUdnZFo4M2tuUklLTy1SQVZBZUR3b19SdWxreWpLOExrVzcyeUwzTTg0MlZ1bW1Zd1dsUmNUcVJYb2VXY3B6MDRMbjl4YndEa2Z4eW9YYmo2bjlkajV3aHhvYm1YVzUxaG01ck1OYklJQl9FUGlraHotVlZuTkVfU0ZVWTVMckV5S0ZONlJnMmZ3?oc=5",
+      "published_at": "2026-11-05T22:20:19.000Z"
     },
     {
       "id": "g003",
       "category": "Politics",
       "region": "US",
-      "source": "Forbes",
-      "title": "ミシシッピ州上院選の賭け率、民主党スコット・コラム氏が番狂わせを演じる可能性を示す",
-      "summary": "ミシシッピ州の上院選挙において、民主党候補のスコット・コラム氏が、市場の賭け率で番狂わせを演じる可能性が高まっていることが示されました。\nこの予想は、共和党の優勢が続くミシシッピ州で、民主党が議席を獲得するかもしれないという波乱の展開を示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLVIzYy1HaTh2RERQNl8zWlNvSFRud3dudmdKdkNienZnck5DVy1GdW43a1p0YTNYV2NMQm5YYzV4djFSU2k4RkFtdndHcktLcmN6US1ka3FxWkVtMnp5MThGWU43YTkwb3RGOGFZTmV5ejNLQ2E4Tl9JdlpZMDZJUnE0RU5WQldHSy1kb2s2WFJqSF9ZNjg3LU0wTm5FR0xpTTdESXBMZFB4S3dEMklNaHZGeGtXVE5nU0NEbDI2WQ?oc=5",
-      "published_at": "2026-11-04T22:46:00.000Z"
+      "source": "BBC",
+      "title": "ニティヤ・ラマン氏がロサンゼルス市長選で現職のカレン・バス氏に勝利",
+      "summary": "ロサンゼルス市長選挙において、ニティヤ・ラマン氏が予想に反して現職のカレン・バス氏を破り、市長に当選した。\nこの結果は、ロサンゼルスの政治的地形における重要な変化を意味し、新たなリーダーシップへの期待と課題が浮上している。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsTnVzamtWQkZEV1Rld1BkNHlYeUd4ZV9GTzl3R0ZLcjlnMlAwLUlnbENGLWtvSUVtMkFTYmtDRWFiTWdISHRvUzh0S0dGZ1VyYXNDTDVmNXZjckE?oc=5",
+      "published_at": "2026-11-05T23:31:35.000Z"
     },
     {
       "id": "g004",
       "category": "Politics",
       "region": "US",
-      "source": "Financial Times",
-      "title": "「ルパートは敗者と共にいたくない」：マードックのメディア帝国、トランプ氏への支持が冷める",
-      "summary": "メディア王ルパート・マードック氏のメディア帝国が、トランプ前大統領への支持を冷ましていると報じられました。\n関係者によると、マードック氏は「敗者とは共にいたくない」と考えているとされ、これはトランプ氏の政治的影響力の変化を示す兆候として注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0loTnJ6NDVnUzJ0ZVpRSGhmOTItVktsamVoQ0RIVDl5MnE0Y2hYajlBTnJvQUplTVpWRjNER3hnM3FZejNuQ245UXIycWxYVDFLWUxyUVlPQ2tfUUtGZ2R3Tm9JakJGQ2RFRDZuTXJUOXRXd2xCVXoxQ0NTSVItY2Y3VEk?oc=5",
-      "published_at": "2026-11-04T20:58:24.000Z"
+      "source": "Reuters",
+      "title": "中間選挙が終わり、民主党は2028年大統領選に向けて広範な競争に突入",
+      "summary": "米国中間選挙の終了を受け、民主党は2028年の大統領選挙に向けた候補者選定のプロセスに本格的に突入した。\n多くの有力な民主党員が次期大統領候補として浮上しており、今後数年間の党内の競争が激化すると予想される。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXdzQ2lsb2Z4akFLZzFiR3otamdxek1RbXM3WWVWTE9hcXJRR28yMlZ1LU8zb1c2RWpGQ1NRNmVNSXVXVU5BSkJBYmgzeTRoTlNiUFpGX3B0eEdkVWM3ZlVrTVRBRHJOc05WUVFGY2dvcG9YLVhSUlN4S2NhdnlUZk1ZVDRjMGNIa1lBUWVNbGNsNmEtRnBFeDZSdjBRVzJfV2pnWkdSU19yb2JqNERLR1d2NHl0alhPbDVJSlV3?oc=5",
+      "published_at": "2026-11-05T19:52:20.000Z"
     },
     {
       "id": "g005",
       "category": "Politics",
       "region": "US",
-      "source": "The New York Times",
-      "title": "民主党の議題：トランプ氏とその家族に対する調査",
-      "summary": "民主党は、今後の政治的議題としてトランプ前大統領とその家族に対する調査を進める方針であることが報じられました。\nこれは、共和党の選挙敗北を受けて、民主党がトランプ氏のこれまでの行動や取引について、さらなる追及を強化する意向を示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZHE4X3EtZUwtM2hDdy1oa1JveHVwbDVSeVRJVXBBOGpUWFB3dW1xcjBZdlNwMDlKTVFLTmNLUnY5ZGRXd3VtLUhnc3E5QWh0YjBvektwRHhRa215S1ZYQlAxaEw0c0E5WHZCR1NEZUhrZ3g2ZkpSRnBfb1oyOTBtbWdMRzI4MU0?oc=5",
-      "published_at": "2026-11-04T19:38:05.000Z"
+      "source": "The Guardian",
+      "title": "トランプ氏、金で覆われたオーバルオフィスへの変更阻止を試みる宣言に署名",
+      "summary": "トランプ氏が、大統領執務室（オーバルオフィス）の豪華な内装、特に金で覆われた装飾品の変更を阻止するための宣言に署名したことが報じられた。\nこの動きは、彼が大統領時代に行った改修を後任の政権が変更することを防ごうとする意図があると見られている。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNem85Z3hoQWN4SjhHUDViMzU4cFJsdU5ZT1U0OHBVVW1fb2hqQWRSaVc2SlJDZlB4OVVfWDJ6OVBmdTlBLUVqZkw1Z0dscndiajBET0RUUmh5c2VjVlk2V1dUSUNWOFhIVzdsTy00c012SjgyRWtPZjRqMVF1dng5dS0tUlNsM3ZITTZ1OFRn?oc=5",
+      "published_at": "2026-11-06T00:31:00.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,40 +187,40 @@
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手における俊敏性向上と傷害予防のためのVRアシスト神経筋トレーニング効果：対照実験研究",
-      "summary": "この実験研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングがバスケットボール選手の俊敏性パフォーマンスと膝前十字靭帯（ACL）などの傷害予防に与える影響を検証しました。結果として、VRを導入したトレーニングが従来のトレーニングよりも選手の身体能力と予防効果を高める可能性が示されました。特に、複雑な運動パターンを没入型環境で再現することで、実際の競技状況に近い反応を促すことが有効だと考えられています。",
+      "title": "バスケットボール選手における俊敏性向上と傷害予防のためのVR支援神経筋トレーニング効果：対照実験研究",
+      "summary": "この実験研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングがバスケットボール選手の俊敏性パフォーマンスと傷害予防に与える影響を調査した。結果として、VRを組み込んだトレーニングが従来の神経筋トレーニングよりも、アスリートの敏捷性向上と膝前十字靭帯（ACL）などの傷害リスク低減に効果的であることが示された。特に動的な動作に対する反応速度とバランス能力の改善が見られた。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学",
-      "summary": "この記事では、トレイルランニングにおける生体力学の重要性を解説しています。不整地を走るトレイルランニングでは、路面の変化に対応するための足関節、膝関節、股関節の協調した動きが求められ、特に着地衝撃の吸収や推進力の効率的な伝達がパフォーマンスと傷害予防に直結します。適切なフォームやギアの選択が生体力学的負荷を最適化し、安全かつ効率的な走行を可能にすると述べています。",
+      "title": "トレイルランニングのバイオメカニクス科学",
+      "summary": "この研究では、トレイルランニングに特有の複雑な地形が身体のバイオメカニクスに与える影響について解説している。不均一な路面での着地衝撃吸収、バランス維持、推進力生成における下肢の動的な適応メカニズムが分析された。これにより、トレイルランナーのパフォーマンス向上と怪我のリスク低減に繋がる知見が提供されている。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL（内側尺側側副靭帯）損傷からの競技復帰支援",
-      "summary": "この報告では、アスリートが内側尺側側副靭帯（MUCL）損傷から安全かつ効果的に競技に復帰するためのアプローチについて議論されています。損傷の重症度に応じた保存的治療や手術的治療の選択肢、そしてその後の段階的なリハビリテーションプログラムが強調されています。特に、機能回復だけでなく、競技特異的な動作の再習得と心理的サポートの重要性が示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9rajN5bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
+      "title": "MUCL損傷を負ったアスリートの競技復帰",
+      "summary": "この記事では、MUCL（内側尺側側副靭帯）損傷を負ったアスリートの競技復帰に向けたアプローチについて論じている。診断から段階的なリハビリテーション、そして最終的な復帰判断に至るまでのプロセスが詳細に説明されており、各段階での注意点や治療法が紹介されている。適切な医療介入とリハビリ計画が競技復帰の鍵となる。",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "上級理学療法士マルコス・フスダド氏がドバイのキネシス・クリニックに入職",
-      "summary": "ドバイのキネシス・クリニックに、経験豊富な上級理学療法士であるマルコス・フスダド氏が加わったことが発表されました。フスダド氏はスポーツ傷害や筋骨格系のリハビリテーションにおいて深い専門知識を持っており、クリニックの提供する質の高いリハビリケアをさらに強化することが期待されています。彼の入職により、地域のアスリートや患者へのサポート体制が拡充されます。",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2hJNDJaZUJqN1NBWHMxMUVNZE9Wd1RZSWEzLWwxYW5TaURQLUYwdS1haXU5ejV6TVZJM2Q3cXRQd1dQcklvTU5peGM1d2w0T2JRMWN5MzA4QzEyYkxPNjI1Tnlna2JJeGNxSEQ3YW4yeE9KdGo0b3JDY2pQNWZNQ1RMekc0bUtDNlhQMXpOQXpRZUVBZnZqcW1HRDRiVlRkOENDTzMwQ19iN3dTS2c?oc=5"
+      "title": "スポーツにおける前十字靭帯断裂後の回復における心理的治療と結果",
+      "summary": "この研究では、スポーツ選手が前十字靭帯（ACL）断裂後のリハビリテーション過程で経験する心理的側面と、それに対する心理的治療の効果を分析している。不安、恐怖、競技復帰へのモチベーションといった要因が回復に与える影響を検討し、心理的サポートが身体的治療結果を向上させる可能性を示唆している。",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaWIwa29NZTQ5cDVNZkxENmgtQ2RjRjJDcXFxTTl0N0hRZmoyNFhmandGZUhva2JkT0EzSWM3aG9BVHQ2YndYSDk1QjZJTUwtTk9VVExRSmlEX0Yza0RLci10S01fajg4ek5vSmZJRTRQUFJUaUM0bnhiQjRoUHdKbmJ3bWtHdGN4TnpIanMzc2lPOHM2S2NIaXF4aWFGOFZJd2hBSUJ1UjdTNVZRQzVrYmxCNTBxTUVmV2lLWDRrajBaamFsZVNUeGdHc2NlWEItSFVKVFFxMjRVZlhfdmNtOHFTeGpsS25s?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
       "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "この系統的レビューとメタアナリシスでは、アスリートの疼痛管理において西洋医学的鍼治療技術がどのような効果を持つかについて評価されました。複数の研究を分析した結果、特定の運動器疼痛に対して鍼治療が痛みの軽減に有効である可能性が示唆されています。これは、従来の治療法に加えて、補完的なアプローチとして鍼治療がアスリートのリカバリーに貢献する可能性を示しています。",
+      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理において西洋医学的鍼治療技術がどのような効果をもたらすかを評価した。複数の研究を統合した結果、スポーツ関連の筋肉痛、関節痛、腱炎などに対して鍼治療が痛みの軽減に有効である可能性が示唆された。特に、薬物療法と比較して副作用が少ない点が注目されている。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
@@ -228,120 +228,120 @@
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
       "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
-      "summary": "この記事では、運動能力向上に寄与する可能性のある5つの主要なサプリメントについて解説しています。クレアチン、カフェイン、ベータアラニン、BCAA、プロテインなどが挙げられ、それぞれのサプリメントが筋力、持久力、疲労回復、集中力といったパフォーマンスの側面でどのように作用するかが説明されています。摂取のタイミングや量、安全性についても触れられています。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWj11OHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
+      "summary": "この記事では、ワークアウトパフォーマンス向上に役立つ可能性のある5種類のサプリメントについて解説している。それぞれのサプリメント（例: クレアチン、カフェイン、β-アラニン、プロテイン、BCAAなど）の機能、推奨される摂取量、科学的根拠、および潜在的なメリットが説明されている。アスリートやフィットネス愛好家が安全かつ効果的に利用するための情報を提供する。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子供が走る距離はどこまでが適切か？年齢別ガイド",
-      "summary": "このガイドでは、子供の年齢に応じた適切なランニング距離と運動負荷について詳細に説明しています。幼少期から思春期にかけての身体発達段階を考慮し、無理のない範囲で持久力を養い、スポーツを楽しむことの重要性が強調されています。過度な運動は成長期の骨や関節に負担をかける可能性があるため、段階的なトレーニング計画が推奨されています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ1_tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
+      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
+      "summary": "この記事は、学生アスリートのメンタルヘルスをサポートするための具体的なヒントを保護者とコーチに提供している。学業、競技パフォーマンス、社会生活のバランスの取り方、ストレスやプレッシャーへの対処法、燃え尽き症候群の兆候、そして専門家のサポートを求めるタイミングについて詳しく解説されている。早期介入と適切なサポートが重要である。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoY3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
       "title": "学生アスリートのメンタルヘルスをサポートする方法",
-      "summary": "この記事では、学業と競技の両立に奮闘する学生アスリートのメンタルヘルスをサポートするための具体的な方法を提示しています。学業成績へのプレッシャー、競技での期待、人間関係の悩みなど、多岐にわたるストレス要因を認識し、適切な休息、栄養、睡眠の確保が重要だと述べています。コーチや保護者、教員が連携し、対話を通じてサポートすることの重要性が強調されています。",
+      "summary": "本記事は、学生アスリートのメンタルヘルスを多角的にサポートするための実践的な方法を提示している。学業や競技のストレス、睡眠不足、ソーシャルメディアの影響など、学生アスリートが直面する具体的な課題に焦点を当て、保護者やコーチがどのように介入し、サポートできるかについて解説している。健康的なライフスタイルと心理的レジリエンスの構築が強調されている。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOXlfUmJ4RHl0b1dDZGFVUm9tQjU4S2hHZzJubmw0dVdLak1VSVpDNlNaX3l0YUlHcktyV2JOMXBfX0ZOcWI0djdBU2RMUV9GVV9LU1BnU0IwVWg5dTdnZEt0eHBXeWxIVFVBbHRkWTg5bENGZExqLXJNZEE?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "共和党大敗にバンス副大統領「敗北の理由は戦争だ」…イラン攻撃決断のトランプ氏との対立招く可能性も",
-      "summary": "米国の共和党が大敗したことを受け、バンス副大統領は敗北の主な原因はイラン戦争にあったと指摘しました。\nこの発言は、イラン攻撃を決断したトランプ大統領との間で深刻な対立を生む可能性があり、今後の政局に大きな影響を与えそうです。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lLVRoQnQtcWpDSkxibUdJanhkVXotSDlLOTlMOXZUM1VZdXBBdGtUUm5EY3QwWUVrX3M2ZG91WWpqaHhpZ3l0WjhWVU9pdWFTRVRYRml6OG11SGRUTG1HV1JB?oc=5"
+      "title": "次の米大統領は民主オソフ氏？ 予測市場で急浮上、バンス氏は後退",
+      "summary": "2026年米中間選挙の結果を受け、次期大統領選の予測市場で民主党のジョン・オソフ氏が急浮上し、共和党のJ.D.バンス氏は後退している。\nこれは、中間選挙での民主党の勢いと有権者の意識変化を反映した動きと見られ、今後の大統領選の動向に注目が集まる。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MY1RvdFlxRVg5Y3NHNjVxeWNlU1pPVjdkZjVQdUVzbUFPSm53Qi0wNHJBZW1TR1l1a3hrQjlEeU5ucXFCOHFPeUViTG5XQTNGcjcwR05OTXFuQjNLOFdmeTlEQ1FqSzVrMkFDeg?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "今日11月5日(木)の天気予報 全国の広い範囲で雨 父島は台風接近",
-      "summary": "本日11月5日(木)は、全国的に広い範囲で雨が予想されています。\n特に、父島付近には台風が接近しており、警戒が必要です。\n最新の気象情報に注意し、外出の際は傘を携行するなど対策を講じてください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84Z3J0U0s0VzVMal9sUzdVcDluYWZxaHdBRHhOOGlUNzlRMEZQSE43RXF6Rk82NC1TdHRRV2pYaHgwTnEzZnI1ZWFpQ3NYWGN0TUtGaA?oc=5"
+      "category": "政治",
+      "title": "ルビオ国務長官が辞任検討か 中間選挙での共和党大敗受け ブルームバーグ通信報道（TBS NEWS DIG Powered by JNN）",
+      "summary": "ブルームバーグ通信の報道によると、米国中間選挙での共和党大敗を受け、現職のルビオ国務長官が辞任を検討している可能性があるという。\nこれは政権内部での動揺や責任問題が浮上していることを示唆しており、今後の政界の動きが注目される。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HWkJ3RFpFbjlialVWYnBiZkM4bkNpdmNKN1pmczViQmVQMkg0ejdfcWFDczNvaHRfVnh6eXAta1dDLXZqMi1KTkVHNVg3TkRfeDJHektSX0JJX3l5ZV9DajlGRHhUZGdnUEZVd2gzMEliRTlpakFTREx0R2drTzg?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "経済",
-      "title": "消費税減税あすにも衆院通過へ、自民が採決を提案…食料品の税率「２年間１％」に引き下げなど柱",
-      "summary": "消費税の減税法案が、明日にも衆議院を通過する見通しとなりました。自民党が採決を提案しており、食料品の税率を2年間1%に引き下げることなどが主な柱となっています。\nこの政策は、国民生活や経済に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wRURqTnRqTWlDa3ptODJHUkdWV2hHbXJoM3N0U1REaGhEcEMzZlFMRmg1c1JJZVBXUlFvYURLd1FpYzdaY0lvdnc2SWEzd1EtcURDT3JEZG1qS2N4dTRpLTVMUXNVQQ?oc=5"
+      "category": "社会",
+      "title": "大阪駅前の突起物 「排除アート」否定も、内部文書にあった目的",
+      "summary": "大阪駅前に設置された突起物が「排除アート」であるとの指摘に対し、市は否定しているが、内部文書には特定の目的が記されていたことが判明した。\nこの問題は、公共空間におけるデザインと利用者の権利、そして行政の説明責任について議論を呼んでいる。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IOGkxLUlQb1hzOUhoUERldUVzb2JmaVFZTGViMGNuWTNBMUNGYjRqTERjZ0ZtbFNxNUEwVnFma0FiNVBmRDJqUjFIT2F3WU9Bb2I3OHBib3c1Nmk4cERuUmY5WlIzVEMt?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "文化・エンタメ",
-      "title": "「書道」ユネスコ無形文化遺産に登録へ、評価機関が勧告…１２月にも正式決定",
-      "summary": "日本の「書道」が、ユネスコの無形文化遺産に登録されることが濃厚となりました。\n評価機関が勧告を行い、12月にも正式決定される見込みです。\n日本の伝統文化が国際的に評価される喜ばしいニュースです。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GV2JPMnl0U1pSMFk2T1FtYklOWDZTeGhrVW9aZExydFFIOWYxRFlyTFNna3Bsa3I1SDF4eGJNNFRiQkYwaER2Z2dBTWRfSHh2Vm52THNCbFd5dDZiWlk2aDc2ZkE?oc=5"
+      "category": "政治",
+      "title": "米民主党、下院で250議席超を獲得へ 上院はアラスカなど2州で大接戦",
+      "summary": "米中間選挙において、民主党が下院で250議席を超える多数派を獲得する見込みであることが報じられた。\n一方、上院ではアラスカ州など2つの州で依然として大接戦が繰り広げられており、最終的な上院の勢力図が確定するには時間を要する可能性がある。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1renhZd2tFZTh6UFVNZFI2NGd0SVhhR29RTjRucjlzX2EyVzY5aDdqdVpLeURfa3l4VEhVR0lrZ0ZDRU1xdVhlY1U3NTRieGRW?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "米国による制裁で資金繰り悪化のＩＣＣへ、日本からの分担金前倒し拠出で政府調整",
-      "summary": "米国による制裁措置により資金繰りが悪化している国際刑事裁判所（ICC）に対し、日本政府が分担金の前倒し拠出を調整していることが報じられました。\nこれは、国際法廷の機能維持を支援し、国際社会における日本の役割を果たすための動きとみられます。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwYWtsSmdSWDdvRk5xTndLUjFCVDVueVZkTDVCTi1ZU3VJYXBuaDJVMTRhdjRMODlJcXVlRllIOS0yX0FlcEZwamUzWE5PNlJYZlhTNFltdTFGc2ZsM2c4d3g4NDZYUQ?oc=5"
+      "category": "経済",
+      "title": "「トランプ関税撤廃法案」成立は望み薄 AIブームに負の側面も",
+      "summary": "米国議会で「トランプ関税撤廃法案」の成立が見送られる可能性が高まっていると報じられている。\n同時に、現在のAIブームが経済や社会に負の側面をもたらす可能性も指摘されており、技術進化に伴うリスクへの警戒が促されている。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jeUc1V0VRZk1MVlMtLUVnU21hajNIb1c2aVhXaFkzakJqWGhpN29SeUZPSWMxLWtoNDljdHZyRWd0WDZrWHJHMzFrQ2J3R3pZNmtDbW02RTJIY01XOHFJUnJNMDJzTlJo?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "バンス氏、共和党大敗の理由はイラン戦争だと語る：「誰もが敗因を知っている」",
-      "summary": "バンス副大統領は、共和党が選挙で大敗したのはイラン戦争が原因だと述べ、その理由が明らかであると主張しました。\nこの発言は、党内の指導層、特にイランへの軍事行動を決定したトランプ氏との間に亀裂を生じさせる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cHNJSHQyeHVUM1JkOGF0UzhfbzFPRXlhZkc2WlhtLVJ2Ym1vSWl6akxucDd0cGowR1RsbEVBWUU2RHVVVWc3X09kLUhTVFF4OHpsT1JMQ0xYS3M?oc=5"
+      "title": "テキサス州の「青い波」が共和党にどう押し寄せたか",
+      "summary": "テキサス州で期待されていた民主党の「青い波」（民主党優勢の動き）が、中間選挙で共和党にどのように影響を与えたか、または期待されたほどの成果を上げられなかったかを分析している。\n州レベルでの政治的なダイナミクス、有権者の動向、および選挙戦略が詳しく検討されている。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHRtYUNtODRGck03NHdmVDFBWUVnbXFhNF9JODdZcFktOUFHalBPOG15RzE1QkU1V3Nzc3RnTGRCREZSbFlqbTI4Ui1mUEV4TnpmSjBtd3lVd0JFU1hDb2lkTmotbmNuQzBGWjVwRHNTN2c2eXc4OTdqc0pMS2thQjc2NDNHbkNrOWJF?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏、国防総省のヘグセス氏後任にロン・デサンティス氏を検討とCBSニュースが報じる",
-      "summary": "トランプ前大統領が、国防総省のピート・ヘグセス氏の後任として、ロン・デサンティス氏を検討しているとCBSニュースの情報源が伝えました。\nこの人事は、トランプ氏が次期政権を視野に入れた閣僚人事を進めている可能性を示唆しており、今後の政治動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMklJaVBENktZYUVEYUZwYUZCVEtYZ0M3X0R2Tll4NGFxU0NrQjgwVUZWdklLMXN2TDVjRlFYTURmVU1ZY01TWVdqZlZOQ0FsN3k5Q2diSGVMT2ZJSDYzdjVaUDhyMkZZak52Wm5JcmxYaXVvNzNYN1pkNWhiZkVjbHBxZFc2RE8wUGlOMUsxYWlDN0NrTExWcWFIT05wG2VHY0JyRFJBZWJqcGl3M2VPS3RQTmlld0JJdEN0TTFFeHZsRHliMFhMLXlUUHV2Zll4WWZvVWN3?oc=5"
+      "title": "ミシシッピ州上院選挙：民主党スコット・コラム氏が共和党シンディ・ハイド＝スミス氏に僅差でリード",
+      "summary": "ミシシッピ州上院選挙で、民主党候補のスコット・コラム氏が共和党現職のシンディ・ハイド＝スミス氏に対し、ごく僅差でリードしていることが報じられた。\nこの接戦は、全国的な政治情勢と地方の有権者の意識が複雑に絡み合っていることを示している。",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakxhcDZneXF2MVZCSXh2YzFDVWp5UVBOT0w1cmtoQ1R4NHBKTkNRMTJFOV9DN18xd3hwTEo5cGNUWVhLdElWd3VvLUcteXRzMThLek4tWXE0UWV1WHJwWEhacmQtRkszZDNVcTVKaGpjYzdGMkFSLWphTk41OGxmb0UxMnBfbUhVLUNQbm5CN3nSAZYBQVVfeXFMUGk2V0ZVVUdnZFo4M2tuUklLTy1SQVZBZUR3b19SdWxreWpLOExrVzcyeUwzTTg0MlZ1bW1Zd1dsUmNUcVJYb2VXY3B6MDRMbjl4YndEa2Z4eW9YYmo2bjlkajV3aHhvYm1YVzUxaG01ck1OYklJQl9FUGlraHotVlZuTkVfU0ZVWTVMckV5S0ZONlJnMmZ3?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ミシシッピ州上院選の賭け率、民主党スコット・コラム氏が番狂わせを演じる可能性を示す",
-      "summary": "ミシシッピ州の上院選挙において、民主党候補のスコット・コラム氏が、市場の賭け率で番狂わせを演じる可能性が高まっていることが示されました。\nこの予想は、共和党の優勢が続くミシシッピ州で、民主党が議席を獲得するかもしれないという波乱の展開を示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLVIzYy1HaTh2RERQNl8zWlNvSFRud3dudmdKdkNienZnck5DVy1GdW43a1p0YTNYV2NMQm5YYzV4djFSU2k4RkFtdndHcktLcmN6US1ka3FxWkVtMnp5MThGWU43YTkwb3RGOGFZTmV5ejNLQ2E4Tl9JdlpZMDZJUnE0RU5WQldHSy1kb2s2WFJqSF9ZNjg3LU0wTm5FR0xpTTdESXBMZFB4S3dEMklNaHZGeGtXVE5nU0NEbDI2WQ?oc=5"
+      "title": "ニティヤ・ラマン氏がロサンゼルス市長選で現職のカレン・バス氏に勝利",
+      "summary": "ロサンゼルス市長選挙において、ニティヤ・ラマン氏が予想に反して現職のカレン・バス氏を破り、市長に当選した。\nこの結果は、ロサンゼルスの政治的地形における重要な変化を意味し、新たなリーダーシップへの期待と課題が浮上している。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsTnVzamtWQkZEV1Rld1BkNHlYeUd4ZV9GTzl3R0ZLcjlnMlAwLUlnbENGLWtvSUVtMkFTYmtDRWFiTWdISHRvUzh0S0dGZ1VyYXNDTDVmNXZjckE?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "「ルパートは敗者と共にいたくない」：マードックのメディア帝国、トランプ氏への支持が冷める",
-      "summary": "メディア王ルパート・マードック氏のメディア帝国が、トランプ前大統領への支持を冷ましていると報じられました。\n関係者によると、マードック氏は「敗者とは共にいたくない」と考えているとされ、これはトランプ氏の政治的影響力の変化を示す兆候として注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0loTnJ6NDVnUzJ0ZVpRSGhmOTItVktsamVoQ0RIVDl5MnE0Y2hYajlBTnJvQUplTVpWRjNER3hnM3FZejNuQ245UXIycWxYVDFLWUxyUVlPQ2tfUUtGZ2R3Tm9JakJGQ2RFRDZuTXJUOXRXd2xCVXoxQ0NTSVItY2Y3VEk?oc=5"
+      "title": "中間選挙が終わり、民主党は2028年大統領選に向けて広範な競争に突入",
+      "summary": "米国中間選挙の終了を受け、民主党は2028年の大統領選挙に向けた候補者選定のプロセスに本格的に突入した。\n多くの有力な民主党員が次期大統領候補として浮上しており、今後数年間の党内の競争が激化すると予想される。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXdzQ2lsb2Z4akFLZzFiR3otamdxek1RbXM3WWVWTE9hcXJRR28yMlZ1LU8zb1c2RWpGQ1NRNmVNSXVXVU5BSkJBYmgzeTRoTlNiUFpGX3B0eEdkVWM3ZlVrTVRBRHJOc05WUVFGY2dvcG9YLVhSUlN4S2NhdnlUZk1ZVDRjMGNIa1lBUWVNbGNsNmEtRnBFeDZSdjBRVzJfV2pnWkdSU19yb2JqNERLR1d2NHl0alhPbDVJSlV3?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "民主党の議題：トランプ氏とその家族に対する調査",
-      "summary": "民主党は、今後の政治的議題としてトランプ前大統領とその家族に対する調査を進める方針であることが報じられました。\nこれは、共和党の選挙敗北を受けて、民主党がトランプ氏のこれまでの行動や取引について、さらなる追及を強化する意向を示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZHE4X3EtZUwtM2hDdy1oa1JveHVwbDVSeVRJVXBBOGpUWFB3dW1xcjBZdlNwMDlKTVFLTmNLUnY5ZGRXd3VtLUhnc3E5QWh0YjBvektwRHhRa215S1ZYQlAxaEw0c0E5WHZCR1NEZUhrZ3g2ZkpSRnBfb1oyOTBtbWdMRzI4MU0?oc=5"
+      "title": "トランプ氏、金で覆われたオーバルオフィスへの変更阻止を試みる宣言に署名",
+      "summary": "トランプ氏が、大統領執務室（オーバルオフィス）の豪華な内装、特に金で覆われた装飾品の変更を阻止するための宣言に署名したことが報じられた。\nこの動きは、彼が大統領時代に行った改修を後任の政権が変更することを防ごうとする意図があると見られている。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNem85Z3hoQWN4SjhHUDViMzU4cFJsdU5ZT1U0OHBVVW1fb2hqQWRSaVc2SlJDZlB4OVVfWDJ6OVBmdTlBLUVqZkw1Z0dscndiajBET0RUUmh5c2VjVlk2V1dUSUNWOFhIVzdsTy00c012SjgyRWtPZjRqMVF1dng5dS0tUlNsM3ZITTZ1OFRn?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "思春期バレーボール選手における神経筋トレーニングの二重の恩恵：膝の怪我予防と運動パフォーマンスは共通のメカニズム的基盤を共有する",
-      "summary": "この体系的なレビューは、思春期のバレーボール選手における神経筋トレーニングが膝の怪我予防と運動パフォーマンス向上に同時に寄与することを示しています。これらの効果は、身体の安定性、協調性、反応性の改善という共通のメカニズムに基づいていることが明らかになりました。特に、ACL（前十字靭帯）損傷予防において、神経筋トレーニングの重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "title": "バスケットボール選手における俊敏性向上と傷害予防のためのVRアシスト神経筋トレーニング効果：対照実験研究",
+      "summary": "この実験研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングがバスケットボール選手の俊敏性パフォーマンスと膝前十字靭帯（ACL）などの傷害予防に与える影響を検証しました。結果として、VRを導入したトレーニングが従来のトレーニングよりも選手の身体能力と予防効果を高める可能性が示されました。特に、複雑な運動パターンを没入型環境で再現することで、実際の競技状況に近い反応を促すことが有効だと考えられています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
-      "category": "Sports Medicine / Orthopedics",
-      "title": "GBMC整形外科医がスポーツ傷害と受診のタイミングについて解説",
-      "summary": "GBMCの整形外科医が、一般的なスポーツ傷害の種類とその治療法について解説しています。特に、いつ専門医の診察を受けるべきか、どのような症状が緊急性を伴うかといった判断基準が示されています。早期の適切な介入が回復を早め、長期的な合併症を防ぐ上で重要であることが強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQTFaZGFtNTJLRkVWdDMwMnBzcUIyMlp4aGJsR3l0ekhYXzdkb0RtaS1ycF9JNHI2YlJEZm9SbEh1cWdhc3gtRDktSUFxVmxRWk9feVk3VE1RZEdnM3RvVzFHajJLRFh0Xzlub216M2hqMVpyai1YYTN4OE1DeTVrdVJaNUxVbW9ER09RZGZmdEJrREl3aDdOeTNzN1NwSzVaZjN5SUlxcXRMd2tWUm55aUN1TExNQ0p3el9IalNZbWRtTmZCamRJc0ln?oc=5"
+      "category": "Biomechanics / Exercise Science",
+      "title": "トレイルランニングの生体力学",
+      "summary": "この記事では、トレイルランニングにおける生体力学の重要性を解説しています。不整地を走るトレイルランニングでは、路面の変化に対応するための足関節、膝関節、股関節の協調した動きが求められ、特に着地衝撃の吸収や推進力の効率的な伝達がパフォーマンスと傷害予防に直結します。適切なフォームやギアの選択が生体力学的負荷を最適化し、安全かつ効率的な走行を可能にすると述べています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     }
   ],
   "monthly_top20": [
@@ -349,40 +349,40 @@
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手における俊敏性向上と傷害予防のためのVRアシスト神経筋トレーニング効果：対照実験研究",
-      "summary": "この実験研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングがバスケットボール選手の俊敏性パフォーマンスと膝前十字靭帯（ACL）などの傷害予防に与える影響を検証しました。結果として、VRを導入したトレーニングが従来のトレーニングよりも選手の身体能力と予防効果を高める可能性が示されました。特に、複雑な運動パターンを没入型環境で再現することで、実際の競技状況に近い反応を促すことが有効だと考えられています。",
+      "title": "バスケットボール選手における俊敏性向上と傷害予防のためのVR支援神経筋トレーニング効果：対照実験研究",
+      "summary": "この実験研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングがバスケットボール選手の俊敏性パフォーマンスと傷害予防に与える影響を調査した。結果として、VRを組み込んだトレーニングが従来の神経筋トレーニングよりも、アスリートの敏捷性向上と膝前十字靭帯（ACL）などの傷害リスク低減に効果的であることが示された。特に動的な動作に対する反応速度とバランス能力の改善が見られた。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学",
-      "summary": "この記事では、トレイルランニングにおける生体力学の重要性を解説しています。不整地を走るトレイルランニングでは、路面の変化に対応するための足関節、膝関節、股関節の協調した動きが求められ、特に着地衝撃の吸収や推進力の効率的な伝達がパフォーマンスと傷害予防に直結します。適切なフォームやギアの選択が生体力学的負荷を最適化し、安全かつ効率的な走行を可能にすると述べています。",
+      "title": "トレイルランニングのバイオメカニクス科学",
+      "summary": "この研究では、トレイルランニングに特有の複雑な地形が身体のバイオメカニクスに与える影響について解説している。不均一な路面での着地衝撃吸収、バランス維持、推進力生成における下肢の動的な適応メカニズムが分析された。これにより、トレイルランナーのパフォーマンス向上と怪我のリスク低減に繋がる知見が提供されている。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL（内側尺側側副靭帯）損傷からの競技復帰支援",
-      "summary": "この報告では、アスリートが内側尺側側副靭帯（MUCL）損傷から安全かつ効果的に競技に復帰するためのアプローチについて議論されています。損傷の重症度に応じた保存的治療や手術的治療の選択肢、そしてその後の段階的なリハビリテーションプログラムが強調されています。特に、機能回復だけでなく、競技特異的な動作の再習得と心理的サポートの重要性が示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9rajN5bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
+      "title": "MUCL損傷を負ったアスリートの競技復帰",
+      "summary": "この記事では、MUCL（内側尺側側副靭帯）損傷を負ったアスリートの競技復帰に向けたアプローチについて論じている。診断から段階的なリハビリテーション、そして最終的な復帰判断に至るまでのプロセスが詳細に説明されており、各段階での注意点や治療法が紹介されている。適切な医療介入とリハビリ計画が競技復帰の鍵となる。",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "上級理学療法士マルコス・フスダド氏がドバイのキネシス・クリニックに入職",
-      "summary": "ドバイのキネシス・クリニックに、経験豊富な上級理学療法士であるマルコス・フスダド氏が加わったことが発表されました。フスダド氏はスポーツ傷害や筋骨格系のリハビリテーションにおいて深い専門知識を持っており、クリニックの提供する質の高いリハビリケアをさらに強化することが期待されています。彼の入職により、地域のアスリートや患者へのサポート体制が拡充されます。",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2hJNDJaZUJqN1NBWHMxMUVNZE9Wd1RZSWEzLWwxYW5TaURQLUYwdS1haXU5ejV6TVZJM2Q3cXRQd1dQcklvTU5peGM1d2w0T2JRMWN5MzA4QzEyYkxPNjI1Tnlna2JJeGNxSEQ3YW4yeE9KdGo0b3JDY2pQNWZNQ1RMekc0bUtDNlhQMXpOQXpRZUVBZnZqcW1HRDRiVlRkOENDTzMwQ19iN3dTS2c?oc=5"
+      "title": "スポーツにおける前十字靭帯断裂後の回復における心理的治療と結果",
+      "summary": "この研究では、スポーツ選手が前十字靭帯（ACL）断裂後のリハビリテーション過程で経験する心理的側面と、それに対する心理的治療の効果を分析している。不安、恐怖、競技復帰へのモチベーションといった要因が回復に与える影響を検討し、心理的サポートが身体的治療結果を向上させる可能性を示唆している。",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaWIwa29NZTQ5cDVNZkxENmgtQ2RjRjJDcXFxTTl0N0hRZmoyNFhmandGZUhva2JkT0EzSWM3aG9BVHQ2YndYSDk1QjZJTUwtTk9VVExRSmlEX0Yza0RLci10S01fajg4ek5vSmZJRTRQUFJUaUM0bnhiQjRoUHdKbmJ3bWtHdGN4TnpIanMzc2lPOHM2S2NIaXF4aWFGOFZJd2hBSUJ1UjdTNVZRQzVrYmxCNTBxTUVmV2lLWDRrajBaamFsZVNUeGdHc2NlWEItSFVKVFFxMjRVZlhfdmNtOHFTeGpsS25s?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
       "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "この系統的レビューとメタアナリシスでは、アスリートの疼痛管理において西洋医学的鍼治療技術がどのような効果を持つかについて評価されました。複数の研究を分析した結果、特定の運動器疼痛に対して鍼治療が痛みの軽減に有効である可能性が示唆されています。これは、従来の治療法に加えて、補完的なアプローチとして鍼治療がアスリートのリカバリーに貢献する可能性を示しています。",
+      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理において西洋医学的鍼治療技術がどのような効果をもたらすかを評価した。複数の研究を統合した結果、スポーツ関連の筋肉痛、関節痛、腱炎などに対して鍼治療が痛みの軽減に有効である可能性が示唆された。特に、薬物療法と比較して副作用が少ない点が注目されている。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
@@ -390,120 +390,120 @@
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
       "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
-      "summary": "この記事では、運動能力向上に寄与する可能性のある5つの主要なサプリメントについて解説しています。クレアチン、カフェイン、ベータアラニン、BCAA、プロテインなどが挙げられ、それぞれのサプリメントが筋力、持久力、疲労回復、集中力といったパフォーマンスの側面でどのように作用するかが説明されています。摂取のタイミングや量、安全性についても触れられています。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWj11OHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
+      "summary": "この記事では、ワークアウトパフォーマンス向上に役立つ可能性のある5種類のサプリメントについて解説している。それぞれのサプリメント（例: クレアチン、カフェイン、β-アラニン、プロテイン、BCAAなど）の機能、推奨される摂取量、科学的根拠、および潜在的なメリットが説明されている。アスリートやフィットネス愛好家が安全かつ効果的に利用するための情報を提供する。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子供が走る距離はどこまでが適切か？年齢別ガイド",
-      "summary": "このガイドでは、子供の年齢に応じた適切なランニング距離と運動負荷について詳細に説明しています。幼少期から思春期にかけての身体発達段階を考慮し、無理のない範囲で持久力を養い、スポーツを楽しむことの重要性が強調されています。過度な運動は成長期の骨や関節に負担をかける可能性があるため、段階的なトレーニング計画が推奨されています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ1_tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
+      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
+      "summary": "この記事は、学生アスリートのメンタルヘルスをサポートするための具体的なヒントを保護者とコーチに提供している。学業、競技パフォーマンス、社会生活のバランスの取り方、ストレスやプレッシャーへの対処法、燃え尽き症候群の兆候、そして専門家のサポートを求めるタイミングについて詳しく解説されている。早期介入と適切なサポートが重要である。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoY3dYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
       "title": "学生アスリートのメンタルヘルスをサポートする方法",
-      "summary": "この記事では、学業と競技の両立に奮闘する学生アスリートのメンタルヘルスをサポートするための具体的な方法を提示しています。学業成績へのプレッシャー、競技での期待、人間関係の悩みなど、多岐にわたるストレス要因を認識し、適切な休息、栄養、睡眠の確保が重要だと述べています。コーチや保護者、教員が連携し、対話を通じてサポートすることの重要性が強調されています。",
+      "summary": "本記事は、学生アスリートのメンタルヘルスを多角的にサポートするための実践的な方法を提示している。学業や競技のストレス、睡眠不足、ソーシャルメディアの影響など、学生アスリートが直面する具体的な課題に焦点を当て、保護者やコーチがどのように介入し、サポートできるかについて解説している。健康的なライフスタイルと心理的レジリエンスの構築が強調されている。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOXlfUmJ4RHl0b1dDZGFVUm9tQjU4S2hHZzJubmw0dVdLak1VSVpDNlNaX3l0YUlHcktyV2JOMXBfX0ZOcWI0djdBU2RMUV9GVV9LU1BnU0IwVWg5dTdnZEt0eHBXeWxIVFVBbHRkWTg5bENGZExqLXJNZEE?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "共和党大敗にバンス副大統領「敗北の理由は戦争だ」…イラン攻撃決断のトランプ氏との対立招く可能性も",
-      "summary": "米国の共和党が大敗したことを受け、バンス副大統領は敗北の主な原因はイラン戦争にあったと指摘しました。\nこの発言は、イラン攻撃を決断したトランプ大統領との間で深刻な対立を生む可能性があり、今後の政局に大きな影響を与えそうです。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lLVRoQnQtcWpDSkxibUdJanhkVXotSDlLOTlMOXZUM1VZdXBBdGtUUm5EY3QwWUVrX3M2ZG91WWpqaHhpZ3l0WjhWVU9pdWFTRVRYRml6OG11SGRUTG1HV1JB?oc=5"
+      "title": "次の米大統領は民主オソフ氏？ 予測市場で急浮上、バンス氏は後退",
+      "summary": "2026年米中間選挙の結果を受け、次期大統領選の予測市場で民主党のジョン・オソフ氏が急浮上し、共和党のJ.D.バンス氏は後退している。\nこれは、中間選挙での民主党の勢いと有権者の意識変化を反映した動きと見られ、今後の大統領選の動向に注目が集まる。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MY1RvdFlxRVg5Y3NHNjVxeWNlU1pPVjdkZjVQdUVzbUFPSm53Qi0wNHJBZW1TR1l1a3hrQjlEeU5ucXFCOHFPeUViTG5XQTNGcjcwR05OTXFuQjNLOFdmeTlEQ1FqSzVrMkFDeg?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "今日11月5日(木)の天気予報 全国の広い範囲で雨 父島は台風接近",
-      "summary": "本日11月5日(木)は、全国的に広い範囲で雨が予想されています。\n特に、父島付近には台風が接近しており、警戒が必要です。\n最新の気象情報に注意し、外出の際は傘を携行するなど対策を講じてください。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84Z3J0U0s0VzVMal9sUzdVcDluYWZxaHdBRHhOOGlUNzlRMEZQSE43RXF6Rk82NC1TdHRRV2pYaHgwTnEzZnI1ZWFpQ3NYWGN0TUtGaA?oc=5"
+      "category": "政治",
+      "title": "ルビオ国務長官が辞任検討か 中間選挙での共和党大敗受け ブルームバーグ通信報道（TBS NEWS DIG Powered by JNN）",
+      "summary": "ブルームバーグ通信の報道によると、米国中間選挙での共和党大敗を受け、現職のルビオ国務長官が辞任を検討している可能性があるという。\nこれは政権内部での動揺や責任問題が浮上していることを示唆しており、今後の政界の動きが注目される。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HWkJ3RFpFbjlialVWYnBiZkM4bkNpdmNKN1pmczViQmVQMkg0ejdfcWFDczNvaHRfVnh6eXAta1dDLXZqMi1KTkVHNVg3TkRfeDJHektSX0JJX3l5ZV9DajlGRHhUZGdnUEZVd2gzMEliRTlpakFTREx0R2drTzg?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "経済",
-      "title": "消費税減税あすにも衆院通過へ、自民が採決を提案…食料品の税率「２年間１％」に引き下げなど柱",
-      "summary": "消費税の減税法案が、明日にも衆議院を通過する見通しとなりました。自民党が採決を提案しており、食料品の税率を2年間1%に引き下げることなどが主な柱となっています。\nこの政策は、国民生活や経済に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wRURqTnRqTWlDa3ptODJHUkdWV2hHbXJoM3N0U1REaGhEcEMzZlFMRmg1c1JJZVBXUlFvYURLd1FpYzdaY0lvdnc2SWEzd1EtcURDT3JEZG1qS2N4dTRpLTVMUXNVQQ?oc=5"
+      "category": "社会",
+      "title": "大阪駅前の突起物 「排除アート」否定も、内部文書にあった目的",
+      "summary": "大阪駅前に設置された突起物が「排除アート」であるとの指摘に対し、市は否定しているが、内部文書には特定の目的が記されていたことが判明した。\nこの問題は、公共空間におけるデザインと利用者の権利、そして行政の説明責任について議論を呼んでいる。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IOGkxLUlQb1hzOUhoUERldUVzb2JmaVFZTGViMGNuWTNBMUNGYjRqTERjZ0ZtbFNxNUEwVnFma0FiNVBmRDJqUjFIT2F3WU9Bb2I3OHBib3c1Nmk4cERuUmY5WlIzVEMt?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "文化・エンタメ",
-      "title": "「書道」ユネスコ無形文化遺産に登録へ、評価機関が勧告…１２月にも正式決定",
-      "summary": "日本の「書道」が、ユネスコの無形文化遺産に登録されることが濃厚となりました。\n評価機関が勧告を行い、12月にも正式決定される見込みです。\n日本の伝統文化が国際的に評価される喜ばしいニュースです。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GV2JPMnl0U1pSMFk2T1FtYklOWDZTeGhrVW9aZExydFFIOWYxRFlyTFNna3Bsa3I1SDF4eGJNNFRiQkYwaER2Z2dBTWRfSHh2Vm52THNCbFd5dDZiWlk2aDc2ZkE?oc=5"
+      "category": "政治",
+      "title": "米民主党、下院で250議席超を獲得へ 上院はアラスカなど2州で大接戦",
+      "summary": "米中間選挙において、民主党が下院で250議席を超える多数派を獲得する見込みであることが報じられた。\n一方、上院ではアラスカ州など2つの州で依然として大接戦が繰り広げられており、最終的な上院の勢力図が確定するには時間を要する可能性がある。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1renhZd2tFZTh6UFVNZFI2NGd0SVhhR29RTjRucjlzX2EyVzY5aDdqdVpLeURfa3l4VEhVR0lrZ0ZDRU1xdVhlY1U3NTRieGRW?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "米国による制裁で資金繰り悪化のＩＣＣへ、日本からの分担金前倒し拠出で政府調整",
-      "summary": "米国による制裁措置により資金繰りが悪化している国際刑事裁判所（ICC）に対し、日本政府が分担金の前倒し拠出を調整していることが報じられました。\nこれは、国際法廷の機能維持を支援し、国際社会における日本の役割を果たすための動きとみられます。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwYWtsSmdSWDdvRk5xTndLUjFCVDVueVZkTDVCTi1ZU3VJYXBuaDJVMTRhdjRMODlJcXVlRllIOS0yX0FlcEZwamUzWE5PNlJYZlhTNFltdTFGc2ZsM2c4d3g4NDZYUQ?oc=5"
+      "category": "経済",
+      "title": "「トランプ関税撤廃法案」成立は望み薄 AIブームに負の側面も",
+      "summary": "米国議会で「トランプ関税撤廃法案」の成立が見送られる可能性が高まっていると報じられている。\n同時に、現在のAIブームが経済や社会に負の側面をもたらす可能性も指摘されており、技術進化に伴うリスクへの警戒が促されている。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jeUc1V0VRZk1MVlMtLUVnU21hajNIb1c2aVhXaFkzakJqWGhpN29SeUZPSWMxLWtoNDljdHZyRWd0WDZrWHJHMzFrQ2J3R3pZNmtDbW02RTJIY01XOHFJUnJNMDJzTlJo?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "バンス氏、共和党大敗の理由はイラン戦争だと語る：「誰もが敗因を知っている」",
-      "summary": "バンス副大統領は、共和党が選挙で大敗したのはイラン戦争が原因だと述べ、その理由が明らかであると主張しました。\nこの発言は、党内の指導層、特にイランへの軍事行動を決定したトランプ氏との間に亀裂を生じさせる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cHNJSHQyeHVUM1JkOGF0UzhfbzFPRXlhZkc2WlhtLVJ2Ym1vSWl6akxucDd0cGowR1RsbEVBWUU2RHVVVWc3X09kLUhTVFF4OHpsT1JMQ0xYS3M?oc=5"
+      "title": "テキサス州の「青い波」が共和党にどう押し寄せたか",
+      "summary": "テキサス州で期待されていた民主党の「青い波」（民主党優勢の動き）が、中間選挙で共和党にどのように影響を与えたか、または期待されたほどの成果を上げられなかったかを分析している。\n州レベルでの政治的なダイナミクス、有権者の動向、および選挙戦略が詳しく検討されている。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHRtYUNtODRGck03NHdmVDFBWUVnbXFhNF9JODdZcFktOUFHalBPOG15RzE1QkU1V3Nzc3RnTGRCREZSbFlqbTI4Ui1mUEV4TnpmSjBtd3lVd0JFU1hDb2lkTmotbmNuQzBGWjVwRHNTN2c2eXc4OTdqc0pMS2thQjc2NDNHbkNrOWJF?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏、国防総省のヘグセス氏後任にロン・デサンティス氏を検討とCBSニュースが報じる",
-      "summary": "トランプ前大統領が、国防総省のピート・ヘグセス氏の後任として、ロン・デサンティス氏を検討しているとCBSニュースの情報源が伝えました。\nこの人事は、トランプ氏が次期政権を視野に入れた閣僚人事を進めている可能性を示唆しており、今後の政治動向が注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMklJaVBENktZYUVEYUZwYUZCVEtYZ0M3X0R2Tll4NGFxU0NrQjgwVUZWdklLMXN2TDVjRlFYTURmVU1ZY01TWVdqZlZOQ0FsN3k5Q2diSGVMT2ZJSDYzdjVaUDhyMkZZak52Wm5JcmxYaXVvNzNYN1pkNWhiZkVjbHBxZFc2RE8wUGlOMUsxYWlDN0NrTExWcWFIT05wG2VHY0JyRFJBZWJqcGl3M2VPS3RQTmlld0JJdEN0TTFFeHZsRHliMFhMLXlUUHV2Zll4WWZvVWN3?oc=5"
+      "title": "ミシシッピ州上院選挙：民主党スコット・コラム氏が共和党シンディ・ハイド＝スミス氏に僅差でリード",
+      "summary": "ミシシッピ州上院選挙で、民主党候補のスコット・コラム氏が共和党現職のシンディ・ハイド＝スミス氏に対し、ごく僅差でリードしていることが報じられた。\nこの接戦は、全国的な政治情勢と地方の有権者の意識が複雑に絡み合っていることを示している。",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakxhcDZneXF2MVZCSXh2YzFDVWp5UVBOT0w1cmtoQ1R4NHBKTkNRMTJFOV9DN18xd3hwTEo5cGNUWVhLdElWd3VvLUcteXRzMThLek4tWXE0UWV1WHJwWEhacmQtRkszZDNVcTVKaGpjYzdGMkFSLWphTk41OGxmb0UxMnBfbUhVLUNQbm5CN3nSAZYBQVVfeXFMUGk2V0ZVVUdnZFo4M2tuUklLTy1SQVZBZUR3b19SdWxreWpLOExrVzcyeUwzTTg0MlZ1bW1Zd1dsUmNUcVJYb2VXY3B6MDRMbjl4YndEa2Z4eW9YYmo2bjlkajV3aHhvYm1YVzUxaG01ck1OYklJQl9FUGlraHotVlZuTkVfU0ZVWTVMckV5S0ZONlJnMmZ3?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ミシシッピ州上院選の賭け率、民主党スコット・コラム氏が番狂わせを演じる可能性を示す",
-      "summary": "ミシシッピ州の上院選挙において、民主党候補のスコット・コラム氏が、市場の賭け率で番狂わせを演じる可能性が高まっていることが示されました。\nこの予想は、共和党の優勢が続くミシシッピ州で、民主党が議席を獲得するかもしれないという波乱の展開を示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLVIzYy1HaTh2RERQNl8zWlNvSFRud3dudmdKdkNienZnck5DVy1GdW43a1p0YTNYV2NMQm5YYzV4djFSU2k4RkFtdndHcktLcmN6US1ka3FxWkVtMnp5MThGWU43YTkwb3RGOGFZTmV5ejNLQ2E4Tl9JdlpZMDZJUnE0RU5WQldHSy1kb2s2WFJqSF9ZNjg3LU0wTm5FR0xpTTdESXBMZFB4S3dEMklNaHZGeGtXVE5nU0NEbDI2WQ?oc=5"
+      "title": "ニティヤ・ラマン氏がロサンゼルス市長選で現職のカレン・バス氏に勝利",
+      "summary": "ロサンゼルス市長選挙において、ニティヤ・ラマン氏が予想に反して現職のカレン・バス氏を破り、市長に当選した。\nこの結果は、ロサンゼルスの政治的地形における重要な変化を意味し、新たなリーダーシップへの期待と課題が浮上している。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsTnVzamtWQkZEV1Rld1BkNHlYeUd4ZV9GTzl3R0ZLcjlnMlAwLUlnbENGLWtvSUVtMkFTYmtDRWFiTWdISHRvUzh0S0dGZ1VyYXNDTDVmNXZjckE?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "「ルパートは敗者と共にいたくない」：マードックのメディア帝国、トランプ氏への支持が冷める",
-      "summary": "メディア王ルパート・マードック氏のメディア帝国が、トランプ前大統領への支持を冷ましていると報じられました。\n関係者によると、マードック氏は「敗者とは共にいたくない」と考えているとされ、これはトランプ氏の政治的影響力の変化を示す兆候として注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0loTnJ6NDVnUzJ0ZVpRSGhmOTItVktsamVoQ0RIVDl5MnE0Y2hYajlBTnJvQUplTVpWRjNER3hnM3FZejNuQ245UXIycWxYVDFLWUxyUVlPQ2tfUUtGZ2R3Tm9JakJGQ2RFRDZuTXJUOXRXd2xCVXoxQ0NTSVItY2Y3VEk?oc=5"
+      "title": "中間選挙が終わり、民主党は2028年大統領選に向けて広範な競争に突入",
+      "summary": "米国中間選挙の終了を受け、民主党は2028年の大統領選挙に向けた候補者選定のプロセスに本格的に突入した。\n多くの有力な民主党員が次期大統領候補として浮上しており、今後数年間の党内の競争が激化すると予想される。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXdzQ2lsb2Z4akFLZzFiR3otamdxek1RbXM3WWVWTE9hcXJRR28yMlZ1LU8zb1c2RWpGQ1NRNmVNSXVXVU5BSkJBYmgzeTRoTlNiUFpGX3B0eEdkVWM3ZlVrTVRBRHJOc05WUVFGY2dvcG9YLVhSUlN4S2NhdnlUZk1ZVDRjMGNIa1lBUWVNbGNsNmEtRnBFeDZSdjBRVzJfV2pnWkdSU19yb2JqNERLR1d2NHl0alhPbDVJSlV3?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "民主党の議題：トランプ氏とその家族に対する調査",
-      "summary": "民主党は、今後の政治的議題としてトランプ前大統領とその家族に対する調査を進める方針であることが報じられました。\nこれは、共和党の選挙敗北を受けて、民主党がトランプ氏のこれまでの行動や取引について、さらなる追及を強化する意向を示唆しています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZHE4X3EtZUwtM2hDdy1oa1JveHVwbDVSeVRJVXBBOGpUWFB3dW1xcjBZdlNwMDlKTVFLTmNLUnY5ZGRXd3VtLUhnc3E5QWh0YjBvektwRHhRa215S1ZYQlAxaEw0c0E5WHZCR1NEZUhrZ3g2ZkpSRnBfb1oyOTBtbWdMRzI4MU0?oc=5"
+      "title": "トランプ氏、金で覆われたオーバルオフィスへの変更阻止を試みる宣言に署名",
+      "summary": "トランプ氏が、大統領執務室（オーバルオフィス）の豪華な内装、特に金で覆われた装飾品の変更を阻止するための宣言に署名したことが報じられた。\nこの動きは、彼が大統領時代に行った改修を後任の政権が変更することを防ごうとする意図があると見られている。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNem85Z3hoQWN4SjhHUDViMzU4cFJsdU5ZT1U0OHBVVW1fb2hqQWRSaVc2SlJDZlB4OVVfWDJ6OVBmdTlBLUVqZkw1Z0dscndiajBET0RUUmh5c2VjVlk2V1dUSUNWOFhIVzdsTy00c012SjgyRWtPZjRqMVF1dng5dS0tUlNsM3ZITTZ1OFRn?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "思春期バレーボール選手における神経筋トレーニングの二重の恩恵：膝の怪我予防と運動パフォーマンスは共通のメカニズム的基盤を共有する",
-      "summary": "この体系的なレビューは、思春期のバレーボール選手における神経筋トレーニングが膝の怪我予防と運動パフォーマンス向上に同時に寄与することを示しています。これらの効果は、身体の安定性、協調性、反応性の改善という共通のメカニズムに基づいていることが明らかになりました。特に、ACL（前十字靭帯）損傷予防において、神経筋トレーニングの重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "title": "バスケットボール選手における俊敏性向上と傷害予防のためのVRアシスト神経筋トレーニング効果：対照実験研究",
+      "summary": "この実験研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングがバスケットボール選手の俊敏性パフォーマンスと膝前十字靭帯（ACL）などの傷害予防に与える影響を検証しました。結果として、VRを導入したトレーニングが従来のトレーニングよりも選手の身体能力と予防効果を高める可能性が示されました。特に、複雑な運動パターンを没入型環境で再現することで、実際の競技状況に近い反応を促すことが有効だと考えられています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
-      "category": "Sports Medicine / Orthopedics",
-      "title": "GBMC整形外科医がスポーツ傷害と受診のタイミングについて解説",
-      "summary": "GBMCの整形外科医が、一般的なスポーツ傷害の種類とその治療法について解説しています。特に、いつ専門医の診察を受けるべきか、どのような症状が緊急性を伴うかといった判断基準が示されています。早期の適切な介入が回復を早め、長期的な合併症を防ぐ上で重要であることが強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQTFaZGFtNTJLRkVWdDMwMnBzcUIyMlp4aGJsR3l0ekhYXzdkb0RtaS1ycF9JNHI2YlJEZm9SbEh1cWdhc3gtRDktSUFxVmxRWk9feVk3VE1RZEdnM3RvVzFHajJLRFh0Xzlub216M2hqMVpyai1YYTN4OE1DeTVrdVJaNUxVbW9ER09RZGZmdEJrREl3aDdOeTNzN1NwSzVaZjN5SUlxcXRMd2tWUm55aUN1TExNQ0p3el9IalNZbWRtTmZCamRJc0ln?oc=5"
+      "category": "Biomechanics / Exercise Science",
+      "title": "トレイルランニングの生体力学",
+      "summary": "この記事では、トレイルランニングにおける生体力学の重要性を解説しています。不整地を走るトレイルランニングでは、路面の変化に対応するための足関節、膝関節、股関節の協調した動きが求められ、特に着地衝撃の吸収や推進力の効率的な伝達がパフォーマンスと傷害予防に直結します。適切なフォームやギアの選択が生体力学的負荷を最適化し、安全かつ効率的な走行を可能にすると述べています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     }
   ]
 }
