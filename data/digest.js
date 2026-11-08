@@ -1,76 +1,76 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/11/07",
-  "generated_at": "2026-11-07T00:29:09.647Z",
+  "issue_date": "2026/11/08",
+  "generated_at": "2026-11-08T00:03:42.099Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バレーボールをする思春期選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語レビュー",
+      "title": "青年期バレーボール選手の神経筋トレーニングの二重の利点：膝の怪我の予防と運動能力の向上は共通のメカニズム基盤を共有：構造化されたナラティブレビュー",
       "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUQlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5",
-      "abstract": "このレビューは、バレーボールをする思春期の選手に対する神経筋トレーニングが、膝の傷害予防と運動能力向上に共に効果的であることを示唆しています。特にACL（前十字靭帯）損傷予防とパフォーマンス向上は、身体的コントロールと運動パターンの改善という共通の基盤に基づいています。",
-      "insight": "若年アスリートのトレーニングプログラムに神経筋トレーニングを導入することで、ACL損傷のリスクを低減しつつ、同時にジャンプ力やアジリティといった競技能力を高めることが期待できます。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5",
+      "abstract": "青年期バレーボール選手を対象とした研究では、神経筋トレーニングが膝の怪我の予防と運動能力の向上に同時に貢献するメカニズム的基盤を共有していることが示されました。このレビューは、これらの効果の共通の根拠に焦点を当てています。",
+      "insight": "怪我予防とパフォーマンス向上を同時に目指すトレーニングプログラムの設計において、神経筋トレーニングの重要性が裏付けられました。",
       "published_at": "2026-05-04T11:36:16.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学：科学的アプローチ",
+      "title": "トレイルランニングのバイオメカニクスの科学",
       "source": "Trail Runner Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cElyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
-      "abstract": "トレイルランニングにおける生体力学の重要性に焦点を当てた記事です。不均一な地形での効率的な動き、衝撃吸収、そして怪我予防のための体の使い方について科学的な視点から解説されています。",
-      "insight": "トレイルランナーは、特定の地形で求められる身体の適応性を理解し、それに対応するトレーニングを取り入れることで、パフォーマンス向上と怪我のリスク軽減を図ることができます。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcUR উত্তেজনা-ODhsb09EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
+      "abstract": "トレイルランニングにおける独特な地形への適応と、それに伴うバイオメカニクスの特徴について解説しています。足元の不安定さや起伏のある路面での衝撃吸収、エネルギー効率などが分析されています。",
+      "insight": "トレイルランナーは、不整地での効率的な体重移動と衝撃吸収に焦点を当てたフォーム改善やトレーニングを取り入れることが推奨されます。",
       "published_at": "2026-08-20T07:00:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷を負ったアスリートの競技復帰支援",
-      "source": "Mayo Clinic",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5",
-      "abstract": "この記事は、肘の内側側副靱帯（MUCL）損傷を負ったアスリートの競技復帰に向けた最新のスポーツ医学的アプローチについて解説しています。診断からリハビリテーション、そして最終的な競技復帰までのプロセスが詳細に示されています。",
-      "insight": "MUCL損傷のアスリートを支援する医療従事者は、個々の損傷度合いと競技特性を考慮したテーラーメイドのリハビリテーション計画と、段階的な復帰プロトコルを適用することが重要です。",
-      "published_at": "2025-12-02T08:00:00.000Z"
+      "title": "ACL断裂？回復方法と将来の怪我の予防法",
+      "source": "Riverside Health",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUdJc3BtdG83end4MjZtVFJYSUt0aHYtUlRPRUVGR1FhNWliczFJbC01UWpDeVl1RUR1STZEcG5YQ19falNtX2l2dUpkVVh2SzlUUmRSTm9QeHVFT0ZrTHlESnF0NkRFMi1xWFZqOFJCdE9XOEdHbXctdG13V0ZKYTgtSlJ0Z2kxMDIzQlF3RE9KSkIwbFZ6UkN3UVpnYkdmSnJWU0E2UVpvTXh1enZmbw?oc=5",
+      "abstract": "ACL（前十字靭帯）断裂からの回復プロセスと、将来の再発を防ぐための予防策について説明しています。リハビリテーションの重要性、筋力強化、バランス訓練、そして運動への安全な復帰計画について詳述しています。",
+      "insight": "ACL断裂からの復帰を目指すアスリートは、医師や理学療法士の指導のもと、段階的なリハビリテーションと再発予防に特化したトレーニングを計画的に行う必要があります。",
+      "published_at": "2025-07-09T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響",
+      "title": "急性ハムストリングス肉離れを負ったアスリートのプレー復帰までの時間と再受傷率に対するリハビリテーション介入の効果 | Scientific Reports",
       "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5",
-      "abstract": "急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再受傷率にどのように影響するかを調査した研究です。効果的な介入が迅速な復帰と再発防止に寄与する可能性を示唆しています。",
-      "insight": "ハムストリング肉離れのリハビリテーションでは、単に症状の改善だけでなく、競技特異的な動きを取り入れた機能訓練や筋力強化を早期から導入することで、安全かつ迅速な競技復帰を促し、再受傷のリスクを低減できるでしょう。",
+      "abstract": "急性ハムストリングス肉離れを負ったアスリートを対象に、異なるリハビリテーション介入がプレー復帰までの時間と再受傷率に与える影響を調査しました。研究結果は、特定の介入がこれらの指標を改善することを示唆しています。",
+      "insight": "ハムストリングス肉離れからの復帰においては、早期かつ適切なリハビリテーション介入が、プレーへの迅速な復帰と再発リスクの低減に不可欠です。",
       "published_at": "2026-10-05T07:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学鍼治療の系統的レビューとメタアナリシス",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
-      "abstract": "本系統的レビューおよびメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の効果を評価しました。特定の筋骨格系疼痛に対して、補助的な治療法として有効である可能性が示されています。",
-      "insight": "スポーツ現場で疼痛に苦しむアスリートに対し、従来の治療法に加えて、西洋医学的鍼治療を補完的に検討することで、疼痛の緩和や機能改善を促進し、競技復帰を早める一助となる可能性があります。",
+      "abstract": "アスリートの疼痛管理における西洋医学的鍼治療の有効性を評価するため、系統的レビューとメタアナリシスを実施しました。様々な研究結果を統合し、鍼治療の疼痛軽減効果について分析しています。",
+      "insight": "アスリートの慢性的な疼痛管理において、薬物療法以外の選択肢として、西洋医学的アプローチに基づいた鍼治療の導入が有効である可能性があります。",
       "published_at": "2026-02-03T18:00:13.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
-      "source": "Verywell Health",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5",
-      "abstract": "この記事では、クレアチン、カフェイン、β-アラニン、プロテイン、分岐鎖アミノ酸（BCAA）といった、運動能力向上に寄与する可能性のある5つのサプリメントとその効果について解説しています。",
-      "insight": "アスリートや運動愛好家は、自身のトレーニング目標や栄養状態に合わせて、科学的根拠に基づいたサプリメントを適切に選択し、専門家のアドバイスのもとで利用することで、効率的なパフォーマンス向上やリカバリーをサポートできます。",
-      "published_at": "2026-09-30T07:00:00.000Z"
+      "title": "ティーンエイジャー向けスポーツサプリメント：推奨されるもの、注意が必要なもの、避けるべきもの",
+      "source": "Contemporary Pediatrics",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5",
+      "abstract": "成長期にあるアスリートがスポーツサプリメントを利用する際の注意点について解説しています。成長への影響、推奨される成分、過剰摂取のリスク、そして避けるべきサプリメントについて具体的に示されています。",
+      "insight": "保護者やコーチは、ティーンエイジャーアスリートのサプリメント摂取について、最新の情報を基に、安全かつ効果的な選択肢を指導することが重要です。",
+      "published_at": "2026-09-14T07:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子どもに運動習慣をつけさせる方法",
-      "source": "Cleveland Clinic Health Essentials",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYkdPR0ZNV2NVZ1B4QV9PX0tpQmpsMDNwNFlFTWpCaTJqbWg1SnlKX053WnFPbjd6U2NibmJzbDRmU3F5V1BVNkphcjNrTnlpaXZzSmlKbFUxNFBrQ3d0b0V3?oc=5",
-      "abstract": "子どもたちが楽しく、継続的に運動に取り組むための実践的なアドバイスを提供しています。スクリーンタイムの制限、家族での活動、様々なスポーツへの挑戦など、運動を生活の一部にするためのヒントが紹介されています。",
-      "insight": "保護者や指導者は、子どもが運動を「やらされるもの」ではなく「楽しいもの」と感じられるよう、遊びの要素を取り入れたり、目標達成の喜びを共有したりすることで、生涯にわたる健康的な運動習慣の形成を支援できます。",
-      "published_at": "2026-01-08T08:00:00.000Z"
+      "title": "学生アスリートのメンタルヘルス：保護者とコーチのためのヒント",
+      "source": "Johns Hopkins Medicine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
+      "abstract": "学生アスリートが抱えるメンタルヘルスの問題に対し、保護者やコーチがどのようにサポートできるかについての具体的なアドバイスを提供しています。コミュニケーションの重要性、ストレス管理、専門家への相談のタイミングなどが含まれます。",
+      "insight": "保護者やコーチは、学生アスリートとのオープンなコミュニケーションを心がけ、メンタルヘルスのサインに早期に気づき、適切なサポートを提供することが求められます。",
+      "published_at": "2026-05-05T15:36:18.000Z"
     },
     {
       "id": "r008",
@@ -78,56 +78,56 @@ window.DIGEST_DATA = {
       "title": "学生アスリートのメンタルヘルスをサポートする方法",
       "source": "University of Pittsburgh Medical Center",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOXlfUmJ4RHl0b1dDZGFVUm9tQjU4S2hHZzJubmw0dVdLak1VSVpDNlNaX3l0YUlHcktyV2JOMXBfX0ZOcWI0djdBU2RMUV9GVV9LU1BnU0IwVWg5dTdnZEt0eHBXeWxIVFVBbHRkWTg5bENGZExqLXJNZEE?oc=5",
-      "abstract": "学生アスリートが学業と競技の両立から生じるストレスやプレッシャーに直面した際に、メンタルヘルスを維持・向上させるための具体的なサポート方法を提示しています。オープンなコミュニケーションや専門家の利用が重要視されています。",
-      "insight": "コーチや保護者は、学生アスリートが抱えるメンタルヘルスの課題に敏感になり、安心して相談できる環境を整えることが重要です。早期の兆候を見逃さず、必要に応じて心理カウンセリングなどの専門的サポートへ繋ぐことが、彼らの健全な成長とパフォーマンス維持に不可欠です。",
+      "abstract": "学生アスリートが直面するメンタルヘルスの課題に対して、保護者やコーチがどのように関わり、サポートを提供できるかについての指針を示しています。ストレス、プレッシャー、燃え尽き症候群などへの対処法が含まれます。",
+      "insight": "学生アスリートのメンタルヘルスをサポートするためには、単に成績やパフォーマンスを追求するだけでなく、心身の健康を包括的に捉え、個々のニーズに合わせた支援を行うことが重要です。",
       "published_at": "2026-10-23T07:00:00.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "政治",
-      "source": "読売新聞",
-      "title": "［深層ＮＥＷＳ］共和党大敗がトランプ氏に与える影響「権限大きい軍事外交分野でレガシー見いだす」…長島昭久氏",
-      "summary": "中間選挙での共和党の大敗が、トランプ前大統領に与える影響について長島昭久氏が分析しました。トランプ氏が、その権限の大きい軍事外交分野で「レガシー（遺産）」を見いだそうとする可能性を指摘しました。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2YnJqcjVPQ3AtUWR6a2szTDgtbjRpbjJCVTc1ekRMWTZLV1VsZzJyMkxtY2FBdWhkYzRla0tVZUpneDFvd250ckZKdFpKNTRrV1dab1hOeWdHdExvSHRLaDB3?oc=5",
-      "published_at": "2026-11-06T15:21:00.000Z"
+      "category": "社会",
+      "source": "TBS NEWS DIG",
+      "title": "【地震情報まとめ・随時更新】愛知県で最大震度5強の強い地震 けが人も 被害･交通情報の詳細",
+      "summary": "愛知県で最大震度5強を観測する強い地震が発生しました。これまでに複数名がけがをしたとの情報があり、一部地域では交通機関にも影響が出ています。最新の被害状況や交通情報などを随時更新してお伝えします。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1cFdIX19aWWNLVnZuNG9DT0VhU090NU5ZYkVuMkhFdFREM0REQ0FkRk9pdVRIZlNiZlRBSmxpT2tXcVdqMFk0SjBuMTJUMWNVeC04RmFmMA?oc=5",
+      "published_at": "2026-11-07T23:14:00.000Z"
     },
     {
       "id": "j002",
       "category": "政治",
-      "source": "時事ドットコム",
-      "title": "米大統領首席補佐官が退任 トランプ氏最側近、中間選挙大敗の引責か",
-      "summary": "トランプ米大統領の最側近である首席補佐官が退任しました。これは、中間選挙での共和党の大敗を受けた引責辞任ではないかと報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4NjVNZFV3UHpXbVlxTzhZLXZ5ei00Y2daeTd1OEJvZTlHSWN2czdyeTctRjlsU1JmY2kxdVNuWEFha2k4SDNjcTBnRDFCaXVPUlBCUU83WVJzSkdDMW0xV1RTQQ?oc=5",
-      "published_at": "2026-11-06T22:14:00.000Z"
+      "source": "産経ニュース",
+      "title": "減税法案採決を退席した石破氏 14年前は増税反対の鳩山氏らに「さっさと離党を」と批判",
+      "summary": "減税法案の採決を退席した石破氏の行動が波紋を広げています。14年前には増税反対を唱えた鳩山氏らに対し、「さっさと離党を」と批判した過去の発言が改めて注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEYxVktjQkFDcTlydWxBUnlrTkZOckFRVlROek1uY1ZXZkJWbnNYQkdYRWFRNm9RZEtwRmZzYTdCeDFhdE93eHpZYXNVclpmWnV4TXg5Q0ZVQmtFQ2hxMnFwSFpwbjBVZnVUZ1JjVHZBaUV5YUkzOTIwd05seHQxb0VqZW5UUWVjVkN1Yw?oc=5",
+      "published_at": "2026-11-07T22:46:33.000Z"
     },
     {
       "id": "j003",
-      "category": "政治",
-      "source": "Yahoo!ニュース",
-      "title": "高市総理「台湾有事」発言から1年 日中関係は「重要な隣国、課題ある中でも長年の積み重ねがあり、戦略的互恵関係を推進」",
-      "summary": "高市総理による「台湾有事」発言から1年が経過し、日中関係の現状について言及がありました。高市総理は、日中関係を「重要な隣国」とし、課題がある中でも長年の積み重ねを基盤に戦略的互恵関係を推進していく方針を示しました。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtclJGV3lGcXlFS1VCN1p3NjJ1VGg2R2dfUEkyTE1VWGlwQ3I3NFd6alVVYWpCZHplYlQ3R0JYN0tuOUtlaTZpSm9YZk94T1A2dE1NMlYwd2JGa2tTSmVtWUxOc1BmVHJUbGt4WXd4bUtFV05EcmFqZG4xV2lKWjA?oc=5",
-      "published_at": "2026-11-06T09:21:25.000Z"
+      "category": "国際",
+      "source": "読売新聞",
+      "title": "中国で服役中のアステラス製薬社員、来月中旬に刑期満了し帰国する見通し",
+      "summary": "中国で服役中のアステラス製薬の社員が、来月中旬に刑期満了を迎え、帰国する見通しであることが分かりました。詳細については、今後の発表が待たれます。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95WEJtUnhINmlOcVFKS05na0dvUEJ4VlFDOFhVTDRQMmlhOWFjN25MYTNBRTl6MWlMbXgtdE42dzA1MmhCNWxjWDBGS3U2Q3NfemxLLWNaVHU4VTRrS0ZBcEhR?oc=5",
+      "published_at": "2026-11-07T11:55:00.000Z"
     },
     {
       "id": "j004",
-      "category": "社会",
-      "source": "読売新聞",
-      "title": "元皇族の久邇邦昭さん死去、９７歳…上皇さまのいとこで戦後に皇籍を離脱",
-      "summary": "元皇族で上皇さまのいとこにあたる久邇邦昭さんが97歳で死去されました。久邇さんは戦後に皇籍を離脱し、その後の人生を歩んでこられました。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNNTRlZXhxU2NsU3B5bHQyNkRZSkpFVUI5X3JiOEF6WGtVbTZVZVpoNDczaG9GLVlieV9ZR0FBekY2VEdoa1MxY2NsaEJZVGZGZUdSNnh5TUdVZWt4Ul8yMENUYVVZQQ?oc=5",
-      "published_at": "2026-11-06T21:39:00.000Z"
+      "category": "国際",
+      "source": "毎日新聞",
+      "title": "高市首相の台湾有事発言から1年 悪化止まらぬ日中関係に識者は",
+      "summary": "高市首相の台湾有事に関する発言から1年が経過し、依然として悪化が続く日中関係について、識者たちが分析しています。今後の外交関係の行方が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VNml4N0pOamNJekE1dkdHVDFjTk5OazVuSXNPVG9zd1FLTkdkMjlfZTBzOEc4YWl5MHZKR0Vrd0lsaXhDU3JNU1p0UzExN3pZV1pWSXo5ZTE4eC1xTDFmYXllTXl1ZTVX?oc=5",
+      "published_at": "2026-11-06T21:34:00.000Z"
     },
     {
       "id": "j005",
       "category": "社会",
-      "source": "読売新聞",
-      "title": "駅のホームから転落させ、頸髄損傷など「治癒の見込みないけが」負わせた被告に執行猶予付き有罪判決",
-      "summary": "駅のホームから被害者を転落させ、頸髄損傷など治癒の見込みのない重傷を負わせた被告に対し、執行猶予付きの有罪判決が下されました。この事件は社会に大きな衝撃を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vLXZBX0VwcW9pVWVpdlVRODU5ZnBQek5CODlSWE1nQU9uXzF5VnplQzRKMHNDYmsyOEY0cGFUX0huZHFaVmRfRXE4cGdxNnZHNjlGS1o4RFNFSFBBMlFXQ0c5SHlDZw?oc=5",
-      "published_at": "2026-11-06T23:40:00.000Z"
+      "source": "Yahoo!ニュース",
+      "title": "茨城・結城市の2階建て住宅で火事 2人の遺体が見つかる うち1人は子どもか 住宅ではパキスタン国籍の10人ほどが生活",
+      "summary": "茨城県結城市の2階建て住宅で火事が発生し、2人の遺体が見つかりました。遺体のうち1人は子どもとみられています。この住宅にはパキスタン国籍の約10人が生活していたということです。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MQVlKYi0tMXBHVmJTMFdDYVozbFB3Nzh0VFZkMXU0WUVIMTdKWGFyZ2RtdHZCOWNCMElwcVQ1VzBwY2R4QU9WZGczOHc5aGpHS0N4MFJLckU5N3RjOEpNSkRYXzgxRGdKalU1QTUxczRtLTVqNnBGSXRLNkV1Wk0?oc=5",
+      "published_at": "2026-11-07T21:33:21.000Z"
     }
   ],
   "global_news": [
@@ -135,51 +135,51 @@ window.DIGEST_DATA = {
       "id": "g001",
       "category": "Politics",
       "region": "US",
-      "source": "Politico",
-      "title": "スティーブン・ミラー氏がスーシー・ワイルズ氏に代わりホワイトハウス首席補佐官に就任",
-      "summary": "米国の政治専門メディアPoliticoによると、スティーブン・ミラー氏がホワイトハウスの新首席補佐官に就任し、スーシー・ワイルズ氏の後任となります。政権の主要な人事異動として注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1BHOEpVT0E0bUtPTTF5aGVQWlZKckhPR1FRbktnUzlNdF9UZFQ0cGJ5ZGUzMWJrTUVJc1FVSWNIYzB0MjU0UlBNb3daQkszNThSVThaT2hoOFNLNjdTSVJOWExTT3JERmxTNXNSNGEzY1RfaXZ6MHFCb3pMVEx1bDNmZ1dHNExVSWFlU1BvVDZLQlN0MEU1dzBsUkNEdw?oc=5",
-      "published_at": "2026-11-06T22:30:00.000Z"
+      "source": "The Washington Post",
+      "title": "ステファン・ミラー、新しいホワイトハウス首席補佐官について知っておくべき3つのこと",
+      "summary": "ステファン・ミラー氏が新たなホワイトハウス首席補佐官に就任したことを受け、彼の経歴や政治的立場、これまでの業績など、注目すべき3つのポイントを解説します。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0x5NXhxRFEtSUtTanJra3FqbExtTlpEMmFkYXNld2FMYjlLWlNQMnctNFFrQ1NzNzZ4VmJRbkV1dkM2WXhzUk91Z0Vja21jQ1lXOFVJWWJ3eEpKcGxta1hQWlc0am9LX1RjaDdzRU1jM2FuNEsyUkxZRV9KcS1xV2FfWVN6WVpZRjJnTjM0MXBBYThjVHJiYVFwcTBTNlRVLTZnQVFGVWotT3NrNWxJ?oc=5",
+      "published_at": "2026-11-07T21:32:20.000Z"
     },
     {
       "id": "g002",
-      "category": "Politics",
-      "region": "US",
-      "source": "The New York Times",
-      "title": "トランプ氏の報復キャンペーンの中核を監督した米検事が辞任",
-      "summary": "トランプ前大統領の「報復キャンペーン」の中心的な役割を担っていた米国の検事が辞任しました。この辞任は、中間選挙の結果と関連している可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFlEN09Nd3Vmekd6Zk1qU2M5eTdLMGZBTURXVVJtMnJ4d1FJcEZWNVcwZFJKSURWZHllR3kzTlE5SHJJQjZDdnU4MVo2WW9CWElQbFFIU1VBZk83WVQtaG5SOUpKNTBxaUt4a0oxb2xEb09uZnFGc2p4OHp2Ykc3TmkyTk1FVklk?oc=5",
-      "published_at": "2026-11-06T18:38:11.000Z"
+      "category": "Conflict",
+      "region": "Europe",
+      "source": "Reuters",
+      "title": "ポーランド、クラクフでの6人殺害の銃乱射事件に衝撃",
+      "summary": "ポーランドのクラクフで発生した銃乱射事件により6人が死亡したことを受け、国中が衝撃に包まれています。事件の詳細と、治安への影響が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
+      "published_at": "2026-11-07T22:16:54.000Z"
     },
     {
       "id": "g003",
       "category": "Politics",
       "region": "US",
-      "source": "BBC",
-      "title": "米中間選挙：接戦のミシシッピ州における再集計規則とは？",
-      "summary": "米国中間選挙で接戦となっているミシシッピ州の選挙結果について、再集計に関する規則が注目されています。開票結果によっては、再集計の実施が検討される可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wdGY2WWN0ZEtqQVh0ZkgteE92QXhCZjZDNXB1WUFrRmw2eTZSYVFsX2pnNm5TSVZhMjFjOVRHSjROQkhnNFpuN0JzSHVyZURLcDh2aEFSUW9JOXc?oc=5",
-      "published_at": "2026-11-06T22:22:51.000Z"
+      "source": "The New York Times",
+      "title": "トランプ氏、UFCのダナ・ホワイト氏に報道官就任を要請",
+      "summary": "ドナルド・トランプ前大統領が、UFC（総合格闘技団体）のコミッショナーであるダナ・ホワイト氏に対し、自身の大統領報道官に就任するよう要請したことが報じられました。ホワイト氏の反応が注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOamNmV1A0c0NPQmZjTTVXQU1FdGgzTVFna0xadkhQa0Q0cWZFM1BVRlFWVzV6WENJdjRQTC1RZ2N4ckEwdTRfODItdnNxQWNCZzZjdmFWQzM2V05NbTY4dE04ajJST0otRzVBUmVMVmo5YXVMQ3hLMHU5Q0pRMWx1M0lCd0VuZHJ6czl4Q2I3QWlZdw?oc=5",
+      "published_at": "2026-11-07T21:07:34.000Z"
     },
     {
       "id": "g004",
       "category": "Politics",
-      "region": "US",
-      "source": "Military.com",
-      "title": "海軍退役軍人アイリーン・ラウバウチャー氏、コロラド州でローレン・ボーバート氏を破る寸前",
-      "summary": "34年の海軍勤務経験を持つ退役軍人アイリーン・ラウバウチャー氏が、コロラド州の下院選挙で現職のローレン・ボーバート氏を僅差でリードし、勝利が目前に迫っています。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUtSREZad2UxRmFadDBreDVBT3ZtS3dObFc5Y085OWhCUWZLYlh0Uk51cURZVmx0aVMyVm5nU3hvU0NuUUlNRGZ0MDlQcDZNVEIzdVR0YTZBT3ZEZllzd3ViaWNBVEVJcktuM0tfSXFsUkJBUmg1YkZWVFlxY29yRWtBMmRhQWxPUzM3YzFrOVpxYXp3ZnBHRHBjUHJIaFN4N25IdlhERUpJcEJGQ05HclBB?oc=5",
-      "published_at": "2026-11-06T15:24:32.000Z"
+      "region": "Middle East",
+      "source": "Al Jazeera",
+      "title": "イスラエルの大統領、ネタニヤフ氏ではなくアイゼンコット氏を次期政権樹立の任に",
+      "summary": "イスラエルの大統領は、次期政権樹立の任務をベンヤミン・ネタニヤフ氏ではなく、ベニー・ガンツ氏（※元記事ではアイゼンコット氏と記載あり）に託しました。この決定が今後のイスラエル政治にどのような影響を与えるか注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjJubXg0Znh4QVI4cm5kSENUVE9LYXZWR2xJZm5Ya2NQRDRzcXZRMzNMakZzTHpPbFp6cE51WHBmNUlLWlN5T0F5X1ZoeUpRYklCOVNkOU50enRfMFlGTGVsTktVQU1qcWhfazN0eE5yZGJfd1Fmdk9SY1NZSkZta3E4M2x3cHhrb20wbDl5YU5UdkZVRlVOTWZCSFhFSkh5QU5EbnpMRkIxaFIxQWVSdEN30gG3AUFVX3lxTFB5OENqM2pFYzQzdXlrMHBiaGF1RlhPd2hDQzJxSW1FQlNqRVNMV3VlOFMwS0tLaDM1RThDcmF3ZVZSMUM0SkFXenhDZmlCMW0tWUhhQ2d6OWJYQlprd3h3SUttM2djTDlIM09HdVVWY1VJZ01hZ3REbkpTellwSDQ0WVpQcFNyTUM3MlZhenhwcWFYS3p1MjB5bDlTQ1ZYbVNRN2tQdER4N3RYaFowcVVIRjN6X1k5WQ?oc=5",
+      "published_at": "2026-11-07T23:19:46.000Z"
     },
     {
       "id": "g005",
       "category": "Politics",
       "region": "US",
-      "source": "CBS News",
-      "title": "米下院・上院の中間選挙、まだ勝者が決まっていない選挙区",
-      "summary": "米国中間選挙において、未だに勝者が確定していない下院および上院の選挙区が存在します。これらの選挙区の結果が、議会の勢力図に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm1vVUVNdk1FNWRfMFlpenMya2pETU00SkhBNGFQOTJGSTlKTDYyTmRLZElSd0ZfOU9oTW83aE5IZnN3SjZPVmZpQ2NuVUZGWTE1bzFMVHpmMDhNQU5uOGV4MGlERlRoeWJ0bG5RcmtaOG1GLUdQS05nN3pVanBtS1BaMHhCc21mS0gtcA?oc=5",
-      "published_at": "2026-11-06T14:18:00.000Z"
+      "source": "Reuters",
+      "title": "中間選挙での大敗後、バンス氏は自身の2028年ブランド構築に努める",
+      "summary": "中間選挙で大敗を喫したJ.D.バンス氏が、2028年の大統領選挙を見据え、自身の政治的ブランドを再構築しようとしています。今後の戦略が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVFPc2NPajA0TVFQNEtVb2lEU19xSE93aFFXSWtYckVwU3JsVDR2MXd5azd4X2M3eG13bHlBLWRGUWR3NHNzeFdWdi12VVJZTDQ2THlCSHhkLVNXWHNsRUwxQ1V2RTFjSDd6bEdSYjB0Y1V5cVdYNjRaVWZ4T2R4UnN1NWoxNDZYUlo5dFVFaVJFUV8tQkt2WGdrNDBRSlV5Tmc?oc=5",
+      "published_at": "2026-11-07T15:05:38.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,161 +187,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バレーボールをする思春期選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語レビュー",
-      "summary": "このレビューは、バレーボールをする思春期の選手に対する神経筋トレーニングが、膝の傷害予防と運動能力向上に共に効果的であることを示唆しています。特にACL（前十字靭帯）損傷予防とパフォーマンス向上は、身体的コントロールと運動パターンの改善という共通の基盤に基づいています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUQlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "title": "青年期バレーボール選手の神経筋トレーニングの二重の利点：膝の怪我の予防と運動能力の向上は共通のメカニズム基盤を共有：構造化されたナラティブレビュー",
+      "summary": "青年期バレーボール選手を対象とした研究では、神経筋トレーニングが膝の怪我の予防と運動能力の向上に同時に貢献するメカニズム的基盤を共有していることが示されました。このレビューは、これらの効果の共通の根拠に焦点を当てています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学：科学的アプローチ",
-      "summary": "トレイルランニングにおける生体力学の重要性に焦点を当てた記事です。不均一な地形での効率的な動き、衝撃吸収、そして怪我予防のための体の使い方について科学的な視点から解説されています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cElyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "トレイルランニングのバイオメカニクスの科学",
+      "summary": "トレイルランニングにおける独特な地形への適応と、それに伴うバイオメカニクスの特徴について解説しています。足元の不安定さや起伏のある路面での衝撃吸収、エネルギー効率などが分析されています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcUR উত্তেজনা-ODhsb09EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷を負ったアスリートの競技復帰支援",
-      "summary": "この記事は、肘の内側側副靱帯（MUCL）損傷を負ったアスリートの競技復帰に向けた最新のスポーツ医学的アプローチについて解説しています。診断からリハビリテーション、そして最終的な競技復帰までのプロセスが詳細に示されています。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
+      "title": "ACL断裂？回復方法と将来の怪我の予防法",
+      "summary": "ACL（前十字靭帯）断裂からの回復プロセスと、将来の再発を防ぐための予防策について説明しています。リハビリテーションの重要性、筋力強化、バランス訓練、そして運動への安全な復帰計画について詳述しています。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUdJc3BtdG83end4MjZtVFJYSUt0aHYtUlRPRUVGR1FhNWliczFJbC01UWpDeVl1RUR1STZEcG5YQ19falNtX2l2dUpkVVh2SzlUUmRSTm9QeHVFT0ZrTHlESnF0NkRFMi1xWFZqOFJCdE9XOEdHbXctdG13V0ZKYTgtSlJ0Z2kxMDIzQlF3RE9KSkIwbFZ6UkN3UVpnYkdmSnJWU0E2UVpvTXh1enZmbw?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響",
-      "summary": "急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再受傷率にどのように影響するかを調査した研究です。効果的な介入が迅速な復帰と再発防止に寄与する可能性を示唆しています。",
+      "title": "急性ハムストリングス肉離れを負ったアスリートのプレー復帰までの時間と再受傷率に対するリハビリテーション介入の効果 | Scientific Reports",
+      "summary": "急性ハムストリングス肉離れを負ったアスリートを対象に、異なるリハビリテーション介入がプレー復帰までの時間と再受傷率に与える影響を調査しました。研究結果は、特定の介入がこれらの指標を改善することを示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学鍼治療の系統的レビューとメタアナリシス",
-      "summary": "本系統的レビューおよびメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の効果を評価しました。特定の筋骨格系疼痛に対して、補助的な治療法として有効である可能性が示されています。",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
+      "summary": "アスリートの疼痛管理における西洋医学的鍼治療の有効性を評価するため、系統的レビューとメタアナリシスを実施しました。様々な研究結果を統合し、鍼治療の疼痛軽減効果について分析しています。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
-      "summary": "この記事では、クレアチン、カフェイン、β-アラニン、プロテイン、分岐鎖アミノ酸（BCAA）といった、運動能力向上に寄与する可能性のある5つのサプリメントとその効果について解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
+      "title": "ティーンエイジャー向けスポーツサプリメント：推奨されるもの、注意が必要なもの、避けるべきもの",
+      "summary": "成長期にあるアスリートがスポーツサプリメントを利用する際の注意点について解説しています。成長への影響、推奨される成分、過剰摂取のリスク、そして避けるべきサプリメントについて具体的に示されています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子どもに運動習慣をつけさせる方法",
-      "summary": "子どもたちが楽しく、継続的に運動に取り組むための実践的なアドバイスを提供しています。スクリーンタイムの制限、家族での活動、様々なスポーツへの挑戦など、運動を生活の一部にするためのヒントが紹介されています。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYkdPR0ZNV2NVZ1B4QV9PX0tpQmpsMDNwNFlFTWpCaTJqbWg1SnlKX053WnFPbjd6U2NibmJzbDRmU3F5V1BVNkphcjNrTnlpaXZzSmlKbFUxNFBrQ3d0b0V3?oc=5"
+      "title": "学生アスリートのメンタルヘルス：保護者とコーチのためのヒント",
+      "summary": "学生アスリートが抱えるメンタルヘルスの問題に対し、保護者やコーチがどのようにサポートできるかについての具体的なアドバイスを提供しています。コミュニケーションの重要性、ストレス管理、専門家への相談のタイミングなどが含まれます。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
       "title": "学生アスリートのメンタルヘルスをサポートする方法",
-      "summary": "学生アスリートが学業と競技の両立から生じるストレスやプレッシャーに直面した際に、メンタルヘルスを維持・向上させるための具体的なサポート方法を提示しています。オープンなコミュニケーションや専門家の利用が重要視されています。",
+      "summary": "学生アスリートが直面するメンタルヘルスの課題に対して、保護者やコーチがどのように関わり、サポートを提供できるかについての指針を示しています。ストレス、プレッシャー、燃え尽き症候群などへの対処法が含まれます。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOXlfUmJ4RHl0b1dDZGFVUm9tQjU4S2hHZzJubmw0dVdLak1VSVpDNlNaX3l0YUlHcktyV2JOMXBfX0ZOcWI0djdBU2RMUV9GVV9LU1BnU0IwVWg5dTdnZEt0eHBXeWxIVFVBbHRkWTg5bENGZExqLXJNZEE?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "［深層ＮＥＷＳ］共和党大敗がトランプ氏に与える影響「権限大きい軍事外交分野でレガシー見いだす」…長島昭久氏",
-      "summary": "中間選挙での共和党の大敗が、トランプ前大統領に与える影響について長島昭久氏が分析しました。トランプ氏が、その権限の大きい軍事外交分野で「レガシー（遺産）」を見いだそうとする可能性を指摘しました。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2YnJqcjVPQ3AtUWR6a2szTDgtbjRpbjJCVTc1ekRMWTZLV1VsZzJyMkxtY2FBdWhkYzRla0tVZUpneDFvd250ckZKdFpKNTRrV1dab1hOeWdHdExvSHRLaDB3?oc=5"
+      "category": "社会",
+      "title": "【地震情報まとめ・随時更新】愛知県で最大震度5強の強い地震 けが人も 被害･交通情報の詳細",
+      "summary": "愛知県で最大震度5強を観測する強い地震が発生しました。これまでに複数名がけがをしたとの情報があり、一部地域では交通機関にも影響が出ています。最新の被害状況や交通情報などを随時更新してお伝えします。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1cFdIX19aWWNLVnZuNG9DT0VhU090NU5ZYkVuMkhFdFREM0REQ0FkRk9pdVRIZlNiZlRBSmxpT2tXcVdqMFk0SjBuMTJUMWNVeC04RmFmMA?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "米大統領首席補佐官が退任 トランプ氏最側近、中間選挙大敗の引責か",
-      "summary": "トランプ米大統領の最側近である首席補佐官が退任しました。これは、中間選挙での共和党の大敗を受けた引責辞任ではないかと報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4NjVNZFV3UHpXbVlxTzhZLXZ5ei00Y2daeTd1OEJvZTlHSWN2czdyeTctRjlsU1JmY2kxdVNuWEFha2k4SDNjcTBnRDFCaXVPUlBCUU83WVJzSkdDMW0xV1RTQQ?oc=5"
+      "title": "減税法案採決を退席した石破氏 14年前は増税反対の鳩山氏らに「さっさと離党を」と批判",
+      "summary": "減税法案の採決を退席した石破氏の行動が波紋を広げています。14年前には増税反対を唱えた鳩山氏らに対し、「さっさと離党を」と批判した過去の発言が改めて注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEYxVktjQkFDcTlydWxBUnlrTkZOckFRVlROek1uY1ZXZkJWbnNYQkdYRWFRNm9RZEtwRmZzYTdCeDFhdE93eHpZYXNVclpmWnV4TXg5Q0ZVQmtFQ2hxMnFwSFpwbjBVZnVUZ1JjVHZBaUV5YUkzOTIwd05seHQxb0VqZW5UUWVjVkN1Yw?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "高市総理「台湾有事」発言から1年 日中関係は「重要な隣国、課題ある中でも長年の積み重ねがあり、戦略的互恵関係を推進」",
-      "summary": "高市総理による「台湾有事」発言から1年が経過し、日中関係の現状について言及がありました。高市総理は、日中関係を「重要な隣国」とし、課題がある中でも長年の積み重ねを基盤に戦略的互恵関係を推進していく方針を示しました。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtclJGV3lGcXlFS1VCN1p3NjJ1VGg2R2dfUEkyTE1VWGlwQ3I3NFd6alVVYWpCZHplYlQ3R0JYN0tuOUtlaTZpSm9YZk94T1A2dE1NMlYwd2JGa2tTSmVtWUxOc1BmVHJUbGt4WXd4bUtFV05EcmFqZG4xV2lKWjA?oc=5"
+      "category": "国際",
+      "title": "中国で服役中のアステラス製薬社員、来月中旬に刑期満了し帰国する見通し",
+      "summary": "中国で服役中のアステラス製薬の社員が、来月中旬に刑期満了を迎え、帰国する見通しであることが分かりました。詳細については、今後の発表が待たれます。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95WEJtUnhINmlOcVFKS05na0dvUEJ4VlFDOFhVTDRQMmlhOWFjN25MYTNBRTl6MWlMbXgtdE42dzA1MmhCNWxjWDBGS3U2Q3NfemxLLWNaVHU4VTRrS0ZBcEhR?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "元皇族の久邇邦昭さん死去、９７歳…上皇さまのいとこで戦後に皇籍を離脱",
-      "summary": "元皇族で上皇さまのいとこにあたる久邇邦昭さんが97歳で死去されました。久邇さんは戦後に皇籍を離脱し、その後の人生を歩んでこられました。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNNTRlZXhxU2NsU3B5bHQyNkRZSkpFVUI5X3JiOEF6WGtVbTZVZVpoNDczaG9GLVlieV9ZR0FBekY2VEdoa1MxY2NsaEJZVGZGZUdSNnh5TUdVZWt4Ul8yMENUYVVZQQ?oc=5"
+      "category": "国際",
+      "title": "高市首相の台湾有事発言から1年 悪化止まらぬ日中関係に識者は",
+      "summary": "高市首相の台湾有事に関する発言から1年が経過し、依然として悪化が続く日中関係について、識者たちが分析しています。今後の外交関係の行方が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VNml4N0pOamNJekE1dkdHVDFjTk5OazVuSXNPVG9zd1FLTkdkMjlfZTBzOEc4YWl5MHZKR0Vrd0lsaXhDU3JNU1p0UzExN3pZV1pWSXo5ZTE4eC1xTDFmYXllTXl1ZTVX?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "駅のホームから転落させ、頸髄損傷など「治癒の見込みないけが」負わせた被告に執行猶予付き有罪判決",
-      "summary": "駅のホームから被害者を転落させ、頸髄損傷など治癒の見込みのない重傷を負わせた被告に対し、執行猶予付きの有罪判決が下されました。この事件は社会に大きな衝撃を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vLXZBX0VwcW9pVWVpdlVRODU5ZnBQek5CODlSWE1nQU9uXzF5VnplQzRKMHNDYmsyOEY0cGFUX0huZHFaVmRfRXE4cGdxNnZHNjlGS1o4RFNFSFBBMlFXQ0c5SHlDZw?oc=5"
+      "title": "茨城・結城市の2階建て住宅で火事 2人の遺体が見つかる うち1人は子どもか 住宅ではパキスタン国籍の10人ほどが生活",
+      "summary": "茨城県結城市の2階建て住宅で火事が発生し、2人の遺体が見つかりました。遺体のうち1人は子どもとみられています。この住宅にはパキスタン国籍の約10人が生活していたということです。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MQVlKYi0tMXBHVmJTMFdDYVozbFB3Nzh0VFZkMXU0WUVIMTdKWGFyZ2RtdHZCOWNCMElwcVQ1VzBwY2R4QU9WZGczOHc5aGpHS0N4MFJLckU5N3RjOEpNSkRYXzgxRGdKalU1QTUxczRtLTVqNnBGSXRLNkV1Wk0?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "スティーブン・ミラー氏がスーシー・ワイルズ氏に代わりホワイトハウス首席補佐官に就任",
-      "summary": "米国の政治専門メディアPoliticoによると、スティーブン・ミラー氏がホワイトハウスの新首席補佐官に就任し、スーシー・ワイルズ氏の後任となります。政権の主要な人事異動として注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1BHOEpVT0E0bUtPTTF5aGVQWlZKckhPR1FRbktnUzlNdF9UZFQ0cGJ5ZGUzMWJrTUVJc1FVSWNIYzB0MjU0UlBNb3daQkszNThSVThaT2hoOFNLNjdTSVJOWExTT3JERmxTNXNSNGEzY1RfaXZ6MHFCb3pMVEx1bDNmZ1dHNExVSWFlU1BvVDZLQlN0MEU1dzBsUkNEdw?oc=5"
+      "title": "ステファン・ミラー、新しいホワイトハウス首席補佐官について知っておくべき3つのこと",
+      "summary": "ステファン・ミラー氏が新たなホワイトハウス首席補佐官に就任したことを受け、彼の経歴や政治的立場、これまでの業績など、注目すべき3つのポイントを解説します。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0x5NXhxRFEtSUtTanJra3FqbExtTlpEMmFkYXNld2FMYjlLWlNQMnctNFFrQ1NzNzZ4VmJRbkV1dkM2WXhzUk91Z0Vja21jQ1lXOFVJWWJ3eEpKcGxta1hQWlc0am9LX1RjaDdzRU1jM2FuNEsyUkxZRV9KcS1xV2FfWVN6WVpZRjJnTjM0MXBBYThjVHJiYVFwcTBTNlRVLTZnQVFGVWotT3NrNWxJ?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏の報復キャンペーンの中核を監督した米検事が辞任",
-      "summary": "トランプ前大統領の「報復キャンペーン」の中心的な役割を担っていた米国の検事が辞任しました。この辞任は、中間選挙の結果と関連している可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFlEN09Nd3Vmekd6Zk1qU2M5eTdLMGZBTURXVVJtMnJ4d1FJcEZWNVcwZFJKSURWZHllR3kzTlE5SHJJQjZDdnU4MVo2WW9CWElQbFFIU1VBZk83WVQtaG5SOUpKNTBxaUt4a0oxb2xEb09uZnFGc2p4OHp2Ykc3TmkyTk1FVklk?oc=5"
+      "category": "Conflict",
+      "title": "ポーランド、クラクフでの6人殺害の銃乱射事件に衝撃",
+      "summary": "ポーランドのクラクフで発生した銃乱射事件により6人が死亡したことを受け、国中が衝撃に包まれています。事件の詳細と、治安への影響が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "米中間選挙：接戦のミシシッピ州における再集計規則とは？",
-      "summary": "米国中間選挙で接戦となっているミシシッピ州の選挙結果について、再集計に関する規則が注目されています。開票結果によっては、再集計の実施が検討される可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wdGY2WWN0ZEtqQVh0ZkgteE92QXhCZjZDNXB1WUFrRmw2eTZSYVFsX2pnNm5TSVZhMjFjOVRHSjROQkhnNFpuN0JzSHVyZURLcDh2aEFSUW9JOXc?oc=5"
+      "title": "トランプ氏、UFCのダナ・ホワイト氏に報道官就任を要請",
+      "summary": "ドナルド・トランプ前大統領が、UFC（総合格闘技団体）のコミッショナーであるダナ・ホワイト氏に対し、自身の大統領報道官に就任するよう要請したことが報じられました。ホワイト氏の反応が注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOamNmV1A0c0NPQmZjTTVXQU1FdGgzTVFna0xadkhQa0Q0cWZFM1BVRlFWVzV6WENJdjRQTC1RZ2N4ckEwdTRfODItdnNxQWNCZzZjdmFWQzM2V05NbTY4dE04ajJST0otRzVBUmVMVmo5YXVMQ3hLMHU5Q0pRMWx1M0lCd0VuZHJ6czl4Q2I3QWlZdw?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "海軍退役軍人アイリーン・ラウバウチャー氏、コロラド州でローレン・ボーバート氏を破る寸前",
-      "summary": "34年の海軍勤務経験を持つ退役軍人アイリーン・ラウバウチャー氏が、コロラド州の下院選挙で現職のローレン・ボーバート氏を僅差でリードし、勝利が目前に迫っています。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUtSREZad2UxRmFadDBreDVBT3ZtS3dObFc5Y085OWhCUWZLYlh0Uk51cURZVmx0aVMyVm5nU3hvU0NuUUlNRGZ0MDlQcDZNVEIzdVR0YTZBT3ZEZllzd3ViaWNBVEVJcktuM0tfSXFsUkJBUmg1YkZWVFlxY29yRWtBMmRhQWxPUzM3YzFrOVpxYXp3ZnBHRHBjUHJIaFN4N25IdlhERUpJcEJGQ05HclBB?oc=5"
+      "title": "イスラエルの大統領、ネタニヤフ氏ではなくアイゼンコット氏を次期政権樹立の任に",
+      "summary": "イスラエルの大統領は、次期政権樹立の任務をベンヤミン・ネタニヤフ氏ではなく、ベニー・ガンツ氏（※元記事ではアイゼンコット氏と記載あり）に託しました。この決定が今後のイスラエル政治にどのような影響を与えるか注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjJubXg0Znh4QVI4cm5kSENUVE9LYXZWR2xJZm5Ya2NQRDRzcXZRMzNMakZzTHpPbFp6cE51WHBmNUlLWlN5T0F5X1ZoeUpRYklCOVNkOU50enRfMFlGTGVsTktVQU1qcWhfazN0eE5yZGJfd1Fmdk9SY1NZSkZta3E4M2x3cHhrb20wbDl5YU5UdkZVRlVOTWZCSFhFSkh5QU5EbnpMRkIxaFIxQWVSdEN30gG3AUFVX3lxTFB5OENqM2pFYzQzdXlrMHBiaGF1RlhPd2hDQzJxSW1FQlNqRVNMV3VlOFMwS0tLaDM1RThDcmF3ZVZSMUM0SkFXenhDZmlCMW0tWUhhQ2d6OWJYQlprd3h3SUttM2djTDlIM09HdVVWY1VJZ01hZ3REbkpTellwSDQ0WVpQcFNyTUM3MlZhenhwcWFYS3p1MjB5bDlTQ1ZYbVNRN2tQdER4N3RYaFowcVVIRjN6X1k5WQ?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "米下院・上院の中間選挙、まだ勝者が決まっていない選挙区",
-      "summary": "米国中間選挙において、未だに勝者が確定していない下院および上院の選挙区が存在します。これらの選挙区の結果が、議会の勢力図に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm1vVUVNdk1FNWRfMFlpenMya2pETU00SkhBNGFQOTJGSTlKTDYyTmRLZElSd0ZfOU9oTW83aE5IZnN3SjZPVmZpQ2NuVUZGWTE1bzFMVHpmMDhNQU5uOGV4MGlERlRoeWJ0bG5RcmtaOG1GLUdQS05nN3pVanBtS1BaMHhCc21mS0gtcA?oc=5"
+      "title": "中間選挙での大敗後、バンス氏は自身の2028年ブランド構築に努める",
+      "summary": "中間選挙で大敗を喫したJ.D.バンス氏が、2028年の大統領選挙を見据え、自身の政治的ブランドを再構築しようとしています。今後の戦略が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVFPc2NPajA0TVFQNEtVb2lEU19xSE93aFFXSWtYckVwU3JsVDR2MXd5azd4X2M3eG13bHlBLWRGUWR3NHNzeFdWdi12VVJZTDQ2THlCSHhkLVNXWHNsRUwxQ1V2RTFjSDd6bEdSYjB0Y1V5cVdYNjRaVWZ4T2R4UnN1NWoxNDZYUlo5dFVFaVJFUV8tQkt2WGdrNDBRSlV5Tmc?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手における俊敏性向上と傷害予防のためのVR支援神経筋トレーニング効果：対照実験研究",
-      "summary": "この実験研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングがバスケットボール選手の俊敏性パフォーマンスと傷害予防に与える影響を調査した。結果として、VRを組み込んだトレーニングが従来の神経筋トレーニングよりも、アスリートの敏捷性向上と膝前十字靭帯（ACL）などの傷害リスク低減に効果的であることが示された。特に動的な動作に対する反応速度とバランス能力の改善が見られた。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "title": "バレーボールをする思春期選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語レビュー",
+      "summary": "このレビューは、バレーボールをする思春期の選手に対する神経筋トレーニングが、膝の傷害予防と運動能力向上に共に効果的であることを示唆しています。特にACL（前十字靭帯）損傷予防とパフォーマンス向上は、身体的コントロールと運動パターンの改善という共通の基盤に基づいています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUQlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングのバイオメカニクス科学",
-      "summary": "この研究では、トレイルランニングに特有の複雑な地形が身体のバイオメカニクスに与える影響について解説している。不均一な路面での着地衝撃吸収、バランス維持、推進力生成における下肢の動的な適応メカニズムが分析された。これにより、トレイルランナーのパフォーマンス向上と怪我のリスク低減に繋がる知見が提供されている。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "トレイルランニングの生体力学：科学的アプローチ",
+      "summary": "トレイルランニングにおける生体力学の重要性に焦点を当てた記事です。不均一な地形での効率的な動き、衝撃吸収、そして怪我予防のための体の使い方について科学的な視点から解説されています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cElyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     }
   ],
   "monthly_top20": [
@@ -349,161 +349,161 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バレーボールをする思春期選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語レビュー",
-      "summary": "このレビューは、バレーボールをする思春期の選手に対する神経筋トレーニングが、膝の傷害予防と運動能力向上に共に効果的であることを示唆しています。特にACL（前十字靭帯）損傷予防とパフォーマンス向上は、身体的コントロールと運動パターンの改善という共通の基盤に基づいています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUQlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "title": "青年期バレーボール選手の神経筋トレーニングの二重の利点：膝の怪我の予防と運動能力の向上は共通のメカニズム基盤を共有：構造化されたナラティブレビュー",
+      "summary": "青年期バレーボール選手を対象とした研究では、神経筋トレーニングが膝の怪我の予防と運動能力の向上に同時に貢献するメカニズム的基盤を共有していることが示されました。このレビューは、これらの効果の共通の根拠に焦点を当てています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学：科学的アプローチ",
-      "summary": "トレイルランニングにおける生体力学の重要性に焦点を当てた記事です。不均一な地形での効率的な動き、衝撃吸収、そして怪我予防のための体の使い方について科学的な視点から解説されています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cElyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "トレイルランニングのバイオメカニクスの科学",
+      "summary": "トレイルランニングにおける独特な地形への適応と、それに伴うバイオメカニクスの特徴について解説しています。足元の不安定さや起伏のある路面での衝撃吸収、エネルギー効率などが分析されています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcUR উত্তেজনা-ODhsb09EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "MUCL損傷を負ったアスリートの競技復帰支援",
-      "summary": "この記事は、肘の内側側副靱帯（MUCL）損傷を負ったアスリートの競技復帰に向けた最新のスポーツ医学的アプローチについて解説しています。診断からリハビリテーション、そして最終的な競技復帰までのプロセスが詳細に示されています。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHd4dERLZm9kTnFwSk9ral95bHgxQjFhaFhoU1p0d2Z0UURVbU1RYlk1SU5qbGxzczhLT1hpbC1lQVJGc1pnbTJ4QkhtY1dneWh0T1hiYTdvMVhEaVM2akRxMlo2VzZ6dmpIZXFFSDBtcmRfMUtMQVpoVDZVVkE2QlhGNXFlWXotR213R0NicE43enVVY212b0VhRDVmNmJ0WFRVNkliNGtSVE5xcGVmdFV6Z2cyUHlsNGZ3a0tzNWh5NkU1MV90eEtQZWkwUzA4?oc=5"
+      "title": "ACL断裂？回復方法と将来の怪我の予防法",
+      "summary": "ACL（前十字靭帯）断裂からの回復プロセスと、将来の再発を防ぐための予防策について説明しています。リハビリテーションの重要性、筋力強化、バランス訓練、そして運動への安全な復帰計画について詳述しています。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUdJc3BtdG83end4MjZtVFJYSUt0aHYtUlRPRUVGR1FhNWliczFJbC01UWpDeVl1RUR1STZEcG5YQ19falNtX2l2dUpkVVh2SzlUUmRSTm9QeHVFT0ZrTHlESnF0NkRFMi1xWFZqOFJCdE9XOEdHbXctdG13V0ZKYTgtSlJ0Z2kxMDIzQlF3RE9KSkIwbFZ6UkN3UVpnYkdmSnJWU0E2UVpvTXh1enZmbw?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響",
-      "summary": "急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再受傷率にどのように影響するかを調査した研究です。効果的な介入が迅速な復帰と再発防止に寄与する可能性を示唆しています。",
+      "title": "急性ハムストリングス肉離れを負ったアスリートのプレー復帰までの時間と再受傷率に対するリハビリテーション介入の効果 | Scientific Reports",
+      "summary": "急性ハムストリングス肉離れを負ったアスリートを対象に、異なるリハビリテーション介入がプレー復帰までの時間と再受傷率に与える影響を調査しました。研究結果は、特定の介入がこれらの指標を改善することを示唆しています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋医学鍼治療の系統的レビューとメタアナリシス",
-      "summary": "本系統的レビューおよびメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療（ドライニードリングなど）の効果を評価しました。特定の筋骨格系疼痛に対して、補助的な治療法として有効である可能性が示されています。",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
+      "summary": "アスリートの疼痛管理における西洋医学的鍼治療の有効性を評価するため、系統的レビューとメタアナリシスを実施しました。様々な研究結果を統合し、鍼治療の疼痛軽減効果について分析しています。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
-      "summary": "この記事では、クレアチン、カフェイン、β-アラニン、プロテイン、分岐鎖アミノ酸（BCAA）といった、運動能力向上に寄与する可能性のある5つのサプリメントとその効果について解説しています。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
+      "title": "ティーンエイジャー向けスポーツサプリメント：推奨されるもの、注意が必要なもの、避けるべきもの",
+      "summary": "成長期にあるアスリートがスポーツサプリメントを利用する際の注意点について解説しています。成長への影響、推奨される成分、過剰摂取のリスク、そして避けるべきサプリメントについて具体的に示されています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子どもに運動習慣をつけさせる方法",
-      "summary": "子どもたちが楽しく、継続的に運動に取り組むための実践的なアドバイスを提供しています。スクリーンタイムの制限、家族での活動、様々なスポーツへの挑戦など、運動を生活の一部にするためのヒントが紹介されています。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYkdPR0ZNV2NVZ1B4QV9PX0tpQmpsMDNwNFlFTWpCaTJqbWg1SnlKX053WnFPbjd6U2NibmJzbDRmU3F5V1BVNkphcjNrTnlpaXZzSmlKbFUxNFBrQ3d0b0V3?oc=5"
+      "title": "学生アスリートのメンタルヘルス：保護者とコーチのためのヒント",
+      "summary": "学生アスリートが抱えるメンタルヘルスの問題に対し、保護者やコーチがどのようにサポートできるかについての具体的なアドバイスを提供しています。コミュニケーションの重要性、ストレス管理、専門家への相談のタイミングなどが含まれます。",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
       "title": "学生アスリートのメンタルヘルスをサポートする方法",
-      "summary": "学生アスリートが学業と競技の両立から生じるストレスやプレッシャーに直面した際に、メンタルヘルスを維持・向上させるための具体的なサポート方法を提示しています。オープンなコミュニケーションや専門家の利用が重要視されています。",
+      "summary": "学生アスリートが直面するメンタルヘルスの課題に対して、保護者やコーチがどのように関わり、サポートを提供できるかについての指針を示しています。ストレス、プレッシャー、燃え尽き症候群などへの対処法が含まれます。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOXlfUmJ4RHl0b1dDZGFVUm9tQjU4S2hHZzJubmw0dVdLak1VSVpDNlNaX3l0YUlHcktyV2JOMXBfX0ZOcWI0djdBU2RMUV9GVV9LU1BnU0IwVWg5dTdnZEt0eHBXeWxIVFVBbHRkWTg5bENGZExqLXJNZEE?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "［深層ＮＥＷＳ］共和党大敗がトランプ氏に与える影響「権限大きい軍事外交分野でレガシー見いだす」…長島昭久氏",
-      "summary": "中間選挙での共和党の大敗が、トランプ前大統領に与える影響について長島昭久氏が分析しました。トランプ氏が、その権限の大きい軍事外交分野で「レガシー（遺産）」を見いだそうとする可能性を指摘しました。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2YnJqcjVPQ3AtUWR6a2szTDgtbjRpbjJCVTc1ekRMWTZLV1VsZzJyMkxtY2FBdWhkYzRla0tVZUpneDFvd250ckZKdFpKNTRrV1dab1hOeWdHdExvSHRLaDB3?oc=5"
+      "category": "社会",
+      "title": "【地震情報まとめ・随時更新】愛知県で最大震度5強の強い地震 けが人も 被害･交通情報の詳細",
+      "summary": "愛知県で最大震度5強を観測する強い地震が発生しました。これまでに複数名がけがをしたとの情報があり、一部地域では交通機関にも影響が出ています。最新の被害状況や交通情報などを随時更新してお伝えします。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1cFdIX19aWWNLVnZuNG9DT0VhU090NU5ZYkVuMkhFdFREM0REQ0FkRk9pdVRIZlNiZlRBSmxpT2tXcVdqMFk0SjBuMTJUMWNVeC04RmFmMA?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "米大統領首席補佐官が退任 トランプ氏最側近、中間選挙大敗の引責か",
-      "summary": "トランプ米大統領の最側近である首席補佐官が退任しました。これは、中間選挙での共和党の大敗を受けた引責辞任ではないかと報じられています。",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4NjVNZFV3UHpXbVlxTzhZLXZ5ei00Y2daeTd1OEJvZTlHSWN2czdyeTctRjlsU1JmY2kxdVNuWEFha2k4SDNjcTBnRDFCaXVPUlBCUU83WVJzSkdDMW0xV1RTQQ?oc=5"
+      "title": "減税法案採決を退席した石破氏 14年前は増税反対の鳩山氏らに「さっさと離党を」と批判",
+      "summary": "減税法案の採決を退席した石破氏の行動が波紋を広げています。14年前には増税反対を唱えた鳩山氏らに対し、「さっさと離党を」と批判した過去の発言が改めて注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEYxVktjQkFDcTlydWxBUnlrTkZOckFRVlROek1uY1ZXZkJWbnNYQkdYRWFRNm9RZEtwRmZzYTdCeDFhdE93eHpZYXNVclpmWnV4TXg5Q0ZVQmtFQ2hxMnFwSFpwbjBVZnVUZ1JjVHZBaUV5YUkzOTIwd05seHQxb0VqZW5UUWVjVkN1Yw?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "高市総理「台湾有事」発言から1年 日中関係は「重要な隣国、課題ある中でも長年の積み重ねがあり、戦略的互恵関係を推進」",
-      "summary": "高市総理による「台湾有事」発言から1年が経過し、日中関係の現状について言及がありました。高市総理は、日中関係を「重要な隣国」とし、課題がある中でも長年の積み重ねを基盤に戦略的互恵関係を推進していく方針を示しました。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtclJGV3lGcXlFS1VCN1p3NjJ1VGg2R2dfUEkyTE1VWGlwQ3I3NFd6alVVYWpCZHplYlQ3R0JYN0tuOUtlaTZpSm9YZk94T1A2dE1NMlYwd2JGa2tTSmVtWUxOc1BmVHJUbGt4WXd4bUtFV05EcmFqZG4xV2lKWjA?oc=5"
+      "category": "国際",
+      "title": "中国で服役中のアステラス製薬社員、来月中旬に刑期満了し帰国する見通し",
+      "summary": "中国で服役中のアステラス製薬の社員が、来月中旬に刑期満了を迎え、帰国する見通しであることが分かりました。詳細については、今後の発表が待たれます。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95WEJtUnhINmlOcVFKS05na0dvUEJ4VlFDOFhVTDRQMmlhOWFjN25MYTNBRTl6MWlMbXgtdE42dzA1MmhCNWxjWDBGS3U2Q3NfemxLLWNaVHU4VTRrS0ZBcEhR?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "元皇族の久邇邦昭さん死去、９７歳…上皇さまのいとこで戦後に皇籍を離脱",
-      "summary": "元皇族で上皇さまのいとこにあたる久邇邦昭さんが97歳で死去されました。久邇さんは戦後に皇籍を離脱し、その後の人生を歩んでこられました。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNNTRlZXhxU2NsU3B5bHQyNkRZSkpFVUI5X3JiOEF6WGtVbTZVZVpoNDczaG9GLVlieV9ZR0FBekY2VEdoa1MxY2NsaEJZVGZGZUdSNnh5TUdVZWt4Ul8yMENUYVVZQQ?oc=5"
+      "category": "国際",
+      "title": "高市首相の台湾有事発言から1年 悪化止まらぬ日中関係に識者は",
+      "summary": "高市首相の台湾有事に関する発言から1年が経過し、依然として悪化が続く日中関係について、識者たちが分析しています。今後の外交関係の行方が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VNml4N0pOamNJekE1dkdHVDFjTk5OazVuSXNPVG9zd1FLTkdkMjlfZTBzOEc4YWl5MHZKR0Vrd0lsaXhDU3JNU1p0UzExN3pZV1pWSXo5ZTE4eC1xTDFmYXllTXl1ZTVX?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "駅のホームから転落させ、頸髄損傷など「治癒の見込みないけが」負わせた被告に執行猶予付き有罪判決",
-      "summary": "駅のホームから被害者を転落させ、頸髄損傷など治癒の見込みのない重傷を負わせた被告に対し、執行猶予付きの有罪判決が下されました。この事件は社会に大きな衝撃を与えています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vLXZBX0VwcW9pVWVpdlVRODU5ZnBQek5CODlSWE1nQU9uXzF5VnplQzRKMHNDYmsyOEY0cGFUX0huZHFaVmRfRXE4cGdxNnZHNjlGS1o4RFNFSFBBMlFXQ0c5SHlDZw?oc=5"
+      "title": "茨城・結城市の2階建て住宅で火事 2人の遺体が見つかる うち1人は子どもか 住宅ではパキスタン国籍の10人ほどが生活",
+      "summary": "茨城県結城市の2階建て住宅で火事が発生し、2人の遺体が見つかりました。遺体のうち1人は子どもとみられています。この住宅にはパキスタン国籍の約10人が生活していたということです。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MQVlKYi0tMXBHVmJTMFdDYVozbFB3Nzh0VFZkMXU0WUVIMTdKWGFyZ2RtdHZCOWNCMElwcVQ1VzBwY2R4QU9WZGczOHc5aGpHS0N4MFJLckU5N3RjOEpNSkRYXzgxRGdKalU1QTUxczRtLTVqNnBGSXRLNkV1Wk0?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "スティーブン・ミラー氏がスーシー・ワイルズ氏に代わりホワイトハウス首席補佐官に就任",
-      "summary": "米国の政治専門メディアPoliticoによると、スティーブン・ミラー氏がホワイトハウスの新首席補佐官に就任し、スーシー・ワイルズ氏の後任となります。政権の主要な人事異動として注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1BHOEpVT0E0bUtPTTF5aGVQWlZKckhPR1FRbktnUzlNdF9UZFQ0cGJ5ZGUzMWJrTUVJc1FVSWNIYzB0MjU0UlBNb3daQkszNThSVThaT2hoOFNLNjdTSVJOWExTT3JERmxTNXNSNGEzY1RfaXZ6MHFCb3pMVEx1bDNmZ1dHNExVSWFlU1BvVDZLQlN0MEU1dzBsUkNEdw?oc=5"
+      "title": "ステファン・ミラー、新しいホワイトハウス首席補佐官について知っておくべき3つのこと",
+      "summary": "ステファン・ミラー氏が新たなホワイトハウス首席補佐官に就任したことを受け、彼の経歴や政治的立場、これまでの業績など、注目すべき3つのポイントを解説します。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0x5NXhxRFEtSUtTanJra3FqbExtTlpEMmFkYXNld2FMYjlLWlNQMnctNFFrQ1NzNzZ4VmJRbkV1dkM2WXhzUk91Z0Vja21jQ1lXOFVJWWJ3eEpKcGxta1hQWlc0am9LX1RjaDdzRU1jM2FuNEsyUkxZRV9KcS1xV2FfWVN6WVpZRjJnTjM0MXBBYThjVHJiYVFwcTBTNlRVLTZnQVFGVWotT3NrNWxJ?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏の報復キャンペーンの中核を監督した米検事が辞任",
-      "summary": "トランプ前大統領の「報復キャンペーン」の中心的な役割を担っていた米国の検事が辞任しました。この辞任は、中間選挙の結果と関連している可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFlEN09Nd3Vmekd6Zk1qU2M5eTdLMGZBTURXVVJtMnJ4d1FJcEZWNVcwZFJKSURWZHllR3kzTlE5SHJJQjZDdnU4MVo2WW9CWElQbFFIU1VBZk83WVQtaG5SOUpKNTBxaUt4a0oxb2xEb09uZnFGc2p4OHp2Ykc3TmkyTk1FVklk?oc=5"
+      "category": "Conflict",
+      "title": "ポーランド、クラクフでの6人殺害の銃乱射事件に衝撃",
+      "summary": "ポーランドのクラクフで発生した銃乱射事件により6人が死亡したことを受け、国中が衝撃に包まれています。事件の詳細と、治安への影響が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "米中間選挙：接戦のミシシッピ州における再集計規則とは？",
-      "summary": "米国中間選挙で接戦となっているミシシッピ州の選挙結果について、再集計に関する規則が注目されています。開票結果によっては、再集計の実施が検討される可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wdGY2WWN0ZEtqQVh0ZkgteE92QXhCZjZDNXB1WUFrRmw2eTZSYVFsX2pnNm5TSVZhMjFjOVRHSjROQkhnNFpuN0JzSHVyZURLcDh2aEFSUW9JOXc?oc=5"
+      "title": "トランプ氏、UFCのダナ・ホワイト氏に報道官就任を要請",
+      "summary": "ドナルド・トランプ前大統領が、UFC（総合格闘技団体）のコミッショナーであるダナ・ホワイト氏に対し、自身の大統領報道官に就任するよう要請したことが報じられました。ホワイト氏の反応が注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOamNmV1A0c0NPQmZjTTVXQU1FdGgzTVFna0xadkhQa0Q0cWZFM1BVRlFWVzV6WENJdjRQTC1RZ2N4ckEwdTRfODItdnNxQWNCZzZjdmFWQzM2V05NbTY4dE04ajJST0otRzVBUmVMVmo5YXVMQ3hLMHU5Q0pRMWx1M0lCd0VuZHJ6czl4Q2I3QWlZdw?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "海軍退役軍人アイリーン・ラウバウチャー氏、コロラド州でローレン・ボーバート氏を破る寸前",
-      "summary": "34年の海軍勤務経験を持つ退役軍人アイリーン・ラウバウチャー氏が、コロラド州の下院選挙で現職のローレン・ボーバート氏を僅差でリードし、勝利が目前に迫っています。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUtSREZad2UxRmFadDBreDVBT3ZtS3dObFc5Y085OWhCUWZLYlh0Uk51cURZVmx0aVMyVm5nU3hvU0NuUUlNRGZ0MDlQcDZNVEIzdVR0YTZBT3ZEZllzd3ViaWNBVEVJcktuM0tfSXFsUkJBUmg1YkZWVFlxY29yRWtBMmRhQWxPUzM3YzFrOVpxYXp3ZnBHRHBjUHJIaFN4N25IdlhERUpJcEJGQ05HclBB?oc=5"
+      "title": "イスラエルの大統領、ネタニヤフ氏ではなくアイゼンコット氏を次期政権樹立の任に",
+      "summary": "イスラエルの大統領は、次期政権樹立の任務をベンヤミン・ネタニヤフ氏ではなく、ベニー・ガンツ氏（※元記事ではアイゼンコット氏と記載あり）に託しました。この決定が今後のイスラエル政治にどのような影響を与えるか注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjJubXg0Znh4QVI4cm5kSENUVE9LYXZWR2xJZm5Ya2NQRDRzcXZRMzNMakZzTHpPbFp6cE51WHBmNUlLWlN5T0F5X1ZoeUpRYklCOVNkOU50enRfMFlGTGVsTktVQU1qcWhfazN0eE5yZGJfd1Fmdk9SY1NZSkZta3E4M2x3cHhrb20wbDl5YU5UdkZVRlVOTWZCSFhFSkh5QU5EbnpMRkIxaFIxQWVSdEN30gG3AUFVX3lxTFB5OENqM2pFYzQzdXlrMHBiaGF1RlhPd2hDQzJxSW1FQlNqRVNMV3VlOFMwS0tLaDM1RThDcmF3ZVZSMUM0SkFXenhDZmlCMW0tWUhhQ2d6OWJYQlprd3h3SUttM2djTDlIM09HdVVWY1VJZ01hZ3REbkpTellwSDQ0WVpQcFNyTUM3MlZhenhwcWFYS3p1MjB5bDlTQ1ZYbVNRN2tQdER4N3RYaFowcVVIRjN6X1k5WQ?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "米下院・上院の中間選挙、まだ勝者が決まっていない選挙区",
-      "summary": "米国中間選挙において、未だに勝者が確定していない下院および上院の選挙区が存在します。これらの選挙区の結果が、議会の勢力図に大きな影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm1vVUVNdk1FNWRfMFlpenMya2pETU00SkhBNGFQOTJGSTlKTDYyTmRLZElSd0ZfOU9oTW83aE5IZnN3SjZPVmZpQ2NuVUZGWTE1bzFMVHpmMDhNQU5uOGV4MGlERlRoeWJ0bG5RcmtaOG1GLUdQS05nN3pVanBtS1BaMHhCc21mS0gtcA?oc=5"
+      "title": "中間選挙での大敗後、バンス氏は自身の2028年ブランド構築に努める",
+      "summary": "中間選挙で大敗を喫したJ.D.バンス氏が、2028年の大統領選挙を見据え、自身の政治的ブランドを再構築しようとしています。今後の戦略が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVFPc2NPajA0TVFQNEtVb2lEU19xSE93aFFXSWtYckVwU3JsVDR2MXd5azd4X2M3eG13bHlBLWRGUWR3NHNzeFdWdi12VVJZTDQ2THlCSHhkLVNXWHNsRUwxQ1V2RTFjSDd6bEdSYjB0Y1V5cVdYNjRaVWZ4T2R4UnN1NWoxNDZYUlo5dFVFaVJFUV8tQkt2WGdrNDBRSlV5Tmc?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手における俊敏性向上と傷害予防のためのVR支援神経筋トレーニング効果：対照実験研究",
-      "summary": "この実験研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングがバスケットボール選手の俊敏性パフォーマンスと傷害予防に与える影響を調査した。結果として、VRを組み込んだトレーニングが従来の神経筋トレーニングよりも、アスリートの敏捷性向上と膝前十字靭帯（ACL）などの傷害リスク低減に効果的であることが示された。特に動的な動作に対する反応速度とバランス能力の改善が見られた。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "title": "バレーボールをする思春期選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語レビュー",
+      "summary": "このレビューは、バレーボールをする思春期の選手に対する神経筋トレーニングが、膝の傷害予防と運動能力向上に共に効果的であることを示唆しています。特にACL（前十字靭帯）損傷予防とパフォーマンス向上は、身体的コントロールと運動パターンの改善という共通の基盤に基づいています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUQlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングのバイオメカニクス科学",
-      "summary": "この研究では、トレイルランニングに特有の複雑な地形が身体のバイオメカニクスに与える影響について解説している。不均一な路面での着地衝撃吸収、バランス維持、推進力生成における下肢の動的な適応メカニズムが分析された。これにより、トレイルランナーのパフォーマンス向上と怪我のリスク低減に繋がる知見が提供されている。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "トレイルランニングの生体力学：科学的アプローチ",
+      "summary": "トレイルランニングにおける生体力学の重要性に焦点を当てた記事です。不均一な地形での効率的な動き、衝撃吸収、そして怪我予防のための体の使い方について科学的な視点から解説されています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cElyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     }
   ]
 };
