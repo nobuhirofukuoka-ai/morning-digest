@@ -1,0 +1,509 @@
+{
+  "issue_date": "2026/11/11",
+  "generated_at": "2026-11-11T00:56:47.564Z",
+  "latest_research": [
+    {
+      "id": "r001",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手の敏捷性向上と怪我予防におけるVR補助神経筋トレーニングの効果：対照比較研究",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
+      "abstract": "この実験的研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングが、バスケットボール選手の敏捷性パフォーマンスと怪我の予防にどのような影響を与えるかを調査しました。研究結果は、VR補助トレーニングが従来のトレーニングよりも効果的に敏捷性を向上させ、特定の膝や足首の怪我のリスクを低減する可能性を示唆しています。対象はバスケットボール選手で、対照群と比較されました。",
+      "insight": "VR技術をスポーツのトレーニングプログラムに組み込むことで、選手はより没入感のある環境で神経筋制御能力を高め、競技パフォーマンスと傷害予防を同時に強化できるでしょう。",
+      "published_at": "2026-08-05T07:00:00.000Z"
+    },
+    {
+      "id": "r002",
+      "category": "Biomechanics / Exercise Science",
+      "title": "トレイルランニングのバイオメカニクス科学",
+      "source": "Trail Runner Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
+      "abstract": "この記事では、トレイルランニングにおける身体の動きと力の関係、すなわちバイオメカニクスの科学的側面を探ります。不整地や起伏のある地形での走行が、平地でのランニングとどのように異なる身体的負荷や運動パターンを生じさせるか、そしてそれがパフォーマンスと傷害リスクにどう影響するかを解説しています。研究対象はトレイルランナーの動きの分析です。",
+      "insight": "トレイルランナーは、自身のランニングフォームやシューズ選択において、地形特性に応じたバイオメカニクスの知識を活用することで、効率性の向上と特定の部位への負担軽減を図ることができるでしょう。",
+      "published_at": "2026-08-20T07:00:00.000Z"
+    },
+    {
+      "id": "r003",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "サム地区住民向けに整形外科手術がより身近に",
+      "source": "McLaren Health Care",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEl6dVBTLWJQNksxYUZFU1Vjdlk3VzNvUDlSTHk5eUpkWXJoZmtSMGN6OV9Tek5SdXNtWFJ5aE9hcEJxQlYxV2JLQmpzb1VuT2FOQnZla2xDOTJDeDhKNmR1bERvZGdYcGNrOVU5M3NVYnhaUmoxc2N1Z0MtcjFxczZGdnlBbW9TRWMyNGhYVVIzQXc?oc=5",
+      "abstract": "マクラーレン・ヘルスケアがサム地区の住民向けに、整形外科手術サービスを地域内で提供開始したことを報じています。これにより、住民は専門的な医療を遠方まで出向くことなく、より手軽に受けられるようになります。サービス拡充は、地域の医療アクセス改善を目指すものです。",
+      "insight": "スポーツ医療のアクセス向上は、怪我をしたアスリートが迅速に診断と治療を受け、早期に競技復帰する上で不可欠です。地域内での専門医療提供は、アスリートの回復プロセスを大きくサポートするでしょう。",
+      "published_at": "2026-08-20T07:00:00.000Z"
+    },
+    {
+      "id": "r004",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "内側半月板根部修復後のリハビリプロトコル：積極的リハビリよりも関節保護を重視",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFFxUThZR25nMEdJRXktY3VyZml1dDBZYjdiWjBvSW9tc2ZSVng3RFNyYTM1VzN3TXJUekdmQUlFYVZNYk12VEwwdEJSZHBFZHFsNmhqNHM3TldTdWR3T0JxVThSUlo1TkMxY2NBVnNjUmlBWVZkbnQ0bkJFUXBlZDVfMVEyakFMaElLTmNqUWZvMjNBYmV4S0Q5R1FFVkxKX1ExOFNiTXdOOFpFSGJVTVBUZGUyUFE?oc=5",
+      "abstract": "この研究では、内側半月板根部修復手術後のリハビリテーションにおいて、早期の積極的な可動域訓練よりも関節保護を優先するプロトコルが推奨されることを示しています。これは、半月板の治癒を促し、再損傷のリスクを低減することを目的としています。研究対象は手術後の患者で、良好なアウトカムのためには慎重な管理が重要であると結論付けられています。",
+      "insight": "医療従事者は、内側半月板根部修復後の患者に対し、段階的かつ慎重なリハビリ計画を立てる必要があります。特に初期段階では関節保護を徹底し、組織の治癒を最大限に促すことで、長期的な機能改善と競技復帰の成功率を高めることができるでしょう。",
+      "published_at": "2026-11-11T00:46:07.000Z"
+    },
+    {
+      "id": "r005",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
+      "source": "Frontiers",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
+      "abstract": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療技術の有効性を評価しています。研究では、鍼治療が筋骨格系の痛みを抱えるアスリートに対して、痛みの軽減と機能改善に寄与する可能性があることを示唆する結果が得られました。対象は筋骨格系の痛みを訴えるアスリートです。",
+      "insight": "スポーツ現場の医療従事者は、従来の治療法と併用して、アスリートの慢性的な痛みや回復促進のために西洋医学的鍼治療を検討することができます。ただし、個々のアスリートの状態に合わせた専門的な評価と実施が重要です。",
+      "published_at": "2026-02-03T18:00:13.000Z"
+    },
+    {
+      "id": "r006",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "source": "Verywell Health",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVVlE9DdFhNmLUxSU1lSMldGVQ?oc=5",
+      "abstract": "この記事では、ワークアウトパフォーマンスの向上に役立つ可能性のある5種類のサプリメントについて解説しています。具体的には、クレアチン、カフェイン、BCAA、プロテイン、そしてベータアラニンが挙げられ、それぞれの作用メカニズムと推奨される摂取方法、潜在的なメリットとリスクが紹介されています。対象は一般的なアスリートやフィットネス愛好家です。",
+      "insight": "アスリートやフィットネス愛好家は、自身のトレーニング目標や健康状態に合わせて、これらのサプリメントの摂取を検討できます。ただし、適切な摂取量とタイミングを理解し、必要であれば専門家のアドバイスを求めることが重要です。",
+      "published_at": "2026-09-30T07:00:00.000Z"
+    },
+    {
+      "id": "r007",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "子供が走るのに「遠すぎる」距離とは？年齢別ガイド",
+      "source": "Marathon Handbook",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5",
+      "abstract": "このガイドは、子供の年齢に応じた適切なランニング距離の目安について解説しています。子供の成長段階や身体能力を考慮し、過度な負担を避けるための距離制限やトレーニングの進め方に関する専門家のアドバイスが提供されており、安全な運動習慣の確立を促しています。対象は子供を持つ保護者やユーススポーツ指導者です。",
+      "insight": "ユーススポーツの指導者や保護者は、この年齢別ガイドを参考に、子供たちに無理のない範囲でランニング活動を奨励すべきです。過度な運動は怪我や燃え尽き症候群につながる可能性があるため、長期的な健康とスポーツ参加のために、適切な負荷設定が重要です。",
+      "published_at": "2026-10-22T07:00:00.000Z"
+    },
+    {
+      "id": "r008",
+      "category": "Sleep Science / Mental Performance",
+      "title": "学生アスリートのメンタルヘルスをサポートする方法",
+      "source": "University of Pittsburgh Medical Center",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOXlfUmJ4RHl0b1dDZGFVUm9tQjU4S2hHZzJubmw0dVdLak1VSVpDNlNaX3l0YUlHcktyV2JOMXBfX0ZOcWI0djdBU2RMUV9GVV9LU1BnU0IwVWg5dTdnZEt0eHBXeWxIVFVBbHRkWTg5bENGZExqLXJNZEE?oc=5",
+      "abstract": "この記事では、学業と競技の両立に奮闘する学生アスリートのメンタルヘルスを保護者やコーチがどのようにサポートできるかについて解説しています。ストレス、不安、燃え尽き症候群などの課題に早期に気づき、対話を通じて適切なサポートを提供するための具体的なヒントが提供されています。対象は学生アスリートとその関係者です。",
+      "insight": "コーチや保護者は、学生アスリートの学業成績だけでなく、睡眠パターンや社交活動の変化にも注意を払い、心身のバランスを保つよう促すことが重要です。早期の介入とオープンなコミュニケーションが、深刻なメンタルヘルスの問題を防ぎ、パフォーマンス向上にも繋がるでしょう。",
+      "published_at": "2026-10-23T07:00:00.000Z"
+    }
+  ],
+  "japan_news": [
+    {
+      "id": "j001",
+      "category": "政治",
+      "source": "Yahoo!ニュース",
+      "title": "【独自】日中首脳会談、実現調整は不調 中国拒否、首相答弁に反発（共同通信）",
+      "summary": "日中首脳会談の実現に向けた調整が不調に終わったことが報じられました。\n共同通信によると、中国側が会談を拒否し、日本の首相答弁に反発したことが背景にあるとされています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GNXltLU1YTktVbUg2WlIzcTc3bUh2M1Q1LWtsYkFkeW42M2I2b0VLeEtDNkxCN1JxSkJGcjd3Z3N3VVdWLUpuZk5GREV2c19PcDlKRk9LOWdUdUV3d29ZWG9BUmlHd2Joa3pSWXZia0RFdkR2OWJDWkR1Ymg4Mzg?oc=5",
+      "published_at": "2026-11-11T00:22:54.000Z"
+    },
+    {
+      "id": "j002",
+      "category": "政治",
+      "source": "読売新聞",
+      "title": "石破前首相や小渕優子元経産相ら４人「戒告」、参院自民に「処分軽い」と不満…棄権・退席を誘発しかねず",
+      "summary": "自民党は石破前首相ら4名に対し「戒告」処分を下しましたが、参院自民党内からは処分が軽すぎるとの不満の声が上がっています。\nこの問題は、党内の規律維持と今後の投票行動に影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GN3JDUzhNc1hLV2pXRC02d1VpOW9rUTlOMm1QQWpySU1WUXBsbnRnLWlfYlJlV2hRZ0t6SWluZ1ZMVHUwd0xyTWVGVHVMaVppZDF4cXhBZ0pScXBYSGQyenlrR1ZjUQ?oc=5",
+      "published_at": "2026-11-10T14:00:00.000Z"
+    },
+    {
+      "id": "j003",
+      "category": "政治",
+      "source": "毎日新聞",
+      "title": "「我田引水」批判も? 現行24選挙区を維持、維新が方針転換",
+      "summary": "日本維新の会が現行の24選挙区を維持する方針に転換したことが報じられ、「我田引水」との批判も出ています。\nこの方針転換は、来る選挙に向けた各党の戦略に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tYzgzZGg3Q3p6TmZwMjRSQzJ3Z1kxQ1Zhb2ZPdmVLa0o0U1UzX1lhQl92czRoVFc1dUpucHZtLWFZOFNwYkpYV0FYNzRKSTVBa0x5QzFXdF9EMW1NbmJLbFQxZWwyRGFH?oc=5",
+      "published_at": "2026-11-10T09:51:31.000Z"
+    },
+    {
+      "id": "j004",
+      "category": "社会",
+      "source": "読売新聞",
+      "title": "いわきの暴行死３歳男児、１か月半前から閉め出しや車内閉じ込めの情報…「無邪気で元気な子だった」",
+      "summary": "福島県いわき市で暴行により3歳の男児が死亡した事件で、男児が1か月半前から家を閉め出されたり車内に閉じ込められたりしていたとの情報が明らかになりました。\n近隣住民からは「無邪気で元気な子だった」との声が聞かれ、事件の悲劇性が浮き彫りになっています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zWVdacmhaMW5IanlkWjBqNE5fRW9SR29odnNYa05tUzdmbHVvMUdPdGRFMmlqeGpGZjRuZHN3WGNYSHNyOC1qSTBFUm1UekloajBDUGpOOTRDRWR4QkREWi1iR0tTUQ?oc=5",
+      "published_at": "2026-11-10T21:30:00.000Z"
+    },
+    {
+      "id": "j005",
+      "category": "国際",
+      "source": "読売新聞",
+      "title": "ヘグセス米国防長官の弾劾決議案、共和党議員が提出…党内で造反も予想・トランプ氏は「戦争に勝利」と擁護",
+      "summary": "米国で共和党議員がヘグセス国防長官に対する弾劾決議案を提出しました。\n党内での造反も予想される中、ドナルド・トランプ氏は長官を擁護し「戦争に勝利した」と評価しています。この動きは、米国の内政と外交政策に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOTWp3eXJnWkRiSUp3Rm9PVWNzMER2bEtDVEVzODV2TENJWkMxcGhUZ2FMbkYzaVc5RjhNNzNiSFFKVzZzVjltb0FuMlI0ek9fRkEzYU9DRFlTdFBXRnZGVUpn?oc=5",
+      "published_at": "2026-11-10T02:41:00.000Z"
+    }
+  ],
+  "global_news": [
+    {
+      "id": "g001",
+      "category": "Politics",
+      "region": "US",
+      "source": "BBC",
+      "title": "ライブ更新: ピート・ヘグセス氏、共和党議員による弾劾の動きを受け自身の経歴を擁護",
+      "summary": "共和党議員がピート・ヘグセス氏に対する弾劾手続きを開始したことを受け、ヘグセス氏は自身の経歴を擁護しています。\nこの政治的な動きは、米国議会における今後の議論に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90QzhLd2lDckVuRlVEYjc0QU9vUkktcXFfcXpELUVXZTVuYW5NSnFZVlZJS3hkcllTNkVaZmFQa3locHVyZjN1eS1fRjZRaExiZmNoZi13?oc=5",
+      "published_at": "2026-11-11T00:38:54.000Z"
+    },
+    {
+      "id": "g002",
+      "category": "Politics",
+      "region": "US",
+      "source": "The Guardian",
+      "title": "共和党、中間選挙での敗北後、ジム・ジョーダン氏を代議院少数党院内総務に選出",
+      "summary": "中間選挙での敗北を受け、共和党はジム・ジョーダン氏を代議院の少数党院内総務に選出しました。\nこの人事は、今後2年間の共和党の戦略と議会運営に大きな影響を与えるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1ljLXY5NXRtTnFqSDhyckhhaVVLd1Jlb0xjN3BLeDEwelRBSmJ1dllvcUt1bExDU1ZleU51Wk02ZGx6eG5pb2Rmci1RWXRMYktEQk80OFpob0llem9YYS1Fc3hFbllHYmJBVXZPZm0yM2FWeHNPVUxXMjhfV3RtUTJid0xxUS1FRnc?oc=5",
+      "published_at": "2026-11-10T22:54:40.000Z"
+    },
+    {
+      "id": "g003",
+      "category": "Conflict",
+      "region": "Global",
+      "source": "NBC News",
+      "title": "米陸軍の上級兵士、ロシア情報機関支援の疑いで英国にて逮捕",
+      "summary": "米陸軍の上級兵士が、ロシア情報機関を支援した疑いで英国で逮捕されました。\nこの事件は、米英関係および国際的な情報戦の緊張に新たな波紋を広げる可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR01STjQ1eEtZVnpFd2tINENEd3ZpbXV5UWZiZVZJT3NaeTltaGZ3NTA4NGo2SHhETzNZaTBFSzkwcFF0OWt0ZWY2MDkzNnlkQjQ5SlhJTzBiQWJjWUY4OVJ2OWhGQ3JKa2VyeEJJMWt2eGhSVVZ4VGhvOWprcWZlbDItd3VkUDBLajE4YUM0N2tvZ3YyajYtSVE2NFh3N3M4Y3BPRmlsdFZ3REtHYzNqNU54SUpONWdicE9QZkRB?oc=5",
+      "published_at": "2026-11-10T22:45:45.000Z"
+    },
+    {
+      "id": "g004",
+      "category": "Climate",
+      "region": "US",
+      "source": "USA Today",
+      "title": "どれくらいの積雪に？冬の天候に関する最新予報",
+      "summary": "米国では、冬の天候に関する最新の予報が発表され、一部地域でかなりの積雪が予想されています。\nこれにより、交通機関への影響や住民への注意喚起が行われています。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTZQS2VxaURiTldUcVdkaDIxYjRFeDRuM1JMd0g5bzctRVpRYTNjNUFmYmMwUmRHM1FqZTE4UmRQU0Z5QVl4RXExQ0Y4Qno1Mm1WNmh1ZGNhNWJ5ZTJMSHJGZ1F1RkxJUjMzT0lhekswTk5yMjVQVXN6a3JtZENjRm5IT3EyX2hOcUV0TWZHU05EX0Exc19wb0lCV2pBQTUzdXYzUUFIU2pBUmxHeE1SMVJUUC1tdmM?oc=5",
+      "published_at": "2026-11-10T21:52:00.000Z"
+    },
+    {
+      "id": "g005",
+      "category": "Politics",
+      "region": "US",
+      "source": "CNN",
+      "title": "マサチューセッツ州女性の性的虐待を隠蔽するため殺害した元警官に有罪判決",
+      "summary": "マサチューセッツ州で、性的虐待を隠蔽するためにサンドラ・バーチモアさんを殺害した元警察官に有罪判決が下されました。\nこの事件は、警察官の職務倫理と司法制度に対する深刻な問題を提起しています。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUjhuQjdKMjNFd0Q3TUJKSG5Md2ZieVFCdGJkR01MS1hLelMwREV2Qk9Ma01ZWU9qNXMwdGoxZVpNS0VobG1EMUVCMFF6bGpIdGZqaTNrTTBCTHJpQm9qMHVHUVNFd0pjbzRkRzVHUDBfSTJXT0tmeTZfeEU4dXROaEln?oc=5",
+      "published_at": "2026-11-10T19:34:12.000Z"
+    }
+  ],
+  "weekly_top20": [
+    {
+      "rank": 1,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手の敏捷性向上と怪我予防におけるVR補助神経筋トレーニングの効果：対照比較研究",
+      "summary": "この実験的研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングが、バスケットボール選手の敏捷性パフォーマンスと怪我の予防にどのような影響を与えるかを調査しました。研究結果は、VR補助トレーニングが従来のトレーニングよりも効果的に敏捷性を向上させ、特定の膝や足首の怪我のリスクを低減する可能性を示唆しています。対象はバスケットボール選手で、対照群と比較されました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "トレイルランニングのバイオメカニクス科学",
+      "summary": "この記事では、トレイルランニングにおける身体の動きと力の関係、すなわちバイオメカニクスの科学的側面を探ります。不整地や起伏のある地形での走行が、平地でのランニングとどのように異なる身体的負荷や運動パターンを生じさせるか、そしてそれがパフォーマンスと傷害リスクにどう影響するかを解説しています。研究対象はトレイルランナーの動きの分析です。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "サム地区住民向けに整形外科手術がより身近に",
+      "summary": "マクラーレン・ヘルスケアがサム地区の住民向けに、整形外科手術サービスを地域内で提供開始したことを報じています。これにより、住民は専門的な医療を遠方まで出向くことなく、より手軽に受けられるようになります。サービス拡充は、地域の医療アクセス改善を目指すものです。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEl6dVBTLWJQNksxYUZFU1Vjdlk3VzNvUDlSTHk5eUpkWXJoZmtSMGN6OV9Tek5SdXNtWFJ5aE9hcEJxQlYxV2JLQmpzb1VuT2FOQnZla2xDOTJDeDhKNmR1bERvZGdYcGNrOVU5M3NVYnhaUmoxc2N1Z0MtcjFxczZGdnlBbW9TRWMyNGhYVVIzQXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "origin_tab": "latest_research",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "内側半月板根部修復後のリハビリプロトコル：積極的リハビリよりも関節保護を重視",
+      "summary": "この研究では、内側半月板根部修復手術後のリハビリテーションにおいて、早期の積極的な可動域訓練よりも関節保護を優先するプロトコルが推奨されることを示しています。これは、半月板の治癒を促し、再損傷のリスクを低減することを目的としています。研究対象は手術後の患者で、良好なアウトカムのためには慎重な管理が重要であると結論付けられています。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFFxUThZR25nMEdJRXktY3VyZml1dDBZYjdiWjBvSW9tc2ZSVng3RFNyYTM1VzN3TXJUekdmQUlFYVZNYk12VEwwdEJSZHBFZHFsNmhqNHM3TldTdWR3T0JxVThSUlo1TkMxY2NBVnNjUmlBWVZkbnQ0bkJFUXBlZDVfMVEyakFMaElLTmNqUWZvMjNBYmV4S0Q5R1FFVkxKX1ExOFNiTXdOOFpFSGJVTVBUZGUyUFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "origin_tab": "latest_research",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
+      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療技術の有効性を評価しています。研究では、鍼治療が筋骨格系の痛みを抱えるアスリートに対して、痛みの軽減と機能改善に寄与する可能性があることを示唆する結果が得られました。対象は筋骨格系の痛みを訴えるアスリートです。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
+    },
+    {
+      "rank": 6,
+      "origin_tab": "latest_research",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "summary": "この記事では、ワークアウトパフォーマンスの向上に役立つ可能性のある5種類のサプリメントについて解説しています。具体的には、クレアチン、カフェイン、BCAA、プロテイン、そしてベータアラニンが挙げられ、それぞれの作用メカニズムと推奨される摂取方法、潜在的なメリットとリスクが紹介されています。対象は一般的なアスリートやフィットネス愛好家です。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVVlE9DdFhNmLUxSU1lSMldGVQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "origin_tab": "latest_research",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "子供が走るのに「遠すぎる」距離とは？年齢別ガイド",
+      "summary": "このガイドは、子供の年齢に応じた適切なランニング距離の目安について解説しています。子供の成長段階や身体能力を考慮し、過度な負担を避けるための距離制限やトレーニングの進め方に関する専門家のアドバイスが提供されており、安全な運動習慣の確立を促しています。対象は子供を持つ保護者やユーススポーツ指導者です。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
+    },
+    {
+      "rank": 8,
+      "origin_tab": "latest_research",
+      "category": "Sleep Science / Mental Performance",
+      "title": "学生アスリートのメンタルヘルスをサポートする方法",
+      "summary": "この記事では、学業と競技の両立に奮闘する学生アスリートのメンタルヘルスを保護者やコーチがどのようにサポートできるかについて解説しています。ストレス、不安、燃え尽き症候群などの課題に早期に気づき、対話を通じて適切なサポートを提供するための具体的なヒントが提供されています。対象は学生アスリートとその関係者です。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOXlfUmJ4RHl0b1dDZGFVUm9tQjU4S2hHZzJubmw0dVdLak1VSVpDNlNaX3l0YUlHcktyV2JOMXBfX0ZOcWI0djdBU2RMUV9GVV9LU1BnU0IwVWg5dTdnZEt0eHBXeWxIVFVBbHRkWTg5bENGZExqLXJNZEE?oc=5"
+    },
+    {
+      "rank": 9,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "【独自】日中首脳会談、実現調整は不調 中国拒否、首相答弁に反発（共同通信）",
+      "summary": "日中首脳会談の実現に向けた調整が不調に終わったことが報じられました。\n共同通信によると、中国側が会談を拒否し、日本の首相答弁に反発したことが背景にあるとされています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GNXltLU1YTktVbUg2WlIzcTc3bUh2M1Q1LWtsYkFkeW42M2I2b0VLeEtDNkxCN1JxSkJGcjd3Z3N3VVdWLUpuZk5GREV2c19PcDlKRk9LOWdUdUV3d29ZWG9BUmlHd2Joa3pSWXZia0RFdkR2OWJDWkR1Ymg4Mzg?oc=5"
+    },
+    {
+      "rank": 10,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "石破前首相や小渕優子元経産相ら４人「戒告」、参院自民に「処分軽い」と不満…棄権・退席を誘発しかねず",
+      "summary": "自民党は石破前首相ら4名に対し「戒告」処分を下しましたが、参院自民党内からは処分が軽すぎるとの不満の声が上がっています。\nこの問題は、党内の規律維持と今後の投票行動に影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GN3JDUzhNc1hLV2pXRC02d1VpOW9rUTlOMm1QQWpySU1WUXBsbnRnLWlfYlJlV2hRZ0t6SWluZ1ZMVHUwd0xyTWVGVHVMaVppZDF4cXhBZ0pScXBYSGQyenlrR1ZjUQ?oc=5"
+    },
+    {
+      "rank": 11,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "「我田引水」批判も? 現行24選挙区を維持、維新が方針転換",
+      "summary": "日本維新の会が現行の24選挙区を維持する方針に転換したことが報じられ、「我田引水」との批判も出ています。\nこの方針転換は、来る選挙に向けた各党の戦略に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tYzgzZGg3Q3p6TmZwMjRSQzJ3Z1kxQ1Zhb2ZPdmVLa0o0U1UzX1lhQl92czRoVFc1dUpucHZtLWFZOFNwYkpYV0FYNzRKSTVBa0x5QzFXdF9EMW1NbmJLbFQxZWwyRGFH?oc=5"
+    },
+    {
+      "rank": 12,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "いわきの暴行死３歳男児、１か月半前から閉め出しや車内閉じ込めの情報…「無邪気で元気な子だった」",
+      "summary": "福島県いわき市で暴行により3歳の男児が死亡した事件で、男児が1か月半前から家を閉め出されたり車内に閉じ込められたりしていたとの情報が明らかになりました。\n近隣住民からは「無邪気で元気な子だった」との声が聞かれ、事件の悲劇性が浮き彫りになっています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zWVdacmhaMW5IanlkWjBqNE5fRW9SR29odnNYa05tUzdmbHVvMUdPdGRFMmlqeGpGZjRuZHN3WGNYSHNyOC1qSTBFUm1UekloajBDUGpOOTRDRWR4QkREWi1iR0tTUQ?oc=5"
+    },
+    {
+      "rank": 13,
+      "origin_tab": "japan_news",
+      "category": "国際",
+      "title": "ヘグセス米国防長官の弾劾決議案、共和党議員が提出…党内で造反も予想・トランプ氏は「戦争に勝利」と擁護",
+      "summary": "米国で共和党議員がヘグセス国防長官に対する弾劾決議案を提出しました。\n党内での造反も予想される中、ドナルド・トランプ氏は長官を擁護し「戦争に勝利した」と評価しています。この動きは、米国の内政と外交政策に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOTWp3eXJnWkRiSUp3Rm9PVWNzMER2bEtDVEVzODV2TENJWkMxcGhUZ2FMbkYzaVc5RjhNNzNiSFFKVzZzVjltb0FuMlI0ek9fRkEzYU9DRFlTdFBXRnZGVUpn?oc=5"
+    },
+    {
+      "rank": 14,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ライブ更新: ピート・ヘグセス氏、共和党議員による弾劾の動きを受け自身の経歴を擁護",
+      "summary": "共和党議員がピート・ヘグセス氏に対する弾劾手続きを開始したことを受け、ヘグセス氏は自身の経歴を擁護しています。\nこの政治的な動きは、米国議会における今後の議論に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90QzhLd2lDckVuRlVEYjc0QU9vUkktcXFfcXpELUVXZTVuYW5NSnFZVlZJS3hkcllTNkVaZmFQa3locHVyZjN1eS1fRjZRaExiZmNoZi13?oc=5"
+    },
+    {
+      "rank": 15,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "共和党、中間選挙での敗北後、ジム・ジョーダン氏を代議院少数党院内総務に選出",
+      "summary": "中間選挙での敗北を受け、共和党はジム・ジョーダン氏を代議院の少数党院内総務に選出しました。\nこの人事は、今後2年間の共和党の戦略と議会運営に大きな影響を与えるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1ljLXY5NXRtTnFqSDhyckhhaVVLd1Jlb0xjN3BLeDEwelRBSmJ1dllvcUt1bExDU1ZleU51Wk02ZGx6eG5pb2Rmci1RWXRMYktEQk80OFpob0llem9YYS1Fc3hFbllHYmJBVXZPZm0yM2FWeHNPVUxXMjhfV3RtUTJid0xxUS1FRnc?oc=5"
+    },
+    {
+      "rank": 16,
+      "origin_tab": "global_news",
+      "category": "Conflict",
+      "title": "米陸軍の上級兵士、ロシア情報機関支援の疑いで英国にて逮捕",
+      "summary": "米陸軍の上級兵士が、ロシア情報機関を支援した疑いで英国で逮捕されました。\nこの事件は、米英関係および国際的な情報戦の緊張に新たな波紋を広げる可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR01STjQ1eEtZVnpFd2tINENEd3ZpbXV5UWZiZVZJT3NaeTltaGZ3NTA4NGo2SHhETzNZaTBFSzkwcFF0OWt0ZWY2MDkzNnlkQjQ5SlhJTzBiQWJjWUY4OVJ2OWhGQ3JKa2VyeEJJMWt2eGhSVVZ4VGhvOWprcWZlbDItd3VkUDBLajE4YUM0N2tvZ3YyajYtSVE2NFh3N3M4Y3BPRmlsdFZ3REtHYzNqNU54SUpONWdicE9QZkRB?oc=5"
+    },
+    {
+      "rank": 17,
+      "origin_tab": "global_news",
+      "category": "Climate",
+      "title": "どれくらいの積雪に？冬の天候に関する最新予報",
+      "summary": "米国では、冬の天候に関する最新の予報が発表され、一部地域でかなりの積雪が予想されています。\nこれにより、交通機関への影響や住民への注意喚起が行われています。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTZQS2VxaURiTldUcVdkaDIxYjRFeDRuM1JMd0g5bzctRVpRYTNjNUFmYmMwUmRHM1FqZTE4UmRQU0Z5QVl4RXExQ0Y4Qno1Mm1WNmh1ZGNhNWJ5ZTJMSHJGZ1F1RkxJUjMzT0lhekswTk5yMjVQVXN6a3JtZENjRm5IT3EyX2hOcUV0TWZHU05EX0Exc19wb0lCV2pBQTUzdXYzUUFIU2pBUmxHeE1SMVJUUC1tdmM?oc=5"
+    },
+    {
+      "rank": 18,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "マサチューセッツ州女性の性的虐待を隠蔽するため殺害した元警官に有罪判決",
+      "summary": "マサチューセッツ州で、性的虐待を隠蔽するためにサンドラ・バーチモアさんを殺害した元警察官に有罪判決が下されました。\nこの事件は、警察官の職務倫理と司法制度に対する深刻な問題を提起しています。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUjhuQjdKMjNFd0Q3TUJKSG5Md2ZieVFCdGJkR01MS1hLelMwREV2Qk9Ma01ZWU9qNXMwdGoxZVpNS0VobG1EMUVCMFF6bGpIdGZqaTNrTTBCTHJpQm9qMHVHUVNFd0pjbzRkRzVHUDBfSTJXT0tmeTZfeEU4dXROaEln?oc=5"
+    },
+    {
+      "rank": 19,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "若年バレーボール選手における神経筋トレーニングの二重の利点：膝の怪我予防と運動能力向上は共通のメカニズム基盤を共有：構造化されたナラティブレビュー",
+      "summary": "若年バレーボール選手を対象としたレビュー研究は、神経筋トレーニングが膝の怪我予防と運動能力向上に同時に寄与することを示しています。これらの効果は、運動制御や筋活性化といった共通のメカニズムに基づいていると結論付けられています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+    },
+    {
+      "rank": 20,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を解説",
+      "summary": "近年注目されているペプチドについて、医療専門家がその潜在的な健康効果、安全性に関するリスク、および米国食品医薬品局（FDA）の懸念事項を解説しています。特にアスリートの間での使用についても言及されています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+    }
+  ],
+  "monthly_top20": [
+    {
+      "rank": 1,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手の敏捷性向上と怪我予防におけるVR補助神経筋トレーニングの効果：対照比較研究",
+      "summary": "この実験的研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングが、バスケットボール選手の敏捷性パフォーマンスと怪我の予防にどのような影響を与えるかを調査しました。研究結果は、VR補助トレーニングが従来のトレーニングよりも効果的に敏捷性を向上させ、特定の膝や足首の怪我のリスクを低減する可能性を示唆しています。対象はバスケットボール選手で、対照群と比較されました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "トレイルランニングのバイオメカニクス科学",
+      "summary": "この記事では、トレイルランニングにおける身体の動きと力の関係、すなわちバイオメカニクスの科学的側面を探ります。不整地や起伏のある地形での走行が、平地でのランニングとどのように異なる身体的負荷や運動パターンを生じさせるか、そしてそれがパフォーマンスと傷害リスクにどう影響するかを解説しています。研究対象はトレイルランナーの動きの分析です。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "サム地区住民向けに整形外科手術がより身近に",
+      "summary": "マクラーレン・ヘルスケアがサム地区の住民向けに、整形外科手術サービスを地域内で提供開始したことを報じています。これにより、住民は専門的な医療を遠方まで出向くことなく、より手軽に受けられるようになります。サービス拡充は、地域の医療アクセス改善を目指すものです。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEl6dVBTLWJQNksxYUZFU1Vjdlk3VzNvUDlSTHk5eUpkWXJoZmtSMGN6OV9Tek5SdXNtWFJ5aE9hcEJxQlYxV2JLQmpzb1VuT2FOQnZla2xDOTJDeDhKNmR1bERvZGdYcGNrOVU5M3NVYnhaUmoxc2N1Z0MtcjFxczZGdnlBbW9TRWMyNGhYVVIzQXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "origin_tab": "latest_research",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "内側半月板根部修復後のリハビリプロトコル：積極的リハビリよりも関節保護を重視",
+      "summary": "この研究では、内側半月板根部修復手術後のリハビリテーションにおいて、早期の積極的な可動域訓練よりも関節保護を優先するプロトコルが推奨されることを示しています。これは、半月板の治癒を促し、再損傷のリスクを低減することを目的としています。研究対象は手術後の患者で、良好なアウトカムのためには慎重な管理が重要であると結論付けられています。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFFxUThZR25nMEdJRXktY3VyZml1dDBZYjdiWjBvSW9tc2ZSVng3RFNyYTM1VzN3TXJUekdmQUlFYVZNYk12VEwwdEJSZHBFZHFsNmhqNHM3TldTdWR3T0JxVThSUlo1TkMxY2NBVnNjUmlBWVZkbnQ0bkJFUXBlZDVfMVEyakFMaElLTmNqUWZvMjNBYmV4S0Q5R1FFVkxKX1ExOFNiTXdOOFpFSGJVTVBUZGUyUFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "origin_tab": "latest_research",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
+      "summary": "この系統的レビューとメタアナリシスは、アスリートの疼痛管理における西洋医学的鍼治療技術の有効性を評価しています。研究では、鍼治療が筋骨格系の痛みを抱えるアスリートに対して、痛みの軽減と機能改善に寄与する可能性があることを示唆する結果が得られました。対象は筋骨格系の痛みを訴えるアスリートです。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
+    },
+    {
+      "rank": 6,
+      "origin_tab": "latest_research",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "summary": "この記事では、ワークアウトパフォーマンスの向上に役立つ可能性のある5種類のサプリメントについて解説しています。具体的には、クレアチン、カフェイン、BCAA、プロテイン、そしてベータアラニンが挙げられ、それぞれの作用メカニズムと推奨される摂取方法、潜在的なメリットとリスクが紹介されています。対象は一般的なアスリートやフィットネス愛好家です。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVVlE9DdFhNmLUxSU1lSMldGVQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "origin_tab": "latest_research",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "子供が走るのに「遠すぎる」距離とは？年齢別ガイド",
+      "summary": "このガイドは、子供の年齢に応じた適切なランニング距離の目安について解説しています。子供の成長段階や身体能力を考慮し、過度な負担を避けるための距離制限やトレーニングの進め方に関する専門家のアドバイスが提供されており、安全な運動習慣の確立を促しています。対象は子供を持つ保護者やユーススポーツ指導者です。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
+    },
+    {
+      "rank": 8,
+      "origin_tab": "latest_research",
+      "category": "Sleep Science / Mental Performance",
+      "title": "学生アスリートのメンタルヘルスをサポートする方法",
+      "summary": "この記事では、学業と競技の両立に奮闘する学生アスリートのメンタルヘルスを保護者やコーチがどのようにサポートできるかについて解説しています。ストレス、不安、燃え尽き症候群などの課題に早期に気づき、対話を通じて適切なサポートを提供するための具体的なヒントが提供されています。対象は学生アスリートとその関係者です。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOXlfUmJ4RHl0b1dDZGFVUm9tQjU4S2hHZzJubmw0dVdLak1VSVpDNlNaX3l0YUlHcktyV2JOMXBfX0ZOcWI0djdBU2RMUV9GVV9LU1BnU0IwVWg5dTdnZEt0eHBXeWxIVFVBbHRkWTg5bENGZExqLXJNZEE?oc=5"
+    },
+    {
+      "rank": 9,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "【独自】日中首脳会談、実現調整は不調 中国拒否、首相答弁に反発（共同通信）",
+      "summary": "日中首脳会談の実現に向けた調整が不調に終わったことが報じられました。\n共同通信によると、中国側が会談を拒否し、日本の首相答弁に反発したことが背景にあるとされています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GNXltLU1YTktVbUg2WlIzcTc3bUh2M1Q1LWtsYkFkeW42M2I2b0VLeEtDNkxCN1JxSkJGcjd3Z3N3VVdWLUpuZk5GREV2c19PcDlKRk9LOWdUdUV3d29ZWG9BUmlHd2Joa3pSWXZia0RFdkR2OWJDWkR1Ymg4Mzg?oc=5"
+    },
+    {
+      "rank": 10,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "石破前首相や小渕優子元経産相ら４人「戒告」、参院自民に「処分軽い」と不満…棄権・退席を誘発しかねず",
+      "summary": "自民党は石破前首相ら4名に対し「戒告」処分を下しましたが、参院自民党内からは処分が軽すぎるとの不満の声が上がっています。\nこの問題は、党内の規律維持と今後の投票行動に影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GN3JDUzhNc1hLV2pXRC02d1VpOW9rUTlOMm1QQWpySU1WUXBsbnRnLWlfYlJlV2hRZ0t6SWluZ1ZMVHUwd0xyTWVGVHVMaVppZDF4cXhBZ0pScXBYSGQyenlrR1ZjUQ?oc=5"
+    },
+    {
+      "rank": 11,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "「我田引水」批判も? 現行24選挙区を維持、維新が方針転換",
+      "summary": "日本維新の会が現行の24選挙区を維持する方針に転換したことが報じられ、「我田引水」との批判も出ています。\nこの方針転換は、来る選挙に向けた各党の戦略に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tYzgzZGg3Q3p6TmZwMjRSQzJ3Z1kxQ1Zhb2ZPdmVLa0o0U1UzX1lhQl92czRoVFc1dUpucHZtLWFZOFNwYkpYV0FYNzRKSTVBa0x5QzFXdF9EMW1NbmJLbFQxZWwyRGFH?oc=5"
+    },
+    {
+      "rank": 12,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "いわきの暴行死３歳男児、１か月半前から閉め出しや車内閉じ込めの情報…「無邪気で元気な子だった」",
+      "summary": "福島県いわき市で暴行により3歳の男児が死亡した事件で、男児が1か月半前から家を閉め出されたり車内に閉じ込められたりしていたとの情報が明らかになりました。\n近隣住民からは「無邪気で元気な子だった」との声が聞かれ、事件の悲劇性が浮き彫りになっています。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zWVdacmhaMW5IanlkWjBqNE5fRW9SR29odnNYa05tUzdmbHVvMUdPdGRFMmlqeGpGZjRuZHN3WGNYSHNyOC1qSTBFUm1UekloajBDUGpOOTRDRWR4QkREWi1iR0tTUQ?oc=5"
+    },
+    {
+      "rank": 13,
+      "origin_tab": "japan_news",
+      "category": "国際",
+      "title": "ヘグセス米国防長官の弾劾決議案、共和党議員が提出…党内で造反も予想・トランプ氏は「戦争に勝利」と擁護",
+      "summary": "米国で共和党議員がヘグセス国防長官に対する弾劾決議案を提出しました。\n党内での造反も予想される中、ドナルド・トランプ氏は長官を擁護し「戦争に勝利した」と評価しています。この動きは、米国の内政と外交政策に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOTWp3eXJnWkRiSUp3Rm9PVWNzMER2bEtDVEVzODV2TENJWkMxcGhUZ2FMbkYzaVc5RjhNNzNiSFFKVzZzVjltb0FuMlI0ek9fRkEzYU9DRFlTdFBXRnZGVUpn?oc=5"
+    },
+    {
+      "rank": 14,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ライブ更新: ピート・ヘグセス氏、共和党議員による弾劾の動きを受け自身の経歴を擁護",
+      "summary": "共和党議員がピート・ヘグセス氏に対する弾劾手続きを開始したことを受け、ヘグセス氏は自身の経歴を擁護しています。\nこの政治的な動きは、米国議会における今後の議論に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90QzhLd2lDckVuRlVEYjc0QU9vUkktcXFfcXpELUVXZTVuYW5NSnFZVlZJS3hkcllTNkVaZmFQa3locHVyZjN1eS1fRjZRaExiZmNoZi13?oc=5"
+    },
+    {
+      "rank": 15,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "共和党、中間選挙での敗北後、ジム・ジョーダン氏を代議院少数党院内総務に選出",
+      "summary": "中間選挙での敗北を受け、共和党はジム・ジョーダン氏を代議院の少数党院内総務に選出しました。\nこの人事は、今後2年間の共和党の戦略と議会運営に大きな影響を与えるでしょう。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1ljLXY5NXRtTnFqSDhyckhhaVVLd1Jlb0xjN3BLeDEwelRBSmJ1dllvcUt1bExDU1ZleU51Wk02ZGx6eG5pb2Rmci1RWXRMYktEQk80OFpob0llem9YYS1Fc3hFbllHYmJBVXZPZm0yM2FWeHNPVUxXMjhfV3RtUTJid0xxUS1FRnc?oc=5"
+    },
+    {
+      "rank": 16,
+      "origin_tab": "global_news",
+      "category": "Conflict",
+      "title": "米陸軍の上級兵士、ロシア情報機関支援の疑いで英国にて逮捕",
+      "summary": "米陸軍の上級兵士が、ロシア情報機関を支援した疑いで英国で逮捕されました。\nこの事件は、米英関係および国際的な情報戦の緊張に新たな波紋を広げる可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR01STjQ1eEtZVnpFd2tINENEd3ZpbXV5UWZiZVZJT3NaeTltaGZ3NTA4NGo2SHhETzNZaTBFSzkwcFF0OWt0ZWY2MDkzNnlkQjQ5SlhJTzBiQWJjWUY4OVJ2OWhGQ3JKa2VyeEJJMWt2eGhSVVZ4VGhvOWprcWZlbDItd3VkUDBLajE4YUM0N2tvZ3YyajYtSVE2NFh3N3M4Y3BPRmlsdFZ3REtHYzNqNU54SUpONWdicE9QZkRB?oc=5"
+    },
+    {
+      "rank": 17,
+      "origin_tab": "global_news",
+      "category": "Climate",
+      "title": "どれくらいの積雪に？冬の天候に関する最新予報",
+      "summary": "米国では、冬の天候に関する最新の予報が発表され、一部地域でかなりの積雪が予想されています。\nこれにより、交通機関への影響や住民への注意喚起が行われています。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTZQS2VxaURiTldUcVdkaDIxYjRFeDRuM1JMd0g5bzctRVpRYTNjNUFmYmMwUmRHM1FqZTE4UmRQU0Z5QVl4RXExQ0Y4Qno1Mm1WNmh1ZGNhNWJ5ZTJMSHJGZ1F1RkxJUjMzT0lhekswTk5yMjVQVXN6a3JtZENjRm5IT3EyX2hOcUV0TWZHU05EX0Exc19wb0lCV2pBQTUzdXYzUUFIU2pBUmxHeE1SMVJUUC1tdmM?oc=5"
+    },
+    {
+      "rank": 18,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "マサチューセッツ州女性の性的虐待を隠蔽するため殺害した元警官に有罪判決",
+      "summary": "マサチューセッツ州で、性的虐待を隠蔽するためにサンドラ・バーチモアさんを殺害した元警察官に有罪判決が下されました。\nこの事件は、警察官の職務倫理と司法制度に対する深刻な問題を提起しています。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUjhuQjdKMjNFd0Q3TUJKSG5Md2ZieVFCdGJkR01MS1hLelMwREV2Qk9Ma01ZWU9qNXMwdGoxZVpNS0VobG1EMUVCMFF6bGpIdGZqaTNrTTBCTHJpQm9qMHVHUVNFd0pjbzRkRzVHUDBfSTJXT0tmeTZfeEU4dXROaEln?oc=5"
+    },
+    {
+      "rank": 19,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "若年バレーボール選手における神経筋トレーニングの二重の利点：膝の怪我予防と運動能力向上は共通のメカニズム基盤を共有：構造化されたナラティブレビュー",
+      "summary": "若年バレーボール選手を対象としたレビュー研究は、神経筋トレーニングが膝の怪我予防と運動能力向上に同時に寄与することを示しています。これらの効果は、運動制御や筋活性化といった共通のメカニズムに基づいていると結論付けられています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+    },
+    {
+      "rank": 20,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を解説",
+      "summary": "近年注目されているペプチドについて、医療専門家がその潜在的な健康効果、安全性に関するリスク、および米国食品医薬品局（FDA）の懸念事項を解説しています。特にアスリートの間での使用についても言及されています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+    }
+  ]
+}
