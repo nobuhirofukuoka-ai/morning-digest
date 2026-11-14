@@ -1,16 +1,16 @@
 {
-  "issue_date": "2026/11/13",
-  "generated_at": "2026-11-13T01:33:29.435Z",
+  "issue_date": "2026/11/14",
+  "generated_at": "2026-11-14T01:06:47.919Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "思春期のバレーボール選手における神経筋トレーニングの二重の利点：膝の怪我の予防と運動能力は共通のメカニズム的基盤を共有：構造化されたナラティブレビュー",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5",
-      "abstract": "思春期のバレーボール選手を対象とした研究では、神経筋トレーニングが膝の怪我の予防と運動能力の向上という二重の利点をもたらすことが示されました。これらの効果は、共通のメカニズム的基盤に基づいていると考察されています。",
-      "insight": "若年アスリートの成長期における怪我予防とパフォーマンス向上を両立させるために、神経筋トレーニングの早期導入が推奨されます。",
-      "published_at": "2026-05-04T11:36:16.000Z"
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングのアジリティ性能と傷害予防効果：対照実験",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
+      "abstract": "バスケットボール選手を対象に、バーチャルリアリティ(VR)を活用した神経筋トレーニングがアジリティ能力向上と膝の傷害予防に与える影響を調査しました。実験では、VR環境でのトレーニングが従来の方法と比較して、選手の反応速度とバランス感覚をより効果的に改善し、傷害リスクを低減する可能性が示されました。",
+      "insight": "VR技術をスポーツのトレーニングやリハビリテーションに応用することで、より実践的で効果的な動作改善と傷害予防プログラムを設計できます。特に、瞬時の反応が求められる競技のアスリートへの導入が期待されます。",
+      "published_at": "2026-08-05T07:00:00.000Z"
     },
     {
       "id": "r002",
@@ -18,169 +18,168 @@
       "title": "トレイルランニングのバイオメカニクス科学",
       "source": "Trail Runner Magazine",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
-      "abstract": "トレイルランニングにおける特有のバイオメカニクスに焦点を当てた記事です。不整地での走行に適応するための体の使い方や、効率的なエネルギー伝達、怪我のリスク低減に繋がる動作について解説しています。",
-      "insight": "トレイルランニングの技術向上や怪我予防のために、記事で解説されているバイオメカニクスに基づいたトレーニングを取り入れることが有効です。",
+      "abstract": "トレイルランニングにおける複雑な地形での身体の動きと、それがパフォーマンスおよび傷害リスクにどう影響するかをバイオメカニクスの観点から分析しました。特に、異なる路面状況（登り、下り、不整地）での着地パターン、重心移動、筋肉の活動の違いに焦点を当てています。",
+      "insight": "トレイルランナーは、自身の走り方（ストライド、ピッチ、着地）を理解し、地形に応じた適切なフォームを習得することで、パフォーマンス向上と傷害予防に繋がります。コーチングでは、動画分析などを活用し、個別のバイオメカニクスに基づいた指導が有効です。",
       "published_at": "2026-08-20T07:00:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "サム地区住民向けに、より身近で整形外科手術が利用可能に",
-      "source": "McLaren Health Care",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEl6dVBTLWJQNksxYUZFU1Vjdlk3VzNvUDlSTHk5eUpkWXJoZmtSMGN6OV9Tek5SdXNtWFJ5aE9hcEJxQlYxV2JLQmpzb1VuT2FOQnZla2xDOTJDeDhKNmR1bERvZGdYcGNrOVU5M3NVYnhaUmoxc2N1Z0MtcjFxczZGdnlBbW9TRWMyNGhYVVIzQXc?oc=5",
-      "abstract": "サム地区の住民が、より近隣で整形外科手術を受けられるようになったというニュースです。地域医療のアクセス向上を目的とした取り組みが紹介されています。",
-      "insight": "地域住民の健康維持・増進に貢献するため、近隣での医療アクセス改善は重要な要素であり、同様の取り組みが他の地域でも期待されます。",
-      "published_at": "2026-08-20T07:00:00.000Z"
+      "title": "大腿四頭筋腱自家移植片を用いたオールインサイドACL再建術における技術的工夫と解決策",
+      "source": "Cureus",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeEJqd0ltSFdlOXU3NW40SklYLUFNdEJtd0dORHpGcTc5Q1VQRWJESmZwV1NsOFYwNFNSZVlrRHZFTm04eWtjbFNvdG9hRkdwNU1xNVRMcWhMSzVNcXpMSTE2MjQ5SjR4cWNjVXk2M1dWSTN0M21QNW1OVmxMZ3RCYndMRFdGamUtYktwdTJUOW4wLXVMZkJCSGRDbV9hakUxUmI2MXA2Q2JsMXVUNUkyaWdhT2JfcllQSDBCdURxU2U1TWxReGNsdnlWd284QjVpOGlhWVJGZUJ3bURibS1mNE1BTTJqTVdlWG5MdE9YZ2QzczBod2JJ?oc=5",
+      "abstract": "前十字靭帯(ACL)再建手術において、大腿四頭筋腱の自家移植片を使用する「オールインサイド」技術に関する最新の技術的工夫と、それに伴う課題への解決策を詳述しています。手術の成功率向上と合併症の低減を目指した内容となっています。",
+      "insight": "ACL再建術を検討している患者にとって、最新の手術アプローチとそのメリット・デメリットを理解することは重要です。術後の回復と機能回復を最大限にするため、医師と相談し、最適な移植腱と手術方法を選択することが求められます。",
+      "published_at": "2026-11-13T02:33:56.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "マリク・ネイバーズの膝の怪我による身体的・精神的負担の内側",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd2NXbHM0UjJUZ2dJaG9jZ05HSV8ycUFnY1NNaUdqWlNXY0szR1NtVzR2U0M4TENDSG1iRzc4RXgyU1VPMFlPV3oxUGhQQUE3X200LVNUUkdSS2hsVmlaNjhocGYweFNRU2RNSE9uUUtxbnk5ZW5WRGRqYm94TnVfcGNxRzdqRmhYT1BKTnJTREhoWUs3bjhFUjVaZWlUQQ?oc=5",
-      "abstract": "アメリカンフットボール選手マリク・ネイバーズ氏の膝の怪我とそのリハビリテーションにおける身体的・精神的な影響に焦点を当てた記事です。怪我からの回復過程における課題や克服について詳述しています。",
-      "insight": "アスリートが怪我から復帰する際には、身体的なケアだけでなく、精神的なサポートも不可欠であることを示唆しています。",
-      "published_at": "2026-11-12T11:00:00.000Z"
+      "title": "急性ハムストリング肉離れアスリートの競技復帰期間と再負傷率に対するリハビリテーション介入の効果",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5",
+      "abstract": "急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再負傷率に与える影響を調査した研究です。特定の段階的負荷プロトコルが、より早い競技復帰と低い再負傷率に寄与することを示唆しています。",
+      "insight": "ハムストリング肉離れのリハビリテーションでは、単に症状が改善するだけでなく、再負傷予防を意識した段階的な負荷設定が重要です。理学療法士は、個々のアスリートの競技特性に合わせて、適切なエクササイズと進行度を決定する必要があるでしょう。",
+      "published_at": "2026-10-05T07:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋式医学的鍼治療技術：系統的レビューとメタアナリシス",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5",
-      "abstract": "アスリートの疼痛管理における西洋式医学的鍼治療の効果を評価した系統的レビューとメタアナリシスです。複数の研究結果を統合し、その有効性と適用範囲について考察しています。",
-      "insight": "疼痛管理の選択肢として、鍼治療は非薬物療法であり、アスリートのコンディショニングや怪我からの回復に役立つ可能性があります。",
+      "abstract": "アスリートの様々な筋骨格系疼痛に対する西洋医学的鍼治療の効果を評価した系統的レビューとメタアナリシスです。慢性的な疼痛や急性期の筋肉痛に対して、鍼治療が痛みの緩和に有効である可能性が示されており、特に他の治療法との併用でより良い結果をもたらすことが示唆されました。",
+      "insight": "鍼治療は、アスリートの疼痛管理において、薬物療法や物理療法に加えて有効な選択肢となり得ます。特に慢性的な痛みやパフォーマンスに影響するトリガーポイントへのアプローチとして、スポーツ医療の現場での導入が考慮されるべきです。",
       "published_at": "2026-02-03T18:00:13.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "10代のスポーツサプリメント：推奨するもの、注意して使用するもの、避けるべきもの",
-      "source": "Contemporary Pediatrics",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5",
-      "abstract": "10代のスポーツ選手が利用するサプリメントについて、その安全性と有効性を Pediatrics 誌が解説。推奨されるもの、注意が必要なもの、避けるべきものが具体的に示されています。",
-      "insight": "未成年アスリートのサプリメント利用においては、保護者や指導者が正しい知識を持ち、安全な選択をサポートすることが重要です。",
-      "published_at": "2026-09-14T07:00:00.000Z"
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "source": "Verywell Health",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5",
+      "abstract": "ワークアウトのパフォーマンス向上に役立つ可能性のある5種類のサプリメント（例：クレアチン、カフェイン、BCAAなど）について、その科学的根拠と推奨される使用方法、潜在的なリスクを解説しています。個人の目標や体質に合わせた選択の重要性を強調しています。",
+      "insight": "アスリートは、パフォーマンス向上のためにサプリメントを検討する際、科学的根拠に基づいた情報を得ることが不可欠です。専門家（医師、栄養士）と相談し、自身のトレーニングや健康状態に合った安全で効果的な選択を行うべきでしょう。",
+      "published_at": "2026-09-30T07:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチのためのヒント",
-      "source": "Johns Hopkins Medicine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
-      "pubDate": "Tue, 05 May 2026 15:36:18 GMT",
-      "abstract": "学生アスリートのメンタルヘルス維持のために、保護者とコーチが取るべき具体的なアプローチについて解説しています。コミュニケーションの重要性や、ストレスサインの早期発見などが含まれます。",
-      "insight": "若年アスリートの心身の健全な成長を促すため、周囲の大人がメンタルヘルスへの配慮を怠らないことが、パフォーマンス向上にも繋がります。",
-      "published_at": "2026-05-05T15:36:18.000Z"
+      "title": "子供にとって「走りすぎ」はどのくらいか？年齢別ガイド",
+      "source": "Marathon Handbook",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5",
+      "abstract": "子供の成長段階に応じた適切なランニング距離と強度について、年齢別のガイドラインを提供しています。過度なトレーニングが成長期の体に与える影響や、楽しさを維持しながら運動能力を向上させるためのヒントをまとめています。",
+      "insight": "ジュニアアスリートのコーチや保護者は、子供の年齢や発達段階を考慮した運動プログラムを組むべきです。早期の専門化や過度な負荷は避け、多様な運動経験を通じて総合的な身体能力を育むことが長期的な健康と競技生活に繋がります。",
+      "published_at": "2026-10-22T07:00:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠が運動能力にどのように影響するか",
-      "source": "Sleep Foundation",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5",
-      "abstract": "アスリートにとって睡眠がいかに重要であるかを解説する記事です。十分な睡眠が、身体の回復、集中力、反応速度、全体的な運動パフォーマンスに与えるポジティブな影響について説明しています。",
-      "insight": "パフォーマンスの最大化を目指すアスリートは、睡眠をトレーニングの一環と捉え、質と量を確保することが不可欠です。",
-      "published_at": "2026-09-15T07:00:00.000Z"
+      "title": "アスリートの睡眠：スポーツパフォーマンスにどう影響するか",
+      "source": "IMG Academy",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRDJEbHJZVlRpeTlmZ2J1WXU1bnhIZ2pmQlV3VF9OYW1hRXIxd01HQUtDcjE1a3R0VV9WdmNhQU9Vc0NiYzhVeDBhQThQamgwNVFBNS1fQ1BObHhkTDZOX2s3UlplNXpPRENFRnI2TDVZNXBJbzg2R2M4NEZGcFVEb1g2X3JyQUtoSldMcmhEQ1oyQmw1Unc?oc=5",
+      "abstract": "アスリートにとっての睡眠の重要性を多角的に解説しています。十分な睡眠が身体的回復、ホルモンバランス、認知機能、集中力、反応速度などに与えるポジティブな影響を強調し、睡眠不足がパフォーマンス低下や怪我のリスクを高めることを指摘しています。",
+      "insight": "アスリートや指導者は、トレーニングや栄養と同様に、睡眠をパフォーマンス向上と怪我予防のための重要な要素として位置づけるべきです。質の高い睡眠を確保するための習慣作りや環境整備が、競技力の最大化に直結します。",
+      "published_at": "2026-08-20T19:23:41.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "社会",
+      "category": "国際",
       "source": "NHKニュース",
-      "title": "広島 3人死亡火災 同居の32歳長男が火つけたか 放火容疑で逮捕",
-      "summary": "広島市で発生した3人死亡の火災で、同居していた32歳の長男が火をつけた疑いで逮捕されました。警察は放火の疑いで捜査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SaHVBMF9NWjlIZHJJRWVrbF9kVFZuSEdnYVo2S1JoXzgzNDhfZ3RuMi12b01fM3NqeTZRVzB3SWhJUnZmbkItRDkwc1hNdFFKbGR2ZzdjVWVRVUJkMG1Z?oc=5",
-      "published_at": "2026-11-12T20:51:03.000Z"
+      "title": "米中ロ3か国首脳会談19日開催 3者会談は初 ホワイトハウス発表",
+      "summary": "ホワイトハウスは、米中ロ3か国の首脳会談が19日に開催されると発表しました。\nこれは3者による初の会談となり、国際情勢の緊張緩和や主要課題解決に向けた重要な機会となる見込みです。\n各国首脳の声明に注目が集まります。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWS1ZPUWx2VVBzUXFpMEhGMVBJVTUtbHlKcy0yT1JzcVJ1UHVkOWlCNl8zZlQ4S0RabFRDZW1fUkwtZ1NRRnJZSDdnX1JneDhpdUg5RHdsQkhPam81LUhR?oc=5",
+      "published_at": "2026-11-13T23:59:00.000Z"
     },
     {
       "id": "j002",
-      "category": "政治",
+      "category": "国際",
       "source": "読売新聞",
-      "title": "麻生太郎副総裁「党として決定すれば結束して臨むのが伝統」…消費税減税法案採決を欠席の石破茂氏らを批判",
-      "summary": "麻生太郎副総裁が、消費税減税法案の採決を欠席した石破茂氏らに対し、「党として決定すれば結束して臨むのが伝統」と批判しました。党内の結束を訴えています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40ckcyMUY1MDhSeFk4NTJ4ZTl3UGU5VUpjMUZiNEZQNHdXNk9oRjZXRzBhRVJFei1JaFljNVh3d0h1S2l5dGpScFE5Q083T20yU3FpeFdTcVpRdFN3ZkdtZ0IyU3Bkdw?oc=5",
-      "published_at": "2026-11-12T13:20:00.000Z"
+      "title": "トランプ氏「突然の方針転換」か、対イラン「合意不要」と投稿…合意目指す局面「とっくに過ぎ去った」とも",
+      "summary": "トランプ前大統領が、対イラン政策に関して「合意不要」との見解をSNSに投稿しました。\nこれは従来の姿勢からの「突然の方針転換」と受け止められており、「合意を目指す局面はとっくに過ぎ去った」とも述べ、今後の外交政策に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IWVFOUFlTMHhVY3l1ZjN2TkpwRVBwaXNjX2hoSzVfSTZKNU1waHVKUExrY2Z6WW9OTkZmQnZBb2hBQi1ia2ZydF9CaFdXWGd6ak8yR2ltWXlBUWd3VTU4dHVB?oc=5",
+      "published_at": "2026-11-13T15:30:00.000Z"
     },
     {
       "id": "j003",
-      "category": "政治",
-      "source": "47NEWS",
-      "title": "【速報】自維国、定数削減法案を共同提出",
-      "summary": "日本維新の会と国民民主党が、衆議院の議員定数削減法案を共同で提出しました。早期の国会審議入りを目指す方針です。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOempNUDEtZ2tQc19rMFVIdTd4bHotTG55OU9DclF3WVExaDdnbWRJaVB5ZjVHMGw2SS1Td21YTWhMTkQ5T2FfazJUYw?oc=5",
-      "published_at": "2026-11-12T04:38:13.000Z"
+      "category": "社会",
+      "source": "朝日新聞",
+      "title": "神奈川の2人死亡ひき逃げ事故、49歳の会社員の男を逮捕 容疑否認 [神奈川県]",
+      "summary": "神奈川県で発生した2人死亡のひき逃げ事故で、警察は49歳の会社員の男を逮捕しました。\n男は容疑を否認している模様で、事故の詳しい状況や容疑者の供述について、捜査が進められています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxT1RFdFBZQlcyUV8xSE1WbHN0NWdLYXpQMlh2ZFZHdFdVTEV0YVI2V3F1ZGk1WWFxTkhfemJmNkxMVGhmQlJCQXZaeDNrZWZXTDNXYzAwam1hZnVyd1FhMjVfQWVLZzB?oc=5",
+      "published_at": "2026-11-14T00:49:27.000Z"
     },
     {
       "id": "j004",
-      "category": "国際",
+      "category": "社会",
       "source": "産経ニュース",
-      "title": "戦没者追悼式典で笑い声 ヘグセス米国防長官らマナー違反で衛兵から叱責受ける",
-      "summary": "戦没者追悼式典において、ヘグセス米国防長官らがマナー違反と見なされる行動で衛兵から叱責を受けました。式典の厳粛さを損なう行為として批判が出ています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KMEFtOFdaOW16dEl3NkFTZEZTS1Q3N1dKTzgzeU5XcEVsN3VnVnd5akJGTXFzc21Ga0VBWmMyTDF6ZXQ4MmEwb1ZtWnJqbTQwYXpfb3E1NjRjQ1BvYkxaWG53UW1wb3RKSjRycnBKc3oxRThoN1E?oc=5",
-      "published_at": "2026-11-12T00:48:15.000Z"
+      "title": "3歳娘に暴行死、殺人容疑で父親を逮捕 病院から「全身あざだらけ」と通報",
+      "summary": "3歳の娘に暴行を加えて死亡させたとして、父親が殺人容疑で逮捕されました。\n病院から「全身あざだらけ」との通報があり、事件が発覚。\n警察は容疑の詳しい経緯について捜査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00eXBPaTJRakJCMTlCVU9XY1IwcC1SSnhNSjVHdm10T2lWSTZuV1QxSmJMa0JIeThmZmdEXzdXTnpRb1g2aEFMdnpGSGNOZ0hEeUlXODdzXzdoc3EwX09uR3RDWGQzRHQ4V19icE4yZWp4Y2FuQUE?oc=5",
+      "published_at": "2026-11-13T09:36:30.000Z"
     },
     {
       "id": "j005",
       "category": "社会",
-      "source": "NHKニュース",
-      "title": "山形 寒河江 住宅火災で3人の遺体 3人居住か 連絡とれず",
-      "summary": "山形県寒河江市で住宅火災が発生し、3人の遺体が発見されました。この住宅には3人が居住していたとみられ、現在も連絡が取れない状態です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUFBPTFJISkhadjVmaV9SY2dWUEoyNjVDSlVodWpGQURYc1hxN0NUMTk0M1BtalhoNUh5a1hvODlRLXFnR0pEUlpfVVBsQTkxbUFKRXFJTW9teDhCc3FB?oc=5",
-      "published_at": "2026-11-12T21:42:55.000Z"
+      "source": "ウェザーニュース",
+      "title": "週間天気予報 明日は広く本降りの雨 来週中頃は全国的に荒天注意",
+      "summary": "気象庁は週間天気予報を発表し、明日14日は全国的に本降りの雨となる見込みです。\nまた、来週中頃には全国的に荒れた天候となる可能性があり、注意を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kR0JiaWg4WmpZbWplbnB3LXlnZDB5eXZRR3duYmRfN0VCNE13UHNNMmZEMHRpeHVxWkp2VEYtUUQxc2RFMGZjTHBYTmJDelNEUTctaw?oc=5",
+      "published_at": "2026-11-13T20:42:00.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
-      "category": "Conflict",
+      "category": "Society",
       "region": "US",
-      "source": "ABC7 New York",
-      "title": "ブルックリンのフラットブッシュ地区でビル崩壊、子供2人を含む8人死亡",
-      "summary": "ニューヨーク市ブルックリン区フラットブッシュ地区でビルが崩壊し、これまでに子供2人を含む8人が死亡したことが確認されました。救助活動が続けられています。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldxZVJzWUozM1oybklaa2d6bzlrVG5MeUpYX3Q0d2k2SmoyVGloMTZGb3N5MmszMmJ2TzEycUJYbXVUUnhkQmZYOXNaTUNFUm50Z3ZNZWQwai0xeGVMdF9oNVBHbTR6dUdKMi1ONHlveVhPSFNPOWloaGhkQk5FV3NOQVBVekJQaFRmYUF0Z2pGSkZEUWxHZEVDUjRvZw?oc=5",
-      "published_at": "2026-11-13T00:52:00.000Z"
+      "source": "CNN",
+      "title": "ライブ更新：全国的な飛行停止が解消される見通しなし、欠航便が急増",
+      "summary": "全国的な航空機の地上停止が続き、解決の見通しが立たない中、飛行機の欠航が急増しています。\nこの混乱により、多くの旅行者に影響が出ており、当局は状況の早期解決に向けて対応を急いでいます。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5",
+      "published_at": "2026-11-14T00:52:00.000Z"
     },
     {
       "id": "g002",
-      "category": "Conflict",
+      "category": "Society",
       "region": "US",
-      "source": "CNN",
-      "title": "ワシントンD.C.で銃撃事件、1人死亡4人負傷 55歳男が犯人と特定される",
-      "summary": "ワシントンD.C.で発生した銃撃事件で、55歳の男が容疑者として特定されました。この事件で1人が死亡、4人が負傷しています。警察が捜査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxRDBQN3NNZV80TkVLTktzU0V2VzdEYVIwNWRqYkhsd1lZYnRCVkxSdzZzREg0cHVPVjNLSmxwclBxRERaR2Vwb1ducldyWDQybzdfZ2M3M1R1dFBBczd2ZFhESjFEd1BaU3IyWmJhSVRDbHdt?oc=5",
-      "published_at": "2026-11-12T23:57:00.000Z"
+      "source": "BBC",
+      "title": "「ミシシッピの奇跡」－ニューオーリンズで停泊中のクルーズ船がタンカーと衝突後、全員救助",
+      "summary": "ニューオーリンズで、停泊中のクルーズ船にタンカーが衝突する事故が発生しましたが、乗客・乗員全員が無事に救助されました。\nこの救助活動は「ミシシッピの奇跡」と称されており、事故原因の調査が進められています。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bmJSeXZjVmZQcm1sZkRQQmlCa2hPYUlhbEN2UzFnN184RzZTWEk2ZEM1OXR6ZTFOTWpaU21QOGVMX3UtZUZ6RGFLTGdlOF9TNVJrWFBuZXF2WEk?oc=5",
+      "published_at": "2026-11-13T23:40:45.000Z"
     },
     {
       "id": "g003",
       "category": "Politics",
-      "region": "Middle East",
-      "source": "The Washington Post",
-      "title": "トランプ大統領、イランとの合意は不要と発言 交渉を打ち切り",
-      "summary": "トランプ大統領は、イランとの新たな合意は必要ないとの考えを示し、交渉を打ち切ることを表明しました。これにより、中東情勢に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
-      "published_at": "2026-11-12T23:34:30.000Z"
+      "region": "US",
+      "source": "The Guardian",
+      "title": "トランプ氏が支援したMAGA強硬派ローレン・ボーバート氏、コロラド州下院選で敗北",
+      "summary": "ドナルド・トランプ前大統領が支援していたMAGA強硬派のローレン・ボーバート氏が、コロラド州の議会選挙で敗北しました。\nこの結果は、トランプ氏の影響力や共和党内の力関係に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1oydGg0dGktdzQ5Q0QxX1VQRVZJQUdkZUdwNnRHTGxxZWpjeWJGNlM4cV9CVkxjbko3NXlKcm9qeVBra2lON3k2Y1p5X28tNXo4aGdZUDFUaUoxT0tZcFNnNUNtRnFINTJwVzhDb0lNeWdiRTdBZjRYVVpCc3QzemtWWVBPVG1pQlE?oc=5",
+      "published_at": "2026-11-13T20:09:00.000Z"
     },
     {
       "id": "g004",
-      "category": "Politics",
+      "category": "Economy",
       "region": "US",
-      "source": "NPR",
-      "title": "シンディ・ホルシュアー氏、カンザス州で勝利し民主党が知事職を維持",
-      "summary": "シンディ・ホルシュアー氏がカンザス州知事選挙で勝利し、民主党が知事職を維持することになりました。接戦の末の勝利となりました。",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0pOVlgwWnNYaGdxWDBWa1NFd2k4VmNHQ0liSzRNd3N6Q1dVQ0xoSk0tY2ZiVGQ3enloTHhoZTlFUjAzN3pLVk5JaWU1M3Z6bWhiVy1GcnNoQU1PZ3BxNkxYSG9Jd0hNUDU4aWxkN1BZUDdkbUU3OHJqeW5TUTlIVGRaTWpHc3RpVzdtUDRUVQ?oc=5",
-      "published_at": "2026-11-12T22:52:49.000Z"
+      "source": "The Washington Post",
+      "title": "トランプ氏のトップ経済顧問、ルトニック氏のNvidia対応を巡り対立",
+      "summary": "トランプ氏の主要経済顧問らが、ビジネスリーダーであるルトニック氏のNvidia社に対する対応について意見の対立を見せています。\nこの対立は、次期政権の経済政策の方向性や主要企業へのアプローチに影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGRWMi1MNTdhajFaclo1X3VPazhLeXlDa2ZadEdMOUtLV3BUbUhqTi0tWFQ4bzliekwtOHk5Y1gzaGlrdktFLUZnSEJKRFJHZ1Y1RHpjT1NQM0x1M2E0MklYZUlUWm5qdGpUYnFydjc2bF9IRmVFcERtczFScWU3djVVSXdUQ3VCdkZfSl84NkdVM0RTbWoyQnQtVmJ5cHFDblJNMzdRWnREd1dyLUVnUng5RjUwaF81VUVkcDQxMG1KWk80N1ZGZA?oc=5",
+      "published_at": "2026-11-13T21:39:01.000Z"
     },
     {
       "id": "g005",
       "category": "Politics",
       "region": "US",
-      "source": "Politico",
-      "title": "ミシシッピ州を民主党へ転換させたプロテイン広告の背後にある27歳",
-      "summary": "ミシシッピ州知事選挙において、27歳の人物が手がけたプロテイン広告が、民主党候補の勝利に貢献したと報じられています。斬新なマーケティング戦略が注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM4dWlNNFZsQ1lCaE9fQmZrVWJyVjYzN3hNU3VrX0pCZlVCUkIxT1lORXhOWnhYNjZQREpGajJ2NHZOU1Y2WHE4Y2ZnVEdHdmpmemNNVURQNzlLWFBabnRWMEU4blpqZlZvR0FmeW9tcWJfa1c3T3ZZUVFiWWNfcWI0VXQ4X0lFaVVDVjk3dGxOcV9Z?oc=5",
-      "published_at": "2026-11-12T22:34:00.000Z"
+      "source": "AP News",
+      "title": "最高裁判所、トランプ氏の南部国境での亡命申請停止に関する大統領令を審議へ",
+      "summary": "米国最高裁判所が、ドナルド・トランプ前大統領が出した南部国境での亡命申請を停止する大統領令について審議を行うことを決定しました。\nこの決定は、移民政策における大統領の権限と人道的問題に大きな影響を与えることになります。",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdExwdTBia3RDdGYzWFRuYUkxaERSQkpTVmY0Ymp5S05jR0ZLSC10ekFMcjQ0R0g5NFVmOFR3MENlTm04ajFoemlGclMtX09RZVBtd3VTUVpXd0hiNFlVLVZBME9wUU1UdDFWYzVXQl8yTno3Z1M3WlZnTjZnaTJKQlVCS3g0WmZaUVJ2UnVlaw?oc=5",
+      "published_at": "2026-11-13T20:56:00.000Z"
     }
   ],
   "weekly_top20": [
@@ -188,161 +187,161 @@
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "思春期のバレーボール選手における神経筋トレーニングの二重の利点：膝の怪我の予防と運動能力は共通のメカニズム的基盤を共有：構造化されたナラティブレビュー",
-      "summary": "思春期のバレーボール選手を対象とした研究では、神経筋トレーニングが膝の怪我の予防と運動能力の向上という二重の利点をもたらすことが示されました。これらの効果は、共通のメカニズム的基盤に基づいていると考察されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングのアジリティ性能と傷害予防効果：対照実験",
+      "summary": "バスケットボール選手を対象に、バーチャルリアリティ(VR)を活用した神経筋トレーニングがアジリティ能力向上と膝の傷害予防に与える影響を調査しました。実験では、VR環境でのトレーニングが従来の方法と比較して、選手の反応速度とバランス感覚をより効果的に改善し、傷害リスクを低減する可能性が示されました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
       "title": "トレイルランニングのバイオメカニクス科学",
-      "summary": "トレイルランニングにおける特有のバイオメカニクスに焦点を当てた記事です。不整地での走行に適応するための体の使い方や、効率的なエネルギー伝達、怪我のリスク低減に繋がる動作について解説しています。",
+      "summary": "トレイルランニングにおける複雑な地形での身体の動きと、それがパフォーマンスおよび傷害リスクにどう影響するかをバイオメカニクスの観点から分析しました。特に、異なる路面状況（登り、下り、不整地）での着地パターン、重心移動、筋肉の活動の違いに焦点を当てています。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "サム地区住民向けに、より身近で整形外科手術が利用可能に",
-      "summary": "サム地区の住民が、より近隣で整形外科手術を受けられるようになったというニュースです。地域医療のアクセス向上を目的とした取り組みが紹介されています。",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEl6dVBTLWJQNksxYUZFU1Vjdlk3VzNvUDlSTHk5eUpkWXJoZmtSMGN6OV9Tek5SdXNtWFJ5aE9hcEJxQlYxV2JLQmpzb1VuT2FOQnZla2xDOTJDeDhKNmR1bERvZGdYcGNrOVU5M3NVYnhaUmoxc2N1Z0MtcjFxczZGdnlBbW9TRWMyNGhYVVIzQXc?oc=5"
+      "title": "大腿四頭筋腱自家移植片を用いたオールインサイドACL再建術における技術的工夫と解決策",
+      "summary": "前十字靭帯(ACL)再建手術において、大腿四頭筋腱の自家移植片を使用する「オールインサイド」技術に関する最新の技術的工夫と、それに伴う課題への解決策を詳述しています。手術の成功率向上と合併症の低減を目指した内容となっています。",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeEJqd0ltSFdlOXU3NW40SklYLUFNdEJtd0dORHpGcTc5Q1VQRWJESmZwV1NsOFYwNFNSZVlrRHZFTm04eWtjbFNvdG9hRkdwNU1xNVRMcWhMSzVNcXpMSTE2MjQ5SjR4cWNjVXk2M1dWSTN0M21QNW1OVmxMZ3RCYndMRFdGamUtYktwdTJUOW4wLXVMZkJCSGRDbV9hakUxUmI2MXA2Q2JsMXVUNUkyaWdhT2JfcllQSDBCdURxU2U1TWxReGNsdnlWd284QjVpOGlhWVJGZUJ3bURibS1mNE1BTTJqTVdlWG5MdE9YZ2QzczBod2JJ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "マリク・ネイバーズの膝の怪我による身体的・精神的負担の内側",
-      "summary": "アメリカンフットボール選手マリク・ネイバーズ氏の膝の怪我とそのリハビリテーションにおける身体的・精神的な影響に焦点を当てた記事です。怪我からの回復過程における課題や克服について詳述しています。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd2NXbHM0UjJUZ2dJaG9jZ05HSV8ycUFnY1NNaUdqWlNXY0szR1NtVzR2U0M4TENDSG1iRzc4RXgyU1VPMFlPV3oxUGhQQUE3X200LVNUUkdSS2hsVmlaNjhocGYweFNRU2RNSE9uUUtxbnk5ZW5WRGRqYm94TnVfcGNxRzdqRmhYT1BKTnJTREhoWUs3bjhFUjVaZWlUQQ?oc=5"
+      "title": "急性ハムストリング肉離れアスリートの競技復帰期間と再負傷率に対するリハビリテーション介入の効果",
+      "summary": "急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再負傷率に与える影響を調査した研究です。特定の段階的負荷プロトコルが、より早い競技復帰と低い再負傷率に寄与することを示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋式医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "アスリートの疼痛管理における西洋式医学的鍼治療の効果を評価した系統的レビューとメタアナリシスです。複数の研究結果を統合し、その有効性と適用範囲について考察しています。",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
+      "summary": "アスリートの様々な筋骨格系疼痛に対する西洋医学的鍼治療の効果を評価した系統的レビューとメタアナリシスです。慢性的な疼痛や急性期の筋肉痛に対して、鍼治療が痛みの緩和に有効である可能性が示されており、特に他の治療法との併用でより良い結果をもたらすことが示唆されました。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "10代のスポーツサプリメント：推奨するもの、注意して使用するもの、避けるべきもの",
-      "summary": "10代のスポーツ選手が利用するサプリメントについて、その安全性と有効性を Pediatrics 誌が解説。推奨されるもの、注意が必要なもの、避けるべきものが具体的に示されています。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5"
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "summary": "ワークアウトのパフォーマンス向上に役立つ可能性のある5種類のサプリメント（例：クレアチン、カフェイン、BCAAなど）について、その科学的根拠と推奨される使用方法、潜在的なリスクを解説しています。個人の目標や体質に合わせた選択の重要性を強調しています。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチのためのヒント",
-      "summary": "学生アスリートのメンタルヘルス維持のために、保護者とコーチが取るべき具体的なアプローチについて解説しています。コミュニケーションの重要性や、ストレスサインの早期発見などが含まれます。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "title": "子供にとって「走りすぎ」はどのくらいか？年齢別ガイド",
+      "summary": "子供の成長段階に応じた適切なランニング距離と強度について、年齢別のガイドラインを提供しています。過度なトレーニングが成長期の体に与える影響や、楽しさを維持しながら運動能力を向上させるためのヒントをまとめています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠が運動能力にどのように影響するか",
-      "summary": "アスリートにとって睡眠がいかに重要であるかを解説する記事です。十分な睡眠が、身体の回復、集中力、反応速度、全体的な運動パフォーマンスに与えるポジティブな影響について説明しています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
+      "title": "アスリートの睡眠：スポーツパフォーマンスにどう影響するか",
+      "summary": "アスリートにとっての睡眠の重要性を多角的に解説しています。十分な睡眠が身体的回復、ホルモンバランス、認知機能、集中力、反応速度などに与えるポジティブな影響を強調し、睡眠不足がパフォーマンス低下や怪我のリスクを高めることを指摘しています。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRDJEbHJZVlRpeTlmZ2J1WXU1bnhIZ2pmQlV3VF9OYW1hRXIxd01HQUtDcjE1a3R0VV9WdmNhQU9Vc0NiYzhVeDBhQThQamgwNVFBNS1fQ1BObHhkTDZOX2s3UlplNXpPRENFRnI2TDVZNXBJbzg2R2M4NEZGcFVEb1g2X3JyQUtoSldMcmhEQ1oyQmw1Unc?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "広島 3人死亡火災 同居の32歳長男が火つけたか 放火容疑で逮捕",
-      "summary": "広島市で発生した3人死亡の火災で、同居していた32歳の長男が火をつけた疑いで逮捕されました。警察は放火の疑いで捜査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SaHVBMF9NWjlIZHJJRWVrbF9kVFZuSEdnYVo2S1JoXzgzNDhfZ3RuMi12b01fM3NqeTZRVzB3SWhJUnZmbkItRDkwc1hNdFFKbGR2ZzdjVWVRVUJkMG1Z?oc=5"
+      "category": "国際",
+      "title": "米中ロ3か国首脳会談19日開催 3者会談は初 ホワイトハウス発表",
+      "summary": "ホワイトハウスは、米中ロ3か国の首脳会談が19日に開催されると発表しました。\nこれは3者による初の会談となり、国際情勢の緊張緩和や主要課題解決に向けた重要な機会となる見込みです。\n各国首脳の声明に注目が集まります。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWS1ZPUWx2VVBzUXFpMEhGMVBJVTUtbHlKcy0yT1JzcVJ1UHVkOWlCNl8zZlQ4S0RabFRDZW1fUkwtZ1NRRnJZSDdnX1JneDhpdUg5RHdsQkhPam81LUhR?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "麻生太郎副総裁「党として決定すれば結束して臨むのが伝統」…消費税減税法案採決を欠席の石破茂氏らを批判",
-      "summary": "麻生太郎副総裁が、消費税減税法案の採決を欠席した石破茂氏らに対し、「党として決定すれば結束して臨むのが伝統」と批判しました。党内の結束を訴えています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40ckcyMUY1MDhSeFk4NTJ4ZTl3UGU5VUpjMUZiNEZQNHdXNk9oRjZXRzBhRVJFei1JaFljNVh3d0h1S2l5dGpScFE5Q083T20yU3FpeFdTcVpRdFN3ZkdtZ0IyU3Bkdw?oc=5"
+      "category": "国際",
+      "title": "トランプ氏「突然の方針転換」か、対イラン「合意不要」と投稿…合意目指す局面「とっくに過ぎ去った」とも",
+      "summary": "トランプ前大統領が、対イラン政策に関して「合意不要」との見解をSNSに投稿しました。\nこれは従来の姿勢からの「突然の方針転換」と受け止められており、「合意を目指す局面はとっくに過ぎ去った」とも述べ、今後の外交政策に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IWVFOUFlTMHhVY3l1ZjN2TkpwRVBwaXNjX2hoSzVfSTZKNU1waHVKUExrY2Z6WW9OTkZmQnZBb2hBQi1ia2ZydF9CaFdXWGd6ak8yR2ltWXlBUWd3VTU4dHVB?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "【速報】自維国、定数削減法案を共同提出",
-      "summary": "日本維新の会と国民民主党が、衆議院の議員定数削減法案を共同で提出しました。早期の国会審議入りを目指す方針です。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOempNUDEtZ2tQc19rMFVIdTd4bHotTG55OU9DclF3WVExaDdnbWRJaVB5ZjVHMGw2SS1Td21YTWhMTkQ5T2FfazJUYw?oc=5"
+      "category": "社会",
+      "title": "神奈川の2人死亡ひき逃げ事故、49歳の会社員の男を逮捕 容疑否認 [神奈川県]",
+      "summary": "神奈川県で発生した2人死亡のひき逃げ事故で、警察は49歳の会社員の男を逮捕しました。\n男は容疑を否認している模様で、事故の詳しい状況や容疑者の供述について、捜査が進められています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxT1RFdFBZQlcyUV8xSE1WbHN0NWdLYXpQMlh2ZFZHdFdVTEV0YVI2V3F1ZGk1WWFxTkhfemJmNkxMVGhmQlJCQXZaeDNrZWZXTDNXYzAwam1hZnVyd1FhMjVfQWVLZzB?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "戦没者追悼式典で笑い声 ヘグセス米国防長官らマナー違反で衛兵から叱責受ける",
-      "summary": "戦没者追悼式典において、ヘグセス米国防長官らがマナー違反と見なされる行動で衛兵から叱責を受けました。式典の厳粛さを損なう行為として批判が出ています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KMEFtOFdaOW16dEl3NkFTZEZTS1Q3N1dKTzgzeU5XcEVsN3VnVnd5akJGTXFzc21Ga0VBWmMyTDF6ZXQ4MmEwb1ZtWnJqbTQwYXpfb3E1NjRjQ1BvYkxaWG53UW1wb3RKSjRycnBKc3oxRThoN1E?oc=5"
+      "category": "社会",
+      "title": "3歳娘に暴行死、殺人容疑で父親を逮捕 病院から「全身あざだらけ」と通報",
+      "summary": "3歳の娘に暴行を加えて死亡させたとして、父親が殺人容疑で逮捕されました。\n病院から「全身あざだらけ」との通報があり、事件が発覚。\n警察は容疑の詳しい経緯について捜査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00eXBPaTJRakJCMTlCVU9XY1IwcC1SSnhNSjVHdm10T2lWSTZuV1QxSmJMa0JIeThmZmdEXzdXTnpRb1g2aEFMdnpGSGNOZ0hEeUlXODdzXzdoc3EwX09uR3RDWGQzRHQ4V19icE4yZWp4Y2FuQUE?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "山形 寒河江 住宅火災で3人の遺体 3人居住か 連絡とれず",
-      "summary": "山形県寒河江市で住宅火災が発生し、3人の遺体が発見されました。この住宅には3人が居住していたとみられ、現在も連絡が取れない状態です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUFBPTFJISkhadjVmaV9SY2dWUEoyNjVDSlVodWpGQURYc1hxN0NUMTk0M1BtalhoNUh5a1hvODlRLXFnR0pEUlpfVVBsQTkxbUFKRXFJTW9teDhCc3FB?oc=5"
+      "title": "週間天気予報 明日は広く本降りの雨 来週中頃は全国的に荒天注意",
+      "summary": "気象庁は週間天気予報を発表し、明日14日は全国的に本降りの雨となる見込みです。\nまた、来週中頃には全国的に荒れた天候となる可能性があり、注意を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kR0JiaWg4WmpZbWplbnB3LXlnZDB5eXZRR3duYmRfN0VCNE13UHNNMmZEMHRpeHVxWkp2VEYtUUQxc2RFMGZjTHBYTmJDelNEUTctaw?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "ブルックリンのフラットブッシュ地区でビル崩壊、子供2人を含む8人死亡",
-      "summary": "ニューヨーク市ブルックリン区フラットブッシュ地区でビルが崩壊し、これまでに子供2人を含む8人が死亡したことが確認されました。救助活動が続けられています。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldxZVJzWUozM1oybklaa2d6bzlrVG5MeUpYX3Q0d2k2SmoyVGloMTZGb3N5MmszMmJ2TzEycUJYbXVUUnhkQmZYOXNaTUNFUm50Z3ZNZWQwai0xeGVMdF9oNVBHbTR6dUdKMi1ONHlveVhPSFNPOWloaGhkQk5FV3NOQVBVekJQaFRmYUF0Z2pGSkZEUWxHZEVDUjRvZw?oc=5"
+      "category": "Society",
+      "title": "ライブ更新：全国的な飛行停止が解消される見通しなし、欠航便が急増",
+      "summary": "全国的な航空機の地上停止が続き、解決の見通しが立たない中、飛行機の欠航が急増しています。\nこの混乱により、多くの旅行者に影響が出ており、当局は状況の早期解決に向けて対応を急いでいます。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "ワシントンD.C.で銃撃事件、1人死亡4人負傷 55歳男が犯人と特定される",
-      "summary": "ワシントンD.C.で発生した銃撃事件で、55歳の男が容疑者として特定されました。この事件で1人が死亡、4人が負傷しています。警察が捜査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxRDBQN3NNZV80TkVLTktzU0V2VzdEYVIwNWRqYkhsd1lZYnRCVkxSdzZzREg0cHVPVjNLSmxwclBxRERaR2Vwb1ducldyWDQybzdfZ2M3M1R1dFBBczd2ZFhESjFEd1BaU3IyWmJhSVRDbHdt?oc=5"
+      "category": "Society",
+      "title": "「ミシシッピの奇跡」－ニューオーリンズで停泊中のクルーズ船がタンカーと衝突後、全員救助",
+      "summary": "ニューオーリンズで、停泊中のクルーズ船にタンカーが衝突する事故が発生しましたが、乗客・乗員全員が無事に救助されました。\nこの救助活動は「ミシシッピの奇跡」と称されており、事故原因の調査が進められています。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bmJSeXZjVmZQcm1sZkRQQmlCa2hPYUlhbEN2UzFnN184RzZTWEk2ZEM1OXR6ZTFOTWpaU21QOGVMX3UtZUZ6RGFLTGdlOF9TNVJrWFBuZXF2WEk?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ大統領、イランとの合意は不要と発言 交渉を打ち切り",
-      "summary": "トランプ大統領は、イランとの新たな合意は必要ないとの考えを示し、交渉を打ち切ることを表明しました。これにより、中東情勢に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5"
+      "title": "トランプ氏が支援したMAGA強硬派ローレン・ボーバート氏、コロラド州下院選で敗北",
+      "summary": "ドナルド・トランプ前大統領が支援していたMAGA強硬派のローレン・ボーバート氏が、コロラド州の議会選挙で敗北しました。\nこの結果は、トランプ氏の影響力や共和党内の力関係に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1oydGg0dGktdzQ5Q0QxX1VQRVZJQUdkZUdwNnRHTGxxZWpjeWJGNlM4cV9CVkxjbko3NXlKcm9qeVBra2lON3k2Y1p5X28tNXo4aGdZUDFUaUoxT0tZcFNnNUNtRnFINTJwVzhDb0lNeWdiRTdBZjRYVVpCc3QzemtWWVBPVG1pQlE?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "シンディ・ホルシュアー氏、カンザス州で勝利し民主党が知事職を維持",
-      "summary": "シンディ・ホルシュアー氏がカンザス州知事選挙で勝利し、民主党が知事職を維持することになりました。接戦の末の勝利となりました。",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0pOVlgwWnNYaGdxWDBWa1NFd2k4VmNHQ0liSzRNd3N6Q1dVQ0xoSk0tY2ZiVGQ3enloTHhoZTlFUjAzN3pLVk5JaWU1M3Z6bWhiVy1GcnNoQU1PZ3BxNkxYSG9Jd0hNUDU4aWxkN1BZUDdkbUU3OHJqeW5TUTlIVGRaTWpHc3RpVzdtUDRUVQ?oc=5"
+      "category": "Economy",
+      "title": "トランプ氏のトップ経済顧問、ルトニック氏のNvidia対応を巡り対立",
+      "summary": "トランプ氏の主要経済顧問らが、ビジネスリーダーであるルトニック氏のNvidia社に対する対応について意見の対立を見せています。\nこの対立は、次期政権の経済政策の方向性や主要企業へのアプローチに影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGRWMi1MNTdhajFaclo1X3VPazhLeXlDa2ZadEdMOUtLV3BUbUhqTi0tWFQ4bzliekwtOHk5Y1gzaGlrdktFLUZnSEJKRFJHZ1Y1RHpjT1NQM0x1M2E0MklYZUlUWm5qdGpUYnFydjc2bF9IRmVFcERtczFScWU3djVVSXdUQ3VCdkZfSl84NkdVM0RTbWoyQnQtVmJ5cHFDblJNMzdRWnREd1dyLUVnUng5RjUwaF81VUVkcDQxMG1KWk80N1ZGZA?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ミシシッピ州を民主党へ転換させたプロテイン広告の背後にある27歳",
-      "summary": "ミシシッピ州知事選挙において、27歳の人物が手がけたプロテイン広告が、民主党候補の勝利に貢献したと報じられています。斬新なマーケティング戦略が注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM4dWlNNFZsQ1lCaE9fQmZrVWJyVjYzN3hNU3VrX0pCZlVCUkIxT1lORXhOWnhYNjZQREpGajJ2NHZOU1Y2WHE4Y2ZnVEdHdmpmemNNVURQNzlLWFBabnRWMEU4blpqZlZvR0FmeW9tcWJfa1c3T3ZZUVFiWWNfcWI0VXQ4X0lFaVVDVjk3dGxOcV9Z?oc=5"
+      "title": "最高裁判所、トランプ氏の南部国境での亡命申請停止に関する大統領令を審議へ",
+      "summary": "米国最高裁判所が、ドナルド・トランプ前大統領が出した南部国境での亡命申請を停止する大統領令について審議を行うことを決定しました。\nこの決定は、移民政策における大統領の権限と人道的問題に大きな影響を与えることになります。",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdExwdTBia3RDdGYzWFRuYUkxaERSQkpTVmY0Ymp5S05jR0ZLSC10ekFMcjQ0R0g5NFVmOFR3MENlTm04ajFoemlGclMtX09RZVBtd3VTUVpXd0hiNFlVLVZBME9wUU1UdDFWYzVXQl8yTno3Z1M3WlZnTjZnaTJKQlVCS3g0WmZaUVJ2UnVlaw?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手におけるバーチャルリアリティ支援型神経筋トレーニングが敏捷性と傷害予防に与える影響：対照実験研究",
-      "summary": "この対照実験研究では、バスケットボール選手を対象にVR（バーチャルリアリティ）支援型神経筋トレーニングの効果を検証しました。結果として、VRを利用したトレーニングが選手たちの敏捷性向上に貢献し、膝前十字靭帯（ACL）などの傷害リスク低減にも繋がることが示されました。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "title": "思春期のバレーボール選手における神経筋トレーニングの二重の利点：膝の怪我の予防と運動能力は共通のメカニズム的基盤を共有：構造化されたナラティブレビュー",
+      "summary": "思春期のバレーボール選手を対象とした研究では、神経筋トレーニングが膝の怪我の予防と運動能力の向上という二重の利点をもたらすことが示されました。これらの効果は、共通のメカニズム的基盤に基づいていると考察されています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学：科学的アプローチ",
-      "summary": "トレイルランニングにおける生体力学の科学的分析について解説しています。不整地での走行における身体の動き、着地時の衝撃吸収、推進力の発揮メカニズムなどが詳細に考察され、効率的で傷害リスクの低い走り方への示唆が与えられます。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "category": "Sports Medicine / Orthopedics",
+      "title": "サム地区住民向けに、より身近で整形外科手術が利用可能に",
+      "summary": "サム地区の住民が、より近隣で整形外科手術を受けられるようになったというニュースです。地域医療のアクセス向上を目的とした取り組みが紹介されています。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEl6dVBTLWJQNksxYUZFU1Vjdlk3VzNvUDlSTHk5eUpkWXJoZmtSMGN6OV9Tek5SdXNtWFJ5aE9hcEJxQlYxV2JLQmpzb1VuT2FOQnZla2xDOTJDeDhKNmR1bERvZGdYcGNrOVU5M3NVYnhaUmoxc2N1Z0MtcjFxczZGdnlBbW9TRWMyNGhYVVIzQXc?oc=5"
     }
   ],
   "monthly_top20": [
@@ -350,161 +349,161 @@
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "思春期のバレーボール選手における神経筋トレーニングの二重の利点：膝の怪我の予防と運動能力は共通のメカニズム的基盤を共有：構造化されたナラティブレビュー",
-      "summary": "思春期のバレーボール選手を対象とした研究では、神経筋トレーニングが膝の怪我の予防と運動能力の向上という二重の利点をもたらすことが示されました。これらの効果は、共通のメカニズム的基盤に基づいていると考察されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングのアジリティ性能と傷害予防効果：対照実験",
+      "summary": "バスケットボール選手を対象に、バーチャルリアリティ(VR)を活用した神経筋トレーニングがアジリティ能力向上と膝の傷害予防に与える影響を調査しました。実験では、VR環境でのトレーニングが従来の方法と比較して、選手の反応速度とバランス感覚をより効果的に改善し、傷害リスクを低減する可能性が示されました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
       "title": "トレイルランニングのバイオメカニクス科学",
-      "summary": "トレイルランニングにおける特有のバイオメカニクスに焦点を当てた記事です。不整地での走行に適応するための体の使い方や、効率的なエネルギー伝達、怪我のリスク低減に繋がる動作について解説しています。",
+      "summary": "トレイルランニングにおける複雑な地形での身体の動きと、それがパフォーマンスおよび傷害リスクにどう影響するかをバイオメカニクスの観点から分析しました。特に、異なる路面状況（登り、下り、不整地）での着地パターン、重心移動、筋肉の活動の違いに焦点を当てています。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "サム地区住民向けに、より身近で整形外科手術が利用可能に",
-      "summary": "サム地区の住民が、より近隣で整形外科手術を受けられるようになったというニュースです。地域医療のアクセス向上を目的とした取り組みが紹介されています。",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEl6dVBTLWJQNksxYUZFU1Vjdlk3VzNvUDlSTHk5eUpkWXJoZmtSMGN6OV9Tek5SdXNtWFJ5aE9hcEJxQlYxV2JLQmpzb1VuT2FOQnZla2xDOTJDeDhKNmR1bERvZGdYcGNrOVU5M3NVYnhaUmoxc2N1Z0MtcjFxczZGdnlBbW9TRWMyNGhYVVIzQXc?oc=5"
+      "title": "大腿四頭筋腱自家移植片を用いたオールインサイドACL再建術における技術的工夫と解決策",
+      "summary": "前十字靭帯(ACL)再建手術において、大腿四頭筋腱の自家移植片を使用する「オールインサイド」技術に関する最新の技術的工夫と、それに伴う課題への解決策を詳述しています。手術の成功率向上と合併症の低減を目指した内容となっています。",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeEJqd0ltSFdlOXU3NW40SklYLUFNdEJtd0dORHpGcTc5Q1VQRWJESmZwV1NsOFYwNFNSZVlrRHZFTm04eWtjbFNvdG9hRkdwNU1xNVRMcWhMSzVNcXpMSTE2MjQ5SjR4cWNjVXk2M1dWSTN0M21QNW1OVmxMZ3RCYndMRFdGamUtYktwdTJUOW4wLXVMZkJCSGRDbV9hakUxUmI2MXA2Q2JsMXVUNUkyaWdhT2JfcllQSDBCdURxU2U1TWxReGNsdnlWd284QjVpOGlhWVJGZUJ3bURibS1mNE1BTTJqTVdlWG5MdE9YZ2QzczBod2JJ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "マリク・ネイバーズの膝の怪我による身体的・精神的負担の内側",
-      "summary": "アメリカンフットボール選手マリク・ネイバーズ氏の膝の怪我とそのリハビリテーションにおける身体的・精神的な影響に焦点を当てた記事です。怪我からの回復過程における課題や克服について詳述しています。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd2NXbHM0UjJUZ2dJaG9jZ05HSV8ycUFnY1NNaUdqWlNXY0szR1NtVzR2U0M4TENDSG1iRzc4RXgyU1VPMFlPV3oxUGhQQUE3X200LVNUUkdSS2hsVmlaNjhocGYweFNRU2RNSE9uUUtxbnk5ZW5WRGRqYm94TnVfcGNxRzdqRmhYT1BKTnJTREhoWUs3bjhFUjVaZWlUQQ?oc=5"
+      "title": "急性ハムストリング肉離れアスリートの競技復帰期間と再負傷率に対するリハビリテーション介入の効果",
+      "summary": "急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再負傷率に与える影響を調査した研究です。特定の段階的負荷プロトコルが、より早い競技復帰と低い再負傷率に寄与することを示唆しています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "アスリートの疼痛管理における西洋式医学的鍼治療技術：系統的レビューとメタアナリシス",
-      "summary": "アスリートの疼痛管理における西洋式医学的鍼治療の効果を評価した系統的レビューとメタアナリシスです。複数の研究結果を統合し、その有効性と適用範囲について考察しています。",
+      "title": "アスリートの疼痛管理における西洋医学的鍼治療技術：系統的レビューとメタアナリシス",
+      "summary": "アスリートの様々な筋骨格系疼痛に対する西洋医学的鍼治療の効果を評価した系統的レビューとメタアナリシスです。慢性的な疼痛や急性期の筋肉痛に対して、鍼治療が痛みの緩和に有効である可能性が示されており、特に他の治療法との併用でより良い結果をもたらすことが示唆されました。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkRoT05aLS1kYXNsSzlTUGRFLW5wbXpWSGZoRUFyOEs0VDRIaVFGVG1CSjg4WkZJTG9IeFZjckZxaVcwMjk5eGdrNm9jMkk4Y3ZIY0pGcWpULUVhWERjOW9OejJFZHpXT0VfbGN4WkNXZUNsVGtNTzdOM0JIYzhJSnkzbjlDdlV6NlpFYlJn?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "10代のスポーツサプリメント：推奨するもの、注意して使用するもの、避けるべきもの",
-      "summary": "10代のスポーツ選手が利用するサプリメントについて、その安全性と有効性を Pediatrics 誌が解説。推奨されるもの、注意が必要なもの、避けるべきものが具体的に示されています。",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5"
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "summary": "ワークアウトのパフォーマンス向上に役立つ可能性のある5種類のサプリメント（例：クレアチン、カフェイン、BCAAなど）について、その科学的根拠と推奨される使用方法、潜在的なリスクを解説しています。個人の目標や体質に合わせた選択の重要性を強調しています。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチのためのヒント",
-      "summary": "学生アスリートのメンタルヘルス維持のために、保護者とコーチが取るべき具体的なアプローチについて解説しています。コミュニケーションの重要性や、ストレスサインの早期発見などが含まれます。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRobXdYUXFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "title": "子供にとって「走りすぎ」はどのくらいか？年齢別ガイド",
+      "summary": "子供の成長段階に応じた適切なランニング距離と強度について、年齢別のガイドラインを提供しています。過度なトレーニングが成長期の体に与える影響や、楽しさを維持しながら運動能力を向上させるためのヒントをまとめています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠が運動能力にどのように影響するか",
-      "summary": "アスリートにとって睡眠がいかに重要であるかを解説する記事です。十分な睡眠が、身体の回復、集中力、反応速度、全体的な運動パフォーマンスに与えるポジティブな影響について説明しています。",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
+      "title": "アスリートの睡眠：スポーツパフォーマンスにどう影響するか",
+      "summary": "アスリートにとっての睡眠の重要性を多角的に解説しています。十分な睡眠が身体的回復、ホルモンバランス、認知機能、集中力、反応速度などに与えるポジティブな影響を強調し、睡眠不足がパフォーマンス低下や怪我のリスクを高めることを指摘しています。",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRDJEbHJZVlRpeTlmZ2J1WXU1bnhIZ2pmQlV3VF9OYW1hRXIxd01HQUtDcjE1a3R0VV9WdmNhQU9Vc0NiYzhVeDBhQThQamgwNVFBNS1fQ1BObHhkTDZOX2s3UlplNXpPRENFRnI2TDVZNXBJbzg2R2M4NEZGcFVEb1g2X3JyQUtoSldMcmhEQ1oyQmw1Unc?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "広島 3人死亡火災 同居の32歳長男が火つけたか 放火容疑で逮捕",
-      "summary": "広島市で発生した3人死亡の火災で、同居していた32歳の長男が火をつけた疑いで逮捕されました。警察は放火の疑いで捜査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SaHVBMF9NWjlIZHJJRWVrbF9kVFZuSEdnYVo2S1JoXzgzNDhfZ3RuMi12b01fM3NqeTZRVzB3SWhJUnZmbkItRDkwc1hNdFFKbGR2ZzdjVWVRVUJkMG1Z?oc=5"
+      "category": "国際",
+      "title": "米中ロ3か国首脳会談19日開催 3者会談は初 ホワイトハウス発表",
+      "summary": "ホワイトハウスは、米中ロ3か国の首脳会談が19日に開催されると発表しました。\nこれは3者による初の会談となり、国際情勢の緊張緩和や主要課題解決に向けた重要な機会となる見込みです。\n各国首脳の声明に注目が集まります。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWS1ZPUWx2VVBzUXFpMEhGMVBJVTUtbHlKcy0yT1JzcVJ1UHVkOWlCNl8zZlQ4S0RabFRDZW1fUkwtZ1NRRnJZSDdnX1JneDhpdUg5RHdsQkhPam81LUhR?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "麻生太郎副総裁「党として決定すれば結束して臨むのが伝統」…消費税減税法案採決を欠席の石破茂氏らを批判",
-      "summary": "麻生太郎副総裁が、消費税減税法案の採決を欠席した石破茂氏らに対し、「党として決定すれば結束して臨むのが伝統」と批判しました。党内の結束を訴えています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40ckcyMUY1MDhSeFk4NTJ4ZTl3UGU5VUpjMUZiNEZQNHdXNk9oRjZXRzBhRVJFei1JaFljNVh3d0h1S2l5dGpScFE5Q083T20yU3FpeFdTcVpRdFN3ZkdtZ0IyU3Bkdw?oc=5"
+      "category": "国際",
+      "title": "トランプ氏「突然の方針転換」か、対イラン「合意不要」と投稿…合意目指す局面「とっくに過ぎ去った」とも",
+      "summary": "トランプ前大統領が、対イラン政策に関して「合意不要」との見解をSNSに投稿しました。\nこれは従来の姿勢からの「突然の方針転換」と受け止められており、「合意を目指す局面はとっくに過ぎ去った」とも述べ、今後の外交政策に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IWVFOUFlTMHhVY3l1ZjN2TkpwRVBwaXNjX2hoSzVfSTZKNU1waHVKUExrY2Z6WW9OTkZmQnZBb2hBQi1ia2ZydF9CaFdXWGd6ak8yR2ltWXlBUWd3VTU4dHVB?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "【速報】自維国、定数削減法案を共同提出",
-      "summary": "日本維新の会と国民民主党が、衆議院の議員定数削減法案を共同で提出しました。早期の国会審議入りを目指す方針です。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOempNUDEtZ2tQc19rMFVIdTd4bHotTG55OU9DclF3WVExaDdnbWRJaVB5ZjVHMGw2SS1Td21YTWhMTkQ5T2FfazJUYw?oc=5"
+      "category": "社会",
+      "title": "神奈川の2人死亡ひき逃げ事故、49歳の会社員の男を逮捕 容疑否認 [神奈川県]",
+      "summary": "神奈川県で発生した2人死亡のひき逃げ事故で、警察は49歳の会社員の男を逮捕しました。\n男は容疑を否認している模様で、事故の詳しい状況や容疑者の供述について、捜査が進められています。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxT1RFdFBZQlcyUV8xSE1WbHN0NWdLYXpQMlh2ZFZHdFdVTEV0YVI2V3F1ZGk1WWFxTkhfemJmNkxMVGhmQlJCQXZaeDNrZWZXTDNXYzAwam1hZnVyd1FhMjVfQWVLZzB?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "戦没者追悼式典で笑い声 ヘグセス米国防長官らマナー違反で衛兵から叱責受ける",
-      "summary": "戦没者追悼式典において、ヘグセス米国防長官らがマナー違反と見なされる行動で衛兵から叱責を受けました。式典の厳粛さを損なう行為として批判が出ています。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KMEFtOFdaOW16dEl3NkFTZEZTS1Q3N1dKTzgzeU5XcEVsN3VnVnd5akJGTXFzc21Ga0VBWmMyTDF6ZXQ4MmEwb1ZtWnJqbTQwYXpfb3E1NjRjQ1BvYkxaWG53UW1wb3RKSjRycnBKc3oxRThoN1E?oc=5"
+      "category": "社会",
+      "title": "3歳娘に暴行死、殺人容疑で父親を逮捕 病院から「全身あざだらけ」と通報",
+      "summary": "3歳の娘に暴行を加えて死亡させたとして、父親が殺人容疑で逮捕されました。\n病院から「全身あざだらけ」との通報があり、事件が発覚。\n警察は容疑の詳しい経緯について捜査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00eXBPaTJRakJCMTlCVU9XY1IwcC1SSnhNSjVHdm10T2lWSTZuV1QxSmJMa0JIeThmZmdEXzdXTnpRb1g2aEFMdnpGSGNOZ0hEeUlXODdzXzdoc3EwX09uR3RDWGQzRHQ4V19icE4yZWp4Y2FuQUE?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
       "category": "社会",
-      "title": "山形 寒河江 住宅火災で3人の遺体 3人居住か 連絡とれず",
-      "summary": "山形県寒河江市で住宅火災が発生し、3人の遺体が発見されました。この住宅には3人が居住していたとみられ、現在も連絡が取れない状態です。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUFBPTFJISkhadjVmaV9SY2dWUEoyNjVDSlVodWpGQURYc1hxN0NUMTk0M1BtalhoNUh5a1hvODlRLXFnR0pEUlpfVVBsQTkxbUFKRXFJTW9teDhCc3FB?oc=5"
+      "title": "週間天気予報 明日は広く本降りの雨 来週中頃は全国的に荒天注意",
+      "summary": "気象庁は週間天気予報を発表し、明日14日は全国的に本降りの雨となる見込みです。\nまた、来週中頃には全国的に荒れた天候となる可能性があり、注意を呼びかけています。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kR0JiaWg4WmpZbWplbnB3LXlnZDB5eXZRR3duYmRfN0VCNE13UHNNMmZEMHRpeHVxWkp2VEYtUUQxc2RFMGZjTHBYTmJDelNEUTctaw?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "ブルックリンのフラットブッシュ地区でビル崩壊、子供2人を含む8人死亡",
-      "summary": "ニューヨーク市ブルックリン区フラットブッシュ地区でビルが崩壊し、これまでに子供2人を含む8人が死亡したことが確認されました。救助活動が続けられています。",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldxZVJzWUozM1oybklaa2d6bzlrVG5MeUpYX3Q0d2k2SmoyVGloMTZGb3N5MmszMmJ2TzEycUJYbXVUUnhkQmZYOXNaTUNFUm50Z3ZNZWQwai0xeGVMdF9oNVBHbTR6dUdKMi1ONHlveVhPSFNPOWloaGhkQk5FV3NOQVBVekJQaFRmYUF0Z2pGSkZEUWxHZEVDUjRvZw?oc=5"
+      "category": "Society",
+      "title": "ライブ更新：全国的な飛行停止が解消される見通しなし、欠航便が急増",
+      "summary": "全国的な航空機の地上停止が続き、解決の見通しが立たない中、飛行機の欠航が急増しています。\nこの混乱により、多くの旅行者に影響が出ており、当局は状況の早期解決に向けて対応を急いでいます。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "ワシントンD.C.で銃撃事件、1人死亡4人負傷 55歳男が犯人と特定される",
-      "summary": "ワシントンD.C.で発生した銃撃事件で、55歳の男が容疑者として特定されました。この事件で1人が死亡、4人が負傷しています。警察が捜査を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxRDBQN3NNZV80TkVLTktzU0V2VzdEYVIwNWRqYkhsd1lZYnRCVkxSdzZzREg0cHVPVjNLSmxwclBxRERaR2Vwb1ducldyWDQybzdfZ2M3M1R1dFBBczd2ZFhESjFEd1BaU3IyWmJhSVRDbHdt?oc=5"
+      "category": "Society",
+      "title": "「ミシシッピの奇跡」－ニューオーリンズで停泊中のクルーズ船がタンカーと衝突後、全員救助",
+      "summary": "ニューオーリンズで、停泊中のクルーズ船にタンカーが衝突する事故が発生しましたが、乗客・乗員全員が無事に救助されました。\nこの救助活動は「ミシシッピの奇跡」と称されており、事故原因の調査が進められています。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bmJSeXZjVmZQcm1sZkRQQmlCa2hPYUlhbEN2UzFnN184RzZTWEk2ZEM1OXR6ZTFOTWpaU21QOGVMX3UtZUZ6RGFLTGdlOF9TNVJrWFBuZXF2WEk?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ大統領、イランとの合意は不要と発言 交渉を打ち切り",
-      "summary": "トランプ大統領は、イランとの新たな合意は必要ないとの考えを示し、交渉を打ち切ることを表明しました。これにより、中東情勢に影響を与える可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5"
+      "title": "トランプ氏が支援したMAGA強硬派ローレン・ボーバート氏、コロラド州下院選で敗北",
+      "summary": "ドナルド・トランプ前大統領が支援していたMAGA強硬派のローレン・ボーバート氏が、コロラド州の議会選挙で敗北しました。\nこの結果は、トランプ氏の影響力や共和党内の力関係に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1oydGg0dGktdzQ5Q0QxX1VQRVZJQUdkZUdwNnRHTGxxZWpjeWJGNlM4cV9CVkxjbko3NXlKcm9qeVBra2lON3k2Y1p5X28tNXo4aGdZUDFUaUoxT0tZcFNnNUNtRnFINTJwVzhDb0lNeWdiRTdBZjRYVVpCc3QzemtWWVBPVG1pQlE?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "シンディ・ホルシュアー氏、カンザス州で勝利し民主党が知事職を維持",
-      "summary": "シンディ・ホルシュアー氏がカンザス州知事選挙で勝利し、民主党が知事職を維持することになりました。接戦の末の勝利となりました。",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0pOVlgwWnNYaGdxWDBWa1NFd2k4VmNHQ0liSzRNd3N6Q1dVQ0xoSk0tY2ZiVGQ3enloTHhoZTlFUjAzN3pLVk5JaWU1M3Z6bWhiVy1GcnNoQU1PZ3BxNkxYSG9Jd0hNUDU4aWxkN1BZUDdkbUU3OHJqeW5TUTlIVGRaTWpHc3RpVzdtUDRUVQ?oc=5"
+      "category": "Economy",
+      "title": "トランプ氏のトップ経済顧問、ルトニック氏のNvidia対応を巡り対立",
+      "summary": "トランプ氏の主要経済顧問らが、ビジネスリーダーであるルトニック氏のNvidia社に対する対応について意見の対立を見せています。\nこの対立は、次期政権の経済政策の方向性や主要企業へのアプローチに影響を及ぼす可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGRWMi1MNTdhajFaclo1X3VPazhLeXlDa2ZadEdMOUtLV3BUbUhqTi0tWFQ4bzliekwtOHk5Y1gzaGlrdktFLUZnSEJKRFJHZ1Y1RHpjT1NQM0x1M2E0MklYZUlUWm5qdGpUYnFydjc2bF9IRmVFcERtczFScWU3djVVSXdUQ3VCdkZfSl84NkdVM0RTbWoyQnQtVmJ5cHFDblJNMzdRWnREd1dyLUVnUng5RjUwaF81VUVkcDQxMG1KWk80N1ZGZA?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "ミシシッピ州を民主党へ転換させたプロテイン広告の背後にある27歳",
-      "summary": "ミシシッピ州知事選挙において、27歳の人物が手がけたプロテイン広告が、民主党候補の勝利に貢献したと報じられています。斬新なマーケティング戦略が注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXM4dWlNNFZsQ1lCaE9fQmZrVWJyVjYzN3hNU3VrX0pCZlVCUkIxT1lORXhOWnhYNjZQREpGajJ2NHZOU1Y2WHE4Y2ZnVEdHdmpmemNNVURQNzlLWFBabnRWMEU4blpqZlZvR0FmeW9tcWJfa1c3T3ZZUVFiWWNfcWI0VXQ4X0lFaVVDVjk3dGxOcV9Z?oc=5"
+      "title": "最高裁判所、トランプ氏の南部国境での亡命申請停止に関する大統領令を審議へ",
+      "summary": "米国最高裁判所が、ドナルド・トランプ前大統領が出した南部国境での亡命申請を停止する大統領令について審議を行うことを決定しました。\nこの決定は、移民政策における大統領の権限と人道的問題に大きな影響を与えることになります。",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdExwdTBia3RDdGYzWFRuYUkxaERSQkpTVmY0Ymp5S05jR0ZLSC10ekFMcjQ0R0g5NFVmOFR3MENlTm04ajFoemlGclMtX09RZVBtd3VTUVpXd0hiNFlVLVZBME9wUU1UdDFWYzVXQl8yTno3Z1M3WlZnTjZnaTJKQlVCS3g0WmZaUVJ2UnVlaw?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手におけるバーチャルリアリティ支援型神経筋トレーニングが敏捷性と傷害予防に与える影響：対照実験研究",
-      "summary": "この対照実験研究では、バスケットボール選手を対象にVR（バーチャルリアリティ）支援型神経筋トレーニングの効果を検証しました。結果として、VRを利用したトレーニングが選手たちの敏捷性向上に貢献し、膝前十字靭帯（ACL）などの傷害リスク低減にも繋がることが示されました。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "title": "思春期のバレーボール選手における神経筋トレーニングの二重の利点：膝の怪我の予防と運動能力は共通のメカニズム的基盤を共有：構造化されたナラティブレビュー",
+      "summary": "思春期のバレーボール選手を対象とした研究では、神経筋トレーニングが膝の怪我の予防と運動能力の向上という二重の利点をもたらすことが示されました。これらの効果は、共通のメカニズム的基盤に基づいていると考察されています。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
-      "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学：科学的アプローチ",
-      "summary": "トレイルランニングにおける生体力学の科学的分析について解説しています。不整地での走行における身体の動き、着地時の衝撃吸収、推進力の発揮メカニズムなどが詳細に考察され、効率的で傷害リスクの低い走り方への示唆が与えられます。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "category": "Sports Medicine / Orthopedics",
+      "title": "サム地区住民向けに、より身近で整形外科手術が利用可能に",
+      "summary": "サム地区の住民が、より近隣で整形外科手術を受けられるようになったというニュースです。地域医療のアクセス向上を目的とした取り組みが紹介されています。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEl6dVBTLWJQNksxYUZFU1Vjdlk3VzNvUDlSTHk5eUpkWXJoZmtSMGN6OV9Tek5SdXNtWFJ5aE9hcEJxQlYxV2JLQmpzb1VuT2FOQnZla2xDOTJDeDhKNmR1bERvZGdYcGNrOVU5M3NVYnhaUmoxc2N1Z0MtcjFxczZGdnlBbW9TRWMyNGhYVVIzQXc?oc=5"
     }
   ]
 }
