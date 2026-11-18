@@ -1,0 +1,509 @@
+{
+  "issue_date": "2026/11/18",
+  "generated_at": "2026-11-18T02:39:23.581Z",
+  "latest_research": [
+    {
+      "id": "r001",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングがアジリティパフォーマンスと傷害予防に与える影響：制御された実験室実験",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
+      "abstract": "この実験室研究は、バーチャルリアリティ(VR)を活用した神経筋トレーニングが、バスケットボール選手のアジリティ能力向上と傷害リスク低減に効果的である可能性を示唆しています。VR環境での反復的な動作練習が、選手の運動能力と安全性の両面で有益な結果をもたらすことを明らかにしました。",
+      "insight": "VR技術は、従来のトレーニングに加えて、より没入感のある環境で実践的な傷害予防とパフォーマンス向上トレーニングを提供する新たな手段として、スポーツ現場での導入が期待されます。",
+      "published_at": "2026-08-05T07:00:00.000Z"
+    },
+    {
+      "id": "r002",
+      "category": "Biomechanics / Exercise Science",
+      "title": "トレイルランニングのバイオメカニクスに関する科学",
+      "source": "Trail Runner Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
+      "abstract": "このレビューでは、トレイルランニングに特有の複雑な地形が、ランナーの身体にどのようなバイオメカニクス的負荷を与えるかを詳細に分析しています。不均一な路面や傾斜に適応するための運動パターン、関節への影響、および効率的な動きの原則について解説しています。",
+      "insight": "トレイルランナーは、自身のランニングフォームを理解し、多様な路面状況に対応できる筋力と安定性を高めるトレーニングを取り入れることで、パフォーマンス向上と傷害予防を図ることができます。",
+      "published_at": "2026-08-20T07:00:00.000Z"
+    },
+    {
+      "id": "r003",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を解説",
+      "source": "UCHealth",
+      "url": "https://news.google.com/rss/articles/CBMifEFVV3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
+      "abstract": "この記事では、スポーツ医学分野で注目されているペプチドについて、医師がその潜在的な治療効果と、使用に伴うリスクおよび米国食品医薬品局（FDA）の規制上の懸念点を詳しく説明しています。特に、回復促進や抗炎症作用が期待される一方で、安全性と有効性に関するさらなる研究の必要性が強調されています。",
+      "insight": "アスリートや患者へのペプチド導入を検討する際は、専門医との綿密な相談が不可欠です。未承認の製品には注意し、エビデンスに基づいた情報提供と慎重な判断が求められます。",
+      "published_at": "2026-07-24T07:00:00.000Z"
+    },
+    {
+      "id": "r004",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5",
+      "abstract": "この研究は、急性ハムストリング肉離れを負ったアスリートに対する様々なリハビリテーション介入が、競技復帰までの期間と再受傷率にどのように影響するかを分析しています。特定の介入が早期復帰と再傷害予防に効果的である可能性が示されており、テーラーメイドのリハビリテーションプログラムの重要性が強調されています。",
+      "insight": "ハムストリング肉離れのリハビリでは、個別化された段階的な負荷設定と、機能的な動きを重視したプログラムが競技復帰の成功と再傷害リスク低減に繋がります。",
+      "published_at": "2026-10-05T07:00:00.000Z"
+    },
+    {
+      "id": "r005",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "複合的な疼痛ケアスキルトレーニング、SUDシンポジウムが薬物を用いない治療法に焦点を当てる",
+      "source": "Walter Reed National Military (.mil)",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDFLOUIxbnpsdXBBaUZ3Umc5ZWJtUDlMZ2s3d0JFQXFVV0hVSjE2RGUwUmd1Wkp2eGgzSUVpeW94cGt6ckk4SEVCTzktU1RjNVhUVjNhV0JGcUVQbDFIbV91M1ZpWVBnNlk3T0VwX1NRTVR4UUlhYzkzNml3S3gxNmJ1c3RFcmZuVkp1NFl0N2VjMC1yeDliRDJoZDctZ2EyV2RzakMtX2g5Zmt1TGVqQUpGZ0kzdVo4N05aaVFkOEdUUFVObF9Hc21zSTRnZmYtNkdDbDRVMlhIZ0M3amg0Vk13?oc=5",
+      "abstract": "このシンポジウムでは、薬物依存症（SUD）患者を含む幅広い層に対する疼痛管理において、鍼治療などの非薬物療法に焦点を当てた複合的なケアスキルトレーニングの重要性が議論されました。薬物に頼らない痛みの軽減と機能改善を目指すアプローチが強調されています。",
+      "insight": "スポーツ現場では、傷害による慢性疼痛に対し、鍼治療やマッサージなどの東洋医学的アプローチを、リハビリテーションと組み合わせることで、薬物使用を減らし、早期回復とパフォーマンス維持に貢献できる可能性があります。",
+      "published_at": "2026-09-01T15:29:06.000Z"
+    },
+    {
+      "id": "r006",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "source": "Verywell Health",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5",
+      "abstract": "この記事では、運動能力向上に寄与する可能性のある5種類のサプリメントについて、その効果と科学的根拠を解説しています。クレアチン、カフェイン、ベータアラニンなどが挙げられ、適切な使用がワークアウトの質を高める可能性が示唆されています。",
+      "insight": "アスリートは、自身のトレーニング目標と栄養状態に合わせて、科学的根拠のあるサプリメントを慎重に選ぶことで、回復とパフォーマンス向上をサポートできます。摂取量やタイミングは専門家と相談して決定しましょう。",
+      "published_at": "2026-09-30T07:00:00.000Z"
+    },
+    {
+      "id": "r007",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "子供にとって長距離走はどこまでが適切か？年齢別ガイド",
+      "source": "Marathon Handbook",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5",
+      "abstract": "このガイドでは、子供の年齢に応じた適切なランニング距離と強度について解説しています。成長期の子供の身体的発達段階を考慮し、オーバートレーニングのリスクを避けつつ、健康的な運動習慣を育むための指針が示されています。",
+      "insight": "子供が長距離走に取り組む際は、専門家や指導者が年齢と個人の能力を考慮し、段階的に負荷を増やしていくプログラムを組むことが重要です。楽しさを忘れずに安全に運動させるための目安となります。",
+      "published_at": "2026-10-22T07:00:00.000Z"
+    },
+    {
+      "id": "r008",
+      "category": "Sleep Science / Mental Performance",
+      "title": "アスリートと睡眠：睡眠がいかにアスリートのパフォーマンスに影響を与えるか",
+      "source": "Sleep Foundation",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlOTOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5",
+      "abstract": "この記事では、睡眠がアスリートの身体的・精神的パフォーマンスに不可欠であることを強調しています。十分な質の良い睡眠は、回復、集中力、反応速度、意思決定能力の向上に繋がり、傷害リスクの低減にも寄与する科学的根拠が示されています。",
+      "insight": "アスリートは、トレーニングと同様に睡眠をパフォーマンス向上の重要な要素として捉えるべきです。最適な睡眠スケジュールと環境を整えることで、日々の練習効果を最大化し、試合での最高のパフォーマンスを引き出すことが期待されます。",
+      "published_at": "2026-09-15T07:00:00.000Z"
+    }
+  ],
+  "japan_news": [
+    {
+      "id": "j001",
+      "category": "政治",
+      "source": "Yahoo!ニュース",
+      "title": "APECきょう開幕 付近は厳戒態勢",
+      "summary": "本日、APEC首脳会議が開幕し、開催地周辺では厳戒態勢が敷かれています。各国首脳の安全確保と円滑な会議運営のため、広範囲にわたる警備強化が行われ、市民生活にも一部影響が出ています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyWVJLWG0yRTY3OVM1cWdaRGFJRC1MQWdMTFN5WWpnaE5IUi0yWTBYWGhOWTRjMXB6eE42SGJfQkx0aURybVFud0Mwc1NjMEJF?oc=5",
+      "published_at": "2026-11-18T00:37:51.000Z"
+    },
+    {
+      "id": "j002",
+      "category": "社会",
+      "source": "Yahoo!ニュース",
+      "title": "中野・24歳コンカフェ店員刺殺〉「虚言ばかりで見栄っ張り」「店に行く前から出禁」39歳自称・投資家＆元ギャンブラー容疑者の素顔…性体験自慢、店員とのパパ活交渉で出禁になった証言も（集英社オンライン",
+      "summary": "中野で発生したコンカフェ店員刺殺事件の容疑者について、関係者からの証言が報じられています。容疑者は虚言癖があり見栄っ張りな人物像が浮かび上がり、事件前には店員とのトラブルで出禁となっていたことも明らかになりました。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wMDhNR0VnY0E4WUhNWVA1Rm5kMXIzYV9JbW42V1pIaTBsMUJRZmlweVhQLVVMOGpWMmt4OUxvdldNZ1FMV25lc29CZDN0RGYzWVUzRnluQ2JodUczREpuNWU5ZldyNG9Hd2lIdDg5NTZWY2RXT2tDZmNaRFd3eE0?oc=5",
+      "published_at": "2026-11-18T01:54:16.000Z"
+    },
+    {
+      "id": "j003",
+      "category": "政治",
+      "source": "読売新聞",
+      "title": "高市首相、米中露首脳会談後にトランプ氏と電話会談へ…日米の連携確認",
+      "summary": "高市首相は、米中露首脳会談終了後、トランプ氏と電話会談を行う予定です。この会談で、日米間の緊密な連携と主要な国際問題における協力体制が改めて確認される見込みです。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55NkRGN3NnZFdPTWZkVkVSSkwzQmUxLVNLS2V1eWZkNTBtdkkyajlPaVNoYmptVDZpa0NocWZHMlFDU1NWMFB1RTFRMUJYQ0RYRTUwM18wZDU4cUlOQ3FadHNkT1pPQQ?oc=5",
+      "published_at": "2026-11-17T23:40:00.000Z"
+    },
+    {
+      "id": "j004",
+      "category": "社会",
+      "source": "tenki.jp",
+      "title": "19日から全国的に風が強まる 20日から冬の嵐で大雪や吹雪も 交通機関に影響か(気象予報士 吉田 友海)",
+      "summary": "19日から全国的に風が強まり、20日からは冬の嵐となり大雪や吹雪が予想されています。気象予報士の吉田友海氏によると、公共交通機関に大きな影響が出る可能性があり、早めの備えが必要です。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaWDNPVmZrRFAxYkRMQk5ITmpmZjZ2MVU3aTJPT3A5eFdWSzljdHJkeEhtMGRaSFd4Qks2dlVyZFRiX1pHMVJzVDBQZUJfa1I1cEhRZlZsMmx4Tjc0QkVBWk8zaE9FdUZsTThB?oc=5",
+      "published_at": "2026-11-17T21:15:55.000Z"
+    },
+    {
+      "id": "j005",
+      "category": "社会",
+      "source": "47NEWS",
+      "title": "【速報】NHK、飲酒は午後10時までと職員に通達",
+      "summary": "NHKが職員に対し、飲酒は午後10時までとする通達を出したと速報されています。これは、職員の不祥事防止と職場規律の徹底を目的とした措置とみられます。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pU3lfb2Q5d2NoaHRBenFOVnhWSGUwa3Y2aXExYTNHMTVOLWlpaG9xQ09URnphcFZHMk1wOTVoZ0xHYzQwbUFrMV9iVQ?oc=5",
+      "published_at": "2026-11-17T14:54:11.000Z"
+    }
+  ],
+  "global_news": [
+    {
+      "id": "g001",
+      "category": "Politics",
+      "region": "US",
+      "source": "NBC News",
+      "title": "ホワイトハウス、共和党の懸念を受けハイディ・オーバートン氏のFDA指名を撤回",
+      "summary": "ホワイトハウスは、共和党議員からの懸念表明を受け、ハイディ・オーバートン氏のFDA長官指名を撤回しました。これにより、FDAのトップ人事選考は不透明な状況となっています。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjRhS3JGdnJJUjZPNTZ5OVpRRllUbU5jVXlMaFBqbk9nR2V6T3ZDUDhzdTJVaVlXS2lTRFBSTVpCMmhmcDFVSTg2RVc4bDdnLU1yTVpCNHo5RlpLejh6cWozTzZDbm1oa0p1MVZ5VFpPZTdOUEUtd1dQUlF3UmtsVGJEMVBFbzRpSnBlb1NENmh5LVI3blJzemsyaW9OT2ZLM3I3ejhhMktkcURyYWV2SExTZnItTXM?oc=5",
+      "published_at": "2026-11-18T00:44:00.000Z"
+    },
+    {
+      "id": "g002",
+      "category": "Technology",
+      "region": "US",
+      "source": "The Washington Post",
+      "title": "最高機密機関である国家安全保障局（NSA）の通信システムがダウン",
+      "summary": "最高機密情報を扱う国家安全保障局（NSA）の通信システムがダウンする事態が発生しました。この障害の原因は不明で、機密情報の安全性に対する懸念が高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2wyWGY3OEl5cXpYTXN6WmFKYWl2c2E4UUZkaE94Z25Tcm9oU1hhRGZyY204UTkxQmJqVnJodm5mRFdmSTR0UGJZclNpS1R3bGRVeFZVSlhqZEJXbFZZRjYzNHY4UGFJdXEtVzdUWUtoQTZ1ZXF6NGs1b1BMcFJ5SWRlRnBSdGNQTnl4X0otTGs4WXNGNmhqelVjTklKLW9oRWpnYnhZcWFnUnFXQkdUaGszMGkzZy1BSU8zeTEza3JldmdhUG80?oc=5",
+      "published_at": "2026-11-18T00:09:07.000Z"
+    },
+    {
+      "id": "g003",
+      "category": "Politics",
+      "region": "US",
+      "source": "The New York Times",
+      "title": "マークウェイン・マリン議員、航空機停止後のLSU対テキサス戦へのフライトを弁護",
+      "summary": "マークウェイン・マリン上院議員は、航空機の一時停止措置が出たにもかかわらず、LSU対テキサス州の試合へ向かうフライトを利用したことについて弁護しました。この行動は、公務と私的活動のバランスについて議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGszbHVFRk5FMHhvcWVYeDZRMl8tZ0RMakdPbUdLSDVzU21XMklhdTN0WGxCQldDdllzUEVxdGZTb2x4YjNhNHhNbUZWU29hVHFzNE1WUEgtTWJULVZIWWFBZEsxdmpXUGhKNXhqdzZJOTREaEFuNVdJOWlBZ0dUSjNXQQ?oc=5",
+      "published_at": "2026-11-17T23:33:53.000Z"
+    },
+    {
+      "id": "g004",
+      "category": "Politics",
+      "region": "Asia",
+      "source": "BBC",
+      "title": "トランプ氏、ロシア・中国大統領との会談を前にアジア入り",
+      "summary": "ドナルド・トランプ氏が、ロシアおよび中国の大統領との重要な会談を控えてアジアを訪問しています。この訪問は、今後の国際関係に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43eTNySUF6Qk5WeER2eTkzNGpTb3JpZFBpZGppak80Q25WYm9LMlVLRVZ3UGJIVDN4aXZsX2N4c2l2ZFBQV2xBdDlySTgwZENrNzhybW82djVGYlE?oc=5",
+      "published_at": "2026-11-17T20:25:46.000Z"
+    },
+    {
+      "id": "g005",
+      "category": "Conflict",
+      "region": "US",
+      "source": "NBC News",
+      "title": "イリノイ州の男がピオリアのエタノール工場で発見された爆弾に関連して起訴される",
+      "summary": "イリノイ州ピオリアのエタノール工場で爆弾が発見された事件に関連し、地元住民の男が起訴されました。当局は事件の背景と動機について捜査を続けています。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOER1elZwOHNaR3hkM2VjTll1NjBZU1B2R0gzQUlHa1VvbElVclRVdlB0akwyd1E1ZnBrVTBOekdpY2RMbGJ6MU9RQ2VCV1pwWTZqS3dMa3ppVDNqOThzeVBvRGJjQUcwQ3pPX1BqNEg3TnBYZElHQlZBOS1RODhxMHJzMTY0bU9GRDd3bXVXR29YMlppNFNNSmJtZU1Qd2pVb3FGbUg1c0tOYXhfbTdrZA?oc=5",
+      "published_at": "2026-11-17T18:29:02.000Z"
+    }
+  ],
+  "weekly_top20": [
+    {
+      "rank": 1,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングがアジリティパフォーマンスと傷害予防に与える影響：制御された実験室実験",
+      "summary": "この実験室研究は、バーチャルリアリティ(VR)を活用した神経筋トレーニングが、バスケットボール選手のアジリティ能力向上と傷害リスク低減に効果的である可能性を示唆しています。VR環境での反復的な動作練習が、選手の運動能力と安全性の両面で有益な結果をもたらすことを明らかにしました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "トレイルランニングのバイオメカニクスに関する科学",
+      "summary": "このレビューでは、トレイルランニングに特有の複雑な地形が、ランナーの身体にどのようなバイオメカニクス的負荷を与えるかを詳細に分析しています。不均一な路面や傾斜に適応するための運動パターン、関節への影響、および効率的な動きの原則について解説しています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を解説",
+      "summary": "この記事では、スポーツ医学分野で注目されているペプチドについて、医師がその潜在的な治療効果と、使用に伴うリスクおよび米国食品医薬品局（FDA）の規制上の懸念点を詳しく説明しています。特に、回復促進や抗炎症作用が期待される一方で、安全性と有効性に関するさらなる研究の必要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVV3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "origin_tab": "latest_research",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響",
+      "summary": "この研究は、急性ハムストリング肉離れを負ったアスリートに対する様々なリハビリテーション介入が、競技復帰までの期間と再受傷率にどのように影響するかを分析しています。特定の介入が早期復帰と再傷害予防に効果的である可能性が示されており、テーラーメイドのリハビリテーションプログラムの重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
+    },
+    {
+      "rank": 5,
+      "origin_tab": "latest_research",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "複合的な疼痛ケアスキルトレーニング、SUDシンポジウムが薬物を用いない治療法に焦点を当てる",
+      "summary": "このシンポジウムでは、薬物依存症（SUD）患者を含む幅広い層に対する疼痛管理において、鍼治療などの非薬物療法に焦点を当てた複合的なケアスキルトレーニングの重要性が議論されました。薬物に頼らない痛みの軽減と機能改善を目指すアプローチが強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDFLOUIxbnpsdXBBaUZ3Umc5ZWJtUDlMZ2s3d0JFQXFVV0hVSjE2RGUwUmd1Wkp2eGgzSUVpeW94cGt6ckk4SEVCTzktU1RjNVhUVjNhV0JGcUVQbDFIbV91M1ZpWVBnNlk3T0VwX1NRTVR4UUlhYzkzNml3S3gxNmJ1c3RFcmZuVkp1NFl0N2VjMC1yeDliRDJoZDctZ2EyV2RzakMtX2g5Zmt1TGVqQUpGZ0kzdVo4N05aaVFkOEdUUFVObF9Hc21zSTRnZmYtNkdDbDRVMlhIZ0M3amg0Vk13?oc=5"
+    },
+    {
+      "rank": 6,
+      "origin_tab": "latest_research",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "summary": "この記事では、運動能力向上に寄与する可能性のある5種類のサプリメントについて、その効果と科学的根拠を解説しています。クレアチン、カフェイン、ベータアラニンなどが挙げられ、適切な使用がワークアウトの質を高める可能性が示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "origin_tab": "latest_research",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "子供にとって長距離走はどこまでが適切か？年齢別ガイド",
+      "summary": "このガイドでは、子供の年齢に応じた適切なランニング距離と強度について解説しています。成長期の子供の身体的発達段階を考慮し、オーバートレーニングのリスクを避けつつ、健康的な運動習慣を育むための指針が示されています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
+    },
+    {
+      "rank": 8,
+      "origin_tab": "latest_research",
+      "category": "Sleep Science / Mental Performance",
+      "title": "アスリートと睡眠：睡眠がいかにアスリートのパフォーマンスに影響を与えるか",
+      "summary": "この記事では、睡眠がアスリートの身体的・精神的パフォーマンスに不可欠であることを強調しています。十分な質の良い睡眠は、回復、集中力、反応速度、意思決定能力の向上に繋がり、傷害リスクの低減にも寄与する科学的根拠が示されています。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlOTOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
+    },
+    {
+      "rank": 9,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "APECきょう開幕 付近は厳戒態勢",
+      "summary": "本日、APEC首脳会議が開幕し、開催地周辺では厳戒態勢が敷かれています。各国首脳の安全確保と円滑な会議運営のため、広範囲にわたる警備強化が行われ、市民生活にも一部影響が出ています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyWVJLWG0yRTY3OVM1cWdaRGFJRC1MQWdMTFN5WWpnaE5IUi0yWTBYWGhOWTRjMXB6eE42SGJfQkx0aURybVFud0Mwc1NjMEJF?oc=5"
+    },
+    {
+      "rank": 10,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "中野・24歳コンカフェ店員刺殺〉「虚言ばかりで見栄っ張り」「店に行く前から出禁」39歳自称・投資家＆元ギャンブラー容疑者の素顔…性体験自慢、店員とのパパ活交渉で出禁になった証言も（集英社オンライン",
+      "summary": "中野で発生したコンカフェ店員刺殺事件の容疑者について、関係者からの証言が報じられています。容疑者は虚言癖があり見栄っ張りな人物像が浮かび上がり、事件前には店員とのトラブルで出禁となっていたことも明らかになりました。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wMDhNR0VnY0E4WUhNWVA1Rm5kMXIzYV9JbW42V1pIaTBsMUJRZmlweVhQLVVMOGpWMmt4OUxvdldNZ1FMV25lc29CZDN0RGYzWVUzRnluQ2JodUczREpuNWU5ZldyNG9Hd2lIdDg5NTZWY2RXT2tDZmNaRFd3eE0?oc=5"
+    },
+    {
+      "rank": 11,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "高市首相、米中露首脳会談後にトランプ氏と電話会談へ…日米の連携確認",
+      "summary": "高市首相は、米中露首脳会談終了後、トランプ氏と電話会談を行う予定です。この会談で、日米間の緊密な連携と主要な国際問題における協力体制が改めて確認される見込みです。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55NkRGN3NnZFdPTWZkVkVSSkwzQmUxLVNLS2V1eWZkNTBtdkkyajlPaVNoYmptVDZpa0NocWZHMlFDU1NWMFB1RTFRMUJYQ0RYRTUwM18wZDU4cUlOQ3FadHNkT1pPQQ?oc=5"
+    },
+    {
+      "rank": 12,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "19日から全国的に風が強まる 20日から冬の嵐で大雪や吹雪も 交通機関に影響か(気象予報士 吉田 友海)",
+      "summary": "19日から全国的に風が強まり、20日からは冬の嵐となり大雪や吹雪が予想されています。気象予報士の吉田友海氏によると、公共交通機関に大きな影響が出る可能性があり、早めの備えが必要です。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaWDNPVmZrRFAxYkRMQk5ITmpmZjZ2MVU3aTJPT3A5eFdWSzljdHJkeEhtMGRaSFd4Qks2dlVyZFRiX1pHMVJzVDBQZUJfa1I1cEhRZlZsMmx4Tjc0QkVBWk8zaE9FdUZsTThB?oc=5"
+    },
+    {
+      "rank": 13,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "【速報】NHK、飲酒は午後10時までと職員に通達",
+      "summary": "NHKが職員に対し、飲酒は午後10時までとする通達を出したと速報されています。これは、職員の不祥事防止と職場規律の徹底を目的とした措置とみられます。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pU3lfb2Q5d2NoaHRBenFOVnhWSGUwa3Y2aXExYTNHMTVOLWlpaG9xQ09URnphcFZHMk1wOTVoZ0xHYzQwbUFrMV9iVQ?oc=5"
+    },
+    {
+      "rank": 14,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ホワイトハウス、共和党の懸念を受けハイディ・オーバートン氏のFDA指名を撤回",
+      "summary": "ホワイトハウスは、共和党議員からの懸念表明を受け、ハイディ・オーバートン氏のFDA長官指名を撤回しました。これにより、FDAのトップ人事選考は不透明な状況となっています。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjRhS3JGdnJJUjZPNTZ5OVpRRllUbU5jVXlMaFBqbk9nR2V6T3ZDUDhzdTJVaVlXS2lTRFBSTVpCMmhmcDFVSTg2RVc4bDdnLU1yTVpCNHo5RlpLejh6cWozTzZDbm1oa0p1MVZ5VFpPZTdOUEUtd1dQUlF3UmtsVGJEMVBFbzRpSnBlb1NENmh5LVI3blJzemsyaW9OT2ZLM3I3ejhhMktkcURyYWV2SExTZnItTXM?oc=5"
+    },
+    {
+      "rank": 15,
+      "origin_tab": "global_news",
+      "category": "Technology",
+      "title": "最高機密機関である国家安全保障局（NSA）の通信システムがダウン",
+      "summary": "最高機密情報を扱う国家安全保障局（NSA）の通信システムがダウンする事態が発生しました。この障害の原因は不明で、機密情報の安全性に対する懸念が高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2wyWGY3OEl5cXpYTXN6WmFKYWl2c2E4UUZkaE94Z25Tcm9oU1hhRGZyY204UTkxQmJqVnJodm5mRFdmSTR0UGJZclNpS1R3bGRVeFZVSlhqZEJXbFZZRjYzNHY4UGFJdXEtVzdUWUtoQTZ1ZXF6NGs1b1BMcFJ5SWRlRnBSdGNQTnl4X0otTGs4WXNGNmhqelVjTklKLW9oRWpnYnhZcWFnUnFXQkdUaGszMGkzZy1BSU8zeTEza3JldmdhUG80?oc=5"
+    },
+    {
+      "rank": 16,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "マークウェイン・マリン議員、航空機停止後のLSU対テキサス戦へのフライトを弁護",
+      "summary": "マークウェイン・マリン上院議員は、航空機の一時停止措置が出たにもかかわらず、LSU対テキサス州の試合へ向かうフライトを利用したことについて弁護しました。この行動は、公務と私的活動のバランスについて議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGszbHVFRk5FMHhvcWVYeDZRMl8tZ0RMakdPbUdLSDVzU21XMklhdTN0WGxCQldDdllzUEVxdGZTb2x4YjNhNHhNbUZWU29hVHFzNE1WUEgtTWJULVZIWWFBZEsxdmpXUGhKNXhqdzZJOTREaEFuNVdJOWlBZ0dUSjNXQQ?oc=5"
+    },
+    {
+      "rank": 17,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "トランプ氏、ロシア・中国大統領との会談を前にアジア入り",
+      "summary": "ドナルド・トランプ氏が、ロシアおよび中国の大統領との重要な会談を控えてアジアを訪問しています。この訪問は、今後の国際関係に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43eTNySUF6Qk5WeER2eTkzNGpTb3JpZFBpZGppak80Q25WYm9LMlVLRVZ3UGJIVDN4aXZsX2N4c2l2ZFBQV2xBdDlySTgwZENrNzhybW82djVGYlE?oc=5"
+    },
+    {
+      "rank": 18,
+      "origin_tab": "global_news",
+      "category": "Conflict",
+      "title": "イリノイ州の男がピオリアのエタノール工場で発見された爆弾に関連して起訴される",
+      "summary": "イリノイ州ピオリアのエタノール工場で爆弾が発見された事件に関連し、地元住民の男が起訴されました。当局は事件の背景と動機について捜査を続けています。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOER1elZwOHNaR3hkM2VjTll1NjBZU1B2R0gzQUlHa1VvbElVclRVdlB0akwyd1E1ZnBrVTBOekdpY2RMbGJ6MU9RQ2VCV1pwWTZqS3dMa3ppVDNqOThzeVBvRGJjQUcwQ3pPX1BqNEg3TnBYZElHQlZBOS1RODhxMHJzMTY0bU9GRDd3bXVXR29YMlppNFNNSmJtZU1Qd2pVb3FGbUg1c0tOYXhfbTdrZA?oc=5"
+    },
+    {
+      "rank": 19,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手のアジリティ向上と怪我予防におけるバーチャルリアリティ支援神経筋トレーニングの効果：対照実験",
+      "summary": "VR（バーチャルリアリティ）を用いた神経筋トレーニングが、バスケットボール選手のアジリティパフォーマンスと怪我予防に与える影響を調査した対照実験です。この研究では、VRがトレーニングへの没入感を高め、より効果的な運動学習を促進することで、特定部位の怪我リスクを低減し、パフォーマンス向上に寄与する可能性が示唆されました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+    },
+    {
+      "rank": 20,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "完璧なランニングフォームは存在するのか？科学的見解は",
+      "summary": "ランニングにおいて「完璧なフォーム」が存在するかどうかについて、科学的な知見をまとめた記事です。個人の身体特性や走行目的によって最適なフォームは異なり、怪我のリスクを低減しつつパフォーマンスを最大化するための調整が重要であることが指摘されています。画一的なフォーム指導ではなく、個別最適化の必要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGpxWXZfNWcyMW9ienNmdV9OckpYM2RzN0FZTWNCQmhlZURIck12OUhKSGlCLUNiYnNaSllsa0ZUSFNkMzJnV0puNUxvY09MMHdmdDhwNlIwNjUwLVM4bUgwTXgwbFlZM2J4TEVmVm10SlJlM3ZiNWU2SWRfTjNMWGxqOEY4dnJEMjByaS14eWNNOXNzTmg1Wl9teExMQQ?oc=5"
+    }
+  ],
+  "monthly_top20": [
+    {
+      "rank": 1,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングがアジリティパフォーマンスと傷害予防に与える影響：制御された実験室実験",
+      "summary": "この実験室研究は、バーチャルリアリティ(VR)を活用した神経筋トレーニングが、バスケットボール選手のアジリティ能力向上と傷害リスク低減に効果的である可能性を示唆しています。VR環境での反復的な動作練習が、選手の運動能力と安全性の両面で有益な結果をもたらすことを明らかにしました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "トレイルランニングのバイオメカニクスに関する科学",
+      "summary": "このレビューでは、トレイルランニングに特有の複雑な地形が、ランナーの身体にどのようなバイオメカニクス的負荷を与えるかを詳細に分析しています。不均一な路面や傾斜に適応するための運動パターン、関節への影響、および効率的な動きの原則について解説しています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "origin_tab": "latest_research",
+      "category": "Sports Medicine / Orthopedics",
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念を解説",
+      "summary": "この記事では、スポーツ医学分野で注目されているペプチドについて、医師がその潜在的な治療効果と、使用に伴うリスクおよび米国食品医薬品局（FDA）の規制上の懸念点を詳しく説明しています。特に、回復促進や抗炎症作用が期待される一方で、安全性と有効性に関するさらなる研究の必要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVV3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "origin_tab": "latest_research",
+      "category": "Rehabilitation / Physical Therapy",
+      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響",
+      "summary": "この研究は、急性ハムストリング肉離れを負ったアスリートに対する様々なリハビリテーション介入が、競技復帰までの期間と再受傷率にどのように影響するかを分析しています。特定の介入が早期復帰と再傷害予防に効果的である可能性が示されており、テーラーメイドのリハビリテーションプログラムの重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
+    },
+    {
+      "rank": 5,
+      "origin_tab": "latest_research",
+      "category": "Oriental Medicine / Acupuncture",
+      "title": "複合的な疼痛ケアスキルトレーニング、SUDシンポジウムが薬物を用いない治療法に焦点を当てる",
+      "summary": "このシンポジウムでは、薬物依存症（SUD）患者を含む幅広い層に対する疼痛管理において、鍼治療などの非薬物療法に焦点を当てた複合的なケアスキルトレーニングの重要性が議論されました。薬物に頼らない痛みの軽減と機能改善を目指すアプローチが強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDFLOUIxbnpsdXBBaUZ3Umc5ZWJtUDlMZ2s3d0JFQXFVV0hVSjE2RGUwUmd1Wkp2eGgzSUVpeW94cGt6ckk4SEVCTzktU1RjNVhUVjNhV0JGcUVQbDFIbV91M1ZpWVBnNlk3T0VwX1NRTVR4UUlhYzkzNml3S3gxNmJ1c3RFcmZuVkp1NFl0N2VjMC1yeDliRDJoZDctZ2EyV2RzakMtX2g5Zmt1TGVqQUpGZ0kzdVo4N05aaVFkOEdUUFVObF9Hc21zSTRnZmYtNkdDbDRVMlhIZ0M3amg0Vk13?oc=5"
+    },
+    {
+      "rank": 6,
+      "origin_tab": "latest_research",
+      "category": "Nutrition / Supplements / Recovery",
+      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
+      "summary": "この記事では、運動能力向上に寄与する可能性のある5種類のサプリメントについて、その効果と科学的根拠を解説しています。クレアチン、カフェイン、ベータアラニンなどが挙げられ、適切な使用がワークアウトの質を高める可能性が示唆されています。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
+    },
+    {
+      "rank": 7,
+      "origin_tab": "latest_research",
+      "category": "Pediatric Exercise / Youth Development",
+      "title": "子供にとって長距離走はどこまでが適切か？年齢別ガイド",
+      "summary": "このガイドでは、子供の年齢に応じた適切なランニング距離と強度について解説しています。成長期の子供の身体的発達段階を考慮し、オーバートレーニングのリスクを避けつつ、健康的な運動習慣を育むための指針が示されています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
+    },
+    {
+      "rank": 8,
+      "origin_tab": "latest_research",
+      "category": "Sleep Science / Mental Performance",
+      "title": "アスリートと睡眠：睡眠がいかにアスリートのパフォーマンスに影響を与えるか",
+      "summary": "この記事では、睡眠がアスリートの身体的・精神的パフォーマンスに不可欠であることを強調しています。十分な質の良い睡眠は、回復、集中力、反応速度、意思決定能力の向上に繋がり、傷害リスクの低減にも寄与する科学的根拠が示されています。",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlOTOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
+    },
+    {
+      "rank": 9,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "APECきょう開幕 付近は厳戒態勢",
+      "summary": "本日、APEC首脳会議が開幕し、開催地周辺では厳戒態勢が敷かれています。各国首脳の安全確保と円滑な会議運営のため、広範囲にわたる警備強化が行われ、市民生活にも一部影響が出ています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyWVJLWG0yRTY3OVM1cWdaRGFJRC1MQWdMTFN5WWpnaE5IUi0yWTBYWGhOWTRjMXB6eE42SGJfQkx0aURybVFud0Mwc1NjMEJF?oc=5"
+    },
+    {
+      "rank": 10,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "中野・24歳コンカフェ店員刺殺〉「虚言ばかりで見栄っ張り」「店に行く前から出禁」39歳自称・投資家＆元ギャンブラー容疑者の素顔…性体験自慢、店員とのパパ活交渉で出禁になった証言も（集英社オンライン",
+      "summary": "中野で発生したコンカフェ店員刺殺事件の容疑者について、関係者からの証言が報じられています。容疑者は虚言癖があり見栄っ張りな人物像が浮かび上がり、事件前には店員とのトラブルで出禁となっていたことも明らかになりました。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wMDhNR0VnY0E4WUhNWVA1Rm5kMXIzYV9JbW42V1pIaTBsMUJRZmlweVhQLVVMOGpWMmt4OUxvdldNZ1FMV25lc29CZDN0RGYzWVUzRnluQ2JodUczREpuNWU5ZldyNG9Hd2lIdDg5NTZWY2RXT2tDZmNaRFd3eE0?oc=5"
+    },
+    {
+      "rank": 11,
+      "origin_tab": "japan_news",
+      "category": "政治",
+      "title": "高市首相、米中露首脳会談後にトランプ氏と電話会談へ…日米の連携確認",
+      "summary": "高市首相は、米中露首脳会談終了後、トランプ氏と電話会談を行う予定です。この会談で、日米間の緊密な連携と主要な国際問題における協力体制が改めて確認される見込みです。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55NkRGN3NnZFdPTWZkVkVSSkwzQmUxLVNLS2V1eWZkNTBtdkkyajlPaVNoYmptVDZpa0NocWZHMlFDU1NWMFB1RTFRMUJYQ0RYRTUwM18wZDU4cUlOQ3FadHNkT1pPQQ?oc=5"
+    },
+    {
+      "rank": 12,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "19日から全国的に風が強まる 20日から冬の嵐で大雪や吹雪も 交通機関に影響か(気象予報士 吉田 友海)",
+      "summary": "19日から全国的に風が強まり、20日からは冬の嵐となり大雪や吹雪が予想されています。気象予報士の吉田友海氏によると、公共交通機関に大きな影響が出る可能性があり、早めの備えが必要です。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaWDNPVmZrRFAxYkRMQk5ITmpmZjZ2MVU3aTJPT3A5eFdWSzljdHJkeEhtMGRaSFd4Qks2dlVyZFRiX1pHMVJzVDBQZUJfa1I1cEhRZlZsMmx4Tjc0QkVBWk8zaE9FdUZsTThB?oc=5"
+    },
+    {
+      "rank": 13,
+      "origin_tab": "japan_news",
+      "category": "社会",
+      "title": "【速報】NHK、飲酒は午後10時までと職員に通達",
+      "summary": "NHKが職員に対し、飲酒は午後10時までとする通達を出したと速報されています。これは、職員の不祥事防止と職場規律の徹底を目的とした措置とみられます。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pU3lfb2Q5d2NoaHRBenFOVnhWSGUwa3Y2aXExYTNHMTVOLWlpaG9xQ09URnphcFZHMk1wOTVoZ0xHYzQwbUFrMV9iVQ?oc=5"
+    },
+    {
+      "rank": 14,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "ホワイトハウス、共和党の懸念を受けハイディ・オーバートン氏のFDA指名を撤回",
+      "summary": "ホワイトハウスは、共和党議員からの懸念表明を受け、ハイディ・オーバートン氏のFDA長官指名を撤回しました。これにより、FDAのトップ人事選考は不透明な状況となっています。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjRhS3JGdnJJUjZPNTZ5OVpRRllUbU5jVXlMaFBqbk9nR2V6T3ZDUDhzdTJVaVlXS2lTRFBSTVpCMmhmcDFVSTg2RVc4bDdnLU1yTVpCNHo5RlpLejh6cWozTzZDbm1oa0p1MVZ5VFpPZTdOUEUtd1dQUlF3UmtsVGJEMVBFbzRpSnBlb1NENmh5LVI3blJzemsyaW9OT2ZLM3I3ejhhMktkcURyYWV2SExTZnItTXM?oc=5"
+    },
+    {
+      "rank": 15,
+      "origin_tab": "global_news",
+      "category": "Technology",
+      "title": "最高機密機関である国家安全保障局（NSA）の通信システムがダウン",
+      "summary": "最高機密情報を扱う国家安全保障局（NSA）の通信システムがダウンする事態が発生しました。この障害の原因は不明で、機密情報の安全性に対する懸念が高まっています。",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2wyWGY3OEl5cXpYTXN6WmFKYWl2c2E4UUZkaE94Z25Tcm9oU1hhRGZyY204UTkxQmJqVnJodm5mRFdmSTR0UGJZclNpS1R3bGRVeFZVSlhqZEJXbFZZRjYzNHY4UGFJdXEtVzdUWUtoQTZ1ZXF6NGs1b1BMcFJ5SWRlRnBSdGNQTnl4X0otTGs4WXNGNmhqelVjTklKLW9oRWpnYnhZcWFnUnFXQkdUaGszMGkzZy1BSU8zeTEza3JldmdhUG80?oc=5"
+    },
+    {
+      "rank": 16,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "マークウェイン・マリン議員、航空機停止後のLSU対テキサス戦へのフライトを弁護",
+      "summary": "マークウェイン・マリン上院議員は、航空機の一時停止措置が出たにもかかわらず、LSU対テキサス州の試合へ向かうフライトを利用したことについて弁護しました。この行動は、公務と私的活動のバランスについて議論を呼んでいます。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGszbHVFRk5FMHhvcWVYeDZRMl8tZ0RMakdPbUdLSDVzU21XMklhdTN0WGxCQldDdllzUEVxdGZTb2x4YjNhNHhNbUZWU29hVHFzNE1WUEgtTWJULVZIWWFBZEsxdmpXUGhKNXhqdzZJOTREaEFuNVdJOWlBZ0dUSjNXQQ?oc=5"
+    },
+    {
+      "rank": 17,
+      "origin_tab": "global_news",
+      "category": "Politics",
+      "title": "トランプ氏、ロシア・中国大統領との会談を前にアジア入り",
+      "summary": "ドナルド・トランプ氏が、ロシアおよび中国の大統領との重要な会談を控えてアジアを訪問しています。この訪問は、今後の国際関係に大きな影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43eTNySUF6Qk5WeER2eTkzNGpTb3JpZFBpZGppak80Q25WYm9LMlVLRVZ3UGJIVDN4aXZsX2N4c2l2ZFBQV2xBdDlySTgwZENrNzhybW82djVGYlE?oc=5"
+    },
+    {
+      "rank": 18,
+      "origin_tab": "global_news",
+      "category": "Conflict",
+      "title": "イリノイ州の男がピオリアのエタノール工場で発見された爆弾に関連して起訴される",
+      "summary": "イリノイ州ピオリアのエタノール工場で爆弾が発見された事件に関連し、地元住民の男が起訴されました。当局は事件の背景と動機について捜査を続けています。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOER1elZwOHNaR3hkM2VjTll1NjBZU1B2R0gzQUlHa1VvbElVclRVdlB0akwyd1E1ZnBrVTBOekdpY2RMbGJ6MU9RQ2VCV1pwWTZqS3dMa3ppVDNqOThzeVBvRGJjQUcwQ3pPX1BqNEg3TnBYZElHQlZBOS1RODhxMHJzMTY0bU9GRDd3bXVXR29YMlppNFNNSmJtZU1Qd2pVb3FGbUg1c0tOYXhfbTdrZA?oc=5"
+    },
+    {
+      "rank": 19,
+      "origin_tab": "latest_research",
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手のアジリティ向上と怪我予防におけるバーチャルリアリティ支援神経筋トレーニングの効果：対照実験",
+      "summary": "VR（バーチャルリアリティ）を用いた神経筋トレーニングが、バスケットボール選手のアジリティパフォーマンスと怪我予防に与える影響を調査した対照実験です。この研究では、VRがトレーニングへの没入感を高め、より効果的な運動学習を促進することで、特定部位の怪我リスクを低減し、パフォーマンス向上に寄与する可能性が示唆されました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+    },
+    {
+      "rank": 20,
+      "origin_tab": "latest_research",
+      "category": "Biomechanics / Exercise Science",
+      "title": "完璧なランニングフォームは存在するのか？科学的見解は",
+      "summary": "ランニングにおいて「完璧なフォーム」が存在するかどうかについて、科学的な知見をまとめた記事です。個人の身体特性や走行目的によって最適なフォームは異なり、怪我のリスクを低減しつつパフォーマンスを最大化するための調整が重要であることが指摘されています。画一的なフォーム指導ではなく、個別最適化の必要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGpxWXZfNWcyMW9ienNmdV9OckpYM2RzN0FZTWNCQmhlZURIck12OUhKSGlCLUNiYnNaSllsa0ZUSFNkMzJnV0puNUxvY09MMHdmdDhwNlIwNjUwLVM4bUgwTXgwbFlZM2J4TEVmVm10SlJlM3ZiNWU2SWRfTjNMWGxqOEY4dnJEMjByaS14eWNNOXNzTmg1Wl9teExMQQ?oc=5"
+    }
+  ]
+}
