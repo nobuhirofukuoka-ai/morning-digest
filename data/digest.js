@@ -1,85 +1,85 @@
 window.DIGEST_DATA = {
-  "issue_date": "2026/11/20",
-  "generated_at": "2026-11-20T01:56:18.370Z",
+  "issue_date": "2026/11/21",
+  "generated_at": "2026-11-21T01:51:58.703Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手の敏捷性向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験研究",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングがアジリティパフォーマンスと傷害予防に与える影響：対照実験研究",
       "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5",
-      "abstract": "本研究は、バスケットボール選手を対象にVR（仮想現実）を活用した神経筋トレーニングが敏捷性パフォーマンスと傷害予防に及ぼす影響を対照実験で検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、選手の反応時間とバランス能力を向上させ、特定の動作におけるACL損傷リスクを低減する可能性が示唆されました。",
-      "insight": "VR技術を導入することで、よりインタラクティブでモチベーションを維持しやすい傷害予防プログラムを設計でき、特に若いアスリートのトレーニング定着率向上に貢献するでしょう。",
+      "abstract": "この研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングが、バスケットボール選手のアジリティ能力向上と膝の傷害予防にどれほど効果的であるかを検証しました。被験者をVRトレーニング群と対照群に分け、アジリティテストと傷害発生率を比較した結果、VRトレーニング群で有意な改善が見られました。",
+      "insight": "VRを用いた神経筋トレーニングは、バスケットボール選手のアジリティ向上とACLなどの膝関節傷害予防のための効果的なトレーニングツールとして、現場での導入が期待されます。",
       "published_at": "2026-08-05T07:00:00.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学：科学的アプローチ",
+      "title": "トレイルランニングにおけるバイオメカニクスの科学",
       "source": "Trail Runner Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
-      "abstract": "トレイルランニングにおける生体力学の重要性を包括的に解説する記事です。不均一な地形での着地衝撃、姿勢制御、筋肉活動パターンなどが、一般的なロードランニングとは異なる特性を持つことが分析されています。これにより、パフォーマンス向上と怪我のリスク軽減に繋がる身体の動きや装備の選択肢が示唆されています。",
-      "insight": "トレイルランナーは、自身のランニングフォームやシューズ選びにおいて、路面状況に応じた身体の使い方を意識することで、より安全で効率的な走りを実現できます。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cElyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
+      "abstract": "トレイルランニングの複雑な地形での動作に焦点を当て、そのパフォーマンスと傷害リスクに影響を与えるバイオメカニクス的側面を構造的にレビューしています。特に、路面変化への適応、着地衝撃の吸収、筋活動パターンなどが分析され、効率的なランニングフォームの重要性が強調されています。",
+      "insight": "トレイルランナーは、効率的な動きと傷害予防のために、下肢の安定性、着地技術、そして不規則な路面への適応能力を向上させるトレーニングを取り入れるべきです。",
       "published_at": "2026-08-20T07:00:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師が解説する効果、リスク、そしてFDAの懸念",
-      "source": "UCHealth",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "abstract": "医療専門家がペプチド治療の潜在的な利点、関連するリスク、およびFDA（米国食品医薬品局）による規制上の懸念について解説しています。ペプチドが様々な健康問題、特に整形外科領域における組織修復や炎症抑制に寄与する可能性が議論される一方で、安全性と有効性に関するさらなる研究の必要性が強調されています。",
-      "insight": "スポーツ医学の現場では、再生医療の一環としてペプチドに関心が集まりますが、未承認の製品や不確実な情報に惑わされず、エビデンスに基づいた慎重なアプローチと患者への十分な情報提供が不可欠です。",
-      "published_at": "2026-07-24T07:00:00.000Z"
+      "title": "TheraMicro | 2026年スポーツ医学の主要なディスラプター",
+      "source": "MedTech Outlook",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83WDNnc3g3Zmx5eFdYRW92NG9wZUx3MHBuWEMtUWZiVkUyWXNFbDNLSkFhOWM0UUl1NVphTlI0WmM0ZThxajYxNnpPaURHVnBPUk9PZDlUbHdRVzU1cldr?oc=5",
+      "abstract": "スポーツ医学分野において、革新的な技術やアプローチで業界に変革をもたらす「TheraMicro」という新技術または企業に焦点を当てた記事です。この技術が、診断、治療、リハビリテーションのいずれかの領域で、既存の手法を大きく改善する可能性について論じられています。",
+      "insight": "TheraMicroのような最新技術は、スポーツ選手に対する治療の選択肢を広げ、回復期間の短縮や治療効果の向上に貢献する可能性があり、今後の動向に注目です。",
+      "published_at": "2026-08-25T10:41:16.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおけるリハビリ介入が競技復帰期間と再受傷率に与える影響",
+      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響",
       "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5",
-      "abstract": "本研究は、急性ハムストリング肉離れを負ったアスリートに対する様々なリハビリテーション介入が、競技復帰までの期間と再受傷率にどのような影響を与えるかを分析しました。結果として、特定の段階的負荷プロトコルと個別化されたストレングス強化が、早期の競技復帰と再受傷リスクの有意な低減に繋がることが示されました。",
-      "insight": "ハムストリング肉離れのリハビリテーションでは、画一的なプロトコルではなく、損傷の程度やアスリートの特性に応じた個別化された負荷設定と筋力トレーニングの導入が重要です。",
+      "abstract": "急性ハムストリング肉離れを負ったアスリートを対象に、異なるリハビリテーション介入が競技復帰までの期間と再受傷率にどのような影響を与えるかを調査した研究です。特定の介入プロトコルが、より早い競技復帰と低い再受傷率に繋がることが示されています。",
+      "insight": "ハムストリング肉離れのリハビリテーションでは、効果が実証されたプロトコルに基づき、段階的な負荷設定と筋力強化、動作再学習を組み合わせることで、アスリートの安全かつ迅速な競技復帰を支援できます。",
       "published_at": "2026-10-05T07:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "統合的疼痛ケアスキル研修とSUDシンポジウム、薬物を使用しない治療法に焦点",
+      "title": "複合的疼痛ケアスキル研修、薬物を使用しないモダリティに焦点を当てたSUDシンポジウム",
       "source": "Walter Reed National Military (.mil)",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDFLOUIxbnpsdXBBaUZ3Umc5ZWJtUDlMZ2s3d0JFQXFVV0hVSjE2RGUwUmd1Wkp2eGgzSUVpeW94cGt6ckk4SEVCTzktU1RjNVhUVjNhV0JGcUVQbDFIbV91M1ZpWVBnNlk3T0VwX1NRTVR4UUlhYzkzNml3S3gxNmJ1c3RFcmZuVkp1NFl0N2VjMC1yeDliRDJoZDctZ2EyV2RzakMtX2g5Zmt1TGVqQUpGZ0kzdVo4N05aaVFkOEdUUFVObF9Hc21zSTRnZmYtNkdDbDRVMlhIZ0M3amg0Vk13?oc=5",
-      "abstract": "ウォルター・リード国立軍事医療センターが開催した研修とシンポジウムでは、薬物依存症（SUD）に対するアプローチとして、薬物を使用しない疼痛管理スキルに焦点が当てられました。鍼治療を含む東洋医学的手法やその他の統合医療が、慢性疼痛患者のQOL向上と薬物依存リスク低減に貢献する可能性が議論されました。",
-      "insight": "スポーツ現場での疼痛管理において、非薬物療法としての鍼治療や東洋医学的アプローチを検討することは、アスリートの回復プロセスを多様化し、薬物使用による副作用のリスクを避ける上で有効な選択肢となり得ます。",
+      "abstract": "このシンポジウムでは、オピオイド危機に対応するため、薬物を使用しない疼痛管理の代替療法に焦点が当てられました。鍼治療を含む複合的な疼痛ケアスキルの研修が紹介され、身体的・精神的健康の改善に貢献する可能性が議論されています。",
+      "insight": "疼痛管理において、鍼治療などの非薬物療法は、特にスポーツ外傷後の回復期や慢性疼痛の選手に対して、新たな治療選択肢として積極的に検討されるべきです。",
       "published_at": "2026-09-01T15:29:06.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
-      "source": "Verywell Health",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5",
-      "abstract": "本記事では、運動能力や回復をサポートするとされる5種類の主要なサプリメントについて、その効果と科学的根拠を解説しています。クレアチン、カフェイン、プロテイン、BCAA、ベータアラニンなどが挙げられ、それぞれの最適な摂取タイミングや注意点についても言及されています。",
-      "insight": "アスリートやトレーニーは、自身のトレーニング目標と体質に合わせて、これらのサプリメントを適切に活用することで、パフォーマンスの向上と効率的なリカバリーをサポートできるでしょう。",
-      "published_at": "2026-09-30T07:00:00.000Z"
+      "title": "ティーンエイジャーのスポーツサプリメント：推奨されるもの、注意して使用するもの、避けるべきもの",
+      "source": "Contemporary Pediatrics",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5",
+      "abstract": "思春期のスポーツ選手を対象としたサプリメント利用について、その効果、安全性、および潜在的なリスクを評価しています。医師や保護者が若年アスリートに指導する際の具体的な推奨事項や注意点、避けるべき製品について詳細に解説されています。",
+      "insight": "若年アスリートの保護者や指導者は、サプリメントの選択に際して、科学的根拠と安全性を最優先し、医師や管理栄養士と相談の上、成長期の身体に悪影響を与えないよう慎重な判断が必要です。",
+      "published_at": "2026-09-14T07:00:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "source": "Johns Hopkins Medicine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMW93WHFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5",
-      "abstract": "学生アスリートが抱えるメンタルヘルスの課題に対処するための、保護者とコーチ向けの具体的なアドバイスを提供する記事です。学業、競技プレッシャー、人間関係など、多様なストレス要因が挙げられ、早期発見と適切なサポートの重要性が強調されています。",
-      "insight": "コーチや保護者は、学生アスリートの身体的健康だけでなく、精神的健康にも目を向け、オープンなコミュニケーションとサポート体制を築くことで、彼らの健全な成長とパフォーマンス発揮を促すことができます。",
-      "published_at": "2026-05-05T15:36:18.000Z"
+      "title": "子供が走る距離はどこまでが適切か？年齢別ガイド",
+      "source": "Marathon Handbook",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5",
+      "abstract": "この記事は、子供の年齢に応じた適切なランニング距離と強度について専門家の見解をまとめています。過度な運動による怪我のリスクを避けつつ、健康的な成長と運動能力の発達を促すためのガイドラインを提供し、年齢別に推奨される走行距離や頻度を提示しています。",
+      "insight": "子供の体力レベルや成長段階に合わせた運動指導が重要です。過度な競争や無理なトレーニングは避け、楽しみながら運動習慣を身につけさせることで、長期的なスポーツ参加と健康維持に繋がります。",
+      "published_at": "2026-10-22T07:00:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠が運動能力に与える影響",
+      "title": "アスリートと睡眠：睡眠がアスレチックパフォーマンスにどう影響するか",
       "source": "Sleep Foundation",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5",
-      "abstract": "本記事は、睡眠がアスリートの身体的および精神的パフォーマンスに不可欠な役割を果たすことを詳細に論じています。十分な睡眠は、回復の促進、反応時間の改善、集中力の向上、怪我のリスク低減に寄与し、不足するとパフォーマンス低下や回復遅延に繋がる可能性が強調されています。",
-      "insight": "アスリートは、トレーニングプランと同様に睡眠戦略を重視し、質の高い十分な睡眠を確保することで、競技パフォーマンスを最大化し、長期的な健康を維持できるでしょう。",
+      "abstract": "アスリートの睡眠が身体的および精神的パフォーマンスに与える影響について包括的に解説しています。最適な睡眠時間、睡眠の質、およびその改善戦略が、回復、反応時間、集中力、怪我の予防にいかに重要であるかを説明しています。",
+      "insight": "アスリートのパフォーマンス向上と怪我予防のためには、トレーニングプログラムと同様に睡眠の質と量の最適化が不可欠です。選手や指導者は、個々の睡眠パターンを把握し、積極的な睡眠改善戦略を取り入れるべきです。",
       "published_at": "2026-09-15T07:00:00.000Z"
     }
   ],
@@ -88,98 +88,98 @@ window.DIGEST_DATA = {
       "id": "j001",
       "category": "政治",
       "source": "読売新聞",
-      "title": "日本政府、米中露首脳会談で国際環境への影響注視…高市首相「日本の利益が損なわれることはない」",
-      "summary": "日本政府は米中露首脳会談が国際環境に与える影響を注視していると報じられました。高市首相は、日本の国益が損なわれることはないと強調し、今後の外交動向に関心が集まります。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VkxJWkxGdTJkRmxBLVpSbVoxMkVfcjdHcGtTX2hsM0VVSWloVXVhUnNld0FUSndqMEY0TzdUZmtXbXhCNXlURW9WVkFFNzJaSWotUEM1SDNLd28wbGNPcndXNlotQQ?oc=5",
-      "published_at": "2026-11-19T12:57:00.000Z"
+      "title": "原子力潜水艦の導入「検討に着手し結論得る」、安保３文書に記載で政府調整…「早期に結論」とする案も",
+      "summary": "政府は安全保障関連3文書に、原子力潜水艦の導入について「検討に着手し結論を得る」と明記する方向で調整を進めています。「早期に結論を得る」というより踏み込んだ案も検討されており、今後の動向が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93cnJYXzd3cXJVMENNSGdkSEpLOEhIT0NqanphU1l6Q2cxODdYcDIwME9QTmZrc1ltdFh6YnpSWVpuSWlFS2U2aWZ4dGY4SWxRYXVHSE8tdGpwVXl4cV9OMkNHR29qZw?oc=5",
+      "published_at": "2026-11-20T20:00:00.000Z"
     },
     {
       "id": "j002",
-      "category": "社会",
-      "source": "読売新聞",
-      "title": "事件前月に「体にもあざ」把握…大阪・３歳死亡、市は児相に通告も一時保護されず",
-      "summary": "大阪で発生した3歳児死亡事件で、市が事件の1ヶ月前に「体にあざがある」ことを把握し、児童相談所に通告していたことが判明しました。しかし、一時保護には至らず、対応の適切性が問われています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YYmdLdnRJcmNHX2RvUDZQNzV5UzRqbElTNGFwdFJKZ3VGWU0yMFpPUlhaVXdGQWJFVVY0cXVUZUVaTEV6bk1vRS1rRXhqb0pVa2lISGpQN3kyWmNoOXNUMFFPRmNUQQ?oc=5",
-      "published_at": "2026-11-19T20:00:00.000Z"
+      "category": "政治",
+      "source": "Yahoo!ニュース",
+      "title": "高市首相、APECで台湾代表と会談せず 昨年はXに投稿、中国反発",
+      "summary": "高市首相はAPEC首脳会議で台湾代表との会談を見送りました。昨年はSNS上で会談の事実を投稿し、中国政府が反発した経緯があり、今回の対応は外交的配慮と見られています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12djBjMU80bnM2LS1NMFhqUHZwVW54cE5RUFM4cl9OQ05abWw5dVJxdXBtQi1rVGcyanhOblZUMDVBejdOYXlvMnJYUGxrWWhW?oc=5",
+      "published_at": "2026-11-20T22:39:16.000Z"
     },
     {
       "id": "j003",
-      "category": "医療・健康",
-      "source": "Yahoo!ニュース",
-      "title": "「風邪？でAIへ相談」回答うのみに注意 受診控えで病状悪化も",
-      "summary": "風邪などの症状でAIに相談する人が増えていますが、その回答を鵜呑みにすることに注意喚起がなされています。自己判断による受診控えが、病状の悪化を招く可能性も指摘されています。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQUd0YTA3NllwdEUxblNqU3JZX3FjeEFTc3NXcHdkMlB6RVVZbGtmbDBHbHZaN3B0aFRNekQxdWIzRTljbU1Zc0pzZ3UycTM1?oc=5",
-      "published_at": "2026-11-19T22:44:21.000Z"
+      "category": "社会",
+      "source": "日テレNEWS NNN",
+      "title": "【速報】愛子さまシンガポールで屋台が集まる名所「ホーカーセンター」視察 “ホッケンミー”や“チキンライス”の屋台料理をご覧 ラオパサ・ホーカーセンター（2026年11月19日掲載）｜日テレNEWS NNN",
+      "summary": "愛子さまがシンガポールご訪問中、屋台街のラオパサ・ホーカーセンターを視察されました。現地では、名物の“ホッケンミー”や“チキンライス”などの屋台料理にご興味を示された様子が報じられています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uRGx1MFFSSTR4MVVwd1dEQ2c0QWYtY1N3UFF0ZEtVeVJiaEVOMml0aVpiM21MMk8wMkE1d0VUanBhMjFsdlkzZ1Jka1g2dl_7UXl5TjNBMTNQRVFUMUkxc0JlaGk1UUdidGRDd3dLZ0RLdHF4X3RiNjJRc1g?oc=5",
+      "published_at": "2026-11-20T06:50:00.000Z"
     },
     {
       "id": "j004",
-      "category": "国際",
+      "category": "社会",
       "source": "Yahoo!ニュース",
-      "title": "プーチン氏「大国」演出成功、侵略続けながら国際社会への本格復帰探る…中国からはくぎ刺された形（読売新聞オンライン）",
-      "summary": "プーチン大統領が国際舞台で「大国」の存在感を演出しつつも、ウクライナ侵略を継続し、国際社会への本格復帰を模索していると報じられました。一方、中国からは一定の牽制があった模様で、複雑な国際関係が浮き彫りになっています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUWpPckxielNES0RXUGNJWmhWYU9WU3NhVFFZUEhTTTltNUFIZGhkT09SNjUwaFlGNnBWT0tRSER3OGo3QTlPMzlUSHRkZ2hTZzhka1lKT0xIcl9FdWFnY2s0WFhGYXNmNGJ3Ylc1ZlBFQTVJMHM4aGdBbmI3cGM?oc=5",
-      "published_at": "2026-11-19T23:29:12.000Z"
+      "title": "兵庫3歳児暴行死 頭部に致命傷か",
+      "summary": "兵庫県で発生した3歳児の暴行死事件において、司法解剖の結果、頭部に致命傷があった可能性が高いことが判明しました。警察は事件の詳しい経緯と死因について捜査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfazc0QXVmdEM0ZlVaZzdxTVpWa0FSb2YxV0wzNmFIRlFUaWFoM280RE1zRW93eklJeVZ6TGtQTmc3X29IVmNuQ25JSHo5OEFX?oc=5",
+      "published_at": "2026-11-20T23:55:43.000Z"
     },
     {
       "id": "j005",
-      "category": "政治",
+      "category": "社会",
       "source": "Yahoo!ニュース",
-      "title": "首相の中国訪問「新ヤルタ」警戒",
-      "summary": "首相の中国訪問を巡り、「新ヤルタ」とも称される国際的な枠組みが形成されることへの警戒感が報じられています。特に日中間の関係深化が、地政学的なバランスに与える影響が懸念されています。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STTBnVHlzZUxiS0M1VXpEdkkxSmhWcE1rM0tIVzhFQXJsUGl5YklzTjI2cnBHLXNxRkFWMXRscG9qbGE1ckFlR0FybXFfdnIx?oc=5",
-      "published_at": "2026-11-19T22:35:06.000Z"
+      "title": "大型物流倉庫で火事 三郷JCT付近",
+      "summary": "埼玉県三郷市の三郷ジャンクション付近で大型物流倉庫が火災に見舞われました。消防が消火活動に当たっており、周辺道路の交通規制も行われています。詳細な被害状況は現在調査中です。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lMjRIc0tFOHNXYjMyLUJVNTg0ZVJtMm9qaHVGLWxfMk9pc01FSVNvcFlNUlM5Tl_zVy1FTlRwZmZhUEp5Y1VmZ1dXRXB5bmxG?oc=5",
+      "published_at": "2026-11-21T01:20:54.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
-      "category": "Politics",
-      "region": "Global",
-      "source": "NBC News",
-      "title": "トランプ氏、プーチン氏と習氏との「信じられないような」首脳会談を称賛するも、平和協定は依然として不明瞭",
-      "summary": "トランプ氏は、プーチン大統領と習近平国家主席との首脳会談を「信じられないような」ものだったと称賛しました。しかし、会談で具体的な平和協定が成立したかどうかは依然として不透明な状況です。",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ1ZqeHBBUkpzd1dXRjlaQ0RkemNaNWItOUN3RnlWdnFkdmo2Y19xOUFNQ3FHN0hLRndCM1I4TkYyUzlGY0ljc004UkdVejA5N2gyQmtQTWhET3VueEZjY292aUQtdlE5TWYwcEQ2MVNONFFNM1MtQnJHSEltaHlYRGJDUHZXWVdzd2JIUzFaeXdCRHlOdVRoaklhMU45U3BPMzFielVtR0RtTFRzNF9XZnNXcjY3eDNObU1mbGlLbTFrRUJtY3c?oc=5",
-      "published_at": "2026-11-19T19:42:53.000Z"
+      "category": "Climate",
+      "region": "US",
+      "source": "CNN",
+      "title": "連邦陪審、2025年ロサンゼルスで発生した壊滅的なパリセーズ火災の放火犯に有罪判決",
+      "summary": "2025年にロサンゼルスで発生し甚大な被害をもたらしたパリセーズ火災について、連邦陪審が放火犯の男に有罪判決を下しました。この火災は広範囲に影響を及ぼし、地域社会に大きな衝撃を与えました。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0am5iSmpCay1WNmdLQ0ZfQU9fT2locThGOVRLOGhoVVlfYjlyVFpYQWZtNFZHWTdmQ21YWmJ1Zk13eHRRRE83NWxiRWZwVVI0NGI2UXF5V3I4ZG12TGp5eGFZcFc0SkJxcW9ad1dmams4c2JHRVVPUl9DNmhGdw?oc=5",
+      "published_at": "2026-11-20T23:13:17.000Z"
     },
     {
       "id": "g002",
-      "category": "Culture",
+      "category": "Economy",
       "region": "US",
-      "source": "The Washington Post",
-      "title": "シンシナティ動物園の人気カバ「フィオナ」、9歳で死亡",
-      "summary": "シンシナティ動物園で人気を集めていたカバのフィオナが、9歳で亡くなったことが報じられました。フィオナは未熟児で生まれながらも、多くの人々に愛される存在でした。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWFBSzF3RTBuUUhWTGRxTEszYlFaaU1Bb2RocHdxUlNUbzBCdHNoellZaXppbC0yd2ZGTHhkQ185MW5yb1ZuUFdTY2tnbUpNNzd2S0w2ZHR6cTVHTzVoSWdUVEg2bEh0VXJXMGNOa2hSS0dZc0Y2Mkg0LWd3UGdrdnllNmdEX2dKZWR1T3UteU5DeTBqWnY4WkpYRlhuQ0pUUHRSRQ?oc=5",
-      "published_at": "2026-11-20T00:00:20.000Z"
+      "source": "Axios",
+      "title": "トランプ氏、米国企業による海外データセンター建設に大幅な課税を提唱",
+      "summary": "トランプ氏は、米国企業が海外でデータセンターを建設する際に大幅な税金を課すという政策を提唱しています。この提案は、国内雇用と投資を促進することを目的としていますが、国際的なビジネス環境に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54MU5XaGUxQlI1ZTBJTERRbnNmMmE0Vjc4Z2VBTjQ1R25haDdVZEJNd3NmX0VSZ2JLMEdoeWwtM2dFY3NKUjFSbEJkQVVFREN4RDRrOWh2UWdMVC0xSk01a0NkUEY3YVBEQ1RMYzRoR043T3dK?oc=5",
+      "published_at": "2026-11-20T21:42:36.000Z"
     },
     {
       "id": "g003",
       "category": "Politics",
       "region": "US",
-      "source": "Axios",
-      "title": "トランプ氏、最新のMAGA決別劇でイーロン・マスク氏を支持",
-      "summary": "トランプ前大統領が、MAGA運動内部の新たな決別劇においてイーロン・マスク氏を支持したと報じられました。この動きは、今後の政治情勢やトランプ氏の支持層にどのような影響を与えるか注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BYUJGU2lFdnBiWVNtUExRSWF2bFU2UjNqd0ZCYUtoeDFJTUo0emt6UGJZXzc2LVpHX2FzYktWVFZfVWd2VXRMTWlhNE02SmhDZC1fX1VJcWJtM21EamFrb2JYWDhZUTItRmkxZ0JmVTMwZw?oc=5",
-      "published_at": "2026-11-19T17:55:22.000Z"
+      "source": "CBS News",
+      "title": "トランプ氏、ホワイトハウスの記者会見でアジアでの取引や習近平・プーチン両氏との会談を強調",
+      "summary": "トランプ氏がホワイトハウスでの記者会見で、アジア諸国との新たな取引や習近平国家主席、プーチン大統領との会談について言及し、その成果を強調しました。これは、今後の国際関係と外交政策における彼の姿勢を示すものと見られます。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
+      "published_at": "2026-11-20T19:02:00.000Z"
     },
     {
       "id": "g004",
       "category": "Politics",
       "region": "US",
-      "source": "NBC News",
-      "title": "トランプ氏が指名した選挙セキュリティ担当者、1月6日は攻撃ではなかったと発言",
-      "summary": "トランプ前大統領が指名した選挙セキュリティ担当者が、2021年1月6日の連邦議会議事堂への出来事を「攻撃ではなかった」と発言したことが報じられました。この発言は、当時の出来事に対する見解を巡る議論を再燃させる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUG9GMHpwREtNTVlUcDdQV1U2ZE5GN3U5MFNIbGNmWkdZM1FRMU5mcjduOFh3WGF4VjNjYnUySHBLWHhTZHRVV3ZKY1FxS2V1aC1iZjZJbnlna2w5T3RsMkQyenM4S2lISEpyQW9IRlhoTVBOQWRmbk9FX3hHcFR5cmZfVTZhdUFYWlE5Nkx5cFA1YXVMeFY3THVnV0tjNUhPcFJFYUJ5VTBLOWhoQ3ZQVzJaV20tRU1BX09QV0VBeEpFdWczLTI0TUJiNWtycW45?oc=5",
-      "published_at": "2026-11-19T22:22:43.000Z"
+      "source": "BBC",
+      "title": "マムダニ氏、ニューヨークのリッカーズ島刑務所閉鎖計画を公表",
+      "summary": "ニューヨーク市のマムダニ氏が、長年の課題であったリッカーズ島刑務所の閉鎖計画を明らかにしました。この計画は、刑務所の運用に関する懸念に対応し、より人道的な司法システムへの移行を目指すものです。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hY24yQ0VKc3FYUVhGdzk3UG1jVk1JN05XTkRneEQ2RjRsQlBjWlVwcnBGeElOZDBQRFFWb3Njcy1JRlYzMmxpamVJNDZZN0pTczh4MlBrTndjdWM?oc=5",
+      "published_at": "2026-11-21T00:01:39.000Z"
     },
     {
       "id": "g005",
-      "category": "Conflict",
-      "region": "Asia",
-      "source": "BBC",
-      "title": "ミャンマーはロヒンギャ少数民族に対してジェノサイドを行ったと国連最高裁判所が判決",
-      "summary": "国連の最高裁判所が、ミャンマー政府がロヒンギャ少数民族に対してジェノサイド（集団虐殺）を行ったとの判決を下しました。この判決は、ミャンマーにおける人権侵害に対する国際社会の強い非難を示すものです。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PRGZnZ1Z3V09QbmtGZ1VhVU5oVjItbEE5UFFHbS13M2Rzb21KZ05zZkdyRlFfekdEcDFoTWwzUV9JUmQ5MTZEU016WXVUWFgzYllUSGlQOXE0d2c?oc=5",
-      "published_at": "2026-11-19T20:07:02.000Z"
+      "category": "Culture",
+      "region": "US",
+      "source": "WMTW",
+      "title": "カバのフィオナ、小腸に帽子が詰まっていたことが死後解剖で判明",
+      "summary": "人気者のカバ、フィオナの死後解剖の結果、小腸に帽子が詰まっていたことが明らかになりました。この衝撃的な発見は、動物園の動物管理と観客への注意喚起の重要性を再認識させるものです。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXoxamFXcVVFOUNXZW00Y1VyV2JQX3NNbmgteVpiQ21kZ1FuYVpqUXAwWDJVdXZhM3VrZkFWZm9aZnVXbjNLTEJXRDY1Y1d0cThKV1dmLUVMeUVKQXB4UGtUVEZxT2JtOGdXcWRpMjI1aW5uczBtREFBR1QyUWxqOVM0Sm9Jelg5M3c?oc=5",
+      "published_at": "2026-11-20T19:34:00.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,160 +187,160 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手の敏捷性向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験研究",
-      "summary": "本研究は、バスケットボール選手を対象にVR（仮想現実）を活用した神経筋トレーニングが敏捷性パフォーマンスと傷害予防に及ぼす影響を対照実験で検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、選手の反応時間とバランス能力を向上させ、特定の動作におけるACL損傷リスクを低減する可能性が示唆されました。",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングがアジリティパフォーマンスと傷害予防に与える影響：対照実験研究",
+      "summary": "この研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングが、バスケットボール選手のアジリティ能力向上と膝の傷害予防にどれほど効果的であるかを検証しました。被験者をVRトレーニング群と対照群に分け、アジリティテストと傷害発生率を比較した結果、VRトレーニング群で有意な改善が見られました。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学：科学的アプローチ",
-      "summary": "トレイルランニングにおける生体力学の重要性を包括的に解説する記事です。不均一な地形での着地衝撃、姿勢制御、筋肉活動パターンなどが、一般的なロードランニングとは異なる特性を持つことが分析されています。これにより、パフォーマンス向上と怪我のリスク軽減に繋がる身体の動きや装備の選択肢が示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "トレイルランニングにおけるバイオメカニクスの科学",
+      "summary": "トレイルランニングの複雑な地形での動作に焦点を当て、そのパフォーマンスと傷害リスクに影響を与えるバイオメカニクス的側面を構造的にレビューしています。特に、路面変化への適応、着地衝撃の吸収、筋活動パターンなどが分析され、効率的なランニングフォームの重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cElyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師が解説する効果、リスク、そしてFDAの懸念",
-      "summary": "医療専門家がペプチド治療の潜在的な利点、関連するリスク、およびFDA（米国食品医薬品局）による規制上の懸念について解説しています。ペプチドが様々な健康問題、特に整形外科領域における組織修復や炎症抑制に寄与する可能性が議論される一方で、安全性と有効性に関するさらなる研究の必要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+      "title": "TheraMicro | 2026年スポーツ医学の主要なディスラプター",
+      "summary": "スポーツ医学分野において、革新的な技術やアプローチで業界に変革をもたらす「TheraMicro」という新技術または企業に焦点を当てた記事です。この技術が、診断、治療、リハビリテーションのいずれかの領域で、既存の手法を大きく改善する可能性について論じられています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83WDNnc3g3Zmx5eFdYRW92NG9wZUx3MHBuWEMtUWZiVkUyWXNFbDNLSkFhOWM0UUl1NVphTlI0WmM0ZThxajYxNnpPaURHVnBPUk9PZDlUbHdRVzU1cldr?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおけるリハビリ介入が競技復帰期間と再受傷率に与える影響",
-      "summary": "本研究は、急性ハムストリング肉離れを負ったアスリートに対する様々なリハビリテーション介入が、競技復帰までの期間と再受傷率にどのような影響を与えるかを分析しました。結果として、特定の段階的負荷プロトコルと個別化されたストレングス強化が、早期の競技復帰と再受傷リスクの有意な低減に繋がることが示されました。",
+      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響",
+      "summary": "急性ハムストリング肉離れを負ったアスリートを対象に、異なるリハビリテーション介入が競技復帰までの期間と再受傷率にどのような影響を与えるかを調査した研究です。特定の介入プロトコルが、より早い競技復帰と低い再受傷率に繋がることが示されています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "統合的疼痛ケアスキル研修とSUDシンポジウム、薬物を使用しない治療法に焦点",
-      "summary": "ウォルター・リード国立軍事医療センターが開催した研修とシンポジウムでは、薬物依存症（SUD）に対するアプローチとして、薬物を使用しない疼痛管理スキルに焦点が当てられました。鍼治療を含む東洋医学的手法やその他の統合医療が、慢性疼痛患者のQOL向上と薬物依存リスク低減に貢献する可能性が議論されました。",
+      "title": "複合的疼痛ケアスキル研修、薬物を使用しないモダリティに焦点を当てたSUDシンポジウム",
+      "summary": "このシンポジウムでは、オピオイド危機に対応するため、薬物を使用しない疼痛管理の代替療法に焦点が当てられました。鍼治療を含む複合的な疼痛ケアスキルの研修が紹介され、身体的・精神的健康の改善に貢献する可能性が議論されています。",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDFLOUIxbnpsdXBBaUZ3Umc5ZWJtUDlMZ2s3d0JFQXFVV0hVSjE2RGUwUmd1Wkp2eGgzSUVpeW94cGt6ckk4SEVCTzktU1RjNVhUVjNhV0JGcUVQbDFIbV91M1ZpWVBnNlk3T0VwX1NRTVR4UUlhYzkzNml3S3gxNmJ1c3RFcmZuVkp1NFl0N2VjMC1yeDliRDJoZDctZ2EyV2RzakMtX2g5Zmt1TGVqQUpGZ0kzdVo4N05aaVFkOEdUUFVObF9Hc21zSTRnZmYtNkdDbDRVMlhIZ0M3amg0Vk13?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
-      "summary": "本記事では、運動能力や回復をサポートするとされる5種類の主要なサプリメントについて、その効果と科学的根拠を解説しています。クレアチン、カフェイン、プロテイン、BCAA、ベータアラニンなどが挙げられ、それぞれの最適な摂取タイミングや注意点についても言及されています。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
+      "title": "ティーンエイジャーのスポーツサプリメント：推奨されるもの、注意して使用するもの、避けるべきもの",
+      "summary": "思春期のスポーツ選手を対象としたサプリメント利用について、その効果、安全性、および潜在的なリスクを評価しています。医師や保護者が若年アスリートに指導する際の具体的な推奨事項や注意点、避けるべき製品について詳細に解説されています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートが抱えるメンタルヘルスの課題に対処するための、保護者とコーチ向けの具体的なアドバイスを提供する記事です。学業、競技プレッシャー、人間関係など、多様なストレス要因が挙げられ、早期発見と適切なサポートの重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMW93WHFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "title": "子供が走る距離はどこまでが適切か？年齢別ガイド",
+      "summary": "この記事は、子供の年齢に応じた適切なランニング距離と強度について専門家の見解をまとめています。過度な運動による怪我のリスクを避けつつ、健康的な成長と運動能力の発達を促すためのガイドラインを提供し、年齢別に推奨される走行距離や頻度を提示しています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠が運動能力に与える影響",
-      "summary": "本記事は、睡眠がアスリートの身体的および精神的パフォーマンスに不可欠な役割を果たすことを詳細に論じています。十分な睡眠は、回復の促進、反応時間の改善、集中力の向上、怪我のリスク低減に寄与し、不足するとパフォーマンス低下や回復遅延に繋がる可能性が強調されています。",
+      "title": "アスリートと睡眠：睡眠がアスレチックパフォーマンスにどう影響するか",
+      "summary": "アスリートの睡眠が身体的および精神的パフォーマンスに与える影響について包括的に解説しています。最適な睡眠時間、睡眠の質、およびその改善戦略が、回復、反応時間、集中力、怪我の予防にいかに重要であるかを説明しています。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "日本政府、米中露首脳会談で国際環境への影響注視…高市首相「日本の利益が損なわれることはない」",
-      "summary": "日本政府は米中露首脳会談が国際環境に与える影響を注視していると報じられました。高市首相は、日本の国益が損なわれることはないと強調し、今後の外交動向に関心が集まります。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VkxJWkxGdTJkRmxBLVpSbVoxMkVfcjdHcGtTX2hsM0VVSWloVXVhUnNld0FUSndqMEY0TzdUZmtXbXhCNXlURW9WVkFFNzJaSWotUEM1SDNLd28wbGNPcndXNlotQQ?oc=5"
+      "title": "原子力潜水艦の導入「検討に着手し結論得る」、安保３文書に記載で政府調整…「早期に結論」とする案も",
+      "summary": "政府は安全保障関連3文書に、原子力潜水艦の導入について「検討に着手し結論を得る」と明記する方向で調整を進めています。「早期に結論を得る」というより踏み込んだ案も検討されており、今後の動向が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93cnJYXzd3cXJVMENNSGdkSEpLOEhIT0NqanphU1l6Q2cxODdYcDIwME9QTmZrc1ltdFh6YnpSWVpuSWlFS2U2aWZ4dGY4SWxRYXVHSE8tdGpwVXl4cV9OMkNHR29qZw?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "事件前月に「体にもあざ」把握…大阪・３歳死亡、市は児相に通告も一時保護されず",
-      "summary": "大阪で発生した3歳児死亡事件で、市が事件の1ヶ月前に「体にあざがある」ことを把握し、児童相談所に通告していたことが判明しました。しかし、一時保護には至らず、対応の適切性が問われています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YYmdLdnRJcmNHX2RvUDZQNzV5UzRqbElTNGFwdFJKZ3VGWU0yMFpPUlhaVXdGQWJFVVY0cXVUZUVaTEV6bk1vRS1rRXhqb0pVa2lISGpQN3kyWmNoOXNUMFFPRmNUQQ?oc=5"
+      "category": "政治",
+      "title": "高市首相、APECで台湾代表と会談せず 昨年はXに投稿、中国反発",
+      "summary": "高市首相はAPEC首脳会議で台湾代表との会談を見送りました。昨年はSNS上で会談の事実を投稿し、中国政府が反発した経緯があり、今回の対応は外交的配慮と見られています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12djBjMU80bnM2LS1NMFhqUHZwVW54cE5RUFM4cl9OQ05abWw5dVJxdXBtQi1rVGcyanhOblZUMDVBejdOYXlvMnJYUGxrWWhW?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "医療・健康",
-      "title": "「風邪？でAIへ相談」回答うのみに注意 受診控えで病状悪化も",
-      "summary": "風邪などの症状でAIに相談する人が増えていますが、その回答を鵜呑みにすることに注意喚起がなされています。自己判断による受診控えが、病状の悪化を招く可能性も指摘されています。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQUd0YTA3NllwdEUxblNqU3JZX3FjeEFTc3NXcHdkMlB6RVVZbGtmbDBHbHZaN3B0aFRNekQxdWIzRTljbU1Zc0pzZ3UycTM1?oc=5"
+      "category": "社会",
+      "title": "【速報】愛子さまシンガポールで屋台が集まる名所「ホーカーセンター」視察 “ホッケンミー”や“チキンライス”の屋台料理をご覧 ラオパサ・ホーカーセンター（2026年11月19日掲載）｜日テレNEWS NNN",
+      "summary": "愛子さまがシンガポールご訪問中、屋台街のラオパサ・ホーカーセンターを視察されました。現地では、名物の“ホッケンミー”や“チキンライス”などの屋台料理にご興味を示された様子が報じられています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uRGx1MFFSSTR4MVVwd1dEQ2c0QWYtY1N3UFF0ZEtVeVJiaEVOMml0aVpiM21MMk8wMkE1d0VUanBhMjFsdlkzZ1Jka1g2dl_7UXl5TjNBMTNQRVFUMUkxc0JlaGk1UUdidGRDd3dLZ0RLdHF4X3RiNjJRc1g?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "プーチン氏「大国」演出成功、侵略続けながら国際社会への本格復帰探る…中国からはくぎ刺された形（読売新聞オンライン）",
-      "summary": "プーチン大統領が国際舞台で「大国」の存在感を演出しつつも、ウクライナ侵略を継続し、国際社会への本格復帰を模索していると報じられました。一方、中国からは一定の牽制があった模様で、複雑な国際関係が浮き彫りになっています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUWpPckxielNES0RXUGNJWmhWYU9WU3NhVFFZUEhTTTltNUFIZGhkT09SNjUwaFlGNnBWT0tRSER3OGo3QTlPMzlUSHRkZ2hTZzhka1lKT0xIcl9FdWFnY2s0WFhGYXNmNGJ3Ylc1ZlBFQTVJMHM4aGdBbmI3cGM?oc=5"
+      "category": "社会",
+      "title": "兵庫3歳児暴行死 頭部に致命傷か",
+      "summary": "兵庫県で発生した3歳児の暴行死事件において、司法解剖の結果、頭部に致命傷があった可能性が高いことが判明しました。警察は事件の詳しい経緯と死因について捜査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfazc0QXVmdEM0ZlVaZzdxTVpWa0FSb2YxV0wzNmFIRlFUaWFoM280RE1zRW93eklJeVZ6TGtQTmc3X29IVmNuQ25JSHo5OEFX?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "首相の中国訪問「新ヤルタ」警戒",
-      "summary": "首相の中国訪問を巡り、「新ヤルタ」とも称される国際的な枠組みが形成されることへの警戒感が報じられています。特に日中間の関係深化が、地政学的なバランスに与える影響が懸念されています。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STTBnVHlzZUxiS0M1VXpEdkkxSmhWcE1rM0tIVzhFQXJsUGl5YklzTjI2cnBHLXNxRkFWMXRscG9qbGE1ckFlR0FybXFfdnIx?oc=5"
+      "category": "社会",
+      "title": "大型物流倉庫で火事 三郷JCT付近",
+      "summary": "埼玉県三郷市の三郷ジャンクション付近で大型物流倉庫が火災に見舞われました。消防が消火活動に当たっており、周辺道路の交通規制も行われています。詳細な被害状況は現在調査中です。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lMjRIc0tFOHNXYjMyLUJVNTg0ZVJtMm9qaHVGLWxfMk9pc01FSVNvcFlNUlM5Tl_zVy1FTlRwZmZhUEp5Y1VmZ1dXRXB5bmxG?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、プーチン氏と習氏との「信じられないような」首脳会談を称賛するも、平和協定は依然として不明瞭",
-      "summary": "トランプ氏は、プーチン大統領と習近平国家主席との首脳会談を「信じられないような」ものだったと称賛しました。しかし、会談で具体的な平和協定が成立したかどうかは依然として不透明な状況です。",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ1ZqeHBBUkpzd1dXRjlaQ0RkemNaNWItOUN3RnlWdnFkdmo2Y19xOUFNQ3FHN0hLRndCM1I4TkYyUzlGY0ljc004UkdVejA5N2gyQmtQTWhET3VueEZjY292aUQtdlE5TWYwcEQ2MVNONFFNM1MtQnJHSEltaHlYRGJDUHZXWVdzd2JIUzFaeXdCRHlOdVRoaklhMU45U3BPMzFielVtR0RtTFRzNF9XZnNXcjY3eDNObU1mbGlLbTFrRUJtY3c?oc=5"
+      "category": "Climate",
+      "title": "連邦陪審、2025年ロサンゼルスで発生した壊滅的なパリセーズ火災の放火犯に有罪判決",
+      "summary": "2025年にロサンゼルスで発生し甚大な被害をもたらしたパリセーズ火災について、連邦陪審が放火犯の男に有罪判決を下しました。この火災は広範囲に影響を及ぼし、地域社会に大きな衝撃を与えました。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0am5iSmpCay1WNmdLQ0ZfQU9fT2locThGOVRLOGhoVVlfYjlyVFpYQWZtNFZHWTdmQ21YWmJ1Zk13eHRRRE83NWxiRWZwVVI0NGI2UXF5V3I4ZG12TGp5eGFZcFc0SkJxcW9ad1dmams4c2JHRVVPUl9DNmhGdw?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "シンシナティ動物園の人気カバ「フィオナ」、9歳で死亡",
-      "summary": "シンシナティ動物園で人気を集めていたカバのフィオナが、9歳で亡くなったことが報じられました。フィオナは未熟児で生まれながらも、多くの人々に愛される存在でした。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWFBSzF3RTBuUUhWTGRxTEszYlFaaU1Bb2RocHdxUlNUbzBCdHNoellZaXppbC0yd2ZGTHhkQ185MW5yb1ZuUFdTY2tnbUpNNzd2S0w2ZHR6cTVHTzVoSWdUVEg2bEh0VXJXMGNOa2hSS0dZc0Y2Mkg0LWd3UGdrdnllNmdEX2dKZWR1T3UteU5DeTBqWnY4WkpYRlhuQ0pUUHRSRQ?oc=5"
+      "category": "Economy",
+      "title": "トランプ氏、米国企業による海外データセンター建設に大幅な課税を提唱",
+      "summary": "トランプ氏は、米国企業が海外でデータセンターを建設する際に大幅な税金を課すという政策を提唱しています。この提案は、国内雇用と投資を促進することを目的としていますが、国際的なビジネス環境に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54MU5XaGUxQlI1ZTBJTERRbnNmMmE0Vjc4Z2VBTjQ1R25haDdVZEJNd3NmX0VSZ2JLMEdoeWwtM2dFY3NKUjFSbEJkQVVFREN4RDRrOWh2UWdMVC0xSk01a0NkUEY3YVBEQ1RMYzRoR043T3dK?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏、最新のMAGA決別劇でイーロン・マスク氏を支持",
-      "summary": "トランプ前大統領が、MAGA運動内部の新たな決別劇においてイーロン・マスク氏を支持したと報じられました。この動きは、今後の政治情勢やトランプ氏の支持層にどのような影響を与えるか注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BYUJGU2lFdnBiWVNtUExRSWF2bFU2UjNqd0ZCYUtoeDFJTUo0emt6UGJZXzc2LVpHX2FzYktWVFZfVWd2VXRMTWlhNE02SmhDZC1fX1VJcWJtM21EamFrb2JYWDhZUTItRmkxZ0JmVTMwZw?oc=5"
+      "title": "トランプ氏、ホワイトハウスの記者会見でアジアでの取引や習近平・プーチン両氏との会談を強調",
+      "summary": "トランプ氏がホワイトハウスでの記者会見で、アジア諸国との新たな取引や習近平国家主席、プーチン大統領との会談について言及し、その成果を強調しました。これは、今後の国際関係と外交政策における彼の姿勢を示すものと見られます。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏が指名した選挙セキュリティ担当者、1月6日は攻撃ではなかったと発言",
-      "summary": "トランプ前大統領が指名した選挙セキュリティ担当者が、2021年1月6日の連邦議会議事堂への出来事を「攻撃ではなかった」と発言したことが報じられました。この発言は、当時の出来事に対する見解を巡る議論を再燃させる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUG9GMHpwREtNTVlUcDdQV1U2ZE5GN3U5MFNIbGNmWkdZM1FRMU5mcjduOFh3WGF4VjNjYnUySHBLWHhTZHRVV3ZKY1FxS2V1aC1iZjZJbnlna2w5T3RsMkQyenM4S2lISEpyQW9IRlhoTVBOQWRmbk9FX3hHcFR5cmZfVTZhdUFYWlE5Nkx5cFA1YXVMeFY3THVnV0tjNUhPcFJFYUJ5VTBLOWhoQ3ZQVzJaV20tRU1BX09QV0VBeEpFdWczLTI0TUJiNWtycW45?oc=5"
+      "title": "マムダニ氏、ニューヨークのリッカーズ島刑務所閉鎖計画を公表",
+      "summary": "ニューヨーク市のマムダニ氏が、長年の課題であったリッカーズ島刑務所の閉鎖計画を明らかにしました。この計画は、刑務所の運用に関する懸念に対応し、より人道的な司法システムへの移行を目指すものです。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hY24yQ0VKc3FYUVhGdzk3UG1jVk1JN05XTkRneEQ2RjRsQlBjWlVwcnBGeElOZDBQRFFWb3Njcy1JRlYzMmxpamVJNDZZN0pTczh4MlBrTndjdWM?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "ミャンマーはロヒンギャ少数民族に対してジェノサイドを行ったと国連最高裁判所が判決",
-      "summary": "国連の最高裁判所が、ミャンマー政府がロヒンギャ少数民族に対してジェノサイド（集団虐殺）を行ったとの判決を下しました。この判決は、ミャンマーにおける人権侵害に対する国際社会の強い非難を示すものです。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PRGZnZ1Z3V09QbmtGZ1VhVU5oVjItbEE5UFFHbS13M2Rzb21KZ05zZkdyRlFfekdEcDFoTWwzUV9JUmQ5MTZEU016WXVUWFgzYllUSGlQOXE0d2c?oc=5"
+      "category": "Culture",
+      "title": "カバのフィオナ、小腸に帽子が詰まっていたことが死後解剖で判明",
+      "summary": "人気者のカバ、フィオナの死後解剖の結果、小腸に帽子が詰まっていたことが明らかになりました。この衝撃的な発見は、動物園の動物管理と観客への注意喚起の重要性を再認識させるものです。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXoxamFXcVVFOUNXZW00Y1VyV2JQX3NNbmgteVpiQ21kZ1FuYVpqUXAwWDJVdXZhM3VrZkFWZm9aZnVXbjNLTEJXRDY1Y1d0cThKV1dmLUVMeUVKQXB4UGtUVEZxT2JtOGdXcWRpMjI1aW5uczBtREFBR1QyUWxqOVM0Sm9Jelg5M3c?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
-      "category": "アスレティックトレーニング / ACL予防",
-      "title": "青少年バレーボール選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動パフォーマンスは共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
-      "summary": "本レビューでは、青少年バレーボール選手に対する神経筋トレーニングが、膝の傷害予防と運動パフォーマンス向上に二重に寄与することを示しています。これらの効果は、身体制御、バランス、および筋力の発達という共通の生体力学的・神経筋的基盤に基づいています。特にACL損傷のリスクが高い女子選手にとって有効である可能性が示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxMaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手の敏捷性向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験研究",
+      "summary": "本研究は、バスケットボール選手を対象にVR（仮想現実）を活用した神経筋トレーニングが敏捷性パフォーマンスと傷害予防に及ぼす影響を対照実験で検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、選手の反応時間とバランス能力を向上させ、特定の動作におけるACL損傷リスクを低減する可能性が示唆されました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
-      "category": "バイオメカニクス / 運動科学",
-      "title": "トレイルランニングの生体力学",
-      "summary": "この記事は、トレイルランニングにおける生体力学の重要性に焦点を当てています。不均一な地形、急な傾斜、障害物といったトレイル特有の要素が、ランナーの動きや身体にかかる負荷にどのように影響するかを科学的に解説しています。適切なフォームと体の使い方を理解することが、パフォーマンス向上と傷害予防に繋がると提言されています。",
+      "category": "Biomechanics / Exercise Science",
+      "title": "トレイルランニングの生体力学：科学的アプローチ",
+      "summary": "トレイルランニングにおける生体力学の重要性を包括的に解説する記事です。不均一な地形での着地衝撃、姿勢制御、筋肉活動パターンなどが、一般的なロードランニングとは異なる特性を持つことが分析されています。これにより、パフォーマンス向上と怪我のリスク軽減に繋がる身体の動きや装備の選択肢が示唆されています。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     }
   ],
@@ -349,160 +349,160 @@ window.DIGEST_DATA = {
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手の敏捷性向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験研究",
-      "summary": "本研究は、バスケットボール選手を対象にVR（仮想現実）を活用した神経筋トレーニングが敏捷性パフォーマンスと傷害予防に及ぼす影響を対照実験で検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、選手の反応時間とバランス能力を向上させ、特定の動作におけるACL損傷リスクを低減する可能性が示唆されました。",
+      "title": "バスケットボール選手におけるバーチャルリアリティ支援神経筋トレーニングがアジリティパフォーマンスと傷害予防に与える影響：対照実験研究",
+      "summary": "この研究では、バーチャルリアリティ（VR）を活用した神経筋トレーニングが、バスケットボール選手のアジリティ能力向上と膝の傷害予防にどれほど効果的であるかを検証しました。被験者をVRトレーニング群と対照群に分け、アジリティテストと傷害発生率を比較した結果、VRトレーニング群で有意な改善が見られました。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングの生体力学：科学的アプローチ",
-      "summary": "トレイルランニングにおける生体力学の重要性を包括的に解説する記事です。不均一な地形での着地衝撃、姿勢制御、筋肉活動パターンなどが、一般的なロードランニングとは異なる特性を持つことが分析されています。これにより、パフォーマンス向上と怪我のリスク軽減に繋がる身体の動きや装備の選択肢が示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "トレイルランニングにおけるバイオメカニクスの科学",
+      "summary": "トレイルランニングの複雑な地形での動作に焦点を当て、そのパフォーマンスと傷害リスクに影響を与えるバイオメカニクス的側面を構造的にレビューしています。特に、路面変化への適応、着地衝撃の吸収、筋活動パターンなどが分析され、効率的なランニングフォームの重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cElyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師が解説する効果、リスク、そしてFDAの懸念",
-      "summary": "医療専門家がペプチド治療の潜在的な利点、関連するリスク、およびFDA（米国食品医薬品局）による規制上の懸念について解説しています。ペプチドが様々な健康問題、特に整形外科領域における組織修復や炎症抑制に寄与する可能性が議論される一方で、安全性と有効性に関するさらなる研究の必要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
+      "title": "TheraMicro | 2026年スポーツ医学の主要なディスラプター",
+      "summary": "スポーツ医学分野において、革新的な技術やアプローチで業界に変革をもたらす「TheraMicro」という新技術または企業に焦点を当てた記事です。この技術が、診断、治療、リハビリテーションのいずれかの領域で、既存の手法を大きく改善する可能性について論じられています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83WDNnc3g3Zmx5eFdYRW92NG9wZUx3MHBuWEMtUWZiVkUyWXNFbDNLSkFhOWM0UUl1NVphTlI0WmM0ZThxajYxNnpPaURHVnBPUk9PZDlUbHdRVzU1cldr?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおけるリハビリ介入が競技復帰期間と再受傷率に与える影響",
-      "summary": "本研究は、急性ハムストリング肉離れを負ったアスリートに対する様々なリハビリテーション介入が、競技復帰までの期間と再受傷率にどのような影響を与えるかを分析しました。結果として、特定の段階的負荷プロトコルと個別化されたストレングス強化が、早期の競技復帰と再受傷リスクの有意な低減に繋がることが示されました。",
+      "title": "急性ハムストリング肉離れアスリートにおけるリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響",
+      "summary": "急性ハムストリング肉離れを負ったアスリートを対象に、異なるリハビリテーション介入が競技復帰までの期間と再受傷率にどのような影響を与えるかを調査した研究です。特定の介入プロトコルが、より早い競技復帰と低い再受傷率に繋がることが示されています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "統合的疼痛ケアスキル研修とSUDシンポジウム、薬物を使用しない治療法に焦点",
-      "summary": "ウォルター・リード国立軍事医療センターが開催した研修とシンポジウムでは、薬物依存症（SUD）に対するアプローチとして、薬物を使用しない疼痛管理スキルに焦点が当てられました。鍼治療を含む東洋医学的手法やその他の統合医療が、慢性疼痛患者のQOL向上と薬物依存リスク低減に貢献する可能性が議論されました。",
+      "title": "複合的疼痛ケアスキル研修、薬物を使用しないモダリティに焦点を当てたSUDシンポジウム",
+      "summary": "このシンポジウムでは、オピオイド危機に対応するため、薬物を使用しない疼痛管理の代替療法に焦点が当てられました。鍼治療を含む複合的な疼痛ケアスキルの研修が紹介され、身体的・精神的健康の改善に貢献する可能性が議論されています。",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDFLOUIxbnpsdXBBaUZ3Umc5ZWJtUDlMZ2s3d0JFQXFVV0hVSjE2RGUwUmd1Wkp2eGgzSUVpeW94cGt6ckk4SEVCTzktU1RjNVhUVjNhV0JGcUVQbDFIbV91M1ZpWVBnNlk3T0VwX1NRTVR4UUlhYzkzNml3S3gxNmJ1c3RFcmZuVkp1NFl0N2VjMC1yeDliRDJoZDctZ2EyV2RzakMtX2g5Zmt1TGVqQUpGZ0kzdVo4N05aaVFkOEdUUFVObF9Hc21zSTRnZmYtNkdDbDRVMlhIZ0M3amg0Vk13?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
-      "summary": "本記事では、運動能力や回復をサポートするとされる5種類の主要なサプリメントについて、その効果と科学的根拠を解説しています。クレアチン、カフェイン、プロテイン、BCAA、ベータアラニンなどが挙げられ、それぞれの最適な摂取タイミングや注意点についても言及されています。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
+      "title": "ティーンエイジャーのスポーツサプリメント：推奨されるもの、注意して使用するもの、避けるべきもの",
+      "summary": "思春期のスポーツ選手を対象としたサプリメント利用について、その効果、安全性、および潜在的なリスクを評価しています。医師や保護者が若年アスリートに指導する際の具体的な推奨事項や注意点、避けるべき製品について詳細に解説されています。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWxUVVI0UmJXZ1hETkpNaUZaeDhJa1A0d1VyZnpiLUVQcjZiSmJ4T0tVNEx1UlhLTVNPSGRJb0RhZmxBV0IwMmNoR3hCV0ZSOVlDWWkzX0wxZHYzQTlYcE9xc1RzM0hPTTl0R25Xd3NwRmkwWUNnUTN6bU5xTHEycWlnTHFFcXNSVlRtWm02blFzQkl3T3NvNzNKX2lKVjYyZWlkVE5QVG1nMk1SWThRQTlR?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "学生アスリートのメンタルヘルス：保護者とコーチへのヒント",
-      "summary": "学生アスリートが抱えるメンタルヘルスの課題に対処するための、保護者とコーチ向けの具体的なアドバイスを提供する記事です。学業、競技プレッシャー、人間関係など、多様なストレス要因が挙げられ、早期発見と適切なサポートの重要性が強調されています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNrc2E3S01ndG9PNDBQdkFsSS1MUElnRWFOMkRoMW93WHFUMmYzNlFPaU93QTdYTEVrLUlRX3QtbzNVTDByNVk3dktoRUhhbG9HYjJEREpJSE10QkpxbDEtdURJR3hNd19QOWNNb1pPRUJMSXRoQTRRNHREMUNSSHhQREE?oc=5"
+      "title": "子供が走る距離はどこまでが適切か？年齢別ガイド",
+      "summary": "この記事は、子供の年齢に応じた適切なランニング距離と強度について専門家の見解をまとめています。過度な運動による怪我のリスクを避けつつ、健康的な成長と運動能力の発達を促すためのガイドラインを提供し、年齢別に推奨される走行距離や頻度を提示しています。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠が運動能力に与える影響",
-      "summary": "本記事は、睡眠がアスリートの身体的および精神的パフォーマンスに不可欠な役割を果たすことを詳細に論じています。十分な睡眠は、回復の促進、反応時間の改善、集中力の向上、怪我のリスク低減に寄与し、不足するとパフォーマンス低下や回復遅延に繋がる可能性が強調されています。",
+      "title": "アスリートと睡眠：睡眠がアスレチックパフォーマンスにどう影響するか",
+      "summary": "アスリートの睡眠が身体的および精神的パフォーマンスに与える影響について包括的に解説しています。最適な睡眠時間、睡眠の質、およびその改善戦略が、回復、反応時間、集中力、怪我の予防にいかに重要であるかを説明しています。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "日本政府、米中露首脳会談で国際環境への影響注視…高市首相「日本の利益が損なわれることはない」",
-      "summary": "日本政府は米中露首脳会談が国際環境に与える影響を注視していると報じられました。高市首相は、日本の国益が損なわれることはないと強調し、今後の外交動向に関心が集まります。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VkxJWkxGdTJkRmxBLVpSbVoxMkVfcjdHcGtTX2hsM0VVSWloVXVhUnNld0FUSndqMEY0TzdUZmtXbXhCNXlURW9WVkFFNzJaSWotUEM1SDNLd28wbGNPcndXNlotQQ?oc=5"
+      "title": "原子力潜水艦の導入「検討に着手し結論得る」、安保３文書に記載で政府調整…「早期に結論」とする案も",
+      "summary": "政府は安全保障関連3文書に、原子力潜水艦の導入について「検討に着手し結論を得る」と明記する方向で調整を進めています。「早期に結論を得る」というより踏み込んだ案も検討されており、今後の動向が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93cnJYXzd3cXJVMENNSGdkSEpLOEhIT0NqanphU1l6Q2cxODdYcDIwME9QTmZrc1ltdFh6YnpSWVpuSWlFS2U2aWZ4dGY4SWxRYXVHSE8tdGpwVXl4cV9OMkNHR29qZw?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "事件前月に「体にもあざ」把握…大阪・３歳死亡、市は児相に通告も一時保護されず",
-      "summary": "大阪で発生した3歳児死亡事件で、市が事件の1ヶ月前に「体にあざがある」ことを把握し、児童相談所に通告していたことが判明しました。しかし、一時保護には至らず、対応の適切性が問われています。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YYmdLdnRJcmNHX2RvUDZQNzV5UzRqbElTNGFwdFJKZ3VGWU0yMFpPUlhaVXdGQWJFVVY0cXVUZUVaTEV6bk1vRS1rRXhqb0pVa2lISGpQN3kyWmNoOXNUMFFPRmNUQQ?oc=5"
+      "category": "政治",
+      "title": "高市首相、APECで台湾代表と会談せず 昨年はXに投稿、中国反発",
+      "summary": "高市首相はAPEC首脳会議で台湾代表との会談を見送りました。昨年はSNS上で会談の事実を投稿し、中国政府が反発した経緯があり、今回の対応は外交的配慮と見られています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12djBjMU80bnM2LS1NMFhqUHZwVW54cE5RUFM4cl9OQ05abWw5dVJxdXBtQi1rVGcyanhOblZUMDVBejdOYXlvMnJYUGxrWWhW?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
-      "category": "医療・健康",
-      "title": "「風邪？でAIへ相談」回答うのみに注意 受診控えで病状悪化も",
-      "summary": "風邪などの症状でAIに相談する人が増えていますが、その回答を鵜呑みにすることに注意喚起がなされています。自己判断による受診控えが、病状の悪化を招く可能性も指摘されています。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQUd0YTA3NllwdEUxblNqU3JZX3FjeEFTc3NXcHdkMlB6RVVZbGtmbDBHbHZaN3B0aFRNekQxdWIzRTljbU1Zc0pzZ3UycTM1?oc=5"
+      "category": "社会",
+      "title": "【速報】愛子さまシンガポールで屋台が集まる名所「ホーカーセンター」視察 “ホッケンミー”や“チキンライス”の屋台料理をご覧 ラオパサ・ホーカーセンター（2026年11月19日掲載）｜日テレNEWS NNN",
+      "summary": "愛子さまがシンガポールご訪問中、屋台街のラオパサ・ホーカーセンターを視察されました。現地では、名物の“ホッケンミー”や“チキンライス”などの屋台料理にご興味を示された様子が報じられています。",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uRGx1MFFSSTR4MVVwd1dEQ2c0QWYtY1N3UFF0ZEtVeVJiaEVOMml0aVpiM21MMk8wMkE1d0VUanBhMjFsdlkzZ1Jka1g2dl_7UXl5TjNBMTNQRVFUMUkxc0JlaGk1UUdidGRDd3dLZ0RLdHF4X3RiNjJRc1g?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "プーチン氏「大国」演出成功、侵略続けながら国際社会への本格復帰探る…中国からはくぎ刺された形（読売新聞オンライン）",
-      "summary": "プーチン大統領が国際舞台で「大国」の存在感を演出しつつも、ウクライナ侵略を継続し、国際社会への本格復帰を模索していると報じられました。一方、中国からは一定の牽制があった模様で、複雑な国際関係が浮き彫りになっています。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUWpPckxielNES0RXUGNJWmhWYU9WU3NhVFFZUEhTTTltNUFIZGhkT09SNjUwaFlGNnBWT0tRSER3OGo3QTlPMzlUSHRkZ2hTZzhka1lKT0xIcl9FdWFnY2s0WFhGYXNmNGJ3Ylc1ZlBFQTVJMHM4aGdBbmI3cGM?oc=5"
+      "category": "社会",
+      "title": "兵庫3歳児暴行死 頭部に致命傷か",
+      "summary": "兵庫県で発生した3歳児の暴行死事件において、司法解剖の結果、頭部に致命傷があった可能性が高いことが判明しました。警察は事件の詳しい経緯と死因について捜査を進めています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfazc0QXVmdEM0ZlVaZzdxTVpWa0FSb2YxV0wzNmFIRlFUaWFoM280RE1zRW93eklJeVZ6TGtQTmc3X29IVmNuQ25JSHo5OEFX?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "首相の中国訪問「新ヤルタ」警戒",
-      "summary": "首相の中国訪問を巡り、「新ヤルタ」とも称される国際的な枠組みが形成されることへの警戒感が報じられています。特に日中間の関係深化が、地政学的なバランスに与える影響が懸念されています。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STTBnVHlzZUxiS0M1VXpEdkkxSmhWcE1rM0tIVzhFQXJsUGl5YklzTjI2cnBHLXNxRkFWMXRscG9qbGE1ckFlR0FybXFfdnIx?oc=5"
+      "category": "社会",
+      "title": "大型物流倉庫で火事 三郷JCT付近",
+      "summary": "埼玉県三郷市の三郷ジャンクション付近で大型物流倉庫が火災に見舞われました。消防が消火活動に当たっており、周辺道路の交通規制も行われています。詳細な被害状況は現在調査中です。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lMjRIc0tFOHNXYjMyLUJVNTg0ZVJtMm9qaHVGLWxfMk9pc01FSVNvcFlNUlM5Tl_zVy1FTlRwZmZhUEp5Y1VmZ1dXRXB5bmxG?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "トランプ氏、プーチン氏と習氏との「信じられないような」首脳会談を称賛するも、平和協定は依然として不明瞭",
-      "summary": "トランプ氏は、プーチン大統領と習近平国家主席との首脳会談を「信じられないような」ものだったと称賛しました。しかし、会談で具体的な平和協定が成立したかどうかは依然として不透明な状況です。",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ1ZqeHBBUkpzd1dXRjlaQ0RkemNaNWItOUN3RnlWdnFkdmo2Y19xOUFNQ3FHN0hLRndCM1I4TkYyUzlGY0ljc004UkdVejA5N2gyQmtQTWhET3VueEZjY292aUQtdlE5TWYwcEQ2MVNONFFNM1MtQnJHSEltaHlYRGJDUHZXWVdzd2JIUzFaeXdCRHlOdVRoaklhMU45U3BPMzFielVtR0RtTFRzNF9XZnNXcjY3eDNObU1mbGlLbTFrRUJtY3c?oc=5"
+      "category": "Climate",
+      "title": "連邦陪審、2025年ロサンゼルスで発生した壊滅的なパリセーズ火災の放火犯に有罪判決",
+      "summary": "2025年にロサンゼルスで発生し甚大な被害をもたらしたパリセーズ火災について、連邦陪審が放火犯の男に有罪判決を下しました。この火災は広範囲に影響を及ぼし、地域社会に大きな衝撃を与えました。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0am5iSmpCay1WNmdLQ0ZfQU9fT2locThGOVRLOGhoVVlfYjlyVFpYQWZtNFZHWTdmQ21YWmJ1Zk13eHRRRE83NWxiRWZwVVI0NGI2UXF5V3I4ZG12TGp5eGFZcFc0SkJxcW9ad1dmams4c2JHRVVPUl9DNmhGdw?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Culture",
-      "title": "シンシナティ動物園の人気カバ「フィオナ」、9歳で死亡",
-      "summary": "シンシナティ動物園で人気を集めていたカバのフィオナが、9歳で亡くなったことが報じられました。フィオナは未熟児で生まれながらも、多くの人々に愛される存在でした。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWFBSzF3RTBuUUhWTGRxTEszYlFaaU1Bb2RocHdxUlNUbzBCdHNoellZaXppbC0yd2ZGTHhkQ185MW5yb1ZuUFdTY2tnbUpNNzd2S0w2ZHR6cTVHTzVoSWdUVEg2bEh0VXJXMGNOa2hSS0dZc0Y2Mkg0LWd3UGdrdnllNmdEX2dKZWR1T3UteU5DeTBqWnY4WkpYRlhuQ0pUUHRSRQ?oc=5"
+      "category": "Economy",
+      "title": "トランプ氏、米国企業による海外データセンター建設に大幅な課税を提唱",
+      "summary": "トランプ氏は、米国企業が海外でデータセンターを建設する際に大幅な税金を課すという政策を提唱しています。この提案は、国内雇用と投資を促進することを目的としていますが、国際的なビジネス環境に影響を与える可能性があります。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54MU5XaGUxQlI1ZTBJTERRbnNmMmE0Vjc4Z2VBTjQ1R25haDdVZEJNd3NmX0VSZ2JLMEdoeWwtM2dFY3NKUjFSbEJkQVVFREN4RDRrOWh2UWdMVC0xSk01a0NkUEY3YVBEQ1RMYzRoR043T3dK?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏、最新のMAGA決別劇でイーロン・マスク氏を支持",
-      "summary": "トランプ前大統領が、MAGA運動内部の新たな決別劇においてイーロン・マスク氏を支持したと報じられました。この動きは、今後の政治情勢やトランプ氏の支持層にどのような影響を与えるか注目されます。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BYUJGU2lFdnBiWVNtUExRSWF2bFU2UjNqd0ZCYUtoeDFJTUo0emt6UGJZXzc2LVpHX2FzYktWVFZfVWd2VXRMTWlhNE02SmhDZC1fX1VJcWJtM21EamFrb2JYWDhZUTItRmkxZ0JmVTMwZw?oc=5"
+      "title": "トランプ氏、ホワイトハウスの記者会見でアジアでの取引や習近平・プーチン両氏との会談を強調",
+      "summary": "トランプ氏がホワイトハウスでの記者会見で、アジア諸国との新たな取引や習近平国家主席、プーチン大統領との会談について言及し、その成果を強調しました。これは、今後の国際関係と外交政策における彼の姿勢を示すものと見られます。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
       "category": "Politics",
-      "title": "トランプ氏が指名した選挙セキュリティ担当者、1月6日は攻撃ではなかったと発言",
-      "summary": "トランプ前大統領が指名した選挙セキュリティ担当者が、2021年1月6日の連邦議会議事堂への出来事を「攻撃ではなかった」と発言したことが報じられました。この発言は、当時の出来事に対する見解を巡る議論を再燃させる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUG9GMHpwREtNTVlUcDdQV1U2ZE5GN3U5MFNIbGNmWkdZM1FRMU5mcjduOFh3WGF4VjNjYnUySHBLWHhTZHRVV3ZKY1FxS2V1aC1iZjZJbnlna2w5T3RsMkQyenM4S2lISEpyQW9IRlhoTVBOQWRmbk9FX3hHcFR5cmZfVTZhdUFYWlE5Nkx5cFA1YXVMeFY3THVnV0tjNUhPcFJFYUJ5VTBLOWhoQ3ZQVzJaV20tRU1BX09QV0VBeEpFdWczLTI0TUJiNWtycW45?oc=5"
+      "title": "マムダニ氏、ニューヨークのリッカーズ島刑務所閉鎖計画を公表",
+      "summary": "ニューヨーク市のマムダニ氏が、長年の課題であったリッカーズ島刑務所の閉鎖計画を明らかにしました。この計画は、刑務所の運用に関する懸念に対応し、より人道的な司法システムへの移行を目指すものです。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hY24yQ0VKc3FYUVhGdzk3UG1jVk1JN05XTkRneEQ2RjRsQlBjWlVwcnBGeElOZDBQRFFWb3Njcy1JRlYzMmxpamVJNDZZN0pTczh4MlBrTndjdWM?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Conflict",
-      "title": "ミャンマーはロヒンギャ少数民族に対してジェノサイドを行ったと国連最高裁判所が判決",
-      "summary": "国連の最高裁判所が、ミャンマー政府がロヒンギャ少数民族に対してジェノサイド（集団虐殺）を行ったとの判決を下しました。この判決は、ミャンマーにおける人権侵害に対する国際社会の強い非難を示すものです。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PRGZnZ1Z3V09QbmtGZ1VhVU5oVjItbEE5UFFHbS13M2Rzb21KZ05zZkdyRlFfekdEcDFoTWwzUV9JUmQ5MTZEU016WXVUWFgzYllUSGlQOXE0d2c?oc=5"
+      "category": "Culture",
+      "title": "カバのフィオナ、小腸に帽子が詰まっていたことが死後解剖で判明",
+      "summary": "人気者のカバ、フィオナの死後解剖の結果、小腸に帽子が詰まっていたことが明らかになりました。この衝撃的な発見は、動物園の動物管理と観客への注意喚起の重要性を再認識させるものです。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXoxamFXcVVFOUNXZW00Y1VyV2JQX3NNbmgteVpiQ21kZ1FuYVpqUXAwWDJVdXZhM3VrZkFWZm9aZnVXbjNLTEJXRDY1Y1d0cThKV1dmLUVMeUVKQXB4UGtUVEZxT2JtOGdXcWRpMjI1aW5uczBtREFBR1QyUWxqOVM0Sm9Jelg5M3c?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
-      "category": "アスレティックトレーニング / ACL予防",
-      "title": "青少年バレーボール選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動パフォーマンスは共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
-      "summary": "本レビューでは、青少年バレーボール選手に対する神経筋トレーニングが、膝の傷害予防と運動パフォーマンス向上に二重に寄与することを示しています。これらの効果は、身体制御、バランス、および筋力の発達という共通の生体力学的・神経筋的基盤に基づいています。特にACL損傷のリスクが高い女子選手にとって有効である可能性が示唆されています。",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxMaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
+      "category": "Athletic Training / ACL Prevention",
+      "title": "バスケットボール選手の敏捷性向上と傷害予防におけるVR支援神経筋トレーニングの効果：対照実験研究",
+      "summary": "本研究は、バスケットボール選手を対象にVR（仮想現実）を活用した神経筋トレーニングが敏捷性パフォーマンスと傷害予防に及ぼす影響を対照実験で検証しました。VR環境下でのトレーニングが、従来のトレーニングと比較して、選手の反応時間とバランス能力を向上させ、特定の動作におけるACL損傷リスクを低減する可能性が示唆されました。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
-      "category": "バイオメカニクス / 運動科学",
-      "title": "トレイルランニングの生体力学",
-      "summary": "この記事は、トレイルランニングにおける生体力学の重要性に焦点を当てています。不均一な地形、急な傾斜、障害物といったトレイル特有の要素が、ランナーの動きや身体にかかる負荷にどのように影響するかを科学的に解説しています。適切なフォームと体の使い方を理解することが、パフォーマンス向上と傷害予防に繋がると提言されています。",
+      "category": "Biomechanics / Exercise Science",
+      "title": "トレイルランニングの生体力学：科学的アプローチ",
+      "summary": "トレイルランニングにおける生体力学の重要性を包括的に解説する記事です。不均一な地形での着地衝撃、姿勢制御、筋肉活動パターンなどが、一般的なロードランニングとは異なる特性を持つことが分析されています。これにより、パフォーマンス向上と怪我のリスク軽減に繋がる身体の動きや装備の選択肢が示唆されています。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     }
   ]
