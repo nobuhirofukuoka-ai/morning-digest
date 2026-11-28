@@ -1,185 +1,185 @@
 {
-  "issue_date": "2026/11/25",
-  "generated_at": "2026-11-25T03:51:31.302Z",
+  "issue_date": "2026/11/28",
+  "generated_at": "2026-11-28T02:59:24.065Z",
   "latest_research": [
     {
       "id": "r001",
       "category": "Athletic Training / ACL Prevention",
-      "title": "青少年バレーボール選手における神経筋トレーニングの二重の恩恵：膝の損傷予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
+      "title": "青年期のバレーボール選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動パフォーマンスは共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
       "source": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5",
-      "abstract": "青少年バレーボール選手を対象に、神経筋トレーニングが膝の損傷予防と運動能力向上に与える影響についてレビューを行った。このトレーニングは、ACL損傷予防と同時に、アジリティや跳躍力といったアスレティックパフォーマンスの向上にも繋がる共通のメカニズムを持つことが示唆された。特に、適切な指導のもとで行われる神経筋トレーニングは、成長期のアスリートにとって重要な複合的なメリットを提供する。",
-      "insight": "神経筋トレーニングは、単なる怪我予防だけでなく、青少年バレーボール選手の総合的な運動能力向上にも寄与するため、長期的な育成プログラムに積極的に組み込むべきである。パフォーマンスコーチやトレーナーは、予防と強化を兼ねた包括的なプログラムを導入することで、選手のポテンシャルを最大限に引き出せる。",
+      "abstract": "本レビューは、青年期のバレーボール選手を対象とした神経筋トレーニングが、膝の傷害予防と運動パフォーマンス向上という二重の利点をもたらすメカニズム的基盤を構造的に分析しています。特に前十字靭帯（ACL）損傷の予防に焦点を当て、神経筋制御の改善が怪我のリスクを低減し、同時に跳躍力や敏捷性といった競技能力を高めることを示唆しています。この共通の基盤は、効果的なトレーニングプログラム設計の鍵となります。",
+      "insight": "バレーボール指導者は、神経筋トレーニングを練習に組み込むことで、選手のACL損傷リスクを低減しつつ、パフォーマンス向上も同時に目指せます。特に成長期の選手には、長期的な競技生活を見据えた包括的なプログラムが重要です。",
       "published_at": "2026-05-04T11:36:16.000Z"
     },
     {
       "id": "r002",
       "category": "Biomechanics / Exercise Science",
-      "title": "機械学習分類を用いたランニングのバイオメカニクスからの睡眠不足の検出：ウェアラブルとラボでのモーションキャプチャの比較",
-      "source": "Frontiers",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUWduYWhUellmbnJvaGoyamtyUE9lNFFjMjc1RU8wb2s4SENOaGhtVkdDYjBoVzRiWDQyalQzS1p6c1pNZ0Y1c1pnSzJhNG9fbFgybWtXRk83cGR6R0ZaQ0pSRDh5UGJaOWRIOWhOTGttOXFMemRKOUJzZFpURUgxeEw1LWEyaVE1V2hVZUl4a19MMHMtUlk1eEtjdnM4WmljYWxGT1dVNG5GaTBR?oc=5",
-      "abstract": "ランニング中のバイオメカニクスデータから睡眠不足を機械学習で検出する可能性について、ウェアラブルデバイスとラボでのモーションキャプチャを比較した研究。睡眠不足がランニングフォームに微妙な変化をもたらすことが示され、これらの変化が機械学習によって特定できることが明らかになった。特に、接地時間やストライド長のわずかな変動が指標となる。",
-      "insight": "アスリートのコンディション管理において、ウェアラブルデバイスや高精度なモーションキャプチャ技術を活用することで、睡眠不足の兆候を客観的に捉えることができる。これにより、オーバートレーニングの予防や、疲労によるパフォーマンス低下の早期発見、さらには怪我のリスク管理にも役立てられる。",
-      "published_at": "2026-09-08T15:08:28.000Z"
+      "title": "トレイルランニングの生体力学の科学",
+      "source": "Trail Runner Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5",
+      "abstract": "本記事は、トレイルランニングにおける生体力学の重要性に焦点を当て、不均一な地形での効率的な走行フォームや着地戦略について科学的根拠に基づいて解説しています。ランナーが怪我のリスクを減らし、パフォーマンスを最大化するために、足首、膝、股関節の連動性や体幹の安定性がどのように影響するかを詳述しています。多様な地形への適応が、トレイルランニング特有のバイオメカニクスを形成します。",
+      "insight": "トレイルランナーは、自身の走行フォームを分析し、特に不整地での着地や重心移動に意識を向けることで、怪我を予防し、より効率的に走行できるようになります。専門家によるフォーム分析や筋力トレーニングを取り入れることが推奨されます。",
+      "published_at": "2026-08-20T07:00:00.000Z"
     },
     {
       "id": "r003",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師がその恩恵、リスク、FDAの懸念を説明",
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念について説明",
       "source": "UCHealth",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5",
-      "abstract": "ペプチドの医療用途における潜在的な利点、関連するリスク、および米国食品医薬品局（FDA）が抱える懸念について、専門家である医師が解説している。筋肉の修復や炎症抑制といったポジティブな側面が注目される一方で、規制が十分でない現状と、それによる安全性や有効性に関する不確実性が指摘された。特に、臨床データが不足しているペプチドの利用には注意が必要である。",
-      "insight": "スポーツ選手や一般の患者がペプチド療法を検討する際は、その科学的根拠、潜在的な効果、そして未解明なリスクについて医師や薬剤師と十分に話し合う必要がある。安易な自己判断は避け、信頼できる情報源と専門家の助言を基に判断することが重要だ。",
+      "abstract": "この記事では、スポーツ医学分野で注目されるペプチドについて、医師がその潜在的な治療上の利点、関連するリスク、そして米国食品医薬品局（FDA）が抱える規制上の懸念を解説しています。ペプチドは回復促進や炎症軽減に期待される一方で、その使用には注意が必要であり、安全性と有効性に関するさらなる研究が求められています。患者と医療提供者が情報に基づいた意思決定を行うための指針が提供されています。",
+      "insight": "アスリートやスポーツ関係者は、ペプチドが筋肉の回復やパフォーマンス向上に寄与する可能性を理解しつつも、未承認薬のリスクを認識することが重要です。使用を検討する際は、必ず専門の医師と相談し、FDAの規制状況にも注意を払うべきです。",
       "published_at": "2026-07-24T07:00:00.000Z"
     },
     {
       "id": "r004",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおける競技復帰までの期間と再受傷率に対するリハビリテーション介入の効果 | Scientific Reports",
+      "title": "急性ハムストリングス損傷アスリートの競技復帰までの期間と再受傷率に対するリハビリテーション介入の効果 | Scientific Reports",
       "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5",
-      "abstract": "急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響を分析した。研究の結果、個別化された段階的な負荷のトレーニングと、競技特異的な動きを取り入れたプログラムが、安全かつ迅速な競技復帰を促し、再受傷のリスクを効果的に低減することが示された。",
-      "insight": "ハムストリング肉離れのリハビリテーションでは、単に症状が改善するだけでなく、競技復帰を見据えた機能的なトレーニングを早期から導入することが重要である。理学療法士は、アスリートの競技特性に応じたリハビリ計画を立て、再受傷予防のための筋力と協調性の向上に重点を置くべきである。",
+      "abstract": "本研究は、急性ハムストリングス損傷を負ったアスリートにおけるリハビリテーション介入が、競技復帰までの期間と再受傷率に与える影響を調査しています。異なるリハビリテーションプロトコルの比較を通じて、早期の段階的負荷、特異的な筋力強化、および運動制御トレーニングが、より迅速な復帰と再受傷リスクの有意な低減につながることを示しました。特に、個々の損傷の重症度に応じたテーラーメイドのアプローチが重要であると結論付けられています。",
+      "insight": "理学療法士やアスレティックトレーナーは、ハムストリングス損傷アスリートに対して、早期からの個別のリハビリテーション計画を立案することが不可欠です。段階的な負荷と競技特異的な運動を取り入れ、単に痛みの消失だけでなく、機能的な回復と再受傷予防に焦点を当てるべきです。",
       "published_at": "2026-10-05T07:00:00.000Z"
     },
     {
       "id": "r005",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "複合的な疼痛管理スキル研修、SUDシンポジウムが薬物を使用しない治療法に焦点を当てる",
-      "source": "Walter Reed National Military (.mil)",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDFLOUIxbnpsdXBBaUZ3Umc5ZWJtUDlMZ2s3d0JFQXFVV0hVSjE2RGUwUmd1Wkp2eGgzSUVpeW94cGt6ckk4SEVCTzktU1RjNVhUVjNhV0JGcUVQbDFIbV91M1ZpWVBnNlk3T0VwX1NRTVR4UUlhYzkzNml3S3gxNmJ1c3RFcmZuVkp1NFl0N2VjMC1yeDliRDJoZDctZ2EyV2RzakMtX2g5Zmt1TGVqQUpGZ0kzdVo4N05aaVFkOEdUUFVObF9Hc21zSTRnZmYtNkdDbDRVMlhIZ0M3amg0Vk13?oc=5",
-      "abstract": "Walter Reed National Military Medical Centerが主催した複合疼痛管理スキル研修と物質使用障害（SUD）シンポジウムでは、薬物に頼らない疼痛管理の重要性が強調された。特に、鍼治療などの統合医療アプローチが、慢性疼痛や急性外傷の管理において有効な選択肢として紹介され、多職種連携による患者ケアの質の向上が議論された。研修参加者は、様々な非薬物療法の実践的なスキルを習得した。",
-      "insight": "スポーツ医学の現場において、薬物療法のみに依存せず、鍼治療を含む東洋医学的アプローチを統合することで、アスリートの疼痛管理と回復プロセスを多角的にサポートできる。これにより、パフォーマンス向上だけでなく、長期的な健康維持にも貢献することが期待される。",
-      "published_at": "2026-09-01T15:29:06.000Z"
+      "title": "レーザープラクシス・ミューレバッハが医療用レーザー治療院でレーザー鍼サービスを開始",
+      "source": "The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUHhyNjNXbHlLWWtnTElxU0JEcGdKc2lGTWVURkpITi0zTm5qM2ZRb3VaQzNNbmpaazVDRnZkcDJyREgtOFM5aHJrZEFsSGpDNVI0UEFUSDMtWTkzZGZ6dmo5Q3lnV19xcTk5cE1yN1JVWDdlWFFzNWpWZFl1UmxlOW5DMFM2Z0NMVzA1QXFVQzJ0Z0pMSWc5ajFqdjM1VEFkeWFZS0cxSGpmdkxSQmFiSTRuUnB6ZS0wTXptd3dYWFFTMlhEemFTVi1ueUxJS1FWVnpKaHE2dw?oc=5",
+      "abstract": "レーザープラクシス・ミューレバッハが、医療用レーザー治療院にてレーザー鍼治療サービスを開始しました。この新しいアプローチは、従来の鍼治療の原理に基づきながらも、針を使わずに低出力レーザー光を用いて特定のツボを刺激することで、痛みや炎症の緩和、機能改善を図ります。特に針に対する恐怖心がある患者や、デリケートな部位への治療に適しているとされています。",
+      "insight": "スポーツ現場では、針を使わないレーザー鍼治療が、痛みの緩和や筋肉の回復促進の新たな選択肢となり得ます。アスリートの鍼治療への抵抗感を減らし、より幅広い選手にアプローチできる可能性があります。",
+      "published_at": "2026-11-25T21:17:27.000Z"
     },
     {
       "id": "r006",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
-      "source": "Verywell Health",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5",
-      "abstract": "運動パフォーマンス向上に寄与する可能性のある5つの主要なサプリメントについて、その効果と科学的根拠が解説された。クレアチン、カフェイン、β-アラニン、分岐鎖アミノ酸（BCAA）、そしてプロテインが挙げられ、それぞれのサプリメントがどのようなメカニズムで運動能力、回復、筋成長に影響を与えるかが紹介されている。適切な摂取量とタイミングも示唆されている。",
-      "insight": "アスリートやフィットネス愛好家は、自身のトレーニング目標と体質に合わせて、科学的根拠に基づいたサプリメントを賢く選択することが重要である。専門家のアドバイスを受けながら、効果的な利用法を実践することで、トレーニング効果を最大化し、パフォーマンス向上に繋げられる。",
-      "published_at": "2026-09-30T07:00:00.000Z"
+      "title": "ランナーの回復に実際に役立つサプリメントはどれか？",
+      "source": "Marathon Handbook",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHkxZ2QxbGRocnFGTWo0QW8taTZBSFZLa2NzbTNlbFZsWVpEYWk1VGpZNGdlZW05cWlRRlU4SDUzNmZZSlJEdVYzZE5KOUNyU1dWaTJIV2lxek51NGJuUEl5V2tZd0NrTEtuMERQLTRvNnRfOTJNVXNYT0NyQ21KTHdQUQ?oc=5",
+      "abstract": "本記事は、ランナーの運動後の回復をサポートする様々なサプリメントについて、科学的根拠に基づいた有効性を評価しています。クレアチン、BCAA、プロテイン、ビタミンD、オメガ3脂肪酸などが取り上げられ、それぞれのサプリメントが筋肉の修復、炎症の軽減、エネルギー回復にどのように寄与するかを説明しています。個々のニーズやトレーニング量に応じた適切な選択の重要性が強調されています。",
+      "insight": "ランニングコーチやアスリートは、科学的根拠のあるサプリメントを回復戦略に組み込むことで、トレーニング効果を最大化し、怪我のリスクを低減できます。ただし、過剰摂取は避け、自身の栄養状態や専門家のアドバイスに基づいて選択することが重要です。",
+      "published_at": "2026-11-27T09:55:00.000Z"
     },
     {
       "id": "r007",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子供にとってどれくらいの距離を走ることが多すぎるのか？年齢別のガイド",
+      "title": "子供にとって長すぎる走行距離はどのくらいか？年齢別のガイド",
       "source": "Marathon Handbook",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5",
-      "abstract": "子供の年齢に応じて、適切なランニング距離の目安と、過度な運動がもたらすリスクについて解説したガイド記事。成長期にある子供の身体的・精神的発達段階を考慮し、推奨される運動量や休息の重要性が提示されている。無理なトレーニングは怪我や運動嫌いの原因となるため、年齢に応じた配慮が必要である。",
-      "insight": "若年アスリートの育成に関わる指導者や保護者は、子供の成長段階を理解し、年齢に応じた無理のないトレーニング計画を立てるべきである。早期の専門化を避け、様々な運動経験を積ませることで、長期的な競技参加と健康的な発達を促進できる。",
+      "abstract": "このガイドは、子供の年齢に応じた適切なランニング距離について、小児の運動生理学の観点から考察しています。成長期の子供たちの身体的発達段階と運動能力を考慮し、過度な負担が成長板への影響やオーバートレーニングに繋がるリスクを指摘しています。年齢別に推奨される走行距離の目安と、長期的なスポーツ参加を促すための健全なアプローチが示されています。",
+      "insight": "ユーススポーツの指導者や保護者は、子供のランニングプログラムを計画する際に、この記事の年齢別ガイドラインを参考に、無理のない範囲で段階的に距離を伸ばしていくべきです。健康的な成長と運動能力の向上を両立させるために、遊びの要素を取り入れつつ、心身の負担を考慮したアプローチが求められます。",
       "published_at": "2026-10-22T07:00:00.000Z"
     },
     {
       "id": "r008",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠がアスレティックパフォーマンスにどう影響するか",
+      "title": "アスリートと睡眠：睡眠が運動パフォーマンスにどう影響するか",
       "source": "Sleep Foundation",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5",
-      "abstract": "アスリートにとって睡眠が競技パフォーマンスに与える影響について、科学的な視点から詳細に解説している。十分な睡眠は、反応時間、集中力、意思決定能力、筋肉の回復、怪我の予防に不可欠であることが強調された。睡眠不足がこれらの要素に悪影響を及ぼし、パフォーマンス低下や故障のリスクを高めることが多くの研究で示されている。",
-      "insight": "アスリートは、質の高い睡眠をトレーニングプログラムの重要な要素として位置づけるべきである。睡眠の習慣化、睡眠環境の最適化、必要に応じた睡眠戦略の導入は、パフォーマンスの向上、疲労回復の促進、そしてメンタルヘルスの維持に直結する。コーチやトレーナーは、選手の睡眠状態を把握し、適切なアドバイスを提供することが求められる。",
+      "abstract": "本記事は、アスリートにとって睡眠が競技パフォーマンスに与える決定的な影響について、科学的根拠に基づいて詳しく解説しています。十分な睡眠は、反応時間、集中力、筋力、回復力、怪我の予防など、多岐にわたる側面でパフォーマンスを向上させることを示しています。睡眠不足がこれらの能力を低下させるメカニズムも紹介され、アスリートが最高の状態を維持するための睡眠戦略の重要性が強調されています。",
+      "insight": "コーチやアスレティックトレーナーは、アスリートのトレーニングプログラムに質の高い睡眠を不可欠な要素として組み込むべきです。選手には適切な睡眠衛生の教育を行い、遠征中の睡眠管理や休息日の重要性を強調することで、怪我のリスクを減らし、持続的な高パフォーマンスを支援できます。",
       "published_at": "2026-09-15T07:00:00.000Z"
     }
   ],
   "japan_news": [
     {
       "id": "j001",
-      "category": "国際",
-      "source": "Yahoo!ニュース",
-      "title": "中国の宇宙船 初の外国人乗組員",
-      "summary": "中国の宇宙船が初めて外国人乗組員を乗せて宇宙へ向かいました。これは中国の宇宙開発における国際協力の新たな一歩となり、宇宙探査の多様化に貢献することが期待されます。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HSWVqWlc1dHBxdTBrMTNHMXJ5bmFnRng1VjU3OThUbWRFa214WU1GeloweFJjNXFTeXRtYzlzWnh4SEFzaVpiSUkwMlVmOHBt?oc=5",
-      "published_at": "2026-11-25T01:22:17.000Z"
+      "category": "社会",
+      "source": "TBS NEWS DIG",
+      "title": "宮城・七ヶ宿町の山中で2人の遺体見つかる 1人は行方不明の高1女子生徒の可能性も 33歳の男を誘拐容疑で逮捕",
+      "summary": "宮城・七ヶ宿町の山中で2人の遺体が見つかり、そのうち1人が行方不明だった高校1年生の女子生徒の可能性が高いと報じられています。\nこれに関連し、33歳の男が誘拐容疑で逮捕されました。\n警察は事件の詳しい経緯を捜査しています。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZVl9xd0R3dW1wTlIyT0VmWkhjSHNWOW5RV09UdDJJa2VYWWdkMnZla3VCUFFXVkdwQXZsRmxHM2pORlpiMGhNa0RKaG9ERVM2VUI3d1VEdw?oc=5",
+      "published_at": "2026-11-27T20:33:22.000Z"
     },
     {
       "id": "j002",
       "category": "政治",
-      "source": "読売新聞",
-      "title": "トランプ氏が感謝祭で七面鳥に「恩赦」…演説で中間選挙の大敗巡り「何が起きたのか分からない」",
-      "summary": "トランプ前大統領が感謝祭の伝統行事で七面鳥に恩赦を与え、その演説で最近の中間選挙における共和党の大敗について言及しました。「何が起きたのか分からない」と述べ、自身の政治的立場と今後の動向に注目が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oNzlfNGd3dG80dF94aFF3VFNyYUFla2kxUndxalZxNnlYcW8yUE5UbURWc0xKLVdfdEVwbVl2MEpaS29sTUlFNHlPSUVuM0s0UjYyRWs0eEFSa2hJTm45WW53?oc=5",
-      "published_at": "2026-11-25T00:23:00.000Z"
+      "source": "Yahoo!ニュース",
+      "title": "関芳弘文科相に新たな政治資金規正法違反疑惑が発覚《稲田元防衛相が講師の食事会で300万円の収入を計上していた》",
+      "summary": "関芳弘文部科学大臣に、政治資金規正法違反の新たな疑惑が浮上しました。\n稲田朋美元防衛大臣が講師を務めた食事会で、300万円の収入を政治資金収支報告書に計上していたと報じられています。\nこの問題は、政治資金の透明性に対する疑念を深めるものとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBaGg5VGJVUkh1eXMwQmsxOURHanRXLXhhb0pfbF84R VFxT0QzTnVhYkstU0RIbU5pVUVfUXdPemNNYkpFbDJrMktMVnFtZ1d5akVJazc0NkFieFJuRkJFcVE5QnNHamtNQXZ2UjBuMXdGOFlJSWVaLTI0cHVVZTA?oc=5",
+      "published_at": "2026-11-27T12:12:15.000Z"
     },
     {
       "id": "j003",
       "category": "国際",
-      "source": "読売新聞",
-      "title": "ソロモン諸島、中国との安保協定「更新せず」…豪メディア「豪と関係強化の包括条約に署名見通し」",
-      "summary": "ソロモン諸島が中国との安全保障協定を更新しない意向を示したと豪メディアが報じました。これにより、オーストラリアとの関係強化に向けた包括的な条約に署名する見通しとされ、太平洋地域における安全保障環境に変化が生じる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1Q0toZXlmMlgxOTJoWnd2T04xc3RnT2s3SFNYY2hwSU9zdjJZdjdpWWpRVnk3ZHEtdjZqR180OEVfRWtPSVZPS1l3V29DOFRIYVVqYUpfWDJWT1dYOWVSY1dn?oc=5",
-      "published_at": "2026-11-24T20:00:00.000Z"
+      "source": "日本経済新聞",
+      "title": "ウクライナ軍、レーザー兵器でロシア無人機を初撃墜",
+      "summary": "ウクライナ軍が、新たに導入されたレーザー兵器を用いてロシアの無人機を初めて撃墜したと報じられました。\nこれは、軍事技術の進化を示す画期的な出来事であり、今後の戦況に影響を与える可能性があります。\nレーザー兵器の実戦投入とその効果が注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12Ml9PMWQ0VW8xRTdjQm92VURuT05yUVg1QkRZV2NQX3JidFJfUGtLZE5SdFZkd2RUYm9sVWpiQlZLOHlMV0dBNExzQm1ka3FwZWs5UUZtVFF0Q1dRcHhBZVhjV3Y1cy00b1BpeA?oc=5",
+      "published_at": "2026-11-27T15:56:33.000Z"
     },
     {
       "id": "j004",
-      "category": "政治",
-      "source": "Yahoo!ニュース",
-      "title": "首相が文科相擁護 辞任ドミノ懸念",
-      "summary": "首相が文部科学大臣を擁護する姿勢を見せています。与党内からは、一連の不祥事による大臣辞任が続く「辞任ドミノ」への懸念が表明されており、政権運営への影響が注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROVdlNUphaWNIYi1DLTNKVDBSLVVXdi0wNWZnVTlHb0ZsV1RUQXhvMDVfeFJxWXRwcXNPb2tHN3NwbDF3MnJYb0QxMEo2VUI2?oc=5",
-      "published_at": "2026-11-25T00:18:57.000Z"
+      "category": "環境・気候",
+      "source": "ウェザーニュース",
+      "title": "週間天気予報 日曜は北日本で大雪 12月スタートは季節外れの暖かさに",
+      "summary": "週間天気予報によると、日曜日にかけて北日本では大雪となる見込みです。\nしかし、12月が始まると全国的に季節外れの暖かさになると予測されています。\n急な気温変化に注意し、雪と暖かさへの準備が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tR3FoS2VVbEIwQzFBU3dHSG9rTjRjRGxsNS1WNnJ5aHRJX3hESkVNRnN4YXlvbGE5N21WeFdRelcyX3d3eUhHTlNRVVZCYkhaalRtQQ?oc=5",
+      "published_at": "2026-11-27T21:00:00.000Z"
     },
     {
       "id": "j005",
-      "category": "社会",
-      "source": "ウェザーニュース",
-      "title": "全国の9割で昨日の朝より冷え込み 札幌は10℃以上低下",
-      "summary": "全国的に気温が大幅に低下し、9割の地点で昨日よりも冷え込みが強まりました。特に札幌では10℃以上気温が下がるなど、各地で急激な寒波に見舞われており、体調管理に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZVW9NMmFhX1lsMWNCam12dHpZb1pUNXc1OV9xVjUtQzJIZExaczVhSlNXanB6YnVrV3YxRzYtcmM2d1pKQlBic1NCWk9oMVpROC1IeA?oc=5",
-      "published_at": "2026-11-24T23:10:00.000Z"
+      "category": "経済",
+      "source": "Yahoo!ニュース",
+      "title": "南海フェリー 撤退回避の壁高く",
+      "summary": "南海フェリーの航路撤退問題が報じられ、その回避に向けたハードルが高い状況が伝えられています。\n経営難や利用者減少が背景にあり、存続のためには抜本的な対策が求められています。\n地域交通に与える影響が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kcEhuell5OG1tMlJucUV3aVBXOGdxaDdqbXZTd0UtT1dib2hTd2lnaHRxbkdHc1BMQ084TllEQjdFV1ByaHd3Q0tBWDAtd09Y?oc=5",
+      "published_at": "2026-11-28T01:42:19.000Z"
     }
   ],
   "global_news": [
     {
       "id": "g001",
-      "category": "Science",
+      "category": "Culture",
       "region": "US",
-      "source": "The Washington Post",
-      "title": "陸軍がアイオワ州でアジ化鉛の爆破を指示、一部住民に避難勧告",
-      "summary": "アイオワ州で、不安定な化学物質であるアジ化鉛の爆破が陸軍によって指示されました。周辺住民には安全確保のため避難勧告が出されており、専門家が慎重に作業を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SjBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5",
-      "published_at": "2026-11-25T01:37:38.000Z"
+      "source": "BBC",
+      "title": "「そんなに簡単には諦められない」：感謝祭パレードの再編成後、マーチングバンドが費用捻出に奔走",
+      "summary": "感謝祭パレードが再編成された後、参加予定だったマーチングバンドが急遽発生した追加費用を捻出するために苦慮しています。\n多くのバンドが「そんなに簡単には諦められない」と、資金集めに奔走している状況が報じられています。\nイベントの変更が文化的活動に与える影響が浮き彫りになりました。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80dndNMHZlUjVKYU12RGk5d25yQ09veXd4LUxYdjJoYXhldUVHbnlYLUJHWUIzRmk0enJueDBoQ2UyRExnVzdvSVNQbG5HTl9uZHFoTm03S295a0E?oc=5",
+      "published_at": "2026-11-27T20:06:31.000Z"
     },
     {
       "id": "g002",
-      "category": "Politics",
-      "region": "US",
-      "source": "BBC",
-      "title": "キルマー・アブレゴ・ガルシア氏が米国を離れスペインへ、強制送還を巡る闘いに終止符",
-      "summary": "米国での強制送還を巡る長い闘いを経て、キルマー・アブレゴ・ガルシア氏が米国を離れスペインに向かうことになりました。この決定により、彼の法的争いは終結します。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01b3N1Y0lrUUVHN1JORkdTU0RnUW95dDZzaDFfNnhSVzFFLVBnY3Y3N2tsYzNkcU1RcFdYV2U0LTdfS19ydDQzbVA3UWJGZDhOUS1FemRjQXYzbG8?oc=5",
-      "published_at": "2026-11-25T01:51:19.000Z"
+      "category": "Conflict",
+      "region": "Middle East",
+      "source": "PBS",
+      "title": "米軍、イラン港の海上封鎖を破ろうとした別の船舶を無力化と発表",
+      "summary": "米軍は、イランの港に対する海上封鎖を破ろうとした別の船舶を無力化したと発表しました。\nこの措置は、中東地域における緊張の高まりを背景に行われたもので、海上の安全保障上の懸念が指摘されています。\n詳細な状況と今後の展開が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1B2RFZaTUhIUVFpQm5Vb3pOS2l5cW1XcU5STXJma1VfQWpYcno2bGNWN1dWakY4Ym9HbTFZQkVPNGk2R011SFppOXNnMFhlM0NhTVY5NUJGRDlCM3dtUkI1T0Q0bzZObGdpYjB4ODdKc3QxTW0wR29mcDZHY3JwTFZKTTlaZ2l2R2VJMklsb2h0M2ExTkFBQjNTbGJnR2hUMDdNdHloeHk4ZjFTUkI2ZFVaUkNqVUdrcmtFTzlvY3ZybUpVS0NXbFhn0gHPAUFVX3lxTE9UUEY1bWZtMVVXSXY5d2pRdHBYcnR1amgxZ3Jkc1I4R0owMThFbzltRzU0NWlMS0JBNUtlRlg4YmNrRml3cjZUaFoxQjJUdktYSkt3RWctVFdCWC1EanVLc2Q0REZSS20zMFRodV9OQkstNmItZl9YajA0OE9KeGM4NlF5QUhPbE5IMnh6ampFY01sQm1rYkFQcjh4anZzdkhjZkVJTl9OcjBaRjZ0VjNtZUJUaGtIbEQ0bVdOWFNDOHA4MXd0cjZvS0pEY1hySQ?oc=5",
+      "published_at": "2026-11-27T19:39:21.000Z"
     },
     {
       "id": "g003",
-      "category": "Technology",
-      "region": "US",
-      "source": "Financial Times",
-      "title": "ファーウェイ、企業スパイと制裁回避を巡る米国での裁判で有罪判決",
-      "summary": "中国の通信大手ファーウェイが、米国での裁判において企業スパイ活動とイランへの制裁回避の容疑で有罪判決を受けました。この判決は、米中間の技術競争と国家安全保障を巡る緊張を浮き彫りにしています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1J2X3AweENxV1VOaTQ2bEFTblFqaDBDWFFnUV8xWFFUbjN5d3N4ajk4LTh6VlVwMkNSSF9YMzlXU0VZYVZzYXlicjZQYnFuR2k1QW9WNVEwQjVIM1dPeEh5VDJCZHczaUJoQ2JYdDh4MlVacGFEMl9mSmJqNF95dmRNY0Y?oc=5",
-      "published_at": "2026-11-24T20:43:06.000Z"
+      "category": "Politics",
+      "region": "Europe",
+      "source": "CNBC",
+      "title": "スペイン総選挙がマドリードをトランプ政権下のワシントンに接近させる可能性",
+      "summary": "スペインの総選挙の結果が、同国の政治をトランプ政権下のワシントンにさらに接近させる可能性があると報じられています。\nこれは、欧州と米国の政治的関係、特に右派勢力の台頭が国際関係に与える影響についての議論を呼んでいます。\n選挙結果がもたらす地政学的な変化が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jM3Y1Smk0NEhDSXptd0l2bVBtOU5OeHdfampFNWdiOE9kdzNZamdGLWFLREhacXdtTUxvUFE0RnJURnVZWHFNaVQ1ZWNVVGdVVkp1cGp1M0JNMEJHZDh5a3RRY2xfSzhwY25tRWVlRlQ0N1nSAXhBVV95cUxQdXU2MElmMlVXUXE2bWVXVHNEZTRLeDJkekNvUF9xT1cyUlFMUUZyVEVvVm9MRHc3SE5YSDhLcVd6S2R5Nms0TkFSNm9zNVNTSmRnX2xWRHlPU2RVV0E2czhFRmdQN2JMNXRVWW9GQ2M0ampBTW9OeEQ?oc=5",
+      "published_at": "2026-11-27T13:00:42.000Z"
     },
     {
       "id": "g004",
-      "category": "Politics",
+      "category": "Climate",
       "region": "US",
-      "source": "NBC News",
-      "title": "フォートフッド大量殺人犯、ペンタゴンの銃殺刑執行停止を求めて法的措置",
-      "summary": "フォートフッドの大量殺人犯が、ペンタゴンによる銃殺刑の執行を停止するよう求める法的措置を開始しました。この動きは、死刑制度と軍事司法制度における論争を再燃させる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkhjd1F5UlVFc2tKbGlQWXlZN3A0alBiZlp4WllRSzlUeFhySGgtVDltWWF0Y1V3TTJDVzZzSTl2OTcwLVpFSkJFZVZMN3JVMFo4SE5CNHIzUV9CSVAxclQ1ZEZrdUpaUTV0STNsNkhjTl9QVW5kQXpSaThrMWV6cXh1MXh2ay1vc01ZR0liMEJOUjR5cWo0?oc=5",
-      "published_at": "2026-11-25T00:15:00.000Z"
+      "source": "AP News",
+      "title": "米国東海岸を襲った感謝祭の嵐の後、各地で復旧作業と電力回復が進む",
+      "summary": "感謝祭の週末に米国東海岸を襲った大規模な嵐の後、各地で清掃活動と電力供給の復旧作業が進められています。\n多くの地域で停電が発生し、住民生活に影響が出ましたが、迅速な対応で回復が期待されます。\n気象変動と災害対策の重要性が再認識されています。",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjRuNThwR0c4LU54RVBVM3kzcFFCOGFmR0szVnA2SUI1aW55bTMtWWlvZ1FYLUVLZmNEYk1HM2ZGZmotc09Wck9ySldYcW9zTWZaeUw5eFVoNUxrcFo0aDNmejFnbzkwTmNhRDUyamhlWHpWNTFwb1BiRUlqV0ZMUllxV3lnU2NzYnlfSUhNWUVyV09WcE9wN0pmeGp5d011djRj?oc=5",
+      "published_at": "2026-11-27T23:11:00.000Z"
     },
     {
       "id": "g005",
-      "category": "Climate",
+      "category": "Politics",
       "region": "US",
-      "source": "ABC7 Bay Area",
-      "title": "リアルタイムの嵐情報：記録的なキングタイドによりベイエリアの道路が冠水",
-      "summary": "記録的な高さの「キングタイド（大潮）」と嵐の影響により、ベイエリアの道路が広範囲で冠水しています。住民は避難や移動に影響を受けており、気象当局は警戒を呼びかけています。",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
-      "published_at": "2026-11-25T01:46:00.000Z"
+      "source": "The Washington Post",
+      "title": "トランプ政権幹部、新議会前に特別会合で大統領プロジェクトを加速へ",
+      "summary": "トランプ政権の幹部が、新議会の開会を前に特別会合を開催し、大統領の主要プロジェクトを加速させる方針を固めています。\nこれは、政権の政策課題を迅速に進めるための動きと見られており、今後の政治動向に影響を与える可能性があります。\n大統領のレガシーを確立するための動きとして注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHowUF95QnR0SlhpUlJPV2NWSHZHMGxrOUx4S2gwbTNXY2h6MWxvQ1lRYlhYcEs5c1JWdTVPVlMwOUs5UVRpOVlub3VibHprOWVHNndja0Y3YUdubmExbHV2T01UMVpobVhpYTl3X2xKX0FtTFBadk5xc3lzWF9fOVZFTk81Z3lTc24xbzR6OHI5alFSM3UwcE9IYThQRmZVR0l5aU9MZ2YzdG9mZFh0cERwakZrc0VtRGNKQko2TXVJZw?oc=5",
+      "published_at": "2026-11-28T00:59:02.000Z"
     }
   ],
   "weekly_top20": [
@@ -187,161 +187,161 @@
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "青少年バレーボール選手における神経筋トレーニングの二重の恩恵：膝の損傷予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
-      "summary": "青少年バレーボール選手を対象に、神経筋トレーニングが膝の損傷予防と運動能力向上に与える影響についてレビューを行った。このトレーニングは、ACL損傷予防と同時に、アジリティや跳躍力といったアスレティックパフォーマンスの向上にも繋がる共通のメカニズムを持つことが示唆された。特に、適切な指導のもとで行われる神経筋トレーニングは、成長期のアスリートにとって重要な複合的なメリットを提供する。",
+      "title": "青年期のバレーボール選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動パフォーマンスは共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
+      "summary": "本レビューは、青年期のバレーボール選手を対象とした神経筋トレーニングが、膝の傷害予防と運動パフォーマンス向上という二重の利点をもたらすメカニズム的基盤を構造的に分析しています。特に前十字靭帯（ACL）損傷の予防に焦点を当て、神経筋制御の改善が怪我のリスクを低減し、同時に跳躍力や敏捷性といった競技能力を高めることを示唆しています。この共通の基盤は、効果的なトレーニングプログラム設計の鍵となります。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "機械学習分類を用いたランニングのバイオメカニクスからの睡眠不足の検出：ウェアラブルとラボでのモーションキャプチャの比較",
-      "summary": "ランニング中のバイオメカニクスデータから睡眠不足を機械学習で検出する可能性について、ウェアラブルデバイスとラボでのモーションキャプチャを比較した研究。睡眠不足がランニングフォームに微妙な変化をもたらすことが示され、これらの変化が機械学習によって特定できることが明らかになった。特に、接地時間やストライド長のわずかな変動が指標となる。",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUWduYWhUellmbnJvaGoyamtyUE9lNFFjMjc1RU8wb2s4SENOaGhtVkdDYjBoVzRiWDQyalQzS1p6c1pNZ0Y1c1pnSzJhNG9fbFgybWtXRk83cGR6R0ZaQ0pSRDh5UGJaOWRIOWhOTGttOXFMemRKOUJzZFpURUgxeEw1LWEyaVE1V2hVZUl4a19MMHMtUlk1eEtjdnM4WmljYWxGT1dVNG5GaTBR?oc=5"
+      "title": "トレイルランニングの生体力学の科学",
+      "summary": "本記事は、トレイルランニングにおける生体力学の重要性に焦点を当て、不均一な地形での効率的な走行フォームや着地戦略について科学的根拠に基づいて解説しています。ランナーが怪我のリスクを減らし、パフォーマンスを最大化するために、足首、膝、股関節の連動性や体幹の安定性がどのように影響するかを詳述しています。多様な地形への適応が、トレイルランニング特有のバイオメカニクスを形成します。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師がその恩恵、リスク、FDAの懸念を説明",
-      "summary": "ペプチドの医療用途における潜在的な利点、関連するリスク、および米国食品医薬品局（FDA）が抱える懸念について、専門家である医師が解説している。筋肉の修復や炎症抑制といったポジティブな側面が注目される一方で、規制が十分でない現状と、それによる安全性や有効性に関する不確実性が指摘された。特に、臨床データが不足しているペプチドの利用には注意が必要である。",
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念について説明",
+      "summary": "この記事では、スポーツ医学分野で注目されるペプチドについて、医師がその潜在的な治療上の利点、関連するリスク、そして米国食品医薬品局（FDA）が抱える規制上の懸念を解説しています。ペプチドは回復促進や炎症軽減に期待される一方で、その使用には注意が必要であり、安全性と有効性に関するさらなる研究が求められています。患者と医療提供者が情報に基づいた意思決定を行うための指針が提供されています。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおける競技復帰までの期間と再受傷率に対するリハビリテーション介入の効果 | Scientific Reports",
-      "summary": "急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響を分析した。研究の結果、個別化された段階的な負荷のトレーニングと、競技特異的な動きを取り入れたプログラムが、安全かつ迅速な競技復帰を促し、再受傷のリスクを効果的に低減することが示された。",
+      "title": "急性ハムストリングス損傷アスリートの競技復帰までの期間と再受傷率に対するリハビリテーション介入の効果 | Scientific Reports",
+      "summary": "本研究は、急性ハムストリングス損傷を負ったアスリートにおけるリハビリテーション介入が、競技復帰までの期間と再受傷率に与える影響を調査しています。異なるリハビリテーションプロトコルの比較を通じて、早期の段階的負荷、特異的な筋力強化、および運動制御トレーニングが、より迅速な復帰と再受傷リスクの有意な低減につながることを示しました。特に、個々の損傷の重症度に応じたテーラーメイドのアプローチが重要であると結論付けられています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "複合的な疼痛管理スキル研修、SUDシンポジウムが薬物を使用しない治療法に焦点を当てる",
-      "summary": "Walter Reed National Military Medical Centerが主催した複合疼痛管理スキル研修と物質使用障害（SUD）シンポジウムでは、薬物に頼らない疼痛管理の重要性が強調された。特に、鍼治療などの統合医療アプローチが、慢性疼痛や急性外傷の管理において有効な選択肢として紹介され、多職種連携による患者ケアの質の向上が議論された。研修参加者は、様々な非薬物療法の実践的なスキルを習得した。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDFLOUIxbnpsdXBBaUZ3Umc5ZWJtUDlMZ2s3d0JFQXFVV0hVSjE2RGUwUmd1Wkp2eGgzSUVpeW94cGt6ckk4SEVCTzktU1RjNVhUVjNhV0JGcUVQbDFIbV91M1ZpWVBnNlk3T0VwX1NRTVR4UUlhYzkzNml3S3gxNmJ1c3RFcmZuVkp1NFl0N2VjMC1yeDliRDJoZDctZ2EyV2RzakMtX2g5Zmt1TGVqQUpGZ0kzdVo4N05aaVFkOEdUUFVObF9Hc21zSTRnZmYtNkdDbDRVMlhIZ0M3amg0Vk13?oc=5"
+      "title": "レーザープラクシス・ミューレバッハが医療用レーザー治療院でレーザー鍼サービスを開始",
+      "summary": "レーザープラクシス・ミューレバッハが、医療用レーザー治療院にてレーザー鍼治療サービスを開始しました。この新しいアプローチは、従来の鍼治療の原理に基づきながらも、針を使わずに低出力レーザー光を用いて特定のツボを刺激することで、痛みや炎症の緩和、機能改善を図ります。特に針に対する恐怖心がある患者や、デリケートな部位への治療に適しているとされています。",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUHhyNjNXbHlLWWtnTElxU0JEcGdKc2lGTWVURkpITi0zTm5qM2ZRb3VaQzNNbmpaazVDRnZkcDJyREgtOFM5aHJrZEFsSGpDNVI0UEFUSDMtWTkzZGZ6dmo5Q3lnV19xcTk5cE1yN1JVWDdlWFFzNWpWZFl1UmxlOW5DMFM2Z0NMVzA1QXFVQzJ0Z0pMSWc5ajFqdjM1VEFkeWFZS0cxSGpmdkxSQmFiSTRuUnB6ZS0wTXptd3dYWFFTMlhEemFTVi1ueUxJS1FWVnpKaHE2dw?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
-      "summary": "運動パフォーマンス向上に寄与する可能性のある5つの主要なサプリメントについて、その効果と科学的根拠が解説された。クレアチン、カフェイン、β-アラニン、分岐鎖アミノ酸（BCAA）、そしてプロテインが挙げられ、それぞれのサプリメントがどのようなメカニズムで運動能力、回復、筋成長に影響を与えるかが紹介されている。適切な摂取量とタイミングも示唆されている。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
+      "title": "ランナーの回復に実際に役立つサプリメントはどれか？",
+      "summary": "本記事は、ランナーの運動後の回復をサポートする様々なサプリメントについて、科学的根拠に基づいた有効性を評価しています。クレアチン、BCAA、プロテイン、ビタミンD、オメガ3脂肪酸などが取り上げられ、それぞれのサプリメントが筋肉の修復、炎症の軽減、エネルギー回復にどのように寄与するかを説明しています。個々のニーズやトレーニング量に応じた適切な選択の重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHkxZ2QxbGRocnFGTWo0QW8taTZBSFZLa2NzbTNlbFZsWVpEYWk1VGpZNGdlZW05cWlRRlU4SDUzNmZZSlJEdVYzZE5KOUNyU1dWaTJIV2lxek51NGJuUEl5V2tZd0NrTEtuMERQLTRvNnRfOTJNVXNYT0NyQ21KTHdQUQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子供にとってどれくらいの距離を走ることが多すぎるのか？年齢別のガイド",
-      "summary": "子供の年齢に応じて、適切なランニング距離の目安と、過度な運動がもたらすリスクについて解説したガイド記事。成長期にある子供の身体的・精神的発達段階を考慮し、推奨される運動量や休息の重要性が提示されている。無理なトレーニングは怪我や運動嫌いの原因となるため、年齢に応じた配慮が必要である。",
+      "title": "子供にとって長すぎる走行距離はどのくらいか？年齢別のガイド",
+      "summary": "このガイドは、子供の年齢に応じた適切なランニング距離について、小児の運動生理学の観点から考察しています。成長期の子供たちの身体的発達段階と運動能力を考慮し、過度な負担が成長板への影響やオーバートレーニングに繋がるリスクを指摘しています。年齢別に推奨される走行距離の目安と、長期的なスポーツ参加を促すための健全なアプローチが示されています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠がアスレティックパフォーマンスにどう影響するか",
-      "summary": "アスリートにとって睡眠が競技パフォーマンスに与える影響について、科学的な視点から詳細に解説している。十分な睡眠は、反応時間、集中力、意思決定能力、筋肉の回復、怪我の予防に不可欠であることが強調された。睡眠不足がこれらの要素に悪影響を及ぼし、パフォーマンス低下や故障のリスクを高めることが多くの研究で示されている。",
+      "title": "アスリートと睡眠：睡眠が運動パフォーマンスにどう影響するか",
+      "summary": "本記事は、アスリートにとって睡眠が競技パフォーマンスに与える決定的な影響について、科学的根拠に基づいて詳しく解説しています。十分な睡眠は、反応時間、集中力、筋力、回復力、怪我の予防など、多岐にわたる側面でパフォーマンスを向上させることを示しています。睡眠不足がこれらの能力を低下させるメカニズムも紹介され、アスリートが最高の状態を維持するための睡眠戦略の重要性が強調されています。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "中国の宇宙船 初の外国人乗組員",
-      "summary": "中国の宇宙船が初めて外国人乗組員を乗せて宇宙へ向かいました。これは中国の宇宙開発における国際協力の新たな一歩となり、宇宙探査の多様化に貢献することが期待されます。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HSWVqWlc1dHBxdTBrMTNHMXJ5bmFnRng1VjU3OThUbWRFa214WU1GeloweFJjNXFTeXRtYzlzWnh4SEFzaVpiSUkwMlVmOHBt?oc=5"
+      "category": "社会",
+      "title": "宮城・七ヶ宿町の山中で2人の遺体見つかる 1人は行方不明の高1女子生徒の可能性も 33歳の男を誘拐容疑で逮捕",
+      "summary": "宮城・七ヶ宿町の山中で2人の遺体が見つかり、そのうち1人が行方不明だった高校1年生の女子生徒の可能性が高いと報じられています。\nこれに関連し、33歳の男が誘拐容疑で逮捕されました。\n警察は事件の詳しい経緯を捜査しています。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZVl9xd0R3dW1wTlIyT0VmWkhjSHNWOW5RV09UdDJJa2VYWWdkMnZla3VCUFFXVkdwQXZsRmxHM2pORlpiMGhNa0RKaG9ERVM2VUI3d1VEdw?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "トランプ氏が感謝祭で七面鳥に「恩赦」…演説で中間選挙の大敗巡り「何が起きたのか分からない」",
-      "summary": "トランプ前大統領が感謝祭の伝統行事で七面鳥に恩赦を与え、その演説で最近の中間選挙における共和党の大敗について言及しました。「何が起きたのか分からない」と述べ、自身の政治的立場と今後の動向に注目が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oNzlfNGd3dG80dF94aFF3VFNyYUFla2kxUndxalZxNnlYcW8yUE5UbURWc0xKLVdfdEVwbVl2MEpaS29sTUlFNHlPSUVuM0s0UjYyRWs0eEFSa2hJTm45WW53?oc=5"
+      "title": "関芳弘文科相に新たな政治資金規正法違反疑惑が発覚《稲田元防衛相が講師の食事会で300万円の収入を計上していた》",
+      "summary": "関芳弘文部科学大臣に、政治資金規正法違反の新たな疑惑が浮上しました。\n稲田朋美元防衛大臣が講師を務めた食事会で、300万円の収入を政治資金収支報告書に計上していたと報じられています。\nこの問題は、政治資金の透明性に対する疑念を深めるものとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBaGg5VGJVUkh1eXMwQmsxOURHanRXLXhhb0pfbF84R VFxT0QzTnVhYkstU0RIbU5pVUVfUXdPemNNYkpFbDJrMktMVnFtZ1d5akVJazc0NkFieFJuRkJFcVE5QnNHamtNQXZ2UjBuMXdGOFlJSWVaLTI0cHVVZTA?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "ソロモン諸島、中国との安保協定「更新せず」…豪メディア「豪と関係強化の包括条約に署名見通し」",
-      "summary": "ソロモン諸島が中国との安全保障協定を更新しない意向を示したと豪メディアが報じました。これにより、オーストラリアとの関係強化に向けた包括的な条約に署名する見通しとされ、太平洋地域における安全保障環境に変化が生じる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1Q0toZXlmMlgxOTJoWnd2T04xc3RnT2s3SFNYY2hwSU9zdjJZdjdpWWpRVnk3ZHEtdjZqR180OEVfRWtPSVZPS1l3V29DOFRIYVVqYUpfWDJWT1dYOWVSY1dn?oc=5"
+      "title": "ウクライナ軍、レーザー兵器でロシア無人機を初撃墜",
+      "summary": "ウクライナ軍が、新たに導入されたレーザー兵器を用いてロシアの無人機を初めて撃墜したと報じられました。\nこれは、軍事技術の進化を示す画期的な出来事であり、今後の戦況に影響を与える可能性があります。\nレーザー兵器の実戦投入とその効果が注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12Ml9PMWQ0VW8xRTdjQm92VURuT05yUVg1QkRZV2NQX3JidFJfUGtLZE5SdFZkd2RUYm9sVWpiQlZLOHlMV0dBNExzQm1ka3FwZWs5UUZtVFF0Q1dRcHhBZVhjV3Y1cy00b1BpeA?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "首相が文科相擁護 辞任ドミノ懸念",
-      "summary": "首相が文部科学大臣を擁護する姿勢を見せています。与党内からは、一連の不祥事による大臣辞任が続く「辞任ドミノ」への懸念が表明されており、政権運営への影響が注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROVdlNUphaWNIYi1DLTNKVDBSLVVXdi0wNWZnVTlHb0ZsV1RUQXhvMDVfeFJxWXRwcXNPb2tHN3NwbDF3MnJYb0QxMEo2VUI2?oc=5"
+      "category": "環境・気候",
+      "title": "週間天気予報 日曜は北日本で大雪 12月スタートは季節外れの暖かさに",
+      "summary": "週間天気予報によると、日曜日にかけて北日本では大雪となる見込みです。\nしかし、12月が始まると全国的に季節外れの暖かさになると予測されています。\n急な気温変化に注意し、雪と暖かさへの準備が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tR3FoS2VVbEIwQzFBU3dHSG9rTjRjRGxsNS1WNnJ5aHRJX3hESkVNRnN4YXlvbGE5N21WeFdRelcyX3d3eUhHTlNRVVZCYkhaalRtQQ?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "全国の9割で昨日の朝より冷え込み 札幌は10℃以上低下",
-      "summary": "全国的に気温が大幅に低下し、9割の地点で昨日よりも冷え込みが強まりました。特に札幌では10℃以上気温が下がるなど、各地で急激な寒波に見舞われており、体調管理に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZVW9NMmFhX1lsMWNCam12dHpZb1pUNXc1OV9xVjUtQzJIZExaczVhSlNXanB6YnVrV3YxRzYtcmM2d1pKQlBic1NCWk9oMVpROC1IeA?oc=5"
+      "category": "経済",
+      "title": "南海フェリー 撤退回避の壁高く",
+      "summary": "南海フェリーの航路撤退問題が報じられ、その回避に向けたハードルが高い状況が伝えられています。\n経営難や利用者減少が背景にあり、存続のためには抜本的な対策が求められています。\n地域交通に与える影響が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kcEhuell5OG1tMlJucUV3aVBXOGdxaDdqbXZTd0UtT1dib2hTd2lnaHRxbkdHc1BMQ084TllEQjdFV1ByaHd3Q0tBWDAtd09Y?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Science",
-      "title": "陸軍がアイオワ州でアジ化鉛の爆破を指示、一部住民に避難勧告",
-      "summary": "アイオワ州で、不安定な化学物質であるアジ化鉛の爆破が陸軍によって指示されました。周辺住民には安全確保のため避難勧告が出されており、専門家が慎重に作業を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SjBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5"
+      "category": "Culture",
+      "title": "「そんなに簡単には諦められない」：感謝祭パレードの再編成後、マーチングバンドが費用捻出に奔走",
+      "summary": "感謝祭パレードが再編成された後、参加予定だったマーチングバンドが急遽発生した追加費用を捻出するために苦慮しています。\n多くのバンドが「そんなに簡単には諦められない」と、資金集めに奔走している状況が報じられています。\nイベントの変更が文化的活動に与える影響が浮き彫りになりました。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80dndNMHZlUjVKYU12RGk5d25yQ09veXd4LUxYdjJoYXhldUVHbnlYLUJHWUIzRmk0enJueDBoQ2UyRExnVzdvSVNQbG5HTl9uZHFoTm03S295a0E?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "キルマー・アブレゴ・ガルシア氏が米国を離れスペインへ、強制送還を巡る闘いに終止符",
-      "summary": "米国での強制送還を巡る長い闘いを経て、キルマー・アブレゴ・ガルシア氏が米国を離れスペインに向かうことになりました。この決定により、彼の法的争いは終結します。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01b3N1Y0lrUUVHN1JORkdTU0RnUW95dDZzaDFfNnhSVzFFLVBnY3Y3N2tsYzNkcU1RcFdYV2U0LTdfS19ydDQzbVA3UWJGZDhOUS1FemRjQXYzbG8?oc=5"
+      "category": "Conflict",
+      "title": "米軍、イラン港の海上封鎖を破ろうとした別の船舶を無力化と発表",
+      "summary": "米軍は、イランの港に対する海上封鎖を破ろうとした別の船舶を無力化したと発表しました。\nこの措置は、中東地域における緊張の高まりを背景に行われたもので、海上の安全保障上の懸念が指摘されています。\n詳細な状況と今後の展開が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1B2RFZaTUhIUVFpQm5Vb3pOS2l5cW1XcU5STXJma1VfQWpYcno2bGNWN1dWakY4Ym9HbTFZQkVPNGk2R011SFppOXNnMFhlM0NhTVY5NUJGRDlCM3dtUkI1T0Q0bzZObGdpYjB4ODdKc3QxTW0wR29mcDZHY3JwTFZKTTlaZ2l2R2VJMklsb2h0M2ExTkFBQjNTbGJnR2hUMDdNdHloeHk4ZjFTUkI2ZFVaUkNqVUdrcmtFTzlvY3ZybUpVS0NXbFhn0gHPAUFVX3lxTE9UUEY1bWZtMVVXSXY5d2pRdHBYcnR1amgxZ3Jkc1I4R0owMThFbzltRzU0NWlMS0JBNUtlRlg4YmNrRml3cjZUaFoxQjJUdktYSkt3RWctVFdCWC1EanVLc2Q0REZSS20zMFRodV9OQkstNmItZl9YajA0OE9KeGM4NlF5QUhPbE5IMnh6ampFY01sQm1rYkFQcjh4anZzdkhjZkVJTl9OcjBaRjZ0VjNtZUJUaGtIbEQ0bVdOWFNDOHA4MXd0cjZvS0pEY1hySQ?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Technology",
-      "title": "ファーウェイ、企業スパイと制裁回避を巡る米国での裁判で有罪判決",
-      "summary": "中国の通信大手ファーウェイが、米国での裁判において企業スパイ活動とイランへの制裁回避の容疑で有罪判決を受けました。この判決は、米中間の技術競争と国家安全保障を巡る緊張を浮き彫りにしています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1J2X3AweENxV1VOaTQ2bEFTblFqaDBDWFFnUV8xWFFUbjN5d3N4ajk4LTh6VlVwMkNSSF9YMzlXU0VZYVZzYXlicjZQYnFuR2k1QW9WNVEwQjVIM1dPeEh5VDJCZHczaUJoQ2JYdDh4MlVacGFEMl9mSmJqNF95dmRNY0Y?oc=5"
+      "category": "Politics",
+      "title": "スペイン総選挙がマドリードをトランプ政権下のワシントンに接近させる可能性",
+      "summary": "スペインの総選挙の結果が、同国の政治をトランプ政権下のワシントンにさらに接近させる可能性があると報じられています。\nこれは、欧州と米国の政治的関係、特に右派勢力の台頭が国際関係に与える影響についての議論を呼んでいます。\n選挙結果がもたらす地政学的な変化が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jM3Y1Smk0NEhDSXptd0l2bVBtOU5OeHdfampFNWdiOE9kdzNZamdGLWFLREhacXdtTUxvUFE0RnJURnVZWHFNaVQ1ZWNVVGdVVkp1cGp1M0JNMEJHZDh5a3RRY2xfSzhwY25tRWVlRlQ0N1nSAXhBVV95cUxQdXU2MElmMlVXUXE2bWVXVHNEZTRLeDJkekNvUF9xT1cyUlFMUUZyVEVvVm9MRHc3SE5YSDhLcVd6S2R5Nms0TkFSNm9zNVNTSmRnX2xWRHlPU2RVV0E2czhFRmdQN2JMNXRVWW9GQ2M0ampBTW9OeEQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "フォートフッド大量殺人犯、ペンタゴンの銃殺刑執行停止を求めて法的措置",
-      "summary": "フォートフッドの大量殺人犯が、ペンタゴンによる銃殺刑の執行を停止するよう求める法的措置を開始しました。この動きは、死刑制度と軍事司法制度における論争を再燃させる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkhjd1F5UlVFc2tKbGlQWXlZN3A0alBiZlp4WllRSzlUeFhySGgtVDltWWF0Y1V3TTJDVzZzSTl2OTcwLVpFSkJFZVZMN3JVMFo4SE5CNHIzUV9CSVAxclQ1ZEZrdUpaUTV0STNsNkhjTl9QVW5kQXpSaThrMWV6cXh1MXh2ay1vc01ZR0liMEJOUjR5cWo0?oc=5"
+      "category": "Climate",
+      "title": "米国東海岸を襲った感謝祭の嵐の後、各地で復旧作業と電力回復が進む",
+      "summary": "感謝祭の週末に米国東海岸を襲った大規模な嵐の後、各地で清掃活動と電力供給の復旧作業が進められています。\n多くの地域で停電が発生し、住民生活に影響が出ましたが、迅速な対応で回復が期待されます。\n気象変動と災害対策の重要性が再認識されています。",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjRuNThwR0c4LU54RVBVM3kzcFFCOGFmR0szVnA2SUI1aW55bTMtWWlvZ1FYLUVLZmNEYk1HM2ZGZmotc09Wck9ySldYcW9zTWZaeUw5eFVoNUxrcFo0aDNmejFnbzkwTmNhRDUyamhlWHpWNTFwb1BiRUlqV0ZMUllxV3lnU2NzYnlfSUhNWUVyV09WcE9wN0pmeGp5d011djRj?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "リアルタイムの嵐情報：記録的なキングタイドによりベイエリアの道路が冠水",
-      "summary": "記録的な高さの「キングタイド（大潮）」と嵐の影響により、ベイエリアの道路が広範囲で冠水しています。住民は避難や移動に影響を受けており、気象当局は警戒を呼びかけています。",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5"
+      "category": "Politics",
+      "title": "トランプ政権幹部、新議会前に特別会合で大統領プロジェクトを加速へ",
+      "summary": "トランプ政権の幹部が、新議会の開会を前に特別会合を開催し、大統領の主要プロジェクトを加速させる方針を固めています。\nこれは、政権の政策課題を迅速に進めるための動きと見られており、今後の政治動向に影響を与える可能性があります。\n大統領のレガシーを確立するための動きとして注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHowUF95QnR0SlhpUlJPV2NWSHZHMGxrOUx4S2gwbTNXY2h6MWxvQ1lRYlhYcEs5c1JWdTVPVlMwOUs5UVRpOVlub3VibHprOWVHNndja0Y3YUdubmExbHV2T01UMVpobVhpYTl3X2xKX0FtTFBadk5xc3lzWF9fOVZFTk81Z3lTc24xbzR6OHI5alFSM3UwcE9IYThQRmZVR0l5aU9MZ2YzdG9mZFh0cERwakZrc0VtRGNKQko2TXVJZw?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手における俊敏性向上と傷害予防に対する仮想現実支援神経筋トレーニングの効果：対照実験室実験",
-      "summary": "この実験では、バスケットボール選手を対象にVRを用いた神経筋トレーニングが俊敏性とACL損傷予防に与える影響を検証しました。結果として、VRを導入したトレーニングは、従来のトレーニングと比較して、アスリートの素早い方向転換能力を向上させ、膝への負荷を軽減することが示唆されました。これは、特に接触の少ないスポーツにおける傷害リスク低減に貢献する可能性を秘めています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "title": "青少年バレーボール選手における神経筋トレーニングの二重の恩恵：膝の損傷予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
+      "summary": "青少年バレーボール選手を対象に、神経筋トレーニングが膝の損傷予防と運動能力向上に与える影響についてレビューを行った。このトレーニングは、ACL損傷予防と同時に、アジリティや跳躍力といったアスレティックパフォーマンスの向上にも繋がる共通のメカニズムを持つことが示唆された。特に、適切な指導のもとで行われる神経筋トレーニングは、成長期のアスリートにとって重要な複合的なメリットを提供する。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングのバイオメカニクス",
-      "summary": "トレイルランニングは、不均一な地形での動きに適応するため、通常のロードランニングとは異なる独自のバイオメカニクスを必要とします。この研究は、トレイルランナーの接地パターン、関節の動き、そして着地時の衝撃吸収メカニズムを詳細に分析しました。これにより、様々な地形で効率的に走るための身体の適応戦略が明らかになりました。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "機械学習分類を用いたランニングのバイオメカニクスからの睡眠不足の検出：ウェアラブルとラボでのモーションキャプチャの比較",
+      "summary": "ランニング中のバイオメカニクスデータから睡眠不足を機械学習で検出する可能性について、ウェアラブルデバイスとラボでのモーションキャプチャを比較した研究。睡眠不足がランニングフォームに微妙な変化をもたらすことが示され、これらの変化が機械学習によって特定できることが明らかになった。特に、接地時間やストライド長のわずかな変動が指標となる。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUWduYWhUellmbnJvaGoyamtyUE9lNFFjMjc1RU8wb2s4SENOaGhtVkdDYjBoVzRiWDQyalQzS1p6c1pNZ0Y1c1pnSzJhNG9fbFgybWtXRk83cGR6R0ZaQ0pSRDh5UGJaOWRIOWhOTGttOXFMemRKOUJzZFpURUgxeEw1LWEyaVE1V2hVZUl4a19MMHMtUlk1eEtjdnM4WmljYWxGT1dVNG5GaTBR?oc=5"
     }
   ],
   "monthly_top20": [
@@ -349,161 +349,161 @@
       "rank": 1,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "青少年バレーボール選手における神経筋トレーニングの二重の恩恵：膝の損傷予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
-      "summary": "青少年バレーボール選手を対象に、神経筋トレーニングが膝の損傷予防と運動能力向上に与える影響についてレビューを行った。このトレーニングは、ACL損傷予防と同時に、アジリティや跳躍力といったアスレティックパフォーマンスの向上にも繋がる共通のメカニズムを持つことが示唆された。特に、適切な指導のもとで行われる神経筋トレーニングは、成長期のアスリートにとって重要な複合的なメリットを提供する。",
+      "title": "青年期のバレーボール選手における神経筋トレーニングの二重の利点：膝の傷害予防と運動パフォーマンスは共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
+      "summary": "本レビューは、青年期のバレーボール選手を対象とした神経筋トレーニングが、膝の傷害予防と運動パフォーマンス向上という二重の利点をもたらすメカニズム的基盤を構造的に分析しています。特に前十字靭帯（ACL）損傷の予防に焦点を当て、神経筋制御の改善が怪我のリスクを低減し、同時に跳躍力や敏捷性といった競技能力を高めることを示唆しています。この共通の基盤は、効果的なトレーニングプログラム設計の鍵となります。",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 2,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "機械学習分類を用いたランニングのバイオメカニクスからの睡眠不足の検出：ウェアラブルとラボでのモーションキャプチャの比較",
-      "summary": "ランニング中のバイオメカニクスデータから睡眠不足を機械学習で検出する可能性について、ウェアラブルデバイスとラボでのモーションキャプチャを比較した研究。睡眠不足がランニングフォームに微妙な変化をもたらすことが示され、これらの変化が機械学習によって特定できることが明らかになった。特に、接地時間やストライド長のわずかな変動が指標となる。",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUWduYWhUellmbnJvaGoyamtyUE9lNFFjMjc1RU8wb2s4SENOaGhtVkdDYjBoVzRiWDQyalQzS1p6c1pNZ0Y1c1pnSzJhNG9fbFgybWtXRk83cGR6R0ZaQ0pSRDh5UGJaOWRIOWhOTGttOXFMemRKOUJzZFpURUgxeEw1LWEyaVE1V2hVZUl4a19MMHMtUlk1eEtjdnM4WmljYWxGT1dVNG5GaTBR?oc=5"
+      "title": "トレイルランニングの生体力学の科学",
+      "summary": "本記事は、トレイルランニングにおける生体力学の重要性に焦点を当て、不均一な地形での効率的な走行フォームや着地戦略について科学的根拠に基づいて解説しています。ランナーが怪我のリスクを減らし、パフォーマンスを最大化するために、足首、膝、股関節の連動性や体幹の安定性がどのように影響するかを詳述しています。多様な地形への適応が、トレイルランニング特有のバイオメカニクスを形成します。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
     },
     {
       "rank": 3,
       "origin_tab": "latest_research",
       "category": "Sports Medicine / Orthopedics",
-      "title": "ペプチド：医師がその恩恵、リスク、FDAの懸念を説明",
-      "summary": "ペプチドの医療用途における潜在的な利点、関連するリスク、および米国食品医薬品局（FDA）が抱える懸念について、専門家である医師が解説している。筋肉の修復や炎症抑制といったポジティブな側面が注目される一方で、規制が十分でない現状と、それによる安全性や有効性に関する不確実性が指摘された。特に、臨床データが不足しているペプチドの利用には注意が必要である。",
+      "title": "ペプチド：医師がその利点、リスク、FDAの懸念について説明",
+      "summary": "この記事では、スポーツ医学分野で注目されるペプチドについて、医師がその潜在的な治療上の利点、関連するリスク、そして米国食品医薬品局（FDA）が抱える規制上の懸念を解説しています。ペプチドは回復促進や炎症軽減に期待される一方で、その使用には注意が必要であり、安全性と有効性に関するさらなる研究が求められています。患者と医療提供者が情報に基づいた意思決定を行うための指針が提供されています。",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HQjg3ejNxRFdxckdEWXhDbHQ3b2Z3dEMyZ3JHbWx5YVpSS2xpUlFYYjhVcTJHSUllRFRFSzJzX1p1VVMxLXNKdjNQT1N4eHR6RlZtNjFma1JBVTJGNEh0eGZnQklqM1k4R19pMWlZS3JjcmZsMVR5dGF0ZGQ?oc=5"
     },
     {
       "rank": 4,
       "origin_tab": "latest_research",
       "category": "Rehabilitation / Physical Therapy",
-      "title": "急性ハムストリング肉離れアスリートにおける競技復帰までの期間と再受傷率に対するリハビリテーション介入の効果 | Scientific Reports",
-      "summary": "急性ハムストリング肉離れを負ったアスリートを対象に、様々なリハビリテーション介入が競技復帰までの期間と再受傷率に与える影響を分析した。研究の結果、個別化された段階的な負荷のトレーニングと、競技特異的な動きを取り入れたプログラムが、安全かつ迅速な競技復帰を促し、再受傷のリスクを効果的に低減することが示された。",
+      "title": "急性ハムストリングス損傷アスリートの競技復帰までの期間と再受傷率に対するリハビリテーション介入の効果 | Scientific Reports",
+      "summary": "本研究は、急性ハムストリングス損傷を負ったアスリートにおけるリハビリテーション介入が、競技復帰までの期間と再受傷率に与える影響を調査しています。異なるリハビリテーションプロトコルの比較を通じて、早期の段階的負荷、特異的な筋力強化、および運動制御トレーニングが、より迅速な復帰と再受傷リスクの有意な低減につながることを示しました。特に、個々の損傷の重症度に応じたテーラーメイドのアプローチが重要であると結論付けられています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYVAxSTRnN05zRUd5U3ZNem1WOGQtTG1LSmU4T3B3cWJ1dVlRY3VIcXoxTlQ1b3d5djQ5dWJJeVlxdHdRcHBYY3RJQWRaSW9Mc0E2Yzl0MHQwWWtVc3ZB?oc=5"
     },
     {
       "rank": 5,
       "origin_tab": "latest_research",
       "category": "Oriental Medicine / Acupuncture",
-      "title": "複合的な疼痛管理スキル研修、SUDシンポジウムが薬物を使用しない治療法に焦点を当てる",
-      "summary": "Walter Reed National Military Medical Centerが主催した複合疼痛管理スキル研修と物質使用障害（SUD）シンポジウムでは、薬物に頼らない疼痛管理の重要性が強調された。特に、鍼治療などの統合医療アプローチが、慢性疼痛や急性外傷の管理において有効な選択肢として紹介され、多職種連携による患者ケアの質の向上が議論された。研修参加者は、様々な非薬物療法の実践的なスキルを習得した。",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDFLOUIxbnpsdXBBaUZ3Umc5ZWJtUDlMZ2s3d0JFQXFVV0hVSjE2RGUwUmd1Wkp2eGgzSUVpeW94cGt6ckk4SEVCTzktU1RjNVhUVjNhV0JGcUVQbDFIbV91M1ZpWVBnNlk3T0VwX1NRTVR4UUlhYzkzNml3S3gxNmJ1c3RFcmZuVkp1NFl0N2VjMC1yeDliRDJoZDctZ2EyV2RzakMtX2g5Zmt1TGVqQUpGZ0kzdVo4N05aaVFkOEdUUFVObF9Hc21zSTRnZmYtNkdDbDRVMlhIZ0M3amg0Vk13?oc=5"
+      "title": "レーザープラクシス・ミューレバッハが医療用レーザー治療院でレーザー鍼サービスを開始",
+      "summary": "レーザープラクシス・ミューレバッハが、医療用レーザー治療院にてレーザー鍼治療サービスを開始しました。この新しいアプローチは、従来の鍼治療の原理に基づきながらも、針を使わずに低出力レーザー光を用いて特定のツボを刺激することで、痛みや炎症の緩和、機能改善を図ります。特に針に対する恐怖心がある患者や、デリケートな部位への治療に適しているとされています。",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUHhyNjNXbHlLWWtnTElxU0JEcGdKc2lGTWVURkpITi0zTm5qM2ZRb3VaQzNNbmpaazVDRnZkcDJyREgtOFM5aHJrZEFsSGpDNVI0UEFUSDMtWTkzZGZ6dmo5Q3lnV19xcTk5cE1yN1JVWDdlWFFzNWpWZFl1UmxlOW5DMFM2Z0NMVzA1QXFVQzJ0Z0pMSWc5ajFqdjM1VEFkeWFZS0cxSGpmdkxSQmFiSTRuUnB6ZS0wTXptd3dYWFFTMlhEemFTVi1ueUxJS1FWVnpKaHE2dw?oc=5"
     },
     {
       "rank": 6,
       "origin_tab": "latest_research",
       "category": "Nutrition / Supplements / Recovery",
-      "title": "ワークアウトパフォーマンスを向上させる可能性のある5つのサプリメント",
-      "summary": "運動パフォーマンス向上に寄与する可能性のある5つの主要なサプリメントについて、その効果と科学的根拠が解説された。クレアチン、カフェイン、β-アラニン、分岐鎖アミノ酸（BCAA）、そしてプロテインが挙げられ、それぞれのサプリメントがどのようなメカニズムで運動能力、回復、筋成長に影響を与えるかが紹介されている。適切な摂取量とタイミングも示唆されている。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJOY3dDZ2ZVLTB6TS1XNFJfTFNSZXN1TGRhQ2FuOGhyUmx1NEdBLWdnMkZZS1AtYXJDdTdlY2NXNWR3b0V0SklvWjExOHJQQ2p3Y0pDdHhMMU9oSjdnempPdmVCYUZKOHJKTmNvOHhvdVVlT0NkWE1mLUxSU1lSMldGVQ?oc=5"
+      "title": "ランナーの回復に実際に役立つサプリメントはどれか？",
+      "summary": "本記事は、ランナーの運動後の回復をサポートする様々なサプリメントについて、科学的根拠に基づいた有効性を評価しています。クレアチン、BCAA、プロテイン、ビタミンD、オメガ3脂肪酸などが取り上げられ、それぞれのサプリメントが筋肉の修復、炎症の軽減、エネルギー回復にどのように寄与するかを説明しています。個々のニーズやトレーニング量に応じた適切な選択の重要性が強調されています。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHkxZ2QxbGRocnFGTWo0QW8taTZBSFZLa2NzbTNlbFZsWVpEYWk1VGpZNGdlZW05cWlRRlU4SDUzNmZZSlJEdVYzZE5KOUNyU1dWaTJIV2lxek51NGJuUEl5V2tZd0NrTEtuMERQLTRvNnRfOTJNVXNYT0NyQ21KTHdQUQ?oc=5"
     },
     {
       "rank": 7,
       "origin_tab": "latest_research",
       "category": "Pediatric Exercise / Youth Development",
-      "title": "子供にとってどれくらいの距離を走ることが多すぎるのか？年齢別のガイド",
-      "summary": "子供の年齢に応じて、適切なランニング距離の目安と、過度な運動がもたらすリスクについて解説したガイド記事。成長期にある子供の身体的・精神的発達段階を考慮し、推奨される運動量や休息の重要性が提示されている。無理なトレーニングは怪我や運動嫌いの原因となるため、年齢に応じた配慮が必要である。",
+      "title": "子供にとって長すぎる走行距離はどのくらいか？年齢別のガイド",
+      "summary": "このガイドは、子供の年齢に応じた適切なランニング距離について、小児の運動生理学の観点から考察しています。成長期の子供たちの身体的発達段階と運動能力を考慮し、過度な負担が成長板への影響やオーバートレーニングに繋がるリスクを指摘しています。年齢別に推奨される走行距離の目安と、長期的なスポーツ参加を促すための健全なアプローチが示されています。",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EazNoaEwtSk1rY2J5bEFGMFd4bkxzYUhjaVVtRFZHbmdROFNGQ18tbUloSWhtdkw4ME44UkZFY29ZR1ctM2VhS0JyQ1RudVJ2b2ZLbkhqYU1UMDljSjBZ?oc=5"
     },
     {
       "rank": 8,
       "origin_tab": "latest_research",
       "category": "Sleep Science / Mental Performance",
-      "title": "アスリートと睡眠：睡眠がアスレティックパフォーマンスにどう影響するか",
-      "summary": "アスリートにとって睡眠が競技パフォーマンスに与える影響について、科学的な視点から詳細に解説している。十分な睡眠は、反応時間、集中力、意思決定能力、筋肉の回復、怪我の予防に不可欠であることが強調された。睡眠不足がこれらの要素に悪影響を及ぼし、パフォーマンス低下や故障のリスクを高めることが多くの研究で示されている。",
+      "title": "アスリートと睡眠：睡眠が運動パフォーマンスにどう影響するか",
+      "summary": "本記事は、アスリートにとって睡眠が競技パフォーマンスに与える決定的な影響について、科学的根拠に基づいて詳しく解説しています。十分な睡眠は、反応時間、集中力、筋力、回復力、怪我の予防など、多岐にわたる側面でパフォーマンスを向上させることを示しています。睡眠不足がこれらの能力を低下させるメカニズムも紹介され、アスリートが最高の状態を維持するための睡眠戦略の重要性が強調されています。",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQODQydjRaaGJOdERraVljNk5QV010dGZrc0JPYWkxdkpXRnVaenBib2FPVEpISXFkQUhSZHZhakZaS1A4d1M2VVJubHRaSU9iZUhTeklncmFXN3ZJYnRkUWR2N0JEbVVIRHZpTFFVWmlNOS1vY1FzMlN6dXJMQ0pvYzAxMGRlUGs?oc=5"
     },
     {
       "rank": 9,
       "origin_tab": "japan_news",
-      "category": "国際",
-      "title": "中国の宇宙船 初の外国人乗組員",
-      "summary": "中国の宇宙船が初めて外国人乗組員を乗せて宇宙へ向かいました。これは中国の宇宙開発における国際協力の新たな一歩となり、宇宙探査の多様化に貢献することが期待されます。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HSWVqWlc1dHBxdTBrMTNHMXJ5bmFnRng1VjU3OThUbWRFa214WU1GeloweFJjNXFTeXRtYzlzWnh4SEFzaVpiSUkwMlVmOHBt?oc=5"
+      "category": "社会",
+      "title": "宮城・七ヶ宿町の山中で2人の遺体見つかる 1人は行方不明の高1女子生徒の可能性も 33歳の男を誘拐容疑で逮捕",
+      "summary": "宮城・七ヶ宿町の山中で2人の遺体が見つかり、そのうち1人が行方不明だった高校1年生の女子生徒の可能性が高いと報じられています。\nこれに関連し、33歳の男が誘拐容疑で逮捕されました。\n警察は事件の詳しい経緯を捜査しています。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZVl9xd0R3dW1wTlIyT0VmWkhjSHNWOW5RV09UdDJJa2VYWWdkMnZla3VCUFFXVkdwQXZsRmxHM2pORlpiMGhNa0RKaG9ERVM2VUI3d1VEdw?oc=5"
     },
     {
       "rank": 10,
       "origin_tab": "japan_news",
       "category": "政治",
-      "title": "トランプ氏が感謝祭で七面鳥に「恩赦」…演説で中間選挙の大敗巡り「何が起きたのか分からない」",
-      "summary": "トランプ前大統領が感謝祭の伝統行事で七面鳥に恩赦を与え、その演説で最近の中間選挙における共和党の大敗について言及しました。「何が起きたのか分からない」と述べ、自身の政治的立場と今後の動向に注目が集まっています。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oNzlfNGd3dG80dF94aFF3VFNyYUFla2kxUndxalZxNnlYcW8yUE5UbURWc0xKLVdfdEVwbVl2MEpaS29sTUlFNHlPSUVuM0s0UjYyRWs0eEFSa2hJTm45WW53?oc=5"
+      "title": "関芳弘文科相に新たな政治資金規正法違反疑惑が発覚《稲田元防衛相が講師の食事会で300万円の収入を計上していた》",
+      "summary": "関芳弘文部科学大臣に、政治資金規正法違反の新たな疑惑が浮上しました。\n稲田朋美元防衛大臣が講師を務めた食事会で、300万円の収入を政治資金収支報告書に計上していたと報じられています。\nこの問題は、政治資金の透明性に対する疑念を深めるものとして注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBaGg5VGJVUkh1eXMwQmsxOURHanRXLXhhb0pfbF84R VFxT0QzTnVhYkstU0RIbU5pVUVfUXdPemNNYkpFbDJrMktMVnFtZ1d5akVJazc0NkFieFJuRkJFcVE5QnNHamtNQXZ2UjBuMXdGOFlJSWVaLTI0cHVVZTA?oc=5"
     },
     {
       "rank": 11,
       "origin_tab": "japan_news",
       "category": "国際",
-      "title": "ソロモン諸島、中国との安保協定「更新せず」…豪メディア「豪と関係強化の包括条約に署名見通し」",
-      "summary": "ソロモン諸島が中国との安全保障協定を更新しない意向を示したと豪メディアが報じました。これにより、オーストラリアとの関係強化に向けた包括的な条約に署名する見通しとされ、太平洋地域における安全保障環境に変化が生じる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1Q0toZXlmMlgxOTJoWnd2T04xc3RnT2s3SFNYY2hwSU9zdjJZdjdpWWpRVnk3ZHEtdjZqR180OEVfRWtPSVZPS1l3V29DOFRIYVVqYUpfWDJWT1dYOWVSY1dn?oc=5"
+      "title": "ウクライナ軍、レーザー兵器でロシア無人機を初撃墜",
+      "summary": "ウクライナ軍が、新たに導入されたレーザー兵器を用いてロシアの無人機を初めて撃墜したと報じられました。\nこれは、軍事技術の進化を示す画期的な出来事であり、今後の戦況に影響を与える可能性があります。\nレーザー兵器の実戦投入とその効果が注目されています。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12Ml9PMWQ0VW8xRTdjQm92VURuT05yUVg1QkRZV2NQX3JidFJfUGtLZE5SdFZkd2RUYm9sVWpiQlZLOHlMV0dBNExzQm1ka3FwZWs5UUZtVFF0Q1dRcHhBZVhjV3Y1cy00b1BpeA?oc=5"
     },
     {
       "rank": 12,
       "origin_tab": "japan_news",
-      "category": "政治",
-      "title": "首相が文科相擁護 辞任ドミノ懸念",
-      "summary": "首相が文部科学大臣を擁護する姿勢を見せています。与党内からは、一連の不祥事による大臣辞任が続く「辞任ドミノ」への懸念が表明されており、政権運営への影響が注目されています。",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROVdlNUphaWNIYi1DLTNKVDBSLVVXdi0wNWZnVTlHb0ZsV1RUQXhvMDVfeFJxWXRwcXNPb2tHN3NwbDF3MnJYb0QxMEo2VUI2?oc=5"
+      "category": "環境・気候",
+      "title": "週間天気予報 日曜は北日本で大雪 12月スタートは季節外れの暖かさに",
+      "summary": "週間天気予報によると、日曜日にかけて北日本では大雪となる見込みです。\nしかし、12月が始まると全国的に季節外れの暖かさになると予測されています。\n急な気温変化に注意し、雪と暖かさへの準備が必要です。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tR3FoS2VVbEIwQzFBU3dHSG9rTjRjRGxsNS1WNnJ5aHRJX3hESkVNRnN4YXlvbGE5N21WeFdRelcyX3d3eUhHTlNRVVZCYkhaalRtQQ?oc=5"
     },
     {
       "rank": 13,
       "origin_tab": "japan_news",
-      "category": "社会",
-      "title": "全国の9割で昨日の朝より冷え込み 札幌は10℃以上低下",
-      "summary": "全国的に気温が大幅に低下し、9割の地点で昨日よりも冷え込みが強まりました。特に札幌では10℃以上気温が下がるなど、各地で急激な寒波に見舞われており、体調管理に注意が必要です。",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZVW9NMmFhX1lsMWNCam12dHpZb1pUNXc1OV9xVjUtQzJIZExaczVhSlNXanB6YnVrV3YxRzYtcmM2d1pKQlBic1NCWk9oMVpROC1IeA?oc=5"
+      "category": "経済",
+      "title": "南海フェリー 撤退回避の壁高く",
+      "summary": "南海フェリーの航路撤退問題が報じられ、その回避に向けたハードルが高い状況が伝えられています。\n経営難や利用者減少が背景にあり、存続のためには抜本的な対策が求められています。\n地域交通に与える影響が懸念されています。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kcEhuell5OG1tMlJucUV3aVBXOGdxaDdqbXZTd0UtT1dib2hTd2lnaHRxbkdHc1BMQ084TllEQjdFV1ByaHd3Q0tBWDAtd09Y?oc=5"
     },
     {
       "rank": 14,
       "origin_tab": "global_news",
-      "category": "Science",
-      "title": "陸軍がアイオワ州でアジ化鉛の爆破を指示、一部住民に避難勧告",
-      "summary": "アイオワ州で、不安定な化学物質であるアジ化鉛の爆破が陸軍によって指示されました。周辺住民には安全確保のため避難勧告が出されており、専門家が慎重に作業を進めています。",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SjBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5"
+      "category": "Culture",
+      "title": "「そんなに簡単には諦められない」：感謝祭パレードの再編成後、マーチングバンドが費用捻出に奔走",
+      "summary": "感謝祭パレードが再編成された後、参加予定だったマーチングバンドが急遽発生した追加費用を捻出するために苦慮しています。\n多くのバンドが「そんなに簡単には諦められない」と、資金集めに奔走している状況が報じられています。\nイベントの変更が文化的活動に与える影響が浮き彫りになりました。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80dndNMHZlUjVKYU12RGk5d25yQ09veXd4LUxYdjJoYXhldUVHbnlYLUJHWUIzRmk0enJueDBoQ2UyRExnVzdvSVNQbG5HTl9uZHFoTm03S295a0E?oc=5"
     },
     {
       "rank": 15,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "キルマー・アブレゴ・ガルシア氏が米国を離れスペインへ、強制送還を巡る闘いに終止符",
-      "summary": "米国での強制送還を巡る長い闘いを経て、キルマー・アブレゴ・ガルシア氏が米国を離れスペインに向かうことになりました。この決定により、彼の法的争いは終結します。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01b3N1Y0lrUUVHN1JORkdTU0RnUW95dDZzaDFfNnhSVzFFLVBnY3Y3N2tsYzNkcU1RcFdYV2U0LTdfS19ydDQzbVA3UWJGZDhOUS1FemRjQXYzbG8?oc=5"
+      "category": "Conflict",
+      "title": "米軍、イラン港の海上封鎖を破ろうとした別の船舶を無力化と発表",
+      "summary": "米軍は、イランの港に対する海上封鎖を破ろうとした別の船舶を無力化したと発表しました。\nこの措置は、中東地域における緊張の高まりを背景に行われたもので、海上の安全保障上の懸念が指摘されています。\n詳細な状況と今後の展開が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1B2RFZaTUhIUVFpQm5Vb3pOS2l5cW1XcU5STXJma1VfQWpYcno2bGNWN1dWakY4Ym9HbTFZQkVPNGk2R011SFppOXNnMFhlM0NhTVY5NUJGRDlCM3dtUkI1T0Q0bzZObGdpYjB4ODdKc3QxTW0wR29mcDZHY3JwTFZKTTlaZ2l2R2VJMklsb2h0M2ExTkFBQjNTbGJnR2hUMDdNdHloeHk4ZjFTUkI2ZFVaUkNqVUdrcmtFTzlvY3ZybUpVS0NXbFhn0gHPAUFVX3lxTE9UUEY1bWZtMVVXSXY5d2pRdHBYcnR1amgxZ3Jkc1I4R0owMThFbzltRzU0NWlMS0JBNUtlRlg4YmNrRml3cjZUaFoxQjJUdktYSkt3RWctVFdCWC1EanVLc2Q0REZSS20zMFRodV9OQkstNmItZl9YajA0OE9KeGM4NlF5QUhPbE5IMnh6ampFY01sQm1rYkFQcjh4anZzdkhjZkVJTl9OcjBaRjZ0VjNtZUJUaGtIbEQ0bVdOWFNDOHA4MXd0cjZvS0pEY1hySQ?oc=5"
     },
     {
       "rank": 16,
       "origin_tab": "global_news",
-      "category": "Technology",
-      "title": "ファーウェイ、企業スパイと制裁回避を巡る米国での裁判で有罪判決",
-      "summary": "中国の通信大手ファーウェイが、米国での裁判において企業スパイ活動とイランへの制裁回避の容疑で有罪判決を受けました。この判決は、米中間の技術競争と国家安全保障を巡る緊張を浮き彫りにしています。",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1J2X3AweENxV1VOaTQ2bEFTblFqaDBDWFFnUV8xWFFUbjN5d3N4ajk4LTh6VlVwMkNSSF9YMzlXU0VZYVZzYXlicjZQYnFuR2k1QW9WNVEwQjVIM1dPeEh5VDJCZHczaUJoQ2JYdDh4MlVacGFEMl9mSmJqNF95dmRNY0Y?oc=5"
+      "category": "Politics",
+      "title": "スペイン総選挙がマドリードをトランプ政権下のワシントンに接近させる可能性",
+      "summary": "スペインの総選挙の結果が、同国の政治をトランプ政権下のワシントンにさらに接近させる可能性があると報じられています。\nこれは、欧州と米国の政治的関係、特に右派勢力の台頭が国際関係に与える影響についての議論を呼んでいます。\n選挙結果がもたらす地政学的な変化が注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jM3Y1Smk0NEhDSXptd0l2bVBtOU5OeHdfampFNWdiOE9kdzNZamdGLWFLREhacXdtTUxvUFE0RnJURnVZWHFNaVQ1ZWNVVGdVVkp1cGp1M0JNMEJHZDh5a3RRY2xfSzhwY25tRWVlRlQ0N1nSAXhBVV95cUxQdXU2MElmMlVXUXE2bWVXVHNEZTRLeDJkekNvUF9xT1cyUlFMUUZyVEVvVm9MRHc3SE5YSDhLcVd6S2R5Nms0TkFSNm9zNVNTSmRnX2xWRHlPU2RVV0E2czhFRmdQN2JMNXRVWW9GQ2M0ampBTW9OeEQ?oc=5"
     },
     {
       "rank": 17,
       "origin_tab": "global_news",
-      "category": "Politics",
-      "title": "フォートフッド大量殺人犯、ペンタゴンの銃殺刑執行停止を求めて法的措置",
-      "summary": "フォートフッドの大量殺人犯が、ペンタゴンによる銃殺刑の執行を停止するよう求める法的措置を開始しました。この動きは、死刑制度と軍事司法制度における論争を再燃させる可能性があります。",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkhjd1F5UlVFc2tKbGlQWXlZN3A0alBiZlp4WllRSzlUeFhySGgtVDltWWF0Y1V3TTJDVzZzSTl2OTcwLVpFSkJFZVZMN3JVMFo4SE5CNHIzUV9CSVAxclQ1ZEZrdUpaUTV0STNsNkhjTl9QVW5kQXpSaThrMWV6cXh1MXh2ay1vc01ZR0liMEJOUjR5cWo0?oc=5"
+      "category": "Climate",
+      "title": "米国東海岸を襲った感謝祭の嵐の後、各地で復旧作業と電力回復が進む",
+      "summary": "感謝祭の週末に米国東海岸を襲った大規模な嵐の後、各地で清掃活動と電力供給の復旧作業が進められています。\n多くの地域で停電が発生し、住民生活に影響が出ましたが、迅速な対応で回復が期待されます。\n気象変動と災害対策の重要性が再認識されています。",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjRuNThwR0c4LU54RVBVM3kzcFFCOGFmR0szVnA2SUI1aW55bTMtWWlvZ1FYLUVLZmNEYk1HM2ZGZmotc09Wck9ySldYcW9zTWZaeUw5eFVoNUxrcFo0aDNmejFnbzkwTmNhRDUyamhlWHpWNTFwb1BiRUlqV0ZMUllxV3lnU2NzYnlfSUhNWUVyV09WcE9wN0pmeGp5d011djRj?oc=5"
     },
     {
       "rank": 18,
       "origin_tab": "global_news",
-      "category": "Climate",
-      "title": "リアルタイムの嵐情報：記録的なキングタイドによりベイエリアの道路が冠水",
-      "summary": "記録的な高さの「キングタイド（大潮）」と嵐の影響により、ベイエリアの道路が広範囲で冠水しています。住民は避難や移動に影響を受けており、気象当局は警戒を呼びかけています。",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5"
+      "category": "Politics",
+      "title": "トランプ政権幹部、新議会前に特別会合で大統領プロジェクトを加速へ",
+      "summary": "トランプ政権の幹部が、新議会の開会を前に特別会合を開催し、大統領の主要プロジェクトを加速させる方針を固めています。\nこれは、政権の政策課題を迅速に進めるための動きと見られており、今後の政治動向に影響を与える可能性があります。\n大統領のレガシーを確立するための動きとして注目されます。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHowUF95QnR0SlhpUlJPV2NWSHZHMGxrOUx4S2gwbTNXY2h6MWxvQ1lRYlhYcEs5c1JWdTVPVlMwOUs5UVRpOVlub3VibHprOWVHNndja0Y3YUdubmExbHV2T01UMVpobVhpYTl3X2xKX0FtTFBadk5xc3lzWF9fOVZFTk81Z3lTc24xbzR6OHI5alFSM3UwcE9IYThQRmZVR0l5aU9MZ2YzdG9mZFh0cERwakZrc0VtRGNKQko2TXVJZw?oc=5"
     },
     {
       "rank": 19,
       "origin_tab": "latest_research",
       "category": "Athletic Training / ACL Prevention",
-      "title": "バスケットボール選手における俊敏性向上と傷害予防に対する仮想現実支援神経筋トレーニングの効果：対照実験室実験",
-      "summary": "この実験では、バスケットボール選手を対象にVRを用いた神経筋トレーニングが俊敏性とACL損傷予防に与える影響を検証しました。結果として、VRを導入したトレーニングは、従来のトレーニングと比較して、アスリートの素早い方向転換能力を向上させ、膝への負荷を軽減することが示唆されました。これは、特に接触の少ないスポーツにおける傷害リスク低減に貢献する可能性を秘めています。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M0hOcEJkQy1jbWFQeXNkeUt2RzhUMFNHa0RQZUI4VFhCUEpfb2RJcDJCcWlUOHlPVzJiS19Hd0owOTVfb3B1YUUtbWVVdnBFbGZLUkoyTDJTT3lzZUFR?oc=5"
+      "title": "青少年バレーボール選手における神経筋トレーニングの二重の恩恵：膝の損傷予防と運動能力は共通のメカニズム的基盤を共有する：構造化された物語的レビュー",
+      "summary": "青少年バレーボール選手を対象に、神経筋トレーニングが膝の損傷予防と運動能力向上に与える影響についてレビューを行った。このトレーニングは、ACL損傷予防と同時に、アジリティや跳躍力といったアスレティックパフォーマンスの向上にも繋がる共通のメカニズムを持つことが示唆された。特に、適切な指導のもとで行われる神経筋トレーニングは、成長期のアスリートにとって重要な複合的なメリットを提供する。",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhRNEEweVdjdjdHRW9tLTFqeEU4RDVlWjhLdGpnekxJek00QXJZdTliZnRyQ0hrQVQyQklJUUlpa2syZFo4SVBlYVJDcTM2ZHFKQWI3LUk3TjhqWXlfVHMzS1dES1hwUkJvV2JoNmRmSEpRQ0dzWXQtY1FpODFYRU1aTm9Qa3h5NFJRb0VjU1RacFNfTlVQUmdCdEd4cmhGQTg3WA?oc=5"
     },
     {
       "rank": 20,
       "origin_tab": "latest_research",
       "category": "Biomechanics / Exercise Science",
-      "title": "トレイルランニングのバイオメカニクス",
-      "summary": "トレイルランニングは、不均一な地形での動きに適応するため、通常のロードランニングとは異なる独自のバイオメカニクスを必要とします。この研究は、トレイルランナーの接地パターン、関節の動き、そして着地時の衝撃吸収メカニズムを詳細に分析しました。これにより、様々な地形で効率的に走るための身体の適応戦略が明らかになりました。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTk4LW5tVWdqSjIyNElpSmc0LVowaXVZUUFCTnhkVHlSam0zOE5oVUdhc2thR1lVQnI3d3RXQVppcHVFUk01cFlyN1NpUUZtTHI2ZFJrcURULU9EQVRwcUd0LVN2SUZBcU1FdXhWYzgtV0doOG9uRW5OV1lBa2RFclJMaUhobW9qeUE?oc=5"
+      "title": "機械学習分類を用いたランニングのバイオメカニクスからの睡眠不足の検出：ウェアラブルとラボでのモーションキャプチャの比較",
+      "summary": "ランニング中のバイオメカニクスデータから睡眠不足を機械学習で検出する可能性について、ウェアラブルデバイスとラボでのモーションキャプチャを比較した研究。睡眠不足がランニングフォームに微妙な変化をもたらすことが示され、これらの変化が機械学習によって特定できることが明らかになった。特に、接地時間やストライド長のわずかな変動が指標となる。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUWduYWhUellmbnJvaGoyamtyUE9lNFFjMjc1RU8wb2s4SENOaGhtVkdDYjBoVzRiWDQyalQzS1p6c1pNZ0Y1c1pnSzJhNG9fbFgybWtXRk83cGR6R0ZaQ0pSRDh5UGJaOWRIOWhOTGttOXFMemRKOUJzZFpURUgxeEw1LWEyaVE1V2hVZUl4a19MMHMtUlk1eEtjdnM4WmljYWxGT1dVNG5GaTBR?oc=5"
     }
   ]
 }
